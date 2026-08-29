@@ -483,8 +483,17 @@ def share_id(share_url: str) -> str:
     return share_url.removeprefix("https://x.ai/bot/")
 
 
-def listing_line(item: dict) -> str:
-    line = f"- [{item['name']}]({item['share_url']}) — {item['description']}"
+def listing_line(item: dict, lang: str, i18n: dict) -> str:
+    if lang != "en":
+        url = item["share_url"]
+        if url not in i18n:
+            raise KeyError(f"missing i18n entry for {url}")
+        if lang not in i18n[url]:
+            raise KeyError(f"missing {lang} translation for {url}")
+        desc = i18n[url][lang]
+    else:
+        desc = item["description"]
+    line = f"- [{item['name']}]({item['share_url']}) — {desc}"
     handle = item.get("twitter")
     if handle:
         handle = handle.lstrip("@")
@@ -492,7 +501,7 @@ def listing_line(item: dict) -> str:
     return line
 
 
-def render(lang: str, items: list[dict]) -> str:
+def render(lang: str, items: list[dict], i18n: dict) -> str:
     t = COPY[lang]
     grouped: dict[str, list[dict]] = defaultdict(list)
     for item in items:
@@ -537,7 +546,7 @@ def render(lang: str, items: list[dict]) -> str:
             lines += [t["empty"], ""]
             continue
         for item in rows:
-            lines.append(listing_line(item))
+            lines.append(listing_line(item, lang, i18n))
         lines.append("")
     lines += [
         f"## {t['related_h']}",
@@ -559,8 +568,9 @@ def render(lang: str, items: list[dict]) -> str:
 def main() -> None:
     payload = json.loads((ROOT / "data" / "templates.json").read_text())
     items = payload.get("templates") or []
+    i18n = json.loads((ROOT / "data" / "descriptions.i18n.json").read_text())
     for code, _label, filename in LANGS:
-        (ROOT / filename).write_text(render(code, items))
+        (ROOT / filename).write_text(render(code, items, i18n))
     print(f"wrote {len(LANGS)} READMEs ({len(items)} listings)")
 
 

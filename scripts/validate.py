@@ -97,7 +97,7 @@ def main() -> int:
             if not m:
                 errors.append(f"{name} bad listing line: {line}")
                 continue
-            title, url, _desc, handle = m.groups()
+            title, url, desc, handle = m.groups()
             listed.append(url)
             item = by_url.get(url)
             if item is None:
@@ -110,6 +110,9 @@ def main() -> int:
                 errors.append(f"{name} twitter mismatch for {url}")
             if not expected and handle:
                 errors.append(f"{name} unexpected twitter on {url}")
+            # Localized READMEs may use translated one-liners; English must match templates.json.
+            if name == "README.md" and item["description"] != desc:
+                errors.append(f"{name} description mismatch for {url}")
         missing = set(by_url) - set(listed)
         extra = set(listed) - set(by_url)
         if missing:
