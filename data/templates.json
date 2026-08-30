@@ -783,6 +783,134 @@
       "twitter": "AdamLowisz",
       "share_url": "https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox",
       "scraped_at": "2026-08-29"
+    },
+    {
+      "name": "Nikita Bier",
+      "description": "Pressure-tests products for the share loop and names one change you can ship this week.",
+      "category": "Sales",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Cold Open",
+      "description": "Turns an idea or link into a short sitcom-style clip; script first, generate after approval.",
+      "category": "Creative",
+      "twitter": "altryne",
+      "share_url": "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Dewey",
+      "description": "Watches Gmail and pings you when a message looks time-sensitive or needs a reply.",
+      "category": "Assistants",
+      "twitter": "Vixlio",
+      "share_url": "https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "EG4 Monitor",
+      "description": "Watches a home EG4 hybrid solar and battery system and flags faults.",
+      "category": "Life",
+      "twitter": "look4terry",
+      "share_url": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Would You Rather: Collector",
+      "description": "Gathers and organizes Would You Rather prompt-game content.",
+      "category": "Creative",
+      "twitter": "CryptoVonDoom",
+      "share_url": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Travel Guru",
+      "description": "Award-travel and trip-logistics agent with DCA as home airport.",
+      "category": "Life",
+      "twitter": "congressdj",
+      "share_url": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "Runs a trading-floor roster, checks handoffs, and wakes you only for decisions. Does not trade.",
+      "category": "Money",
+      "twitter": "iamigorekk",
+      "share_url": "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "George",
+      "description": "Runs an atelier for posters, style sheets, post pictures, printable newspapers, heroes, landing pages, briefs, and slides.",
+      "category": "Creative",
+      "twitter": "arni0x9053",
+      "share_url": "https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "friend finders",
+      "description": "Maps X DM relationships in Quick Radar mode and returns Act now threads.",
+      "category": "Life",
+      "twitter": "pukerrainbrow",
+      "share_url": "https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "AI Resource Sift",
+      "description": "Sweeps papers, code, lectures, and lab docs for one AI topic and keeps a filtered stack.",
+      "category": "Research",
+      "twitter": "beamnxw",
+      "share_url": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Fantasy Football Advisor",
+      "description": "A fantasy football GM for ESPN leagues: draft, lineups, waivers, and trades, asking before roster moves.",
+      "category": "Life",
+      "twitter": "Colehollander10",
+      "share_url": "https://x.ai/bot/E273ZIwirOOdwMfeCp97t",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Clipper",
+      "description": "Turns videos from X or your files into short clips and GIFs with a clear angle.",
+      "category": "Creative",
+      "twitter": "thesoragirls",
+      "share_url": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Chief",
+      "description": "Weekday morning email and calendar scan. Archives junk, drafts replies it never sends, and hands you a one-page brief.",
+      "category": "Assistants",
+      "twitter": "jxckvibe",
+      "share_url": "https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Bot inbox",
+      "description": "A weekday unread digest for Grok Bots. One line per bot or group chat with new activity.",
+      "category": "Assistants",
+      "twitter": "waynesutton",
+      "share_url": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Apps",
+      "description": "One-shot Convex web apps: say what to build and it scaffolds Vite + React + TypeScript + Convex.",
+      "category": "Engineering",
+      "twitter": "waynesutton",
+      "share_url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+      "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Ralph",
+      "description": "Turns a résumé into a living online portfolio with Figma Make mockups and Cursor agents.",
+      "category": "Life",
+      "twitter": "HouseHackerJon",
+      "share_url": "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb",
+      "scraped_at": "2026-08-30"
     }
   ]
 }
