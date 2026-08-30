@@ -1076,5 +1076,181 @@
     "de": "Rangiert monatlich deine Top-500-X-Fans nach Likes und legt sie auf eine private Liste.",
     "pt-BR": "Classifica seus 500 principais fãs do X todo mês por curtidas e os coloca numa lista privada.",
     "ru": "Раз в месяц ранжирует топ-500 фанатов в X по лайкам и кладёт их в приватный список."
+  },
+  "https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV": {
+    "zh-CN": "用分享闭环压测产品，并点出本周能上线的一项改动。",
+    "zh-TW": "用分享閉環壓測產品，並點出本週能上線的一項改動。",
+        "ja": "シェアループでプロダクトを負荷テストし、今週出荷できる変更を一つ挙げます。",
+    "ko": "공유 루프로 제품을 압박 테스트하고, 이번 주에 낼 수 있는 변경 하나를 짚습니다.",
+    "es": "Pone a prueba productos para el bucle de compartir y nombra un cambio que puedes enviar esta semana.",
+    "fr": "Met les produits à l’épreuve de la boucle de partage et nomme un changement à livrer cette semaine.",
+    "de": "Belastet Produkte im Share-Loop und nennt eine Änderung, die du diese Woche ausliefern kannst.",
+    "pt-BR": "Coloca produtos à prova no loop de compartilhamento e aponta uma mudança que você pode enviar esta semana.",
+    "ru": "Проверяет продукты на шаринг-цикл и называет одно изменение, которое можно выкатить на этой неделе."
+  },
+  "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO": {
+    "zh-CN": "把点子或链接做成短情景喜剧片段；先写剧本，批准后再生成。",
+    "zh-TW": "把點子或連結做成短情境喜劇片段；先寫劇本，核准後再生成。",
+    "ja": "アイデアやリンクをシットコム風の短いクリップに。先に脚本、承認後に生成。",
+    "ko": "아이디어나 링크를 시트콤풍 짧은 클립으로 만듭니다. 대본 먼저, 승인 뒤에 생성.",
+    "es": "Convierte una idea o enlace en un clip corto estilo sitcom; primero el guion, genera tras la aprobación.",
+    "fr": "Transforme une idée ou un lien en clip sitcom court ; script d’abord, génération après accord.",
+    "de": "Macht aus Idee oder Link einen kurzen Sitcom-Clip; erst Skript, dann nach Freigabe erzeugen.",
+    "pt-BR": "Transforma uma ideia ou link em um clipe curto estilo sitcom; roteiro primeiro, gera após aprovação.",
+    "ru": "Превращает идею или ссылку в короткий ситком-клип; сначала сценарий, генерация после одобрения."
+  },
+  "https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5": {
+    "zh-CN": "盯着 Gmail，发现看起来紧急或需要回复的邮件就提醒你。",
+    "zh-TW": "盯著 Gmail，發現看起來緊急或需要回覆的郵件就提醒你。",
+    "ja": "Gmail を見守り、急を要しそう、または返信が必要なメールで知らせます。",
+    "ko": "Gmail을 지켜보다가 급하거나 답장이 필요해 보이는 메일이면 알립니다.",
+    "es": "Vigila Gmail y te avisa cuando un mensaje parece urgente o pide respuesta.",
+    "fr": "Surveille Gmail et vous pingue quand un message semble urgent ou demande une réponse.",
+    "de": "Beobachtet Gmail und pinggt dich, wenn eine Nachricht zeitkritisch wirkt oder eine Antwort braucht.",
+    "pt-BR": "Observa o Gmail e te avisa quando uma mensagem parece urgente ou precisa de resposta.",
+    "ru": "Следит за Gmail и пингует, когда письмо выглядит срочным или требует ответа."
+  },
+  "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz": {
+    "zh-CN": "监控家用 EG4 混合太阳能与电池系统，并标出故障。",
+    "zh-TW": "監控家用 EG4 混合太陽能與電池系統，並標出故障。",
+    "ja": "家庭用 EG4 ハイブリッド太陽光・バッテリーを監視し、故障を知らせます。",
+    "ko": "가정용 EG4 하이브리드 태양광·배터리 시스템을 감시하고 고장을 표시합니다.",
+    "es": "Vigila un sistema doméstico híbrido solar y de batería EG4 y marca fallos.",
+    "fr": "Surveille un système solaire hybride EG4 et batteries à domicile et signale les pannes.",
+    "de": "Überwacht ein häusliches EG4-Hybrid-Solar- und Batteriesystem und markiert Störungen.",
+    "pt-BR": "Monitora um sistema doméstico híbrido solar e de bateria EG4 e marca falhas.",
+    "ru": "Следит за домашней гибридной солнечной и батареей системой EG4 и помечает сбои."
+  },
+  "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU": {
+    "zh-CN": "收集并整理「你更愿意」提示词游戏内容。",
+    "zh-TW": "收集並整理「你比較願意」提示詞遊戲內容。",
+    "ja": "Would You Rather のプロンプトゲーム素材を集め、整理します。",
+    "ko": "Would You Rather 프롬프트 게임 콘텐츠를 모아 정리합니다.",
+    "es": "Reúne y organiza contenido del juego de prompts Would You Rather.",
+    "fr": "Rassemble et organise le contenu du jeu de prompts Would You Rather.",
+    "de": "Sammelt und ordnet Inhalte des Would-You-Rather-Prompt-Spiels.",
+    "pt-BR": "Reúne e organiza conteúdo do jogo de prompts Would You Rather.",
+    "ru": "Собирает и упорядочивает контент игры-промптов Would You Rather."
+  },
+  "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP": {
+    "zh-CN": "里程票与行程后勤助手，以 DCA 为出发机场。",
+    "zh-TW": "哩程票與行程後勤助手，以 DCA 為出發機場。",
+    "ja": "特典航空券と旅の手配エージェント。拠点空港は DCA。",
+    "ko": "어워드 트래블과 일정 물류 에이전트. 홈 공항은 DCA.",
+    "es": "Agente de viajes award y logística de viaje, con DCA como aeropuerto de casa.",
+    "fr": "Agent voyages award et logistique, avec DCA comme aéroport de base.",
+    "de": "Award-Reise- und Trip-Logistik-Agent mit DCA als Heimatflughafen.",
+    "pt-BR": "Agente de viagem award e logística, com DCA como aeroporto de casa.",
+    "ru": "Агент по мильным билетам и логистике поездок; домашний аэропорт — DCA."
+  },
+  "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz": {
+    "zh-CN": "管交易台值班表、核对交接，只在需要决策时叫醒你。自己不下单。",
+    "zh-TW": "管交易台值班表、核對交接，只在需要決策時叫醒你。自己不下單。",
+    "ja": "トレーディングフロアの名簿を回し、引き継ぎを確認し、判断が必要な時だけ起こす。取引はしない。",
+    "ko": "트레이딩 플로어 로스터를 돌리고 인수인계를 확인하며, 결정이 필요할 때만 깨웁니다. 거래는 하지 않습니다.",
+    "es": "Lleva la plantilla del trading floor, revisa handoffs y te despierta solo para decisiones. No opera.",
+    "fr": "Gère le roster du trading floor, vérifie les passations et ne vous réveille que pour les décisions. Ne trade pas.",
+    "de": "Führt die Trading-Floor-Besetzung, prüft Übergaben und weckt dich nur für Entscheidungen. Handelt nicht.",
+    "pt-BR": "Roda o roster do trading floor, confere handoffs e te acorda só para decisões. Não opera.",
+    "ru": "Ведёт ростер торгового зала, проверяет передачи и будит только для решений. Сам не торгует."
+  },
+  "https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4": {
+    "zh-CN": "开一间工作室，做海报、风格表、帖图、可印报纸、英雄图、落地页、简报和幻灯片。",
+    "zh-TW": "開一間工作室，做海報、風格表、貼文圖、可印報紙、英雄圖、落地頁、簡報與投影片。",
+    "ja": "ポスター、スタイルシート、投稿画像、印刷新聞、ヒーロー、LP、ブリーフ、スライドのアトリエを回します。",
+    "ko": "포스터, 스타일 시트, 포스트 그림, 인쇄 신문, 히어로, 랜딩 페이지, 브리프, 슬라이드 공방을 돌립니다.",
+    "es": "Dirige un atelier de pósters, hojas de estilo, fotos de posts, periódicos imprimibles, héroes, landings, briefs y slides.",
+    "fr": "Tient un atelier pour affiches, feuilles de style, images de posts, journaux imprimables, héros, landings, briefs et slides.",
+    "de": "Führt ein Atelier für Poster, Stylesheets, Postbilder, druckbare Zeitungen, Heroes, Landings, Briefs und Slides.",
+    "pt-BR": "Toca um ateliê de pôsteres, folhas de estilo, fotos de posts, jornais imprimíveis, heroes, landings, briefs e slides.",
+    "ru": "Ведёт ателье постеров, стайл-шитов, картинок для постов, печатных газет, хиро, лендингов, брифов и слайдов."
+  },
+  "https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA": {
+    "zh-CN": "用 Quick Radar 模式梳理 X 私信关系，并返回「马上处理」的对话。",
+    "zh-TW": "用 Quick Radar 模式梳理 X 私訊關係，並回傳「馬上處理」的對話。",
+    "ja": "Quick Radar モードで X の DM 関係を地図化し、Act now スレッドを返します。",
+    "ko": "Quick Radar 모드로 X DM 관계를 지도화하고 Act now 스레드를 돌려줍니다.",
+    "es": "Mapea relaciones de DMs de X en modo Quick Radar y devuelve hilos Act now.",
+    "fr": "Cartographie les relations DM X en mode Quick Radar et renvoie les fils Act now.",
+    "de": "Kartiert X-DM-Beziehungen im Quick-Radar-Modus und liefert Act-now-Threads.",
+    "pt-BR": "Mapeia relações de DMs do X no modo Quick Radar e devolve threads Act now.",
+    "ru": "Картирует отношения в X DM в режиме Quick Radar и возвращает треды Act now."
+  },
+  "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL": {
+    "zh-CN": "围绕一个 AI 主题扫论文、代码、讲座和实验室文档，并保住筛过的那一摞。",
+    "zh-TW": "圍繞一個 AI 主題掃論文、程式、講座與實驗室文件，並保住篩過的那一疊。",
+    "ja": "一つの AI トピックについて論文、コード、講義、ラボ資料を掃き、濾した山を保ちます。",
+    "ko": "하나의 AI 주제로 논문, 코드, 강의, 랩 문서를 훑고 걸러 낸 더미를 유지합니다.",
+    "es": "Barre papers, código, clases y docs de lab de un tema de IA y mantiene una pila filtrada.",
+    "fr": "Balaye papiers, code, cours et docs de labo sur un sujet IA et garde une pile filtrée.",
+    "de": "Durchsucht Papers, Code, Vorlesungen und Lab-Docs zu einem KI-Thema und hält einen gefilterten Stapel.",
+    "pt-BR": "Varre papers, código, aulas e docs de lab de um tema de IA e mantém uma pilha filtrada.",
+    "ru": "Прочёсывает статьи, код, лекции и лаб-доки по одной теме ИИ и держит отфильтрованную стопку."
+  },
+  "https://x.ai/bot/E273ZIwirOOdwMfeCp97t": {
+    "zh-CN": "ESPN 联盟的梦幻足球总经理：选秀、阵容、弃将和交易，动名单前先问你。",
+    "zh-TW": "ESPN 聯盟的夢幻足球總經理：選秀、陣容、棄將與交易，動名單前先問你。",
+    "ja": "ESPN リーグ向けファンタジーフットボール GM。ドラフト、ラインアップ、ウェイバー、トレード。ロスター変更前に確認。",
+    "ko": "ESPN 리그용 판타지 풋볼 GM. 드래프트, 라인업, 웨이버, 트레이드. 로스터를 바꾸기 전에 묻습니다.",
+    "es": "GM de fantasy football para ligas ESPN: draft, alineaciones, waivers y trades; pregunta antes de mover el roster.",
+    "fr": "GM de fantasy football pour ligues ESPN : draft, compositions, waivers et trades ; demande avant tout mouvement.",
+    "de": "Fantasy-Football-GM für ESPN-Ligen: Draft, Lineups, Waivers und Trades; fragt vor Roster-Zügen.",
+    "pt-BR": "GM de fantasy football para ligas ESPN: draft, lineups, waivers e trades; pergunta antes de mexer no elenco.",
+    "ru": "ГМ фэнтези-футбола для лиг ESPN: драфт, составы, вейверы и трейды; спрашивает перед сменой ростера."
+  },
+  "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V": {
+    "zh-CN": "把 X 上的视频或你的文件剪成有明确角度的短片和 GIF。",
+    "zh-TW": "把 X 上的影片或你的檔案剪成有明確角度的短片與 GIF。",
+    "ja": "X の動画や手元のファイルを、はっきりした切り口の短いクリップと GIF にします。",
+    "ko": "X의 영상이나 당신 파일을 분명한 각도의 짧은 클립과 GIF로 만듭니다.",
+    "es": "Convierte vídeos de X o tus archivos en clips cortos y GIFs con un ángulo claro.",
+    "fr": "Transforme des vidéos X ou vos fichiers en clips courts et GIFs avec un angle net.",
+    "de": "Macht aus Videos von X oder deinen Dateien kurze Clips und GIFs mit klarem Winkel.",
+    "pt-BR": "Transforma vídeos do X ou seus arquivos em clipes curtos e GIFs com um ângulo claro.",
+    "ru": "Делает из видео в X или ваших файлов короткие клипы и GIF с понятным углом."
+  },
+  "https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI": {
+    "zh-CN": "工作日早晨扫描邮件和日历。归档垃圾、起草从不发送的回复，并交给你一页简报。",
+    "zh-TW": "工作日早晨掃描郵件與行事曆。封存垃圾、起草從不寄出的回覆，並交給你一頁簡報。",
+    "ja": "平日朝にメールとカレンダーを走査。ゴミをアーカイブし、送らない返信下書きを作り、1 ページのブリーフを渡す。",
+    "ko": "평일 아침 이메일과 캘린더를 훑습니다. 쓰레기를 보관하고, 보내지 않는 답장 초안을 쓰며, 한 장 브리프를 건넵니다.",
+    "es": "Escaneo matutino de email y calendario entre semana. Archiva basura, redacta respuestas que nunca envía y te da un brief de una página.",
+    "fr": "Scan matin des e-mails et du calendrier en semaine. Archive le bruit, rédige des réponses jamais envoyées, et vous remet un brief d’une page.",
+    "de": "Wochentags morgens Mail und Kalender scannen. Archiviert Müll, entwirft Antworten, die nie rausgehen, und gibt dir ein einseitiges Briefing.",
+    "pt-BR": "Varredura matinal de e-mail e calendário em dias úteis. Arquiva lixo, redige respostas que nunca envia e te entrega um brief de uma página.",
+    "ru": "По будням утром сканирует почту и календарь. Архивирует мусор, пишет неотправленные ответы и даёт одностраничный бриф."
+  },
+  "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl": {
+    "zh-CN": "工作日给 Grok Bots 做未读摘要。每个有新动态的 bot 或群聊一行。",
+    "zh-TW": "工作日給 Grok Bots 做未讀摘要。每個有新動態的 bot 或群聊一行。",
+    "ja": "平日の Grok Bots 未読ダイジェスト。新規活動のある bot かグループチャットごとに一行。",
+    "ko": "평일 Grok Bots 미읽음 다이제스트. 새 활동이 있는 봇이나 그룹 채팅마다 한 줄.",
+    "es": "Digest de no leídos entre semana para Grok Bots. Una línea por bot o chat de grupo con actividad nueva.",
+    "fr": "Digest des non-lus en semaine pour Grok Bots. Une ligne par bot ou chat de groupe avec de l’activité.",
+    "de": "Wochentags-Ungelesen-Digest für Grok Bots. Eine Zeile pro Bot oder Gruppenchat mit neuer Aktivität.",
+    "pt-BR": "Digest de não lidos em dias úteis para Grok Bots. Uma linha por bot ou chat em grupo com atividade nova.",
+    "ru": "Будничный дайджест непрочитанного для Grok Bots. Строка на бота или групповой чат с новой активностью."
+  },
+  "https://x.ai/bot/OPLop__-mqSsyQheR5JYv": {
+    "zh-CN": "一句话做 Convex Web 应用：说出要建什么，它就搭好 Vite + React + TypeScript + Convex。",
+    "zh-TW": "一句話做 Convex Web 應用：說出要建什麼，它就搭好 Vite + React + TypeScript + Convex。",
+    "ja": "ワンショットの Convex Web アプリ。作りたいものを言えば Vite + React + TypeScript + Convex を足場にします。",
+    "ko": "원샷 Convex 웹 앱. 무엇을 만들지 말하면 Vite + React + TypeScript + Convex를 스캐폴드합니다.",
+    "es": "Apps web Convex de un disparo: di qué construir y anda Vite + React + TypeScript + Convex.",
+    "fr": "Apps web Convex en un coup : dites quoi construire, il échafaude Vite + React + TypeScript + Convex.",
+    "de": "Ein-Schuss-Convex-Web-Apps: sag, was gebaut werden soll, und es stellt Vite + React + TypeScript + Convex auf.",
+    "pt-BR": "Apps web Convex de um tiro: diga o que construir e ele andaime Vite + React + TypeScript + Convex.",
+    "ru": "Веб-приложения Convex за один заход: скажите, что строить — он ставит каркас Vite + React + TypeScript + Convex."
+  },
+  "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb": {
+    "zh-CN": "把简历做成会更新的在线作品集，配 Figma Make 样稿和 Cursor 智能体。",
+    "zh-TW": "把履歷做成會更新的線上作品集，配 Figma Make 樣稿與 Cursor 智能體。",
+    "ja": "履歴書を生きたオンラインポートフォリオにし、Figma Make のモックと Cursor エージェントを添えます。",
+    "ko": "이력서를 살아 있는 온라인 포트폴리오로 바꾸고, Figma Make 목업과 Cursor 에이전트를 붙입니다.",
+    "es": "Convierte un currículum en un portafolio online vivo con mockups de Figma Make y agentes de Cursor.",
+    "fr": "Transforme un CV en portfolio en ligne vivant, avec maquettes Figma Make et agents Cursor.",
+    "de": "Macht aus einem Lebenslauf ein lebendiges Online-Portfolio mit Figma-Make-Mockups und Cursor-Agenten.",
+    "pt-BR": "Transforma um currículo em um portfólio online vivo com mockups do Figma Make e agentes Cursor.",
+    "ru": "Превращает резюме в живое онлайн-портфолио с мокапами Figma Make и агентами Cursor."
   }
 }

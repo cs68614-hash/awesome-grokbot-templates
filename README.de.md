@@ -18,13 +18,13 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 
 ## Inhalt
 
-- [Assistenten](#assistenten) (26)
-- [Engineering](#engineering) (12)
-- [Research](#research) (14)
-- [Geld](#geld) (9)
-- [Vertrieb](#vertrieb) (11)
-- [Kreativ](#kreativ) (11)
-- [Leben](#leben) (15)
+- [Assistenten](#assistenten) (29)
+- [Engineering](#engineering) (13)
+- [Research](#research) (15)
+- [Geld](#geld) (10)
+- [Vertrieb](#vertrieb) (12)
+- [Kreativ](#kreativ) (15)
+- [Leben](#leben) (20)
 - [Verwandt](#verwandt)
 - [Mitwirken](#mitwirken)
 
@@ -32,11 +32,14 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 
 - [Alfred](https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh) — Entwirft und steuert die Grok-Bot-Organisation eines Unternehmens, wenn sie sich ändert. [@heyrobinai](https://x.com/heyrobinai)
 - [Bodyguard](https://x.ai/bot/tII28kVM4dxPvzSLjwqko) — Klassifiziert eingehende Anfragen, damit nur die durchkommen, die Aufmerksamkeit verdienen. [@liam_fallen](https://x.com/liam_fallen)
+- [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) — Wochentags-Ungelesen-Digest für Grok Bots. Eine Zeile pro Bot oder Gruppenchat mit neuer Aktivität. [@waynesutton](https://x.com/waynesutton)
 - [Chieeeeefy](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) — Stabschef für Außeningenieure: Kalender, Gmail und Notion. [@naoufal_elh](https://x.com/naoufal_elh)
 - [Chief](https://x.ai/bot/JugVUSPe_wSZg-in69owM) — Leitet Arbeit an einen Eigentümer und steigt aus dem Paar aus; macht den Job nie selbst. [@nykdotdev](https://x.com/nykdotdev)
+- [Chief](https://x.ai/bot/QIfSY8pPwjqBSIdal-5CI) — Wochentags morgens Mail und Kalender scannen. Archiviert Müll, entwirft Antworten, die nie rausgehen, und gibt dir ein einseitiges Briefing. [@jxckvibe](https://x.com/jxckvibe)
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea) — Ruhiger Stabschef für Slack, Posteingang und Kalender; entwirft, sendet nie. [@aryamankhawow](https://x.com/aryamankhawow)
 - [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — Führt Tag und Vorstand von einem Schreibtisch; das letzte Ja bleibt menschlich. [@Av1dlive](https://x.com/Av1dlive)
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — Tägliches Laden-/Projekttagebuch; Abendrecap des Geschehenen, Fakten zuerst. [@RichSilver](https://x.com/RichSilver)
+- [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) — Beobachtet Gmail und pinggt dich, wenn eine Nachricht zeitkritisch wirkt oder eine Antwort braucht. [@Vixlio](https://x.com/Vixlio)
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — Führt eine tägliche Änderungschronik, damit sich später rekonstruieren lässt, was geschah. [@liam_fallen](https://x.com/liam_fallen)
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — Untersucht lose Enden und geht jeden sicheren Schritt zur Lösung. [@liam_fallen](https://x.com/liam_fallen)
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — Erledigt die operative Arbeit parallel zu Spezialbots an einer laufenden Aufgabe. [@UziObi](https://x.com/UziObi)
@@ -61,6 +64,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 
 - [1000x Product engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — Baut mobile und Desktop-Webprodukte mit Convex, TanStack und React. [@TomZarebczan](https://x.com/TomZarebczan)
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — Hält installierte AI-Coding-Harnesses aktuell (Codex, Claude Code, Grok Build, Cursor). Keine neuen Tools. [@gheeunit](https://x.com/gheeunit)
+- [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — Ein-Schuss-Convex-Web-Apps: sag, was gebaut werden soll, und es stellt Vite + React + TypeScript + Convex auf. [@waynesutton](https://x.com/waynesutton)
 - [Bot Creator](https://x.ai/bot/nGEBqtXuN-klNcPPyoR3S) — Schreibt die Anweisungen für einen neuen Bot und legt ihn dann an. [@alonsaria](https://x.com/alonsaria)
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — Fragt ein paar Vorlieben und entwirft dann einen fokussierten Grok Bot. [@poteto](https://x.com/poteto)
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — Macht aus einem Keyword oder Job ein auslieferbares Grok-Bot-Rezept (God of Prompt). [@rryssf](https://x.com/rryssf)
@@ -74,6 +78,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 
 ## Research
 
+- [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) — Durchsucht Papers, Code, Vorlesungen und Lab-Docs zu einem KI-Thema und hält einen gefilterten Stapel. [@beamnxw](https://x.com/beamnxw)
 - [Competitor Watching](https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N) — Wöchentliche Schnappschüsse von dir vs Wettbewerber; Alarm nur bei wesentlichen Änderungen. [@scheemunai](https://x.com/scheemunai)
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) — Morgendlicher Transkript-Recap der Kanäle deiner Wahl; still, wenn nichts Neues da ist. [@scheemunai](https://x.com/scheemunai)
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — Brieft neue offizielle Modellreleases großer Labs; sonst still. [@GuleidAmina](https://x.com/GuleidAmina)
@@ -93,6 +98,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 
 - [AI Usage Meter](https://x.ai/bot/2atUDeldi9vF1R_ySRgCo) — Verfolgt KI-Abos und Restkontingent und pinggt, wenn der Rest-% sinkt. [@BrianDEvans](https://x.com/BrianDEvans)
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) — Jagt verpasste Rückerstattungen, ungenutzte Credits und anderes Geld, das dir schon zusteht. [@liam_fallen](https://x.com/liam_fallen)
+- [Chief of Staff](https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz) — Führt die Trading-Floor-Besetzung, prüft Übergaben und weckt dich nur für Entscheidungen. Handelt nicht. [@iamigorekk](https://x.com/iamigorekk)
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) — Macht aus einer Gesundheitsfrage ein kurzes Briefing zu Evidenz und günstigeren Optionen. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) — Vergleicht Landed Costs bei bevorzugten Händlern und kauft nie, außer du fragst. [@scheemunai](https://x.com/scheemunai)
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — Betreibt eine Paper-Trading-Grube an NSE oder NASDAQ mit einem Live-Session-Raum. [@shantanugoel](https://x.com/shantanugoel)
@@ -109,6 +115,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — Bringt dich zum Entscheider einer genannten Firma und holt dich dann ins Gespräch. [@liam_fallen](https://x.com/liam_fallen)
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — Prüft LinkedIn-Einladungen mit Peer-first-Preset; klickt erst nach deiner Freigabe. [@SEO](https://x.com/SEO)
 - [Mr. Laser](https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY) — Leiter der Laserwerkstatt; koordiniert Artwork/LightBurn-Crew; feuert erst nach deinem Go. [@RichSilver](https://x.com/RichSilver)
+- [Nikita Bier](https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV) — Belastet Produkte im Share-Loop und nennt eine Änderung, die du diese Woche ausliefern kannst.
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) — Prospectet Accounts aus Podcasts und Posts und entwirft Outreach aus Notizen. [@kristaletz](https://x.com/kristaletz)
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — Richtet PhoneZero-Outbound ein und tätigt einen Anruf nach einem ausdrücklichen Ja. [@ibelevy](https://x.com/ibelevy)
 - [Pitch Deck Analyzer](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — Prüft Pitch Decks gegen ein Profil aus einem kurzen Interview; nur Analyse. [@BrianDEvans](https://x.com/BrianDEvans)
@@ -121,6 +128,9 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — Jagt gebrauchte Designer- und Quiet-Luxe-Funde auf Marktplätzen mit echten Listings. [@jediahkatz](https://x.com/jediahkatz)
 - [Chef (by dogenorway)](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) — Findet Rezepte, Essenspläne und Einkaufslisten, standardmäßig saisonales lokales Essen. [@unicodef1wn](https://x.com/unicodef1wn)
 - [Clip Bot](https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M) — Schneidet social-taugliche Podcast-Highlights von YouTube mit Karaoke-Untertiteln.
+- [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — Macht aus Videos von X oder deinen Dateien kurze Clips und GIFs mit klarem Winkel. [@thesoragirls](https://x.com/thesoragirls)
+- [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — Macht aus Idee oder Link einen kurzen Sitcom-Clip; erst Skript, dann nach Freigabe erzeugen. [@altryne](https://x.com/altryne)
+- [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — Führt ein Atelier für Poster, Stylesheets, Postbilder, druckbare Zeitungen, Heroes, Landings, Briefs und Slides. [@arni0x9053](https://x.com/arni0x9053)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — Macht aus Ideen und Posts maskottchengeführte Editorial-Illustrationen über den illo-Skill. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — Schreibt knappen, kopierbaren Alternativtext, fokussiert auf den wichtigsten Bildteil. [@kentcdodds](https://x.com/kentcdodds)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — Vorstellungs-Begleiter für Kunst, Welten, Gedichte und kleine Filme; warm und knapp. [@princess414141](https://x.com/princess414141)
@@ -128,12 +138,16 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — Späht stündlich X/Reddit nach filmbaren KI/Tech-Kits für TikTok/Reels/Shorts. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Steuert Spotify: wählt Sets, schlägt Artists vor und mappt Spitznamen auf Geräte. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — Morgen-Stylist von Stitch Fix: Wetter, ein Outfit aus gekauften Teilen und Deals. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
+- [Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — Sammelt und ordnet Inhalte des Would-You-Rather-Prompt-Spiels. [@CryptoVonDoom](https://x.com/CryptoVonDoom)
 
 ## Leben
 
 - [Be Happier](https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG) — Schaut wöchentlich in Mail und Kalender und schlägt 3 konkrete Dinge vor, die dich glücklicher machen. Schützt das bestehende Leben, fügt keine neuen Habits hinzu. [@lennysan](https://x.com/lennysan)
 - [Chicken Joe](https://x.ai/bot/7f5AjmpjZkmTIsSybedYS) — NorCal-Surf-Desk. Morgens Go/No-Go von Marin bis Santa Cruz.
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — Macht gescannte und flache PDFs mit Instafill.ai zu ausfüllbaren Formularen.
+- [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — Überwacht ein häusliches EG4-Hybrid-Solar- und Batteriesystem und markiert Störungen. [@look4terry](https://x.com/look4terry)
+- [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — Fantasy-Football-GM für ESPN-Ligen: Draft, Lineups, Waivers und Trades; fragt vor Roster-Zügen. [@Colehollander10](https://x.com/Colehollander10)
+- [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Kartiert X-DM-Beziehungen im Quick-Radar-Modus und liefert Act-now-Threads. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Plant einen Instacart-Einkaufswagen, wenn du fragst. [@mvanhorn](https://x.com/mvanhorn)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — Steuert verbundene Heimroboter per Chat: Start, Pause, Dock oder Status. [@SawyerMerritt](https://x.com/SawyerMerritt)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — Jagt Miet- und Kaufobjekte im 12-Stunden-Takt auf großen Listing-Sites. [@shubgaur](https://x.com/shubgaur)
@@ -141,9 +155,11 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Veröffentlicht Dateien oder Ordner als here.now-URL; schreibt den Inhalt nicht. [@adamludwin](https://x.com/adamludwin)
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) — Fitness-/Ernährungscoach für tägliches PT und Mahlzeiten, gebaut für Typ-1-Diabetes. [@tpgoebel](https://x.com/tpgoebel)
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — Prüft aktuelle Gmail-Newsletter und kündigt nur, was du freigibst. [@scheemunai](https://x.com/scheemunai)
+- [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) — Macht aus einem Lebenslauf ein lebendiges Online-Portfolio mit Figma-Make-Mockups und Cursor-Agenten. [@HouseHackerJon](https://x.com/HouseHackerJon)
 - [TeslrBot](https://x.ai/bot/_S9OOSBgXixedyANQSYjQ) — Sprich mit deinem Tesla über teslr.club: Laden, Klima, Schlösser, Navi. Standort bleibt von Timelines fern. [@HeresMyEth](https://x.com/HeresMyEth)
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) — Verfolgt persönliche Mail und Kalender, damit Follow-ups zu Familie, Schule und Haushalt nicht rutschen.
 - [Travel And Event Agency](https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh) — Findet Live-Flüge und Eventtickets; kauft nur über offizielle Kanäle. [@DogecoinNorway](https://x.com/DogecoinNorway)
+- [Travel Guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) — Award-Reise- und Trip-Logistik-Agent mit DCA als Heimatflughafen. [@congressdj](https://x.com/congressdj)
 - [X Top 100 Fans Weekly](https://x.ai/bot/HU7XArfGhUgLnzVcr7neB) — Rangiert wöchentlich deine Top-100-X-Fans nach Engagement und schickt den Digest. [@AdamLowisz](https://x.com/AdamLowisz)
 - [X Top 500 Fans](https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox) — Rangiert monatlich deine Top-500-X-Fans nach Likes und legt sie auf eine private Liste. [@AdamLowisz](https://x.com/AdamLowisz)
 
