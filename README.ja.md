@@ -4,6 +4,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md) · [Русский](README.ru.md)
 
+この GitHub リストは公式シェアリンクのソースです。同じテンプレートを検索・カード・投稿できるカタログは [Grok Bot Templates](https://grokbot-templates.com) にあります。
+
 [Grok Bot](https://docs.x.ai/grok-bot/get-started) は xAI の常駐エージェントです。所有者はシェアリンクを公開し、他の人がコピーを追加できます。このリポジトリは、それらの公開テンプレートを集めた独立した awesome リストです。
 
 xAI とは無関係です。各項目は名前、一行の説明、任意の公開 Twitter アカウント、公式の `https://x.ai/bot/…` だけです。プロンプト本文、パック済み設定、メモリダンプ、秘密情報は再配布しません。
@@ -177,6 +179,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 
 ## 関連
 
+- [Grok Bot Templates](https://grokbot-templates.com)
 - [Grok Bot ドキュメント](https://docs.x.ai/grok-bot/get-started)
 - [Bots](https://docs.x.ai/grok-bot/bots)
 - [公式シェアホスト](https://x.ai/bot)

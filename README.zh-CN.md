@@ -4,6 +4,8 @@
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md) · [Русский](README.ru.md)
 
+本 GitHub 列表是官方分享链接的来源。同一批模板的可浏览目录（搜索、卡片、提交）见 [Grok Bot Templates](https://grokbot-templates.com/zh)。
+
 [Grok Bot](https://docs.x.ai/grok-bot/get-started) 是 xAI 的常驻智能体。所有者可以发布分享链接，让其他人添加副本。本仓库是这些公开模板的独立 awesome 列表。
 
 与 xAI 无隶属关系。每条记录包含名称、一行简介、可选的公开 Twitter 账号，以及官方 `https://x.ai/bot/…` 分享链接。本列表不转载提示词、打包配置、记忆转储或密钥。
@@ -177,6 +179,7 @@
 
 ## 相关
 
+- [Grok Bot Templates](https://grokbot-templates.com/zh)
 - [Grok Bot 文档](https://docs.x.ai/grok-bot/get-started)
 - [Bots](https://docs.x.ai/grok-bot/bots)
 - [官方分享主机](https://x.ai/bot)

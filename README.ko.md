@@ -4,6 +4,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md) · [Русский](README.ru.md)
 
+이 GitHub 목록은 공식 공유 링크의 원본입니다.같은 템플릿을 검색·카드·제출로 둘러볼 수 있는 카탈로그는 [Grok Bot Templates](https://grokbot-templates.com)에 있습니다.
+
 [Grok Bot](https://docs.x.ai/grok-bot/get-started)은 xAI의 상시 실행 에이전트입니다.소유자는 공유 링크를 공개해 다른 사람이 사본을 추가하게 할 수 있습니다.이 저장소는 그런 공개 템플릿을 모은 독립 awesome 목록입니다.
 
 xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택적 공개 Twitter 핸들, 공식 `https://x.ai/bot/…` 공유 URL뿐입니다.프롬프트 본문, 패키지 설정, 메모리 덤프, 비밀값은 재호스팅하지 않습니다.
@@ -177,6 +179,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 
 ## 관련
 
+- [Grok Bot Templates](https://grokbot-templates.com)
 - [Grok Bot 문서](https://docs.x.ai/grok-bot/get-started)
 - [Bots](https://docs.x.ai/grok-bot/bots)
 - [공식 공유 호스트](https://x.ai/bot)

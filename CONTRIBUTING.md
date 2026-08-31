@@ -13,7 +13,9 @@ Add a public Grok Bot template by pull request. One bot per PR when you can.
 
 - Twitter / X handle of the author, if it is already public. Written as `twitter` in `data/templates.json` (no `@`). Do not invent a handle.
 
-That share link is the only URL you must provide.
+That share link is the only URL you must provide on the listing line. Do not add extra marketplace or directory URLs there.
+
+You can also submit a template through [https://grokbot-templates.com/submit](https://grokbot-templates.com/submit). An editor reviews it before it appears in the public catalog. Pull requests to this repository still work.
 
 ## How to add
 
@@ -78,4 +80,6 @@ Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 **可选：** 作者已公开的 Twitter/X 用户名（不要编造）。
 
-不要提交提示词正文、打包配置、记忆转储或密钥。列表行里的名称只能指向官方分享链接。
+也可以通过 [https://grokbot-templates.com/submit](https://grokbot-templates.com/submit) 提交；编辑审核后才会进入公开目录。向本仓库发 PR 仍然有效。
+
+不要提交提示词正文、打包配置、记忆转储或密钥。列表行里的名称只能指向官方分享链接，不要附加其他市场或目录 URL。

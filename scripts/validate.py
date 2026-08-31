@@ -85,7 +85,11 @@ def main() -> int:
         for host in FORBIDDEN:
             if host in text:
                 errors.append(f"{name} mentions {host}")
+        if "grokbot-templates.com" not in text:
+            errors.append(f"{name} missing directory link grokbot-templates.com")
         if name == "CONTRIBUTING.md":
+            if "grokbot-templates.com/submit" not in text:
+                errors.append(f"{name} missing submit URL grokbot-templates.com/submit")
             continue
         listed = []
         for line in text.splitlines():
