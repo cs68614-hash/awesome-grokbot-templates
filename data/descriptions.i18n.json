@@ -1080,7 +1080,7 @@
   "https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV": {
     "zh-CN": "用分享闭环压测产品，并点出本周能上线的一项改动。",
     "zh-TW": "用分享閉環壓測產品，並點出本週能上線的一項改動。",
-        "ja": "シェアループでプロダクトを負荷テストし、今週出荷できる変更を一つ挙げます。",
+    "ja": "シェアループでプロダクトを負荷テストし、今週出荷できる変更を一つ挙げます。",
     "ko": "공유 루프로 제품을 압박 테스트하고, 이번 주에 낼 수 있는 변경 하나를 짚습니다.",
     "es": "Pone a prueba productos para el bucle de compartir y nombra un cambio que puedes enviar esta semana.",
     "fr": "Met les produits à l’épreuve de la boucle de partage et nomme un changement à livrer cette semaine.",
@@ -1252,5 +1252,137 @@
     "de": "Macht aus einem Lebenslauf ein lebendiges Online-Portfolio mit Figma-Make-Mockups und Cursor-Agenten.",
     "pt-BR": "Transforma um currículo em um portfólio online vivo com mockups do Figma Make e agentes Cursor.",
     "ru": "Превращает резюме в живое онлайн-портфолио с мокапами Figma Make и агентами Cursor."
+  },
+  "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX": {
+    "zh-CN": "从已验证的长视频切 YouTube Shorts，先用 Opus Clip，Descript 作备用。",
+    "zh-TW": "從已驗證的長影片切 YouTube Shorts，先用 Opus Clip，Descript 作備用。",
+    "ja": "実績のある長尺動画から YouTube Shorts を切り出し、まず Opus Clip、予備は Descript。",
+    "ko": "검증된 롱폼에서 YouTube Shorts를 자르며, Opus Clip을 먼저 쓰고 Descript를 예비로 둡니다.",
+    "es": "Recorta YouTube Shorts de long-form probado, primero con Opus Clip y Descript de respaldo.",
+    "fr": "Découpe des YouTube Shorts à partir de long-form éprouvé, Opus Clip d’abord et Descript en secours.",
+    "de": "Schneidet YouTube Shorts aus bewährtem Long-Form, zuerst mit Opus Clip, Descript als Backup.",
+    "pt-BR": "Corta YouTube Shorts de long-form comprovado, Opus Clip primeiro e Descript de reserva.",
+    "ru": "Нарезает YouTube Shorts из проверенного лонгформа: сначала Opus Clip, запасной вариант — Descript."
+  },
+  "https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz": {
+    "zh-CN": "用已完成的创意素材排期并发布 Instagram 轮播和图文。",
+    "zh-TW": "用已完成的創意素材排程並發布 Instagram 輪播與貼文。",
+    "ja": "完成したクリエイティブ素材から Instagram のカルーセルと投稿を予約・公開します。",
+    "ko": "완성된 크리에이티브 에셋으로 Instagram 캐러셀과 게시물을 예약하고 발행합니다.",
+    "es": "Programa y publica carruseles y posts de Instagram a partir de creatividades terminadas.",
+    "fr": "Planifie et publie carrousels et posts Instagram à partir de créas déjà finies.",
+    "de": "Plant und veröffentlicht Instagram-Karussells und Posts aus fertigen Kreativen.",
+    "pt-BR": "Agenda e publica carrosséis e posts do Instagram a partir de criativos prontos.",
+    "ru": "Планирует и публикует карусели и посты Instagram из готовых креативов."
+  },
+  "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv": {
+    "zh-CN": "把已排序的 Instagram 点子写成每页文案和配文，交给视听工程师。",
+    "zh-TW": "把已排序的 Instagram 點子寫成每頁文案與說明，交給視聽工程師。",
+    "ja": "順位付けした Instagram の企画を、スライドごとのコピーとキャプションにして映像エンジニアへ渡します。",
+    "ko": "순위가 매겨진 Instagram 아이디어를 슬라이드별 카피와 캡션으로 바꿔 AV 엔지니어에게 넘깁니다.",
+    "es": "Convierte ideas de Instagram ya rankeadas en copy por slide y captions para un ingeniero AV.",
+    "fr": "Transforme des idées Instagram classées en copy par slide et légendes pour un ingénieur AV.",
+    "de": "Macht aus gerankten Instagram-Ideen Copy pro Slide plus Captions für einen AV-Ingenieur.",
+    "pt-BR": "Transforma ideias ranqueadas do Instagram em copy por slide e legendas para um engenheiro AV.",
+    "ru": "Превращает ранжированные идеи Instagram в текст по слайдам и подписи для AV-инженера."
+  },
+  "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0": {
+    "zh-CN": "扫收件箱里的循环扣费，标出该砍掉或该换的订阅。",
+    "zh-TW": "掃收件匣裡的循環扣款，標出該砍掉或該換的訂閱。",
+    "ja": "受信箱の定期課金を読み、切るべきか乗り換えるべきかを示します。",
+    "ko": "받은편지함에서 반복 결제를 읽고, 끊거나 바꿀 것을 보여줍니다.",
+    "es": "Lee el buzón en busca de cargos recurrentes y muestra qué cortar o cambiar.",
+    "fr": "Lit la boîte mail pour les prélèvements récurrents et indique quoi couper ou changer.",
+    "de": "Liest das Postfach nach wiederkehrenden Abbuchungen und zeigt, was zu kündigen oder zu wechseln ist.",
+    "pt-BR": "Lê a caixa de entrada em busca de cobranças recorrentes e mostra o que cortar ou trocar.",
+    "ru": "Читает почту на повторяющиеся списания и показывает, что отменить или сменить."
+  },
+  "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap": {
+    "zh-CN": "YouTube 工作室导演，一次只设计一条视频，按缩略图-标题-开场-兑现来立约。",
+    "zh-TW": "YouTube 工作室導演，一次只設計一支影片，依縮圖-標題-開場-兌現立約。",
+    "ja": "YouTube スタジオのディレクター。動画を1本ずつ、サムネ・タイトル・オープニング・ペイオフの契約として設計します。",
+    "ko": "YouTube 스튜디오 디렉터. 영상을 하나씩 썸네일-제목-오프닝-페이오프 계약으로 설계합니다.",
+    "es": "Directora de estudio de YouTube que diseña un vídeo a la vez como contrato miniatura-título-apertura-payoff.",
+    "fr": "Directrice de studio YouTube qui conçoit une vidéo à la fois comme contrat miniature-titre-ouverture-payoff.",
+    "de": "YouTube-Studio-Regie, die je ein Video als Thumbnail-Titel-Opening-Payoff-Vertrag entwirft.",
+    "pt-BR": "Diretora de estúdio no YouTube que desenha um vídeo por vez como contrato thumbnail-título-abertura-payoff.",
+    "ru": "Режиссёр YouTube-студии: одно видео за раз как контракт превью–заголовок–открытие–окупаемость."
+  },
+  "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA": {
+    "zh-CN": "盯着一整队 Grok Bot 的 Cursor 用量，点名哪个 bot 花了多少。",
+    "zh-TW": "盯著一整隊 Grok Bot 的 Cursor 用量，點名哪個 bot 花了多少。",
+    "ja": "Grok Bot 艦隊全体の Cursor 使用量を監視し、どの bot が何を使ったかを指名します。",
+    "ko": "Grok Bot 함대의 Cursor 사용량을 보고, 어느 봇이 무엇을 썼는지 이름을 댑니다.",
+    "es": "Vigila el uso de Cursor en una flota de Grok Bot y nombra qué bot gastó qué.",
+    "fr": "Surveille l’usage Cursor d’une flotte Grok Bot et nomme quel bot a dépensé quoi.",
+    "de": "Beobachtet Cursor-Nutzung einer Grok-Bot-Flotte und nennt, welcher Bot was verbraucht hat.",
+    "pt-BR": "Observa o uso do Cursor numa frota de Grok Bot e nomeia qual bot gastou o quê.",
+    "ru": "Следит за расходом Cursor по флоту Grok Bot и называет, какой бот сколько потратил."
+  },
+  "https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG": {
+    "zh-CN": "只读的交友发现助手，审阅匹配和介绍，不改任何数据。",
+    "zh-TW": "唯讀的交友發現助手，審閱配對與介紹，不改任何資料。",
+    "ja": "読み取り専用の友人発見アシスタント。マッチと紹介を確認し、データは変更しません。",
+    "ko": "읽기 전용 친구 발견 도우미. 매칭과 소개를 검토하고 데이터는 바꾸지 않습니다.",
+    "es": "Asistente de descubrimiento de amigos solo lectura: revisa matches e intros sin cambiar datos.",
+    "fr": "Assistant de découverte d’amis en lecture seule : examine matchs et intros sans modifier les données.",
+    "de": "Schreibgeschützter Freunde-Entdeckungsassistent: prüft Matches und Intros, ändert keine Daten.",
+    "pt-BR": "Assistente somente leitura de descoberta de amigos: revisa matches e intros sem alterar dados.",
+    "ru": "Помощник поиска друзей только для чтения: смотрит матчи и интро, данные не меняет."
+  },
+  "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL": {
+    "zh-CN": "跟踪退伍军人在 VA.gov 上的预约、索赔和福利，并标出 ID.me 一类的优惠。",
+    "zh-TW": "追蹤退伍軍人在 VA.gov 上的預約、申請與福利，並標出 ID.me 一類的優惠。",
+    "ja": "退役軍人の VA.gov 予約・請求・給付を追跡し、ID.me 系の案件を旗立てします。",
+    "ko": "재향군인의 VA.gov 예약, 청구, 혜택을 추적하고 ID.me 식 거래를 표시합니다.",
+    "es": "Sigue citas, reclamaciones y beneficios de un veterano en VA.gov y marca ofertas al estilo ID.me.",
+    "fr": "Suit rendez-vous, dossiers et prestations VA.gov d’un vétéran, et signale les offres façon ID.me.",
+    "de": "Verfolgt VA.gov-Termine, Anträge und Leistungen eines Veterans und markiert ID.me-ähnliche Deals.",
+    "pt-BR": "Acompanha consultas, pedidos e benefícios de um veterano no VA.gov e sinaliza ofertas estilo ID.me.",
+    "ru": "Следит за записями, заявками и льготами ветерана на VA.gov и помечает сделки в стиле ID.me."
+  },
+  "https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J": {
+    "zh-CN": "在 Herdr 里编排编码智能体；Herdr 是面向智能体舰队的开源运行时终端管理器。",
+    "zh-TW": "在 Herdr 裡編排編碼智能體；Herdr 是面向智能體艦隊的開源執行時終端管理器。",
+    "ja": "Herdr 内でコーディングエージェントをオーケストレーション。Herdr はエージェント艦隊向けのオープンなランタイム端末マネージャです。",
+    "ko": "Herdr 안에서 코딩 에이전트를 오케스트레이션합니다. Herdr는 에이전트 함대용 오픈 런타임 터미널 관리자입니다.",
+    "es": "Orquesta agentes de código dentro de Herdr, un gestor de terminal runtime abierto para flotas de agentes.",
+    "fr": "Orchestre des agents de code dans Herdr, un gestionnaire de terminal runtime ouvert pour flottes d’agents.",
+    "de": "Orchestriert Coding-Agenten in Herdr, einem offenen Runtime-Terminal-Manager für Agentenflotten.",
+    "pt-BR": "Orquestra agentes de código dentro do Herdr, um gerenciador de terminal runtime aberto para frotas de agentes.",
+    "ru": "Оркестрирует кодинг-агентов в Herdr — открытом runtime-менеджере терминалов для флотов агентов."
+  },
+  "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj": {
+    "zh-CN": "调研与事实核查台，每一轮都跑在最新的 Grok 模型上。",
+    "zh-TW": "研究與事實查核台，每一輪都跑在最新的 Grok 模型上。",
+    "ja": "リサーチとファクトチェックのデスク。毎回最新の Grok モデルで回します。",
+    "ko": "리서치·팩트체크 데스크. 매 패스를 최신 Grok 모델에서 돌립니다.",
+    "es": "Mesa de investigación y fact-check que corre cada pasada en el último modelo Grok.",
+    "fr": "Bureau recherche et fact-check qui exécute chaque passe sur le dernier modèle Grok.",
+    "de": "Recherche- und Fact-Check-Schreibtisch, der jeden Durchlauf auf dem neuesten Grok-Modell fährt.",
+    "pt-BR": "Mesa de pesquisa e checagem de fatos que roda cada passe no modelo Grok mais recente.",
+    "ru": "Стол исследований и фактчека: каждый проход на самой свежей модели Grok."
+  },
+  "https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX": {
+    "zh-CN": "从过去 24 小时的网页、X 和 Instagram 挖出热门 AI 新闻，做成文案简报。",
+    "zh-TW": "從過去 24 小時的網頁、X 與 Instagram 挖出熱門 AI 新聞，做成文案簡報。",
+    "ja": "直近24時間の Web、X、Instagram から旬の AI ニュースを掘り、コピー用ブリーフにします。",
+    "ko": "지난 24시간 웹·X·Instagram의 뜨거운 AI 뉴스를 캐서 카피 브리핑으로 만듭니다.",
+    "es": "Extrae noticias calientes de IA de las últimas 24 h en web, X e Instagram y las deja en un briefing de copy.",
+    "fr": "Mine l’actu IA chaude des 24 dernières heures sur le web, X et Instagram en briefing copy.",
+    "de": "Gräbt heiße KI-News der letzten 24 Stunden von Web, X und Instagram in ein Copy-Briefing.",
+    "pt-BR": "Minera notícias quentes de IA das últimas 24 horas na web, no X e no Instagram em um briefing de copy.",
+    "ru": "Добывает горячие ИИ-новости за 24 часа с веба, X и Instagram в бриф для копирайта."
+  },
+  "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6": {
+    "zh-CN": "按文案简报做 Instagram 轮播和静态图（上图下文，大字在下）。",
+    "zh-TW": "按文案簡報做 Instagram 輪播與靜態圖（上圖下文，大字在下）。",
+    "ja": "コピーブリーフから Instagram のカルーセルと静止画を作る（上に写真、下に大きな文字）。",
+    "ko": "카피 브리핑으로 Instagram 캐러셀과 정적 아트를 만듭니다(위 사진, 아래 큰 글씨).",
+    "es": "Construye carrusel e arte estático de Instagram a partir de briefings de copy (foto arriba, texto grande abajo).",
+    "fr": "Construit carrousel et visuels statiques Instagram à partir de briefings copy (photo en haut, gros texte en bas).",
+    "de": "Baut Instagram-Karussell und statische Motive aus Copy-Briefings (Foto oben, großer Text unten).",
+    "pt-BR": "Monta carrossel e arte estática do Instagram a partir de briefings de copy (foto em cima, texto grande embaixo).",
+    "ru": "Делает карусель и статику Instagram из копибрифов (фото сверху, крупный текст снизу)."
   }
 }

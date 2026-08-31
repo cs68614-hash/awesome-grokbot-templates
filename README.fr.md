@@ -19,12 +19,12 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 ## Sommaire
 
 - [Assistants](#assistants) (29)
-- [Ingénierie](#ingénierie) (13)
-- [Recherche](#recherche) (15)
-- [Argent](#argent) (10)
+- [Ingénierie](#ingénierie) (15)
+- [Recherche](#recherche) (16)
+- [Argent](#argent) (11)
 - [Ventes](#ventes) (12)
-- [Créatif](#créatif) (15)
-- [Vie](#vie) (20)
+- [Créatif](#créatif) (21)
+- [Vie](#vie) (22)
 - [Liens](#liens)
 - [Contribuer](#contribuer)
 
@@ -74,6 +74,8 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — Lance gather, prompt, launch, review et merge sur un dépôt que vous nommez. [@grok](https://x.com/grok)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — Lie une fois un dépôt, un livre ou des logs et répond par retrieval en affichant le coût. [@STACCoverflow](https://x.com/STACCoverflow)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — Relit les PR pour risque, tests manquants et contexte mince avant les nits. [@mustafaergisi](https://x.com/mustafaergisi)
+- [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — Orchestre des agents de code dans Herdr, un gestionnaire de terminal runtime ouvert pour flottes d’agents. [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Surveille l’usage Cursor d’une flotte Grok Bot et nomme quel bot a dépensé quoi. [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — Scanne les sessions locales pour les tâches de setup, puis propose des modèles Grok Bot à partager. [@STACCoverflow](https://x.com/STACCoverflow)
 
 ## Recherche
@@ -87,6 +89,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Chercheur Reddit : points de douleur et packs d’idées à partir de mots-clés ; ne poste jamais. [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — Digest du matin en semaine : 2-3 outils IA pratiques, ou un skip les jours calmes. [@byeleni](https://x.com/byeleni)
 - [Research Bot](https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH) — Recherche approfondie avec sources citées ; signale les affirmations non vérifiées ou biaisées. [@ArthurMacwaters](https://x.com/ArthurMacwaters)
+- [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) — Bureau recherche et fact-check qui exécute chaque passe sur le dernier modèle Grok. [@Groktoberr](https://x.com/Groktoberr)
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — Surveille sites et classements rivaux ; alerte sur les vrais mouvements et un brief hebdo. [@adamta](https://x.com/adamta)
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) — Note un site en SEO, vitesse, a11y, CRO et schema avec des URL de preuve. [@scheemunai](https://x.com/scheemunai)
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) — Cherche dans 17 ans de MacStories.net ; filtre par date/auteur. [@viticci](https://x.com/viticci)
@@ -106,6 +109,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — Trouve des moyens légaux de gagner de l’argent ; le premier run installe un portefeuille. [@mbhound](https://x.com/mbhound)
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — Cerveau travel awards : optimisation cartes et points compagnies.
 - [ShopBot](https://x.ai/bot/rBXWgythSa09pIp14rnV4) — Assistant shopping. Cherche les catalogues Shopify UCP, compare, trouve des coupons, paie via Link ou Shop Pay. [@shubgaur](https://x.com/shubgaur)
+- [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — Lit la boîte mail pour les prélèvements récurrents et indique quoi couper ou changer. [@tahaabuilds](https://x.com/tahaabuilds)
 
 ## Ventes
 
@@ -130,11 +134,17 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Clip Bot](https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M) — Coupe des highlights de podcast prêts pour les réseaux depuis YouTube, avec sous-titres karaoké.
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — Transforme des vidéos X ou vos fichiers en clips courts et GIFs avec un angle net. [@thesoragirls](https://x.com/thesoragirls)
 - [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — Transforme une idée ou un lien en clip sitcom court ; script d’abord, génération après accord. [@altryne](https://x.com/altryne)
+- [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — Transforme des idées Instagram classées en copy par slide et légendes pour un ingénieur AV. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — Construit carrousel et visuels statiques Instagram à partir de briefings copy (photo en haut, gros texte en bas). [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — Tient un atelier pour affiches, feuilles de style, images de posts, journaux imprimables, héros, landings, briefs et slides. [@arni0x9053](https://x.com/arni0x9053)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — Transforme idées et posts en illustrations éditoriales menées par une mascotte via le skill illo. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — Rédige un alt text court et copiable, centré sur la partie la plus importante d’une image. [@kentcdodds](https://x.com/kentcdodds)
+- [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — Directrice de studio YouTube qui conçoit une vidéo à la fois comme contrat miniature-titre-ouverture-payoff. [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — Compagnon d’imagination pour l’art, les mondes, les poèmes et les petits films ; chaleureux et bref. [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — Fait un mème d’un sujet que vous déposez ; drôle d’abord, jamais le choc. [@DogecoinNorway](https://x.com/DogecoinNorway)
+- [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — Mine l’actu IA chaude des 24 dernières heures sur le web, X et Instagram en briefing copy. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — Découpe des YouTube Shorts à partir de long-form éprouvé, Opus Clip d’abord et Descript en secours. [@ShareGrokBots](https://x.com/ShareGrokBots)
+- [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — Planifie et publie carrousels et posts Instagram à partir de créas déjà finies. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — Éclaire X/Reddit toutes les heures pour des kits filmables IA/tech TikTok/Reels/Shorts. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Contrôle Spotify : choisit des sets, suggère des artistes et mappe les surnoms aux appareils. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — Styliste Stitch Fix du matin : météo, une tenue avec les achats, et des deals. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
@@ -149,12 +159,14 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — GM de fantasy football pour ligues ESPN : draft, compositions, waivers et trades ; demande avant tout mouvement. [@Colehollander10](https://x.com/Colehollander10)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Cartographie les relations DM X en mode Quick Radar et renvoie les fils Act now. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Planifie un panier Instacart quand vous le demandez. [@mvanhorn](https://x.com/mvanhorn)
+- [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — Suit rendez-vous, dossiers et prestations VA.gov d’un vétéran, et signale les offres façon ID.me. [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — Contrôle les robots domestiques connectés depuis le chat : start, pause, dock ou statut. [@SawyerMerritt](https://x.com/SawyerMerritt)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — Chasse locations et maisons sur un rythme de 12 heures sur les grands sites d’annonces. [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — Balaye les boîtes connectées selon un planning et récolte les todos dans un grand livre. [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Publie fichiers ou dossiers en URL here.now ; n’écrit pas le contenu. [@adamludwin](https://x.com/adamludwin)
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) — Coach fitness/nutrition pour PT et repas quotidiens, conçu pour le diabète de type 1. [@tpgoebel](https://x.com/tpgoebel)
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — Audite les newsletters Gmail récentes et se désabonne seulement de ce que vous approuvez. [@scheemunai](https://x.com/scheemunai)
+- [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) — Assistant de découverte d’amis en lecture seule : examine matchs et intros sans modifier les données. [@raily](https://x.com/raily)
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) — Transforme un CV en portfolio en ligne vivant, avec maquettes Figma Make et agents Cursor. [@HouseHackerJon](https://x.com/HouseHackerJon)
 - [TeslrBot](https://x.ai/bot/_S9OOSBgXixedyANQSYjQ) — Parlez à votre Tesla via teslr.club : charge, climat, serrures, nav. La position reste hors timelines. [@HeresMyEth](https://x.com/HeresMyEth)
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) — Suit e-mail et calendrier perso pour que les relances famille, école et maison ne glissent pas.

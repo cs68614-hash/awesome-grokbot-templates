@@ -911,6 +911,102 @@
       "twitter": "HouseHackerJon",
       "share_url": "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb",
       "scraped_at": "2026-08-30"
+    },
+    {
+      "name": "Shorty",
+      "description": "Cuts YouTube Shorts from proven long-form with Opus Clip first and Descript backup.",
+      "category": "Creative",
+      "twitter": "ShareGrokBots",
+      "share_url": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Social Media",
+      "description": "Schedules and publishes Instagram carousels and posts from finished creative assets.",
+      "category": "Creative",
+      "twitter": "adamuchigabriel",
+      "share_url": "https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Copywriter",
+      "description": "Turns ranked Instagram ideas into per-slide copy plus captions for an AV engineer.",
+      "category": "Creative",
+      "twitter": "adamuchigabriel",
+      "share_url": "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "SubCut",
+      "description": "Reads your inbox for recurring charges and shows what to cut or switch.",
+      "category": "Money",
+      "twitter": "tahaabuilds",
+      "share_url": "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Lina",
+      "description": "YouTube studio director that designs one video at a time as a thumbnail-title-opening-payoff contract.",
+      "category": "Creative",
+      "twitter": "gabe_onchain",
+      "share_url": "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Steward",
+      "description": "Watches Cursor usage across a Grok Bot fleet and names which bot spent what.",
+      "category": "Engineering",
+      "twitter": "cjblev",
+      "share_url": "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Raily",
+      "description": "Read-only friends discovery assistant that reviews matches and intros without changing data.",
+      "category": "Life",
+      "twitter": "raily",
+      "share_url": "https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Home Front",
+      "description": "Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-style deals.",
+      "category": "Life",
+      "twitter": "Diego_F_Aguirre",
+      "share_url": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Shepherd",
+      "description": "Orchestrates coding agents inside Herdr, an open runtime terminal manager for agent fleets.",
+      "category": "Engineering",
+      "twitter": "old_pgmrs_will",
+      "share_url": "https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Researchy",
+      "description": "Research and fact-check desk that runs every pass on the latest Grok model.",
+      "category": "Research",
+      "twitter": "Groktoberr",
+      "share_url": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Minerador de conteúdo",
+      "description": "Mines hot AI news from the last 24 hours on web, X, and Instagram into a copy briefing.",
+      "category": "Creative",
+      "twitter": "adamuchigabriel",
+      "share_url": "https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX",
+      "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Engenheiro Audiovisual",
+      "description": "Builds Instagram carousel and static art from copy briefings (photo on top, big text below).",
+      "category": "Creative",
+      "twitter": "adamuchigabriel",
+      "share_url": "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6",
+      "scraped_at": "2026-08-31"
     }
   ]
 }

@@ -19,12 +19,12 @@
 ## 目录
 
 - [助理](#助理) (29)
-- [工程](#工程) (13)
-- [研究](#研究) (15)
-- [金钱](#金钱) (10)
+- [工程](#工程) (15)
+- [研究](#研究) (16)
+- [金钱](#金钱) (11)
 - [销售](#销售) (12)
-- [创意](#创意) (15)
-- [生活](#生活) (20)
+- [创意](#创意) (21)
+- [生活](#生活) (22)
 - [相关](#相关)
 - [贡献](#贡献)
 
@@ -74,6 +74,8 @@
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 对你指定的仓库跑 gather、prompt、launch、review 和 merge。 [@grok](https://x.com/grok)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — 一次性绑定仓库、书或日志，按检索作答并显示花费。 [@STACCoverflow](https://x.com/STACCoverflow)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — 先审 PR 的风险、缺测和单薄上下文，再谈细枝末节。 [@mustafaergisi](https://x.com/mustafaergisi)
+- [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — 在 Herdr 里编排编码智能体；Herdr 是面向智能体舰队的开源运行时终端管理器。 [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — 盯着一整队 Grok Bot 的 Cursor 用量，点名哪个 bot 花了多少。 [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 扫描本地会话里的搭建任务，再给出可分享的 Grok Bot 模板。 [@STACCoverflow](https://x.com/STACCoverflow)
 
 ## 研究
@@ -87,6 +89,7 @@
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit 研究员：按关键词挖痛点和点子包；从不发帖。 [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — 工作日早报：2–3 个实用 AI 工具，或在淡日跳过。 [@byeleni](https://x.com/byeleni)
 - [Research Bot](https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH) — 带出处的深调研；标出未核实或带偏见的说法。 [@ArthurMacwaters](https://x.com/ArthurMacwaters)
+- [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) — 调研与事实核查台，每一轮都跑在最新的 Grok 模型上。 [@Groktoberr](https://x.com/Groktoberr)
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — 盯对手站点和排名；有真动作才告警，并出周报。 [@adamta](https://x.com/adamta)
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) — 按 SEO、速度、无障碍、CRO 和 schema 给站点打分，并附证据链接。 [@scheemunai](https://x.com/scheemunai)
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) — 检索 17 年的 MacStories.net，可按时间/作者筛选。 [@viticci](https://x.com/viticci)
@@ -106,6 +109,7 @@
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — 找合法赚钱途径；首次运行会建好钱包。 [@mbhound](https://x.com/mbhound)
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — 奖励旅行大脑：优化信用卡和航司积分。
 - [ShopBot](https://x.ai/bot/rBXWgythSa09pIp14rnV4) — 购物助手。搜 Shopify UCP 目录、比商品、找优惠券，经 Link 或 Shop Pay 付款。 [@shubgaur](https://x.com/shubgaur)
+- [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — 扫收件箱里的循环扣费，标出该砍掉或该换的订阅。 [@tahaabuilds](https://x.com/tahaabuilds)
 
 ## 销售
 
@@ -130,11 +134,17 @@
 - [Clip Bot](https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M) — 从 YouTube 切出可发社交的播客高光，并配卡拉 OK 字幕。
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — 把 X 上的视频或你的文件剪成有明确角度的短片和 GIF。 [@thesoragirls](https://x.com/thesoragirls)
 - [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — 把点子或链接做成短情景喜剧片段；先写剧本，批准后再生成。 [@altryne](https://x.com/altryne)
+- [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — 把已排序的 Instagram 点子写成每页文案和配文，交给视听工程师。 [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — 按文案简报做 Instagram 轮播和静态图（上图下文，大字在下）。 [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — 开一间工作室，做海报、风格表、帖图、可印报纸、英雄图、落地页、简报和幻灯片。 [@arni0x9053](https://x.com/arni0x9053)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — 通过 illo skill，把点子和帖子变成吉祥物主导的编辑插画。 [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — 写简短可复制的替代文本，聚焦图像里最要紧的部分。 [@kentcdodds](https://x.com/kentcdodds)
+- [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — YouTube 工作室导演，一次只设计一条视频，按缩略图-标题-开场-兑现来立约。 [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — 想象力伙伴：艺术、世界、诗和短片；温暖而简短。 [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — 你丢一个话题就做一张梗图；好笑优先，从不猎奇惊吓。 [@DogecoinNorway](https://x.com/DogecoinNorway)
+- [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — 从过去 24 小时的网页、X 和 Instagram 挖出热门 AI 新闻，做成文案简报。 [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — 从已验证的长视频切 YouTube Shorts，先用 Opus Clip，Descript 作备用。 [@ShareGrokBots](https://x.com/ShareGrokBots)
+- [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — 用已完成的创意素材排期并发布 Instagram 轮播和图文。 [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — 每小时侦察 X/Reddit，搜可拍的 AI/科技 TikTok/Reels/Shorts 素材包。 [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — 控制 Spotify：选歌单、荐艺人，并把昵称映射到设备。 [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — 清晨 Stitch Fix 造型师：天气、用已买单品搭配，再加优惠。 [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
@@ -149,12 +159,14 @@
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — ESPN 联盟的梦幻足球总经理：选秀、阵容、弃将和交易，动名单前先问你。 [@Colehollander10](https://x.com/Colehollander10)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — 用 Quick Radar 模式梳理 X 私信关系，并返回「马上处理」的对话。 [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 你开口时，规划一辆 Instacart 购物车。 [@mvanhorn](https://x.com/mvanhorn)
+- [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — 跟踪退伍军人在 VA.gov 上的预约、索赔和福利，并标出 ID.me 一类的优惠。 [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — 用聊天控制联网家用机器人：启动、暂停、回坞或查状态。 [@SawyerMerritt](https://x.com/SawyerMerritt)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — 按 12 小时节奏，在主要房源站搜租房和住宅。 [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — 按计划清扫已连接的收件箱，把待办收进一本账。 [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 把文件或文件夹发布成 here.now 链接；不撰写内容本身。 [@adamludwin](https://x.com/adamludwin)
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) — 面向 1 型糖尿病的健身/营养教练，管每日体训和三餐。 [@tpgoebel](https://x.com/tpgoebel)
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — 审计近期 Gmail 通讯，只退订你批准的那些。 [@scheemunai](https://x.com/scheemunai)
+- [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) — 只读的交友发现助手，审阅匹配和介绍，不改任何数据。 [@raily](https://x.com/raily)
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) — 把简历做成会更新的在线作品集，配 Figma Make 样稿和 Cursor 智能体。 [@HouseHackerJon](https://x.com/HouseHackerJon)
 - [TeslrBot](https://x.ai/bot/_S9OOSBgXixedyANQSYjQ) — 通过 teslr.club 跟 Tesla 说话：充电、空调、锁、导航。位置不进时间线。 [@HeresMyEth](https://x.com/HeresMyEth)
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) — 盯个人邮件和日历，避免家庭、学校和家务跟进漏掉。

@@ -19,12 +19,12 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 ## 목차
 
 - [어시스턴트](#어시스턴트) (29)
-- [엔지니어링](#엔지니어링) (13)
-- [리서치](#리서치) (15)
-- [머니](#머니) (10)
+- [엔지니어링](#엔지니어링) (15)
+- [리서치](#리서치) (16)
+- [머니](#머니) (11)
 - [세일즈](#세일즈) (12)
-- [크리에이티브](#크리에이티브) (15)
-- [라이프](#라이프) (20)
+- [크리에이티브](#크리에이티브) (21)
+- [라이프](#라이프) (22)
 - [관련](#관련)
 - [기여](#기여)
 
@@ -74,6 +74,8 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 지정한 저장소에서 gather, prompt, launch, review, merge를 돌립니다. [@grok](https://x.com/grok)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — 저장소, 책, 로그를 한 번 묶고 검색으로 답하며 비용을 보여 줍니다. [@STACCoverflow](https://x.com/STACCoverflow)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — PR을 위험, 빠진 테스트, 얇은 맥락 순으로 보고 그다음 잔소리를 합니다. [@mustafaergisi](https://x.com/mustafaergisi)
+- [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — Herdr 안에서 코딩 에이전트를 오케스트레이션합니다. Herdr는 에이전트 함대용 오픈 런타임 터미널 관리자입니다. [@old_pgmrs_will](https://x.com/old_pgmrs_will)
+- [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Grok Bot 함대의 Cursor 사용량을 보고, 어느 봇이 무엇을 썼는지 이름을 댑니다. [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 로컬 세션의 설정 작업을 스캔한 뒤 공유용 Grok Bot 템플릿을 제안합니다. [@STACCoverflow](https://x.com/STACCoverflow)
 
 ## 리서치
@@ -87,6 +89,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit 리서처. 키워드로 고통점과 아이디어 팩을 모으며, 글은 올리지 않습니다. [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — 평일 아침 다이제스트. 실용 AI 도구 2–3개, 한가한 날은 건너뜁니다. [@byeleni](https://x.com/byeleni)
 - [Research Bot](https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH) — 출처가 있는 심층 리서치. 미검증·편향 주장을 표시합니다. [@ArthurMacwaters](https://x.com/ArthurMacwaters)
+- [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) — 리서치·팩트체크 데스크. 매 패스를 최신 Grok 모델에서 돌립니다. [@Groktoberr](https://x.com/Groktoberr)
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — 경쟁 사이트와 순위를 봅니다. 실제 움직임에 알리고 주간 브리프를 냅니다. [@adamta](https://x.com/adamta)
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) — 사이트를 SEO, 속도, a11y, CRO, schema로 채점하고 근거 URL을 붙입니다. [@scheemunai](https://x.com/scheemunai)
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) — 17년치 MacStories.net을 검색합니다. 시간/작성자로 필터. [@viticci](https://x.com/viticci)
@@ -106,6 +109,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — 합법적으로 돈 버는 길을 찾습니다. 첫 실행에서 지갑을 만듭니다. [@mbhound](https://x.com/mbhound)
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — 어워드 트래블 브레인. 신용카드와 항공 포인트를 최적화합니다.
 - [ShopBot](https://x.ai/bot/rBXWgythSa09pIp14rnV4) — 쇼핑 어시스턴트. Shopify UCP 카탈로그를 검색하고 상품을 비교하며 쿠폰을 찾고 Link 또는 Shop Pay로 결제합니다. [@shubgaur](https://x.com/shubgaur)
+- [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — 받은편지함에서 반복 결제를 읽고, 끊거나 바꿀 것을 보여줍니다. [@tahaabuilds](https://x.com/tahaabuilds)
 
 ## 세일즈
 
@@ -130,11 +134,17 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Clip Bot](https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M) — YouTube에서 SNS용 팟캐스트 하이라이트를 자르고 노래방 자막을 답니다.
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — X의 영상이나 당신 파일을 분명한 각도의 짧은 클립과 GIF로 만듭니다. [@thesoragirls](https://x.com/thesoragirls)
 - [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — 아이디어나 링크를 시트콤풍 짧은 클립으로 만듭니다. 대본 먼저, 승인 뒤에 생성. [@altryne](https://x.com/altryne)
+- [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — 순위가 매겨진 Instagram 아이디어를 슬라이드별 카피와 캡션으로 바꿔 AV 엔지니어에게 넘깁니다. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — 카피 브리핑으로 Instagram 캐러셀과 정적 아트를 만듭니다(위 사진, 아래 큰 글씨). [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — 포스터, 스타일 시트, 포스트 그림, 인쇄 신문, 히어로, 랜딩 페이지, 브리프, 슬라이드 공방을 돌립니다. [@arni0x9053](https://x.com/arni0x9053)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — illo skill로 아이디어와 게시물을 마스코트 중심 에디토리얼 일러스트로 바꿉니다. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — 이미지에서 가장 중요한 부분에 맞춘, 짧고 복사 가능한 대체 텍스트를 씁니다. [@kentcdodds](https://x.com/kentcdodds)
+- [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — YouTube 스튜디오 디렉터. 영상을 하나씩 썸네일-제목-오프닝-페이오프 계약으로 설계합니다. [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — 상상 동반자. 예술, 세계, 시, 짧은 영화. 따뜻하고 짧습니다. [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — 던진 주제로 밈을 만듭니다. 재미가 먼저, 충격은 없습니다. [@DogecoinNorway](https://x.com/DogecoinNorway)
+- [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — 지난 24시간 웹·X·Instagram의 뜨거운 AI 뉴스를 캐서 카피 브리핑으로 만듭니다. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — 검증된 롱폼에서 YouTube Shorts를 자르며, Opus Clip을 먼저 쓰고 Descript를 예비로 둡니다. [@ShareGrokBots](https://x.com/ShareGrokBots)
+- [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — 완성된 크리에이티브 에셋으로 Instagram 캐러셀과 게시물을 예약하고 발행합니다. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — 매시간 X/Reddit을 정찰해 찍을 수 있는 AI/테크 TikTok/Reels/Shorts 키트를 찾습니다. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Spotify를 제어합니다. 세트를 고르고 아티스트를 제안하며 닉네임을 기기에 매핑합니다. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — 아침 Stitch Fix 스타일리스트. 날씨, 산 아이템으로 코디, 그리고 딜. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
@@ -149,12 +159,14 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — ESPN 리그용 판타지 풋볼 GM. 드래프트, 라인업, 웨이버, 트레이드. 로스터를 바꾸기 전에 묻습니다. [@Colehollander10](https://x.com/Colehollander10)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Quick Radar 모드로 X DM 관계를 지도화하고 Act now 스레드를 돌려줍니다. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 요청하면 Instacart 장바구니를 짜 줍니다. [@mvanhorn](https://x.com/mvanhorn)
+- [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — 재향군인의 VA.gov 예약, 청구, 혜택을 추적하고 ID.me 식 거래를 표시합니다. [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — 채팅으로 연결된 홈 로봇을 제어합니다. 시작, 일시정지, 도킹, 상태. [@SawyerMerritt](https://x.com/SawyerMerritt)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — 주요 리스팅 사이트에서 12시간 주기로 임대와 집을 찾습니다. [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — 연결된 받은편지함을 일정대로 훑고 할 일을 장부에 모읍니다. [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 파일이나 폴더를 here.now URL로 게시합니다. 내용은 쓰지 않습니다. [@adamludwin](https://x.com/adamludwin)
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) — 1형 당뇨병을 위한 피트니스/영양 코치. 매일 PT와 식사를 맡습니다. [@tpgoebel](https://x.com/tpgoebel)
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — 최근 Gmail 뉴스레터를 감사하고, 승인한 것만 구독을 해지합니다. [@scheemunai](https://x.com/scheemunai)
+- [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) — 읽기 전용 친구 발견 도우미. 매칭과 소개를 검토하고 데이터는 바꾸지 않습니다. [@raily](https://x.com/raily)
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) — 이력서를 살아 있는 온라인 포트폴리오로 바꾸고, Figma Make 목업과 Cursor 에이전트를 붙입니다. [@HouseHackerJon](https://x.com/HouseHackerJon)
 - [TeslrBot](https://x.ai/bot/_S9OOSBgXixedyANQSYjQ) — teslr.club으로 Tesla와 대화합니다. 충전, 공조, 잠금, 내비게이션. 위치는 타임라인에 올리지 않습니다. [@HeresMyEth](https://x.com/HeresMyEth)
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) — 개인 이메일과 캘린더를 추적해 가족·학교·집안 후속이 빠지지 않게 합니다.
