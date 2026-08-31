@@ -129,6 +129,11 @@ LANGS = [
 COPY = {
     "en": {
         "tagline": "A curated list of community Grok Bot templates. Official share links only.",
+        "catalog": (
+            "This GitHub list is the source of official share links. "
+            "Browse the same templates as a searchable catalog (cards, search, and submit) at "
+            "[Grok Bot Templates](https://grokbot-templates.com)."
+        ),
         "intro": (
             "A [Grok Bot](https://docs.x.ai/grok-bot/get-started) is an always-on xAI agent. "
             "Owners can publish a share link so other people can add a copy. "
@@ -150,6 +155,7 @@ COPY = {
         "contents": "Contents",
         "related_h": "Related",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Grok Bot docs](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [Official share host](https://x.ai/bot)\n"
@@ -163,6 +169,11 @@ COPY = {
     },
     "zh-CN": {
         "tagline": "社区 Grok Bot 模板精选。仅收录官方分享链接。",
+        "catalog": (
+            "本 GitHub 列表是官方分享链接的来源。"
+            "同一批模板的可浏览目录（搜索、卡片、提交）见 "
+            "[Grok Bot Templates](https://grokbot-templates.com/zh)。"
+        ),
         "intro": (
             "[Grok Bot](https://docs.x.ai/grok-bot/get-started) 是 xAI 的常驻智能体。"
             "所有者可以发布分享链接，让其他人添加副本。"
@@ -183,6 +194,7 @@ COPY = {
         "contents": "目录",
         "related_h": "相关",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com/zh)\n"
             "- [Grok Bot 文档](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [官方分享主机](https://x.ai/bot)\n"
@@ -196,6 +208,11 @@ COPY = {
     },
     "zh-TW": {
         "tagline": "社群 Grok Bot 模板精選。只收錄官方分享連結。",
+        "catalog": (
+            "本 GitHub 列表是官方分享連結的來源。"
+            "同一批模板的可瀏覽目錄（搜尋、卡片、提交）見 "
+            "[Grok Bot Templates](https://grokbot-templates.com/zh)。"
+        ),
         "intro": (
             "[Grok Bot](https://docs.x.ai/grok-bot/get-started) 是 xAI 的常駐智慧體。"
             "擁有者可以發布分享連結，讓其他人新增複本。"
@@ -216,6 +233,7 @@ COPY = {
         "contents": "目錄",
         "related_h": "相關",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com/zh)\n"
             "- [Grok Bot 文件](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [官方分享主機](https://x.ai/bot)\n"
@@ -229,6 +247,11 @@ COPY = {
     },
     "ja": {
         "tagline": "コミュニティ製 Grok Bot テンプレートの厳選リスト。公式シェアリンクのみ。",
+        "catalog": (
+            "この GitHub リストは公式シェアリンクのソースです。"
+            "同じテンプレートを検索・カード・投稿できるカタログは "
+            "[Grok Bot Templates](https://grokbot-templates.com) にあります。"
+        ),
         "intro": (
             "[Grok Bot](https://docs.x.ai/grok-bot/get-started) は xAI の常駐エージェントです。"
             "所有者はシェアリンクを公開し、他の人がコピーを追加できます。"
@@ -249,6 +272,7 @@ COPY = {
         "contents": "目次",
         "related_h": "関連",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Grok Bot ドキュメント](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [公式シェアホスト](https://x.ai/bot)\n"
@@ -262,6 +286,11 @@ COPY = {
     },
     "ko": {
         "tagline": "커뮤니티 Grok Bot 템플릿 큐레이션 목록. 공식 공유 링크만 수록합니다.",
+        "catalog": (
+            "이 GitHub 목록은 공식 공유 링크의 출처입니다."
+            "같은 템플릿을 검색·카드·제출로 둘러볼 수 있는 카탈로그는 "
+            "[Grok Bot Templates](https://grokbot-templates.com)에 있습니다."
+        ),
         "intro": (
             "[Grok Bot](https://docs.x.ai/grok-bot/get-started)은 xAI의 상시 실행 에이전트입니다."
             "소유자는 공유 링크를 공개해 다른 사람이 사본을 추가하게 할 수 있습니다."
@@ -282,6 +311,7 @@ COPY = {
         "contents": "목차",
         "related_h": "관련",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Grok Bot 문서](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [공식 공유 호스트](https://x.ai/bot)\n"
@@ -295,6 +325,11 @@ COPY = {
     },
     "es": {
         "tagline": "Lista curada de plantillas comunitarias de Grok Bot. Solo enlaces oficiales de compartir.",
+        "catalog": (
+            "Esta lista de GitHub es la fuente de los enlaces oficiales de compartir. "
+            "El catálogo navegable de las mismas plantillas (búsqueda, fichas y envío) está en "
+            "[Grok Bot Templates](https://grokbot-templates.com)."
+        ),
         "intro": (
             "Un [Grok Bot](https://docs.x.ai/grok-bot/get-started) es un agente permanente de xAI. "
             "Quien lo posee puede publicar un enlace para que otras personas añadan una copia. "
@@ -316,6 +351,7 @@ COPY = {
         "contents": "Contenido",
         "related_h": "Relacionado",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Documentación de Grok Bot](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [Host oficial de compartir](https://x.ai/bot)\n"
@@ -329,6 +365,11 @@ COPY = {
     },
     "fr": {
         "tagline": "Liste curatée de modèles Grok Bot communautaires. Liens officiels uniquement.",
+        "catalog": (
+            "Cette liste GitHub est la source des liens officiels de partage. "
+            "Le catalogue consultable des mêmes modèles (recherche, cartes et soumission) se trouve sur "
+            "[Grok Bot Templates](https://grokbot-templates.com)."
+        ),
         "intro": (
             "Un [Grok Bot](https://docs.x.ai/grok-bot/get-started) est un agent xAI toujours actif. "
             "Son propriétaire peut publier un lien de partage pour qu’autrui ajoute une copie. "
@@ -350,6 +391,7 @@ COPY = {
         "contents": "Sommaire",
         "related_h": "Liens",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Docs Grok Bot](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [Hôte officiel de partage](https://x.ai/bot)\n"
@@ -363,6 +405,11 @@ COPY = {
     },
     "de": {
         "tagline": "Kuratierte Liste von Community-Grok-Bot-Vorlagen. Nur offizielle Share-Links.",
+        "catalog": (
+            "Diese GitHub-Liste ist die Quelle der offiziellen Share-Links. "
+            "Dieselben Vorlagen als durchsuchbaren Katalog (Karten, Suche und Einreichen) findest du unter "
+            "[Grok Bot Templates](https://grokbot-templates.com)."
+        ),
         "intro": (
             "Ein [Grok Bot](https://docs.x.ai/grok-bot/get-started) ist ein dauerhaft laufender xAI-Agent. "
             "Wer ihn besitzt, kann einen Share-Link veröffentlichen, damit andere eine Kopie hinzufügen. "
@@ -384,6 +431,7 @@ COPY = {
         "contents": "Inhalt",
         "related_h": "Verwandt",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Grok-Bot-Docs](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [Offizieller Share-Host](https://x.ai/bot)\n"
@@ -397,6 +445,11 @@ COPY = {
     },
     "pt-BR": {
         "tagline": "Lista curada de templates comunitários de Grok Bot. Só links oficiais de compartilhamento.",
+        "catalog": (
+            "Esta lista no GitHub é a fonte dos links oficiais de compartilhamento. "
+            "O catálogo navegável dos mesmos templates (busca, cards e envio) está em "
+            "[Grok Bot Templates](https://grokbot-templates.com)."
+        ),
         "intro": (
             "Um [Grok Bot](https://docs.x.ai/grok-bot/get-started) é um agente xAI sempre ativo. "
             "Quem o possui pode publicar um link para outras pessoas adicionarem uma cópia. "
@@ -418,6 +471,7 @@ COPY = {
         "contents": "Conteúdo",
         "related_h": "Relacionado",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Documentação do Grok Bot](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [Host oficial de compartilhamento](https://x.ai/bot)\n"
@@ -431,6 +485,11 @@ COPY = {
     },
     "ru": {
         "tagline": "Курируемый список шаблонов Grok Bot от сообщества. Только официальные ссылки.",
+        "catalog": (
+            "Этот GitHub-список — источник официальных ссылок. "
+            "Просматриваемый каталог тех же шаблонов (поиск, карточки и отправка) — на "
+            "[Grok Bot Templates](https://grokbot-templates.com)."
+        ),
         "intro": (
             "[Grok Bot](https://docs.x.ai/grok-bot/get-started) — постоянно работающий агент xAI. "
             "Владелец может опубликовать ссылку, чтобы другие добавили копию. "
@@ -452,6 +511,7 @@ COPY = {
         "contents": "Содержание",
         "related_h": "Связанное",
         "related": (
+            "- [Grok Bot Templates](https://grokbot-templates.com)\n"
             "- [Документация Grok Bot](https://docs.x.ai/grok-bot/get-started)\n"
             "- [Bots](https://docs.x.ai/grok-bot/bots)\n"
             "- [Официальный хост ссылок](https://x.ai/bot)\n"
@@ -515,6 +575,8 @@ def render(lang: str, items: list[dict], i18n: dict) -> str:
         f"> {t['tagline']}",
         "",
         switcher(lang),
+        "",
+        t["catalog"],
         "",
         t["intro"],
         "",

@@ -4,6 +4,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md) · [Русский](README.ru.md)
 
+Cette liste GitHub est la source des liens officiels de partage. Le catalogue consultable des mêmes modèles (recherche, cartes et soumission) se trouve sur [Grok Bot Templates](https://grokbot-templates.com).
+
 Un [Grok Bot](https://docs.x.ai/grok-bot/get-started) est un agent xAI toujours actif. Son propriétaire peut publier un lien de partage pour qu’autrui ajoute une copie. Ce dépôt est une awesome list indépendante de ces modèles publics.
 
 Sans affiliation avec xAI. Chaque entrée est un nom, une ligne de description, un compte Twitter public s’il existe, et l’URL officielle `https://x.ai/bot/…`. Cette liste ne republie ni prompts, ni configs empaquetées, ni dumps mémoire, ni secrets.
@@ -177,6 +179,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 
 ## Liens
 
+- [Grok Bot Templates](https://grokbot-templates.com)
 - [Docs Grok Bot](https://docs.x.ai/grok-bot/get-started)
 - [Bots](https://docs.x.ai/grok-bot/bots)
 - [Hôte officiel de partage](https://x.ai/bot)

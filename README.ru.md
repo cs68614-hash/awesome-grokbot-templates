@@ -4,6 +4,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md) · **Русский**
 
+Этот GitHub-список — источник официальных ссылок. Просматриваемый каталог тех же шаблонов (поиск, карточки и отправка) — на [Grok Bot Templates](https://grokbot-templates.com).
+
 [Grok Bot](https://docs.x.ai/grok-bot/get-started) — постоянно работающий агент xAI. Владелец может опубликовать ссылку, чтобы другие добавили копию. Этот репозиторий — независимый awesome-список таких публичных шаблонов.
 
 Не связан с xAI. Каждая запись — имя, одна строка описания, публичный Twitter, если он есть, и официальный URL `https://x.ai/bot/…`. Список не перепубликует промпты, упакованные конфиги, дампы памяти и секреты.
@@ -177,6 +179,7 @@
 
 ## Связанное
 
+- [Grok Bot Templates](https://grokbot-templates.com)
 - [Документация Grok Bot](https://docs.x.ai/grok-bot/get-started)
 - [Bots](https://docs.x.ai/grok-bot/bots)
 - [Официальный хост ссылок](https://x.ai/bot)
