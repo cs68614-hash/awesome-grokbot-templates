@@ -1247,6 +1247,398 @@
       "twitter": "massimodeluisa",
       "share_url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
       "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Podcast Summary Bot",
+      "description": "Summarizes podcasts and interviews from a YouTube, X, or Spotify link into five reusable insights plus deeper notes.",
+      "category": "Creative",
+      "twitter": "theadvisorbtc",
+      "share_url": "https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Grok Deck",
+      "description": "Makes HTML slide decks in the Grok Bot look: paper canvas, blob faces, morphing page turns.",
+      "category": "Creative",
+      "twitter": "MaiYangAI",
+      "share_url": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Claude Code",
+      "description": "A dedicated coding agent that runs all software work through the Claude Code CLI.",
+      "category": "Engineering",
+      "twitter": "DanielZambrini",
+      "share_url": "https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Claudey",
+      "description": "Runs Anthropic Claude Code for frontend, UI, and architecture work; defaults to Opus and reports a PR when the CLI exits.",
+      "category": "Engineering",
+      "twitter": "farzyness",
+      "share_url": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Brake",
+      "description": "Finds what is burning Grok Bot usage and names the one repeating job to stop.",
+      "category": "Engineering",
+      "twitter": "FantomBuildz",
+      "share_url": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Pain in the Task",
+      "description": "Uncovers repetitive work that is slowing you down, prescribes the right kind of help, then puts it in motion.",
+      "category": "Assistants",
+      "twitter": "gambrill",
+      "share_url": "https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Grok VM maintenance",
+      "description": "A Linux VM maintenance bot that inspects guest CPU, memory, disk, and services, then installs or updates named packages.",
+      "category": "Engineering",
+      "twitter": "old_pgmrs_will",
+      "share_url": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Developer",
+      "description": "A Jack-land development partner that orchestrates coding labs through Tentacles and keeps Linear as the board.",
+      "category": "Engineering",
+      "twitter": "m_check1B",
+      "share_url": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Zeus",
+      "description": "A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go.",
+      "category": "Assistants",
+      "twitter": "MajdKaid",
+      "share_url": "https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "RevenueDog",
+      "description": "A morning sales analyst for indie subscription apps that pulls yesterday's RevenueCat numbers and the conversion path.",
+      "category": "Money",
+      "twitter": "lexrus",
+      "share_url": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Hermes SDR",
+      "description": "An outbound SDR agent that verifies each lead, then sends Instagram DMs and emails for a high-ticket offer.",
+      "category": "Sales",
+      "twitter": "MGallmur",
+      "share_url": "https://x.ai/bot/EAlUWK8yH_xfsBcpdu7e_",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Watchdog",
+      "description": "Scans email for receipts, renewals, and trials, then lists what is charging and what is due soon.",
+      "category": "Money",
+      "twitter": "jxckvibe",
+      "share_url": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Errol",
+      "description": "Twice-daily drill from A Catechism for Boys and Girls (Errol Hulse, Chapel Library).",
+      "category": "Life",
+      "twitter": "zachmllr",
+      "share_url": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Collins",
+      "description": "A daily catechism drill from Hercules Collins's An Orthodox Catechism (1680).",
+      "category": "Life",
+      "twitter": "zachmllr",
+      "share_url": "https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Keach",
+      "description": "A daily drill from Keach's Baptist Catechism (1693).",
+      "category": "Life",
+      "twitter": "zachmllr",
+      "share_url": "https://x.ai/bot/sAxCT93K8i7gwctmtAroD",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "BOTOSHI",
+      "description": "Zero ETH BOTCOIN mining rig onboarding miner.",
+      "category": "Money",
+      "twitter": "MineBotcoin",
+      "share_url": "https://x.ai/bot/29XazZFrrsJyI8LUnExDD",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "BeTree",
+      "description": "Compiles a multi-agent plan into a live behavior-tree graph for people who run work across several bots.",
+      "category": "Engineering",
+      "twitter": "NicoChauvin74",
+      "share_url": "https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Blockchain Data Expert",
+      "description": "Open-source Blockchain Data Expert for subgraph Q&A using The Graph official MCP and the user's Studio query key.",
+      "category": "Engineering",
+      "twitter": "data_nexus",
+      "share_url": "https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Bouncer",
+      "description": "Reviews a public Grok Bot share link or pasted config before you add it, and returns CLEAN, WARN, or BLOCK-recommended.",
+      "category": "Engineering",
+      "twitter": "bradshannon",
+      "share_url": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "It's Britney",
+      "description": "Sends random Britney Spears internet dance clips, timed to significant hours of the day.",
+      "category": "Life",
+      "twitter": "hnshah",
+      "share_url": "https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Product Idea Stress Test",
+      "description": "Investigates a product or startup idea for founders: what has to be true, evidence for and against, and the assumption most likely to kill it.",
+      "category": "Research",
+      "twitter": "hnshah",
+      "share_url": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Pitch Deck Coach",
+      "description": "Reviews a pitch deck and reports what an investor is likely to understand, believe, question, and remember.",
+      "category": "Sales",
+      "twitter": "hnshah",
+      "share_url": "https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Sterling",
+      "description": "A calm money teammate for personal spending, bills, balances, cards, and leftover cash; read-only unless asked.",
+      "category": "Money",
+      "twitter": "jchybow",
+      "share_url": "https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Watch Later Deck",
+      "description": "Turns a YouTube Watch Later pile into Learn / Build / Chill / Quick Hit swipe decks.",
+      "category": "Creative",
+      "twitter": "jordanwcjackson",
+      "share_url": "https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "github 优秀仓库",
+      "description": "A daily GitHub trending scout that picks a handful of hot repositories and explains, in Chinese, why each is worth a look.",
+      "category": "Research",
+      "twitter": "ios_1261142602",
+      "share_url": "https://x.ai/bot/D9HYH2jAmGiKw7e499mrE",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Feedback",
+      "description": "A product-feedback bot for Grok Bot, Cursor, and the X connector that writes a faithful report and files confirmed bugs.",
+      "category": "Engineering",
+      "twitter": "nytemodeonly",
+      "share_url": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Mercury",
+      "description": "Persistent technical and product lead for a research product: system understanding, release judgment, and narrow delegation.",
+      "category": "Engineering",
+      "twitter": "chiefjeeb",
+      "share_url": "https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Austin Parent",
+      "description": "A family chief of staff for Austin parents: school, calendar, activities, and household logistics.",
+      "category": "Life",
+      "twitter": "ChadWittman",
+      "share_url": "https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Susan Miller",
+      "description": "Daily horoscopes pulled from Susan Miller on Astrology Zone, as a short morning brief for sun and rising signs.",
+      "category": "Life",
+      "twitter": "cybrgalaxy",
+      "share_url": "https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "ClipMaker",
+      "description": "Cuts YouTube videos to a time range and returns full transcripts plus a short TLDR of the best take.",
+      "category": "Creative",
+      "twitter": "r40_io",
+      "share_url": "https://x.ai/bot/b986_CbfzB8jKLcU14LTi",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Wholefoods",
+      "description": "Weekly Whole Foods planner that pulls current store deals, builds a seven-day meal plan, and makes a categorized shopping list.",
+      "category": "Life",
+      "twitter": "DennisonBertram",
+      "share_url": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "NYC Parent",
+      "description": "A family chief of staff for New York City parents: school, calendar, activities, and household logistics.",
+      "category": "Life",
+      "twitter": "DennisonBertram",
+      "share_url": "https://x.ai/bot/DiNI489Qte5ryNvZjOROb",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Theta Vantage Desk",
+      "description": "Front-door options desk that reads live dealer gamma, options flow, implied volatility, and key levels for a ticker.",
+      "category": "Money",
+      "twitter": "ThetaVantage",
+      "share_url": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Chief Health",
+      "description": "Daily chief health officer that asks if training happened and rewrites the next session so the week still holds.",
+      "category": "Life",
+      "twitter": "AJA_Cortes",
+      "share_url": "https://x.ai/bot/6MHDA-LzErngNoRBaktLZ",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Lauren",
+      "description": "A coding coordinator for builders: cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof.",
+      "category": "Engineering",
+      "twitter": "EmilioSchwaiger",
+      "share_url": "https://x.ai/bot/PsJeduueXjha7521lhTSc",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "X High Coach",
+      "description": "Drop an X username and get a score, health flags, unfollow watch, and punchy rewrites.",
+      "category": "Creative",
+      "twitter": "Hightv",
+      "share_url": "https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "ButterBot",
+      "description": "Passes butter after each message.",
+      "category": "Life",
+      "twitter": "GabrieleMonni",
+      "share_url": "https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "WhatsApp Digest",
+      "description": "A read-only WhatsApp assistant that scans group chats and gives a short daily update of what actually matters.",
+      "category": "Assistants",
+      "twitter": "PetrusJvR",
+      "share_url": "https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "SchoolAdminBot",
+      "description": "Homeschool office for a family in any US state: walks the parent through that state's legal process and admits each child.",
+      "category": "Life",
+      "twitter": "DeanoRousselle",
+      "share_url": "https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "TeacherBot",
+      "description": "Homeschool teacher for one child: writes and administers the yearly plan after SchoolAdminBot admits that student.",
+      "category": "Life",
+      "twitter": "DeanoRousselle",
+      "share_url": "https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Action Loop",
+      "description": "Closes stalled action loops for people who ship something, then freeze waiting to feel ready.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Stuck Cycle",
+      "description": "Puts one skill onto the cycle learn → do → get stuck → learn only what the stuck point requires → try again.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/fihe4nAy0jFWoygo4JCAW",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Connection Audit",
+      "description": "Kills unused bookmarks and wires new ideas to problems you already have.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/qllnuXO-FDFBHZU4MSamY",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Retrieval Exam",
+      "description": "A closed-book examiner that tests whether you can reconstruct ideas from memory, not just recognize them.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Just-in-Time Curriculum",
+      "description": "Throws out stacked prep lists and replaces them with the one lesson the next real problem requires.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Struggle Gate",
+      "description": "A tutor that refuses to think for the student on the first pass and puts a 10-minute struggle gate before the answer.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Feedback Clock",
+      "description": "A blunt feedback engineer for people who practice a lot but learn slowly because feedback arrives too late.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/ySceLccAh5J8IVnq62mQl",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Doing Gap",
+      "description": "Workshop foreman for people stuck in tutorial hell: inventories consumed versus shipped and names the fear under one more tutorial.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Consumption Autopsy",
+      "description": "A learning auditor that diagnoses consumption versus doing, names the ratio, and cuts one input.",
+      "category": "Life",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+      "scraped_at": "2026-09-01"
     }
   ]
 }
