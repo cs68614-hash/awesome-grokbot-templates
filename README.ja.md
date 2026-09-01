@@ -20,13 +20,13 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 
 ## 目次
 
-- [アシスタント](#アシスタント) (31)
-- [エンジニアリング](#エンジニアリング) (19)
-- [リサーチ](#リサーチ) (16)
-- [マネー](#マネー) (11)
-- [セールス](#セールス) (14)
-- [クリエイティブ](#クリエイティブ) (23)
-- [ライフ](#ライフ) (23)
+- [アシスタント](#アシスタント) (33)
+- [エンジニアリング](#エンジニアリング) (22)
+- [リサーチ](#リサーチ) (17)
+- [マネー](#マネー) (12)
+- [セールス](#セールス) (15)
+- [クリエイティブ](#クリエイティブ) (24)
+- [ライフ](#ライフ) (24)
 - [関連](#関連)
 - [コントリビューション](#コントリビューション)
 
@@ -51,6 +51,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — 荷重を支える前提を見つけ、今も本当かを確かめます。 [@liam_fallen](https://x.com/liam_fallen)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — 平日アシスタント。プレイブックに沿ってメール、カレンダー、Notion、Slack を要約します。 [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 優先事項を、アシスタント横断の連携アクションに変えるチーフオブスタッフ。 [@kentcdodds](https://x.com/kentcdodds)
+- [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — 新しい Grok Bot ユーザーを、役割と使うツールから本番コネクタまで案内し、同じチャットで最初の実作業までやります。 [@OliverKorzen](https://x.com/OliverKorzen)
 - [Lazy Tom](https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb) — ドライで最小限。いちばん小さい役立つことだけして止まります。
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) — 選択肢で止まっているとき一方を選ぶ。実行はしません。 [@liam_fallen](https://x.com/liam_fallen)
 - [Orchestrator Bot](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — 仕事を専門ボットに振り、受け取りを確認したら止まります。 [@farzyness](https://x.com/farzyness)
@@ -62,6 +63,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — 説明のつかない変化を、最もありそうな原因が分かるまで調べます。 [@liam_fallen](https://x.com/liam_fallen)
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — 専門エージェントを雇い、世界レベルの判断だけ取るチーフオブスタッフ。 [@WorldlyReviewer](https://x.com/WorldlyReviewer)
 - [Spark](https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1) — 5分のオンボーディング。短い質問のあと、必要なボットを立ち上げます。 [@vincentzhu](https://x.com/vincentzhu)
+- [Steve J](https://x.ai/bot/cuEYUcYmz-497oKWVfWX2) — 個人の Grok Bot 名簿の品質CEO。ジョブカードに照らして他 bot をレビューし、未完了の仕事を差し戻します。 [@AhuraDeus](https://x.com/AhuraDeus)
 - [Witness](https://x.ai/bot/p_0KTQ41WwupGeD-iShbK) — なぜその決定をしたかの記録を残し、後から再開できるようにします。 [@liam_fallen](https://x.com/liam_fallen)
 
 ## エンジニアリング
@@ -70,12 +72,14 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — 導入済みの AI コーディングハーネス（Codex、Claude Code、Grok Build、Cursor）を最新に保ちます。新規ツールは入れません。 [@gheeunit](https://x.com/gheeunit)
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — ワンショットの Convex Web アプリ。作りたいものを言えば Vite + React + TypeScript + Convex を足場にします。 [@waynesutton](https://x.com/waynesutton)
 - [Bot Creator](https://x.ai/bot/nGEBqtXuN-klNcPPyoR3S) — 新しいボットの指示を書いてから作成します。 [@alonsaria](https://x.com/alonsaria)
+- [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) — 必要な Chrome Cookie を共有コンピュータに入れ、ログイン済み Grok Bot 艦隊のサインインを維持します。 [@scottxmetcalf](https://x.com/scottxmetcalf)
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — 好みを少し聞いてから、焦点の定まった Grok Bot を設計して作ります。 [@poteto](https://x.com/poteto)
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — キーワードや仕事を、出荷できる Grok Bot レシピに変えます（God of Prompt）。 [@rryssf](https://x.com/rryssf)
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — バイブコーディングのメンター兼コーディングウィザード。スキル評議会を率います。 [@NickADobos](https://x.com/NickADobos)
 - [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) — 本物の Grok Build CLI を、アプリ・コード・深いリサーチに最大努力で回します。 [@BillZanetti](https://x.com/BillZanetti)
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — grokbot.dev から毎日 Grok Bot のユースケースを推薦。取得したプロンプトは実行しません。 [@scheemunai](https://x.com/scheemunai)
 - [Interview Prep](https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3) — 選んだトピックで面接対策。例、動くコード、クイズ付き。 [@techdevnotes](https://x.com/techdevnotes)
+- [Lingxi's Engineer Bot](https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j) — 手を出さないエンジニアリング監督。仕事を載せ、クラウドエージェントを起動し、30分周期で PR を見て、マージだけ頼む。 [@lingxi](https://x.com/lingxi)
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 指定したリポジトリで gather、prompt、launch、review、merge を回します。 [@grok](https://x.com/grok)
 - [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) — 夜間のエンジニアリング監査。コードベース全体を調べ、領域ごとに1件のクリーンアップを出荷します。 [@daisuke](https://x.com/daisuke)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — リポジトリ、本、ログを一度バインドし、検索で答え、コストを表示します。 [@STACCoverflow](https://x.com/STACCoverflow)
@@ -83,6 +87,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — PR をリスク、不足テスト、薄い文脈の順でレビューし、その後に細かい指摘へ。 [@mustafaergisi](https://x.com/mustafaergisi)
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — Herdr 内でコーディングエージェントをオーケストレーション。Herdr はエージェント艦隊向けのオープンなランタイム端末マネージャです。 [@old_pgmrs_will](https://x.com/old_pgmrs_will)
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Grok Bot 艦隊全体の Cursor 使用量を監視し、どの bot が何を使ったかを指名します。 [@cjblev](https://x.com/cjblev)
+- [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — substreams.dev レジストリからパッケージを見つけて組み合わせ、StreamingFast スキルでモジュールを書いて試し、Graph Market の JWT 取得まで案内してストリームできるようにします。 [@graphtronauts_c](https://x.com/graphtronauts_c)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — ローカルセッションのセットアップ作業をスキャンし、共有用の Grok Bot テンプレートを出します。 [@STACCoverflow](https://x.com/STACCoverflow)
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 重い作業は既定で Cursor に渡し、任意で Grok Build、Claude Code、Codex にも回して、それらの使用枠を消化します。 [@JordanHall_dev](https://x.com/JordanHall_dev)
 
@@ -97,6 +102,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit リサーチャー。キーワードから痛みとアイデアパックを集め、投稿はしません。 [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — 平日朝のダイジェスト。実用 AI ツールを 2〜3 件、閑散日はスキップ。 [@byeleni](https://x.com/byeleni)
 - [Research Bot](https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH) — 出典付きの深い調査。未確認や偏った主張に印を付けます。 [@ArthurMacwaters](https://x.com/ArthurMacwaters)
+- [Research Runner](https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv) — 共有コンピュータでは回せない非公開分析と CUDA ジョブ向けに、Prism Network 上の NVIDIA GPU を借ります。 [@useprismnetwork](https://x.com/useprismnetwork)
 - [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) — リサーチとファクトチェックのデスク。毎回最新の Grok モデルで回します。 [@Groktoberr](https://x.com/Groktoberr)
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — ライバルのサイトと順位を監視。本物の動きで知らせ、週次ブリーフも出します。 [@adamta](https://x.com/adamta)
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) — サイトを SEO、速度、a11y、CRO、schema で採点し、根拠 URL を付けます。 [@scheemunai](https://x.com/scheemunai)
@@ -116,6 +122,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — Gmail の請求書 PDF を探し、金額を抜き、承認済みの月次 CSV にまとめます。 [@scheemunai](https://x.com/scheemunai)
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — 合法なお金の作り方を探す。初回実行でウォレットを用意します。 [@mbhound](https://x.com/mbhound)
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — 特典旅行の頭脳。クレジットカードと航空ポイントを最適化します。
+- [Senior Analyst](https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV) — OCR 画像とテキストを構造化データにし、財務諸表画像から Excel や、請求書・身分証・契約などの独自ブループリントにも対応します。 [@tobias_pfuetze](https://x.com/tobias_pfuetze)
 - [ShopBot](https://x.ai/bot/rBXWgythSa09pIp14rnV4) — 買い物アシスタント。Shopify UCP カタログを検索し、商品を比べ、クーポンを探し、Link または Shop Pay で支払います。 [@shubgaur](https://x.com/shubgaur)
 - [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — 受信箱の定期課金を読み、切るべきか乗り換えるべきかを示します。 [@tahaabuilds](https://x.com/tahaabuilds)
 
@@ -125,6 +132,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 顧客との通話を、顧客コンテキストからスライドにします。
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — フリーランス市場をスキャンし、初回連絡を送り、打ち合わせを入れます。 [@cristianmock](https://x.com/cristianmock)
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Google Ads、Meta、SEO、Shopify 向けのシニアマーケター。 [@irabukht](https://x.com/irabukht)
+- [Harry Dry](https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu) — Harry Dry 仕込みのコピーチーフ。LP、広告、メール、シェアカードを、視覚的で反証可能、自分にしか言えない一文に書き直します。 [@joseamijares](https://x.com/joseamijares)
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — 指定の取引、更新、見積を交渉する。署名もコミットもしません。 [@liam_fallen](https://x.com/liam_fallen)
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — 指定企業の意思決定者まで連れていき、その後あなたを会話に入れます。 [@liam_fallen](https://x.com/liam_fallen)
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — Peer-first プリセットで LinkedIn 招待を審査。承認後にだけクリックします。 [@SEO](https://x.com/SEO)
@@ -146,6 +154,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — X の動画や手元のファイルを、はっきりした切り口の短いクリップと GIF にします。 [@thesoragirls](https://x.com/thesoragirls)
 - [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — アイデアやリンクをシットコム風の短いクリップに。先に脚本、承認後に生成。 [@altryne](https://x.com/altryne)
 - [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — 順位付けした Instagram の企画を、スライドごとのコピーとキャプションにして映像エンジニアへ渡します。 [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Demo Video](https://x.ai/bot/htSXUJUQlVr60m9L_unBa) — Web アプリのナレーション付き 1080p 製品デモ。見せる画面を指定すると、ライブ UI を撮って音声とキャプションを付けます。 [@KdJadeja911](https://x.com/KdJadeja911)
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — コピーブリーフから Instagram のカルーセルと静止画を作る（上に写真、下に大きな文字）。 [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Figma でデザイン。本物のコンポーネント、直感的なレイアウト、しっくりくるモーション。 [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — ポスター、スタイルシート、投稿画像、印刷新聞、ヒーロー、LP、ブリーフ、スライドのアトリエを回します。 [@arni0x9053](https://x.com/arni0x9053)
@@ -169,6 +178,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — スキャンやフラットな PDF を Instafill.ai で入力可能なフォームにします。
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — 家庭用 EG4 ハイブリッド太陽光・バッテリーを監視し、故障を知らせます。 [@look4terry](https://x.com/look4terry)
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — ESPN リーグ向けファンタジーフットボール GM。ドラフト、ラインアップ、ウェイバー、トレード。ロスター変更前に確認。 [@Colehollander10](https://x.com/Colehollander10)
+- [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — 室内植物の非公開ケアログと、水やり・植え替え・肥料・季節の移動の週次リマインダーを保ちます。 [@RichSilver](https://x.com/RichSilver)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Quick Radar モードで X の DM 関係を地図化し、Act now スレッドを返します。 [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 頼まれたときに Instacart の買い物カートを計画します。 [@mvanhorn](https://x.com/mvanhorn)
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — 退役軍人の VA.gov 予約・請求・給付を追跡し、ID.me 系の案件を旗立てします。 [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
