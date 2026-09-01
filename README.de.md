@@ -21,12 +21,12 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 ## Inhalt
 
 - [Assistenten](#assistenten) (33)
-- [Engineering](#engineering) (22)
-- [Research](#research) (17)
+- [Engineering](#engineering) (23)
+- [Research](#research) (18)
 - [Geld](#geld) (12)
-- [Vertrieb](#vertrieb) (15)
-- [Kreativ](#kreativ) (24)
-- [Leben](#leben) (24)
+- [Vertrieb](#vertrieb) (17)
+- [Kreativ](#kreativ) (28)
+- [Leben](#leben) (25)
 - [Verwandt](#verwandt)
 - [Mitwirken](#mitwirken)
 
@@ -89,6 +89,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Beobachtet Cursor-Nutzung einer Grok-Bot-Flotte und nennt, welcher Bot was verbraucht hat. [@cjblev](https://x.com/cjblev)
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — Findet und kombiniert Pakete aus der substreams.dev-Registry, schreibt und testet Module mit StreamingFast-Skills und führt dich zu einem Graph-Market-JWT zum Streamen. [@graphtronauts_c](https://x.com/graphtronauts_c)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — Scannt lokale Sessions nach Setup-Aufgaben und bietet Grok-Bot-Vorlagen zum Teilen an. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) — Wöchentlicher Nutzungs-Auditor für Grok-Bot-Teams: inventarisiert Routinen, bewertet relative Kosten und markiert Doppeljobs und unnötiges Polling. [@maxjean__](https://x.com/maxjean__)
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — Gibt schwere Arbeit standardmäßig an Cursor, optional an Grok Build, Claude Code oder Codex, damit diese Nutzungspools genutzt werden. [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## Research
@@ -98,6 +99,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) — Morgendlicher Transkript-Recap der Kanäle deiner Wahl; still, wenn nichts Neues da ist. [@scheemunai](https://x.com/scheemunai)
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — Brieft neue offizielle Modellreleases großer Labs; sonst still. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Index](https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7) — SEO- und AEO-Mitspieler für Keyword-Recherche, Briefs und Search-Health. [@adamta](https://x.com/adamta)
+- [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — Recherchiert, was Leute in den letzten 30 Tagen auf Reddit, X, YouTube, TikTok, Hacker News und dem Web zu einem Thema wirklich gesagt haben. [@mvanhorn](https://x.com/mvanhorn)
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) — Beantwortet Fragen aus dem Archiv von Lenny's Data. [@lennysan](https://x.com/lennysan)
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit-Researcher: Schmerzpunkte und Ideenpakete aus Keywords; postet nie. [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — Wochentags-Morgendigest mit 2–3 praktischen KI-Tools — oder Pause an ruhigen Tagen. [@byeleni](https://x.com/byeleni)
@@ -129,6 +131,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 ## Vertrieb
 
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — Senior-Product-Marketer-Review einer Landingpage: URL schicken, Memo zurückbekommen. [@Talsiach](https://x.com/Talsiach)
+- [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — Business-Sparringspartner für technische Founder und Execs: Positioning, Distribution und Kommerzialisierung, bevor die Daten vollständig sind. [@thesmitpatel](https://x.com/thesmitpatel)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Macht aus einem Kundengespräch Folien aus dem Kundenkontext.
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — Scannt Freelance-Marktplätze, schickt Erstkontakte und bucht Meetings. [@cristianmock](https://x.com/cristianmock)
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Senior-Marketer für Google Ads, Meta, SEO und Shopify. [@irabukht](https://x.com/irabukht)
@@ -142,6 +145,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — Richtet PhoneZero-Outbound ein und tätigt einen Anruf nach einem ausdrücklichen Ja. [@ibelevy](https://x.com/ibelevy)
 - [Pitch Deck Analyzer](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — Prüft Pitch Decks gegen ein Profil aus einem kurzen Interview; nur Analyse. [@BrianDEvans](https://x.com/BrianDEvans)
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — Nach einem Meeting entwirft Todos und ein Follow-up; sendet nie. [@itspriyaptl](https://x.com/itspriyaptl)
+- [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) — Beobachtet Reddit, X, Hacker News und Bluesky nach Erwähnungen deines Produkts, von Wettbewerbern und Kaufsignalen. [@unicodef1wn](https://x.com/unicodef1wn)
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — Matcht Jobsuchende mit offenen Rollen aus deiner Mail. Scannt Investor-Updates und Inbound nach Hiring-Signalen und Suchenden. [@lennysan](https://x.com/lennysan)
 
 ## Kreativ
@@ -158,17 +162,21 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — Baut Instagram-Karussell und statische Motive aus Copy-Briefings (Foto oben, großer Text unten). [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Designt in Figma. Echte Komponenten, intuitives Layout und Motion, die sich richtig anfühlt. [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — Führt ein Atelier für Poster, Stylesheets, Postbilder, druckbare Zeitungen, Heroes, Landings, Briefs und Slides. [@arni0x9053](https://x.com/arni0x9053)
+- [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — Menschliche Rewrite-Stelle für E-Mail, Posts, Blogs, DMs, Landing-Texte und PR. Nur Entwurf. [@massimodeluisa](https://x.com/massimodeluisa)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — Macht aus Ideen und Posts maskottchengeführte Editorial-Illustrationen über den illo-Skill. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — Schreibt knappen, kopierbaren Alternativtext, fokussiert auf den wichtigsten Bildteil. [@kentcdodds](https://x.com/kentcdodds)
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — YouTube-Studio-Regie, die je ein Video als Thumbnail-Titel-Opening-Payoff-Vertrag entwirft. [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — Vorstellungs-Begleiter für Kunst, Welten, Gedichte und kleine Filme; warm und knapp. [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — Macht ein Meme aus einem Thema, das du wirfst; lustig zuerst, nie Schock. [@DogecoinNorway](https://x.com/DogecoinNorway)
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — Gräbt heiße KI-News der letzten 24 Stunden von Web, X und Instagram in ein Copy-Briefing. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) — Macht aus einem Foto eine Vier-Rollen-Farbpalette: beschrifteter 55/20/20/5-Balken und vier Hex-Werte aus dem Bild. [@subforti](https://x.com/subforti)
+- [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — Hilft Game-Devs, in echten Spielstilen zu ideen und visualisieren, dann 2D-Art oder Sprite Sheets als spielbereite PNGs. [@DannyLimanseta](https://x.com/DannyLimanseta)
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — Schneidet YouTube Shorts aus bewährtem Long-Form, zuerst mit Opus Clip, Descript als Backup. [@ShareGrokBots](https://x.com/ShareGrokBots)
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — Plant und veröffentlicht Instagram-Karussells und Posts aus fertigen Kreativen. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — Späht stündlich X/Reddit nach filmbaren KI/Tech-Kits für TikTok/Reels/Shorts. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Steuert Spotify: wählt Sets, schlägt Artists vor und mappt Spitznamen auf Geräte. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — Morgen-Stylist von Stitch Fix: Wetter, ein Outfit aus gekauften Teilen und Deals. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
+- [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — Drei X-Automatisierungen für Creator: Keyword-DMs, Follower-Warteschlange über einer Größe, und Spionage einer gesperrten Liste. [@theadvisorbtc](https://x.com/theadvisorbtc)
 - [Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — Sammelt und ordnet Inhalte des Would-You-Rather-Prompt-Spiels. [@CryptoVonDoom](https://x.com/CryptoVonDoom)
 
 ## Leben
@@ -178,6 +186,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — Macht gescannte und flache PDFs mit Instafill.ai zu ausfüllbaren Formularen.
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — Überwacht ein häusliches EG4-Hybrid-Solar- und Batteriesystem und markiert Störungen. [@look4terry](https://x.com/look4terry)
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — Fantasy-Football-GM für ESPN-Ligen: Draft, Lineups, Waivers und Trades; fragt vor Roster-Zügen. [@Colehollander10](https://x.com/Colehollander10)
+- [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) — Fantasy-Football-GM für Drafts, Trades und Rosterzüge; arbeitet mit Yahoo und Sleeper. [@TylerNishida](https://x.com/TylerNishida)
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — Führt ein privates Zimmerpflanzen-Pflegeprotokoll und wöchentliche Erinnerungen zu Gießen, Umtopfen, Düngen und saisonalem Umstellen. [@RichSilver](https://x.com/RichSilver)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Kartiert X-DM-Beziehungen im Quick-Radar-Modus und liefert Act-now-Threads. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Plant einen Instacart-Einkaufswagen, wenn du fragst. [@mvanhorn](https://x.com/mvanhorn)

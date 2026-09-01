@@ -21,12 +21,12 @@
 ## Содержание
 
 - [Ассистенты](#ассистенты) (33)
-- [Инжиниринг](#инжиниринг) (22)
-- [Исследования](#исследования) (17)
+- [Инжиниринг](#инжиниринг) (23)
+- [Исследования](#исследования) (18)
 - [Деньги](#деньги) (12)
-- [Продажи](#продажи) (15)
-- [Креатив](#креатив) (24)
-- [Жизнь](#жизнь) (24)
+- [Продажи](#продажи) (17)
+- [Креатив](#креатив) (28)
+- [Жизнь](#жизнь) (25)
 - [Связанное](#связанное)
 - [Участие](#участие)
 
@@ -89,6 +89,7 @@
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Следит за расходом Cursor по флоту Grok Bot и называет, какой бот сколько потратил. [@cjblev](https://x.com/cjblev)
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — Ищет и собирает пакеты из реестра substreams.dev, пишет и тестирует модули навыками StreamingFast и проводит к JWT Graph Market, чтобы стримить. [@graphtronauts_c](https://x.com/graphtronauts_c)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — Сканирует локальные сессии на задачи настройки и предлагает шаблоны Grok Bot для шаринга. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) — Еженедельный аудитор расхода для команд Grok Bot: инвентаризует рутины, оценивает относительную стоимость и ловит дубли и лишний поллинг. [@maxjean__](https://x.com/maxjean__)
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — Тяжёлую работу по умолчанию отдаёт Cursor, по желанию — Grok Build, Claude Code или Codex, чтобы эти квоты не простаивали. [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## Исследования
@@ -98,6 +99,7 @@
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) — Утренняя сводка транскриптов выбранных каналов; молчит, если нового нет. [@scheemunai](https://x.com/scheemunai)
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — Брифует официальные релизы моделей крупных лабораторий; в остальное время молчит. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Index](https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7) — Напарник по SEO и AEO: исследование ключей, брифы и здоровье поиска. [@adamta](https://x.com/adamta)
+- [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — Исследует, что люди реально говорили по теме за последние 30 дней на Reddit, X, YouTube, TikTok, Hacker News и в вебе. [@mvanhorn](https://x.com/mvanhorn)
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) — Отвечает на вопросы из архива Lenny's Data. [@lennysan](https://x.com/lennysan)
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Исследователь Reddit: боли и пакеты идей по ключевым словам; сам не постит. [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — Будничный утренний дайджест: 2–3 практических ИИ-инструмента или пропуск в тихий день. [@byeleni](https://x.com/byeleni)
@@ -129,6 +131,7 @@
 ## Продажи
 
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — Ревью лендинга старшим продакт-маркетологом: кидаете URL — получаете записку. [@Talsiach](https://x.com/Talsiach)
+- [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — Бизнес-партнёр для технических фаундеров и руководителей: позиционирование, дистрибуция и коммерциализация, пока данных ещё нет полностью. [@thesmitpatel](https://x.com/thesmitpatel)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Превращает звонок клиента в слайды из клиентского контекста.
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — Сканирует фриланс-площадки, шлёт первые контакты и ставит встречи. [@cristianmock](https://x.com/cristianmock)
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Старший маркетолог по Google Ads, Meta, SEO и Shopify. [@irabukht](https://x.com/irabukht)
@@ -142,6 +145,7 @@
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — Настраивает исходящие звонки PhoneZero и делает один звонок после явного «да». [@ibelevy](https://x.com/ibelevy)
 - [Pitch Deck Analyzer](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — Сверяет питч-деки с профилем из короткого интервью; только анализ. [@BrianDEvans](https://x.com/BrianDEvans)
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — После встречи пишет туду и фоллоу-ап; сам не отправляет. [@itspriyaptl](https://x.com/itspriyaptl)
+- [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) — Следит за Reddit, X, Hacker News и Bluesky: упоминания продукта, конкурентов и фразы с сигналом покупки. [@unicodef1wn](https://x.com/unicodef1wn)
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — Сводит соискателей с вакансиями из вашей почты. Сканирует апдейты инвесторов и входящие на сигналы найма и людей в поиске. [@lennysan](https://x.com/lennysan)
 
 ## Креатив
@@ -158,17 +162,21 @@
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — Делает карусель и статику Instagram из копибрифов (фото сверху, крупный текст снизу). [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Дизайнит в Figma. Настоящие компоненты, интуитивная вёрстка и движение, которое ощущается правильно. [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — Ведёт ателье постеров, стайл-шитов, картинок для постов, печатных газет, хиро, лендингов, брифов и слайдов. [@arni0x9053](https://x.com/arni0x9053)
+- [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — Стол человеческой переписки: письма, посты, блоги, DM, тела лендингов и PR. Только черновик. [@massimodeluisa](https://x.com/massimodeluisa)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — Превращает идеи и посты в маскот-иллюстрации через skill illo. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — Пишет короткий копируемый alt-текст, сфокусированный на самом важном в картинке. [@kentcdodds](https://x.com/kentcdodds)
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — Режиссёр YouTube-студии: одно видео за раз как контракт превью–заголовок–открытие–окупаемость. [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — Спутник воображения для искусства, миров, стихов и маленьких фильмов; тёплый и короткий. [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — Делает мем из темы, которую вы бросаете; сначала смешно, никогда шок. [@DogecoinNorway](https://x.com/DogecoinNorway)
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — Добывает горячие ИИ-новости за 24 часа с веба, X и Instagram в бриф для копирайта. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) — Делает из фото палитру из четырёх ролей: подписанный бар 55/20/20/5 и четыре hex, снятых с картинки. [@subforti](https://x.com/subforti)
+- [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — Помогает геймдевам придумывать и визуализировать в стилях реальных игр, затем режет 2D или спрайт-листы в готовые PNG. [@DannyLimanseta](https://x.com/DannyLimanseta)
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — Нарезает YouTube Shorts из проверенного лонгформа: сначала Opus Clip, запасной вариант — Descript. [@ShareGrokBots](https://x.com/ShareGrokBots)
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — Планирует и публикует карусели и посты Instagram из готовых креативов. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — Ежечасно скаутит X/Reddit в поисках снимаемых AI/tech-наборов для TikTok/Reels/Shorts. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Управляет Spotify: выбирает сеты, предлагает артистов и сопоставляет прозвища устройствам. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — Утренний стилист Stitch Fix: погода, образ из купленного и скидки. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
+- [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — Три X-автоматизации для авторов: DM по ключевому слову, очередь новых фолловеров выше порога и слежка за закрытым списком. [@theadvisorbtc](https://x.com/theadvisorbtc)
 - [Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — Собирает и упорядочивает контент игры-промптов Would You Rather. [@CryptoVonDoom](https://x.com/CryptoVonDoom)
 
 ## Жизнь
@@ -178,6 +186,7 @@
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — Превращает сканы и плоские PDF в заполняемые формы через Instafill.ai.
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — Следит за домашней гибридной солнечной и батареей системой EG4 и помечает сбои. [@look4terry](https://x.com/look4terry)
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — ГМ фэнтези-футбола для лиг ESPN: драфт, составы, вейверы и трейды; спрашивает перед сменой ростера. [@Colehollander10](https://x.com/Colehollander10)
+- [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) — ГМ фэнтези-футбола для драфтов, обменов и состава; работает с Yahoo и Sleeper. [@TylerNishida](https://x.com/TylerNishida)
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — Ведёт частный журнал ухода за комнатными растениями и еженедельные напоминания полить, пересадить, удобрить и переставить по сезону. [@RichSilver](https://x.com/RichSilver)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Картирует отношения в X DM в режиме Quick Radar и возвращает треды Act now. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Планирует корзину Instacart, когда вы просите. [@mvanhorn](https://x.com/mvanhorn)

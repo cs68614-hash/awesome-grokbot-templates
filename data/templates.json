@@ -1175,6 +1175,78 @@
       "twitter": "joseamijares",
       "share_url": "https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu",
       "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "RedReplier",
+      "description": "Watches Reddit, X, Hacker News, and Bluesky for mentions of your product, competitors, and buying-signal phrases.",
+      "category": "Sales",
+      "twitter": "unicodef1wn",
+      "share_url": "https://x.ai/bot/8aU6ly_uunnMabpybs3hB",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Usage Auditor",
+      "description": "A weekly usage auditor for Grok Bot teams that inventories routines, scores relative cost, and flags duplicate jobs and needless polling.",
+      "category": "Engineering",
+      "twitter": "maxjean__",
+      "share_url": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "last30days",
+      "description": "Research what people actually say about any topic in the last 30 days across Reddit, X, YouTube, TikTok, Hacker News, and the web.",
+      "category": "Research",
+      "twitter": "mvanhorn",
+      "share_url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Fantasy GM",
+      "description": "A fantasy football GM for drafts, trades, and roster moves that works with Yahoo and Sleeper.",
+      "category": "Life",
+      "twitter": "TylerNishida",
+      "share_url": "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Twitter Automations",
+      "description": "Three X automations for creators: keyword DMs, a follower queue above a size floor, and a locked-list spy.",
+      "category": "Creative",
+      "twitter": "theadvisorbtc",
+      "share_url": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Commercial Taste",
+      "description": "A business thought partner for technical founders and execs: positioning, distribution, and commercialization before the data is complete.",
+      "category": "Sales",
+      "twitter": "thesmitpatel",
+      "share_url": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Palette",
+      "description": "Turns a photo into a four-role colour palette: a labelled 55/20/20/5 bar chart and four hex codes sampled from the image.",
+      "category": "Creative",
+      "twitter": "subforti",
+      "share_url": "https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Sable: Game Art",
+      "description": "Helps game developers ideate and visualize in real-game styles, then produces 2D art or sprite sheets sliced into game-ready PNGs.",
+      "category": "Creative",
+      "twitter": "DannyLimanseta",
+      "share_url": "https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Human Copywriter",
+      "description": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. Draft only.",
+      "category": "Creative",
+      "twitter": "massimodeluisa",
+      "share_url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+      "scraped_at": "2026-09-01"
     }
   ]
 }

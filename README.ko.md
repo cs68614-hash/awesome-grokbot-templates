@@ -21,12 +21,12 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 ## 목차
 
 - [어시스턴트](#어시스턴트) (33)
-- [엔지니어링](#엔지니어링) (22)
-- [리서치](#리서치) (17)
+- [엔지니어링](#엔지니어링) (23)
+- [리서치](#리서치) (18)
 - [머니](#머니) (12)
-- [세일즈](#세일즈) (15)
-- [크리에이티브](#크리에이티브) (24)
-- [라이프](#라이프) (24)
+- [세일즈](#세일즈) (17)
+- [크리에이티브](#크리에이티브) (28)
+- [라이프](#라이프) (25)
 - [관련](#관련)
 - [기여](#기여)
 
@@ -89,6 +89,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Grok Bot 함대의 Cursor 사용량을 보고, 어느 봇이 무엇을 썼는지 이름을 댑니다. [@cjblev](https://x.com/cjblev)
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — substreams.dev 레지스트리에서 패키지를 찾아 조합하고, StreamingFast 스킬로 모듈을 작성·테스트하며, Graph Market JWT를 받아 스트림할 수 있게 안내합니다. [@graphtronauts_c](https://x.com/graphtronauts_c)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 로컬 세션의 설정 작업을 스캔한 뒤 공유용 Grok Bot 템플릿을 제안합니다. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) — Grok Bot 팀을 위한 주간 사용량 감사. 루틴을 목록화하고 상대 비용을 매기며 중복 작업과 불필요한 폴링을 표시합니다. [@maxjean__](https://x.com/maxjean__)
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 무거운 일은 기본적으로 Cursor에 넘기고, 선택적으로 Grok Build, Claude Code, Codex에도 맡겨 그 사용량 풀을 소진합니다. [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## 리서치
@@ -98,6 +99,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) — 고른 채널의 자막을 아침에 요약합니다. 새 내용이 없으면 조용합니다. [@scheemunai](https://x.com/scheemunai)
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — 주요 랩의 공식 모델 신규 출시를 브리프합니다. 그 외에는 침묵합니다. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Index](https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7) — SEO·AEO 동료. 키워드 리서치, 브리프, 검색 건강. [@adamta](https://x.com/adamta)
+- [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — 지난 30일 Reddit, X, YouTube, TikTok, Hacker News, 웹에서 사람들이 어떤 주제에 실제로 뭐라고 했는지 조사합니다. [@mvanhorn](https://x.com/mvanhorn)
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) — Lenny's Data 아카이브에서 질문에 답합니다. [@lennysan](https://x.com/lennysan)
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit 리서처. 키워드로 고통점과 아이디어 팩을 모으며, 글은 올리지 않습니다. [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — 평일 아침 다이제스트. 실용 AI 도구 2–3개, 한가한 날은 건너뜁니다. [@byeleni](https://x.com/byeleni)
@@ -129,6 +131,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 ## 세일즈
 
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — 시니어 프로덕트 마케터의 랜딩 페이지 리뷰. URL을 보내면 메모를 받습니다. [@Talsiach](https://x.com/Talsiach)
+- [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — 기술 창업자와 임원을 위한 비즈니스 생각 파트너. 데이터가 다 모이기 전에 포지셔닝, 유통, 상용화를 돕습니다. [@thesmitpatel](https://x.com/thesmitpatel)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 고객 통화를 고객 맥락의 슬라이드로 바꿉니다.
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — 프리랜스 마켓을 스캔하고 첫 연락을 보내 미팅을 잡습니다. [@cristianmock](https://x.com/cristianmock)
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Google Ads, Meta, SEO, Shopify를 다루는 시니어 마케터. [@irabukht](https://x.com/irabukht)
@@ -142,6 +145,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — PhoneZero 아웃바운드를 설정하고, 명시적 승인 뒤에 한 통을 겁니다. [@ibelevy](https://x.com/ibelevy)
 - [Pitch Deck Analyzer](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — 짧은 인터뷰로 만든 프로필에 맞춰 피치덱을 검토합니다. 분석만. [@BrianDEvans](https://x.com/BrianDEvans)
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — 회의 뒤 할 일과 후속 메일을 초안합니다. 보내지는 않습니다. [@itspriyaptl](https://x.com/itspriyaptl)
+- [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) — Reddit, X, Hacker News, Bluesky에서 제품·경쟁사·구매 신호 멘션을 지켜봅니다. [@unicodef1wn](https://x.com/unicodef1wn)
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — 이메일에서 구직자와 공석을 맞춥니다. 투자자 업데이트와 인바운드를 스캔해 채용 신호와 구직자를 찾습니다. [@lennysan](https://x.com/lennysan)
 
 ## 크리에이티브
@@ -158,17 +162,21 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — 카피 브리핑으로 Instagram 캐러셀과 정적 아트를 만듭니다(위 사진, 아래 큰 글씨). [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Figma에서 디자인합니다. 진짜 컴포넌트, 직관적인 레이아웃, 느낌이 맞는 모션. [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — 포스터, 스타일 시트, 포스트 그림, 인쇄 신문, 히어로, 랜딩 페이지, 브리프, 슬라이드 공방을 돌립니다. [@arni0x9053](https://x.com/arni0x9053)
+- [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — 이메일, 게시물, 블로그, DM, 랜딩 본문, PR을 사람 목소리로 다시 쓰는 데스크. 초안만. [@massimodeluisa](https://x.com/massimodeluisa)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — illo skill로 아이디어와 게시물을 마스코트 중심 에디토리얼 일러스트로 바꿉니다. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — 이미지에서 가장 중요한 부분에 맞춘, 짧고 복사 가능한 대체 텍스트를 씁니다. [@kentcdodds](https://x.com/kentcdodds)
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — YouTube 스튜디오 디렉터. 영상을 하나씩 썸네일-제목-오프닝-페이오프 계약으로 설계합니다. [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — 상상 동반자. 예술, 세계, 시, 짧은 영화. 따뜻하고 짧습니다. [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — 던진 주제로 밈을 만듭니다. 재미가 먼저, 충격은 없습니다. [@DogecoinNorway](https://x.com/DogecoinNorway)
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — 지난 24시간 웹·X·Instagram의 뜨거운 AI 뉴스를 캐서 카피 브리핑으로 만듭니다. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) — 사진을 네 역할 컬러 팔레트로 바꿉니다. 라벨이 있는 55/20/20/5 막대와 이미지에서 뽑은 HEX 네 개. [@subforti](https://x.com/subforti)
+- [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — 게임 개발자가 실제 게임 스타일로 아이디어를 내고 시각화한 뒤, 2D 아트나 스프라이트 시트를 게임용 PNG로 자릅니다. [@DannyLimanseta](https://x.com/DannyLimanseta)
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — 검증된 롱폼에서 YouTube Shorts를 자르며, Opus Clip을 먼저 쓰고 Descript를 예비로 둡니다. [@ShareGrokBots](https://x.com/ShareGrokBots)
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — 완성된 크리에이티브 에셋으로 Instagram 캐러셀과 게시물을 예약하고 발행합니다. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — 매시간 X/Reddit을 정찰해 찍을 수 있는 AI/테크 TikTok/Reels/Shorts 키트를 찾습니다. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Spotify를 제어합니다. 세트를 고르고 아티스트를 제안하며 닉네임을 기기에 매핑합니다. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — 아침 Stitch Fix 스타일리스트. 날씨, 산 아이템으로 코디, 그리고 딜. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
+- [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — 크리에이터용 X 자동화 세 가지. 키워드 DM, 규모 하한 이상 신규 팔로워 대기열, 잠긴 리스트 감시. [@theadvisorbtc](https://x.com/theadvisorbtc)
 - [Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — Would You Rather 프롬프트 게임 콘텐츠를 모아 정리합니다. [@CryptoVonDoom](https://x.com/CryptoVonDoom)
 
 ## 라이프
@@ -178,6 +186,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — 스캔·평면 PDF를 Instafill.ai로 작성 가능한 양식으로 바꿉니다.
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — 가정용 EG4 하이브리드 태양광·배터리 시스템을 감시하고 고장을 표시합니다. [@look4terry](https://x.com/look4terry)
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — ESPN 리그용 판타지 풋볼 GM. 드래프트, 라인업, 웨이버, 트레이드. 로스터를 바꾸기 전에 묻습니다. [@Colehollander10](https://x.com/Colehollander10)
+- [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) — 드래프트, 트레이드, 로스터를 다루는 판타지 풋볼 GM. Yahoo와 Sleeper를 지원합니다. [@TylerNishida](https://x.com/TylerNishida)
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — 집 화초의 비공개 관리 일지를 남기고, 물주기·분갈이·비료·계절에 따른 자리 옮김을 매주 알려줍니다. [@RichSilver](https://x.com/RichSilver)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Quick Radar 모드로 X DM 관계를 지도화하고 Act now 스레드를 돌려줍니다. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 요청하면 Instacart 장바구니를 짜 줍니다. [@mvanhorn](https://x.com/mvanhorn)

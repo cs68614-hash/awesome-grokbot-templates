@@ -1615,5 +1615,104 @@
     "de": "Ein auf Harry Dry trainierter Copy-Chef, der Landings, Ads, Mails und Share Cards so umschreibt, dass jede Zeile visuell, falsifizierbar und nur von dir ist.",
     "pt-BR": "Um copy chief treinado em Harry Dry que reescreve landings, anúncios, e-mails e share cards para cada linha ser visual, falseável e só sua.",
     "ru": "Копи-шеф по школе Harry Dry: переписывает лендинги, рекламу, письма и карточки так, чтобы каждая строка была зримой, проверяемой и только вашей."
+  },
+  "https://x.ai/bot/8aU6ly_uunnMabpybs3hB": {
+    "zh-CN": "盯着 Reddit、X、Hacker News 和 Bluesky，找你产品、竞品和购买信号相关的提及。",
+    "zh-TW": "盯著 Reddit、X、Hacker News 和 Bluesky，找你產品、競品和購買訊號相關的提及。",
+    "ja": "Reddit、X、Hacker News、Bluesky を監視し、自社・競合・購買シグナルの言及を拾います。",
+    "ko": "Reddit, X, Hacker News, Bluesky에서 제품·경쟁사·구매 신호 멘션을 지켜봅니다.",
+    "es": "Vigila Reddit, X, Hacker News y Bluesky por menciones de tu producto, competidores y frases de intención de compra.",
+    "fr": "Surveille Reddit, X, Hacker News et Bluesky pour les mentions de votre produit, des concurrents et des signaux d’achat.",
+    "de": "Beobachtet Reddit, X, Hacker News und Bluesky nach Erwähnungen deines Produkts, von Wettbewerbern und Kaufsignalen.",
+    "pt-BR": "Monitora Reddit, X, Hacker News e Bluesky por menções do seu produto, concorrentes e frases de sinal de compra.",
+    "ru": "Следит за Reddit, X, Hacker News и Bluesky: упоминания продукта, конкурентов и фразы с сигналом покупки."
+  },
+  "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2": {
+    "zh-CN": "给 Grok Bot 团队做每周用量审计：盘点例行任务、给相对成本打分，并标出重复工作和无谓轮询。",
+    "zh-TW": "給 Grok Bot 團隊做每週用量稽核：盤點例行任務、給相對成本打分，並標出重複工作和無謂輪詢。",
+    "ja": "Grok Bot チーム向けの週次利用監査。ルーチンを棚卸し、相対コストを採点し、重複ジョブと不要なポーリングを指摘します。",
+    "ko": "Grok Bot 팀을 위한 주간 사용량 감사. 루틴을 목록화하고 상대 비용을 매기며 중복 작업과 불필요한 폴링을 표시합니다.",
+    "es": "Auditor semanal de uso para equipos de Grok Bot: inventaria rutinas, puntúa el coste relativo y señala trabajos duplicados y polling inútil.",
+    "fr": "Auditeur d’usage hebdomadaire pour les équipes Grok Bot : inventorie les routines, note le coût relatif et signale jobs en double et polling inutile.",
+    "de": "Wöchentlicher Nutzungs-Auditor für Grok-Bot-Teams: inventarisiert Routinen, bewertet relative Kosten und markiert Doppeljobs und unnötiges Polling.",
+    "pt-BR": "Auditor semanal de uso para times de Grok Bot: inventaria rotinas, pontua o custo relativo e marca jobs duplicados e polling desnecessário.",
+    "ru": "Еженедельный аудитор расхода для команд Grok Bot: инвентаризует рутины, оценивает относительную стоимость и ловит дубли и лишний поллинг."
+  },
+  "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8": {
+    "zh-CN": "研究过去 30 天人们在 Reddit、X、YouTube、TikTok、Hacker News 和网上对某一话题实际说了什么。",
+    "zh-TW": "研究過去 30 天人們在 Reddit、X、YouTube、TikTok、Hacker News 和網上對某一話題實際說了什麼。",
+    "ja": "直近30日に Reddit、X、YouTube、TikTok、Hacker News、ウェブで、ある話題について人が実際に何と言ったかを調べます。",
+    "ko": "지난 30일 Reddit, X, YouTube, TikTok, Hacker News, 웹에서 사람들이 어떤 주제에 실제로 뭐라고 했는지 조사합니다.",
+    "es": "Investiga lo que la gente dijo de verdad sobre un tema en los últimos 30 días en Reddit, X, YouTube, TikTok, Hacker News y la web.",
+    "fr": "Recherche ce que les gens ont vraiment dit sur un sujet ces 30 derniers jours sur Reddit, X, YouTube, TikTok, Hacker News et le web.",
+    "de": "Recherchiert, was Leute in den letzten 30 Tagen auf Reddit, X, YouTube, TikTok, Hacker News und dem Web zu einem Thema wirklich gesagt haben.",
+    "pt-BR": "Pesquisa o que as pessoas de fato disseram sobre um tema nos últimos 30 dias no Reddit, X, YouTube, TikTok, Hacker News e na web.",
+    "ru": "Исследует, что люди реально говорили по теме за последние 30 дней на Reddit, X, YouTube, TikTok, Hacker News и в вебе."
+  },
+  "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH": {
+    "zh-CN": "幻想足球总经理，管选秀、交易和阵容，对接 Yahoo 和 Sleeper。",
+    "zh-TW": "幻想足球總經理，管選秀、交易和陣容，對接 Yahoo 和 Sleeper。",
+    "ja": "ドラフト、トレード、ロスター向けのファンタジーフットボール GM。Yahoo と Sleeper に対応。",
+    "ko": "드래프트, 트레이드, 로스터를 다루는 판타지 풋볼 GM. Yahoo와 Sleeper를 지원합니다.",
+    "es": "GM de fantasy football para drafts, trades y roster; trabaja con Yahoo y Sleeper.",
+    "fr": "GM de fantasy football pour drafts, trades et roster, qui marche avec Yahoo et Sleeper.",
+    "de": "Fantasy-Football-GM für Drafts, Trades und Rosterzüge; arbeitet mit Yahoo und Sleeper.",
+    "pt-BR": "GM de fantasy football para drafts, trades e elenco; funciona com Yahoo e Sleeper.",
+    "ru": "ГМ фэнтези-футбола для драфтов, обменов и состава; работает с Yahoo и Sleeper."
+  },
+  "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS": {
+    "zh-CN": "给创作者的三套 X 自动化：关键词私信、超过粉丝门槛的新关注排队，以及锁定名单盯梢。",
+    "zh-TW": "給創作者的三套 X 自動化：關鍵詞私訊、超過粉絲門檻的新關注排隊，以及鎖定名單盯梢。",
+    "ja": "クリエイター向けの X 自動化3種。キーワード DM、フォロワー数下限以上の新規フォロワー待ち行列、ロックされたリストの偵察。",
+    "ko": "크리에이터용 X 자동화 세 가지. 키워드 DM, 규모 하한 이상 신규 팔로워 대기열, 잠긴 리스트 감시.",
+    "es": "Tres automatizaciones de X para creadores: DMs por keyword, cola de nuevos followers por encima de un umbral, y espía de una lista bloqueada.",
+    "fr": "Trois automatisations X pour créateurs : DM mot-clé, file de nouveaux followers au-dessus d’un seuil, et espionnage d’une liste verrouillée.",
+    "de": "Drei X-Automatisierungen für Creator: Keyword-DMs, Follower-Warteschlange über einer Größe, und Spionage einer gesperrten Liste.",
+    "pt-BR": "Três automações do X para criadores: DMs por palavra-chave, fila de novos followers acima de um piso, e espião de lista travada.",
+    "ru": "Три X-автоматизации для авторов: DM по ключевому слову, очередь новых фолловеров выше порога и слежка за закрытым списком."
+  },
+  "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX": {
+    "zh-CN": "给技术创始人和高管的商业参谋：在数据还不齐时做定位、分发和商业化。",
+    "zh-TW": "給技術創辦人和高階主管的商業參謀：在資料還不齊時做定位、分發和商業化。",
+    "ja": "技術系創業者と役員向けのビジネス思考パートナー。データが揃う前にポジショニング、流通、商用化を決める。",
+    "ko": "기술 창업자와 임원을 위한 비즈니스 생각 파트너. 데이터가 다 모이기 전에 포지셔닝, 유통, 상용화를 돕습니다.",
+    "es": "Socio de pensamiento comercial para founders técnicos y execs: positioning, distribución y comercialización antes de que estén todos los datos.",
+    "fr": "Partenaire de réflexion business pour fondateurs techniques et execs : positionnement, distribution et commercialisation avant que les données soient complètes.",
+    "de": "Business-Sparringspartner für technische Founder und Execs: Positioning, Distribution und Kommerzialisierung, bevor die Daten vollständig sind.",
+    "pt-BR": "Parceiro de pensamento comercial para founders técnicos e execs: posicionamento, distribuição e comercialização antes dos dados estarem completos.",
+    "ru": "Бизнес-партнёр для технических фаундеров и руководителей: позиционирование, дистрибуция и коммерциализация, пока данных ещё нет полностью."
+  },
+  "https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V": {
+    "zh-CN": "把一张照片变成四角色调色板：带标注的 55/20/20/5 色条，以及从画面采样的四个十六进制色值。",
+    "zh-TW": "把一張照片變成四角色調色盤：帶標註的 55/20/20/5 色條，以及從畫面取樣的四個十六進位色值。",
+    "ja": "写真を4役のカラーパレットに。ラベル付き 55/20/20/5 バーと、画像からサンプリングした4つの HEX。",
+    "ko": "사진을 네 역할 컬러 팔레트로 바꿉니다. 라벨이 있는 55/20/20/5 막대와 이미지에서 뽑은 HEX 네 개.",
+    "es": "Convierte una foto en una paleta de cuatro roles: barra 55/20/20/5 etiquetada y cuatro hex muestreados de la imagen.",
+    "fr": "Transforme une photo en palette à quatre rôles : barre 55/20/20/5 légendée et quatre hex échantillonnés dans l’image.",
+    "de": "Macht aus einem Foto eine Vier-Rollen-Farbpalette: beschrifteter 55/20/20/5-Balken und vier Hex-Werte aus dem Bild.",
+    "pt-BR": "Transforma uma foto em paleta de quatro papéis: barra 55/20/20/5 rotulada e quatro hex amostrados da imagem.",
+    "ru": "Делает из фото палитру из четырёх ролей: подписанный бар 55/20/20/5 и четыре hex, снятых с картинки."
+  },
+  "https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys": {
+    "zh-CN": "帮游戏开发者按真实游戏风格构思和可视化，再产出 2D 图或精灵表并切成可直接用的 PNG。",
+    "zh-TW": "幫遊戲開發者按真實遊戲風格構思和視覺化，再產出 2D 圖或精靈表並切成可直接用的 PNG。",
+    "ja": "ゲーム開発者の着想と可視化を、実在ゲームのスタイルで手伝い、2D アートやスプライトシートをゲーム用 PNG に切り出します。",
+    "ko": "게임 개발자가 실제 게임 스타일로 아이디어를 내고 시각화한 뒤, 2D 아트나 스프라이트 시트를 게임용 PNG로 자릅니다.",
+    "es": "Ayuda a game devs a idear y visualizar con estilos de juegos reales, luego produce arte 2D o sprite sheets recortados a PNG listos para el juego.",
+    "fr": "Aide les game devs à idéer et visualiser dans des styles de vrais jeux, puis produit de l’art 2D ou des sprite sheets découpés en PNG prêts jeu.",
+    "de": "Hilft Game-Devs, in echten Spielstilen zu ideen und visualisieren, dann 2D-Art oder Sprite Sheets als spielbereite PNGs.",
+    "pt-BR": "Ajuda game devs a idear e visualizar em estilos de jogos reais, depois produz arte 2D ou sprite sheets fatiados em PNGs prontos para o jogo.",
+    "ru": "Помогает геймдевам придумывать и визуализировать в стилях реальных игр, затем режет 2D или спрайт-листы в готовые PNG."
+  },
+  "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ": {
+    "zh-CN": "用人声重写邮件、帖子、博客、私信、落地页正文和公关稿。只出草稿。",
+    "zh-TW": "用人聲重寫郵件、貼文、部落格、私訊、落地頁正文和公關稿。只出草稿。",
+    "ja": "メール、投稿、ブログ、DM、LP 本文、PR を人の声で書き直すデスク。下書きのみ。",
+    "ko": "이메일, 게시물, 블로그, DM, 랜딩 본문, PR을 사람 목소리로 다시 쓰는 데스크. 초안만.",
+    "es": "Mesa de reescritura con voz humana para email, posts, blogs, DMs, cuerpos de landing y PR. Solo borrador.",
+    "fr": "Bureau de réécriture à voix humaine pour e-mails, posts, blogs, DM, corps de landing et RP. Brouillon seulement.",
+    "de": "Menschliche Rewrite-Stelle für E-Mail, Posts, Blogs, DMs, Landing-Texte und PR. Nur Entwurf.",
+    "pt-BR": "Mesa de reescrita em voz humana para e-mail, posts, blogs, DMs, corpos de landing e PR. Só rascunho.",
+    "ru": "Стол человеческой переписки: письма, посты, блоги, DM, тела лендингов и PR. Только черновик."
   }
 }
