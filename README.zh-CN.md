@@ -20,13 +20,13 @@
 
 ## 目录
 
-- [助理](#助理) (29)
-- [工程](#工程) (15)
+- [助理](#助理) (31)
+- [工程](#工程) (19)
 - [研究](#研究) (16)
 - [金钱](#金钱) (11)
-- [销售](#销售) (12)
-- [创意](#创意) (21)
-- [生活](#生活) (22)
+- [销售](#销售) (14)
+- [创意](#创意) (23)
+- [生活](#生活) (23)
 - [相关](#相关)
 - [贡献](#贡献)
 
@@ -41,6 +41,7 @@
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea) — 低打扰的幕僚长，覆盖 Slack、收件箱和日历；只拟稿，从不发送。 [@aryamankhawow](https://x.com/aryamankhawow)
 - [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — 从一张桌子运转日常与董事会；最后的「可以」仍由人拍板。 [@Av1dlive](https://x.com/Av1dlive)
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — 每日店铺/项目日记；晚间先摆事实，再回顾当天发生了什么。 [@RichSilver](https://x.com/RichSilver)
+- [CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — 面向一小队专业 AI 智能体的私人幕僚长；协调日历、项目和收件箱。 [@theaaron](https://x.com/theaaron)
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) — 盯着 Gmail，发现看起来紧急或需要回复的邮件就提醒你。 [@Vixlio](https://x.com/Vixlio)
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — 维护每日变更时间线，方便事后还原当时发生了什么。 [@liam_fallen](https://x.com/liam_fallen)
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — 追查收尾不清的问题，并走完每一步安全的解决动作。 [@liam_fallen](https://x.com/liam_fallen)
@@ -57,6 +58,7 @@
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — 管理 Notion 项目和专业机器人；人做决定，智能体去执行。 [@ericzakariasson](https://x.com/ericzakariasson)
 - [Randal](https://x.ai/bot/IHA3Iiw7vhSa5lmE82o-p) — COO：管员工机器人、盯进度，并协助运营。 [@raihankhan_rk](https://x.com/raihankhan_rk)
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) — 审计重复劳动和闲置工具；只建议砍掉，从不先删除。 [@liam_fallen](https://x.com/liam_fallen)
+- [Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — 带着刚接触 Grok Bot 的人搭一个小队：一名主管、几位项目负责人和若干专家。 [@theaaron](https://x.com/theaaron)
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — 追查说不清的变化，直到找出最可能的原因。 [@liam_fallen](https://x.com/liam_fallen)
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — 幕僚长：招募专业智能体，自己只拍世界级的板。 [@WorldlyReviewer](https://x.com/WorldlyReviewer)
 - [Spark](https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1) — 五分钟上手：先做一份短问卷，再生成你需要的机器人。 [@vincentzhu](https://x.com/vincentzhu)
@@ -71,14 +73,18 @@
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — 先问几项偏好，再设计并创建一个聚焦的 Grok Bot。 [@poteto](https://x.com/poteto)
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — 把关键词或岗位变成可上线的 Grok Bot 配方（God of Prompt）。 [@rryssf](https://x.com/rryssf)
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — 氛围编程导师兼编码巫师，带领一套技能议会。 [@NickADobos](https://x.com/NickADobos)
+- [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) — 用真正的 Grok Build CLI 做应用、代码和深度调研，全力跑满。 [@BillZanetti](https://x.com/BillZanetti)
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — 每日从 grokbot.dev 推荐 Grok Bot 用例；从不运行抓来的提示词。 [@scheemunai](https://x.com/scheemunai)
 - [Interview Prep](https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3) — 按你选的主题做面试准备，带例子、可运行代码和测验。 [@techdevnotes](https://x.com/techdevnotes)
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 对你指定的仓库跑 gather、prompt、launch、review 和 merge。 [@grok](https://x.com/grok)
+- [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) — 夜间工程审计员：先调研整份代码库，再按区域各交一处清理。 [@daisuke](https://x.com/daisuke)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — 一次性绑定仓库、书或日志，按检索作答并显示花费。 [@STACCoverflow](https://x.com/STACCoverflow)
+- [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — 让共享的多 bot 工作区保持整齐、有 git 备份、可带走，含布局约定和清理。 [@theaaron](https://x.com/theaaron)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — 先审 PR 的风险、缺测和单薄上下文，再谈细枝末节。 [@mustafaergisi](https://x.com/mustafaergisi)
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — 在 Herdr 里编排编码智能体；Herdr 是面向智能体舰队的开源运行时终端管理器。 [@old_pgmrs_will](https://x.com/old_pgmrs_will)
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — 盯着一整队 Grok Bot 的 Cursor 用量，点名哪个 bot 花了多少。 [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 扫描本地会话里的搭建任务，再给出可分享的 Grok Bot 模板。 [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 默认把重活交给 Cursor，也可交给 Grok Build、Claude Code 或 Codex，把那些用量池用起来。 [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## 研究
 
@@ -115,8 +121,10 @@
 
 ## 销售
 
+- [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — 资深产品营销人审落地页：丢一个 URL，拿回备忘录。 [@Talsiach](https://x.com/Talsiach)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 把客户通话变成基于客户背景的幻灯片。
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — 扫描自由职业市场、发出首封联系，并约会议。 [@cristianmock](https://x.com/cristianmock)
+- [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — 面向 Google Ads、Meta、SEO 和 Shopify 的资深营销人。 [@irabukht](https://x.com/irabukht)
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — 就既定交易、续约或报价谈判；从不签字或承诺。 [@liam_fallen](https://x.com/liam_fallen)
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — 把你带到指定公司的决策人面前，再把你拉进对话。 [@liam_fallen](https://x.com/liam_fallen)
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — 用 Peer-first 预设审核 LinkedIn 邀请；只有你批准后才点击。 [@SEO](https://x.com/SEO)
@@ -130,6 +138,7 @@
 
 ## 创意
 
+- [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) — 画一幅超宽 16:9 场景，拆成四格滑动分镜，说话像说唱歌手。 [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — 用官方或版权方素材剪辑、重剪并写分镜；从不自动发布或覆盖源文件。
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — 在各市场翻找二手设计师与低调奢侈单品，只列真实在售。 [@jediahkatz](https://x.com/jediahkatz)
 - [Chef (by dogenorway)](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) — 找食谱、餐计划和购物清单，默认当季本地食材。 [@unicodef1wn](https://x.com/unicodef1wn)
@@ -138,6 +147,7 @@
 - [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — 把点子或链接做成短情景喜剧片段；先写剧本，批准后再生成。 [@altryne](https://x.com/altryne)
 - [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — 把已排序的 Instagram 点子写成每页文案和配文，交给视听工程师。 [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — 按文案简报做 Instagram 轮播和静态图（上图下文，大字在下）。 [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — 在 Figma 里做设计：真组件、直观布局、感觉对的动效。 [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — 开一间工作室，做海报、风格表、帖图、可印报纸、英雄图、落地页、简报和幻灯片。 [@arni0x9053](https://x.com/arni0x9053)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — 通过 illo skill，把点子和帖子变成吉祥物主导的编辑插画。 [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — 写简短可复制的替代文本，聚焦图像里最要紧的部分。 [@kentcdodds](https://x.com/kentcdodds)
@@ -163,6 +173,7 @@
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 你开口时，规划一辆 Instacart 购物车。 [@mvanhorn](https://x.com/mvanhorn)
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — 跟踪退伍军人在 VA.gov 上的预约、索赔和福利，并标出 ID.me 一类的优惠。 [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — 用聊天控制联网家用机器人：启动、暂停、回坞或查状态。 [@SawyerMerritt](https://x.com/SawyerMerritt)
+- [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) — 家长助手：拉取 Schoology，更新家庭作业站点，并盯着学校活动。 [@ahalvor](https://x.com/ahalvor)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — 按 12 小时节奏，在主要房源站搜租房和住宅。 [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — 按计划清扫已连接的收件箱，把待办收进一本账。 [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 把文件或文件夹发布成 here.now 链接；不撰写内容本身。 [@adamludwin](https://x.com/adamludwin)

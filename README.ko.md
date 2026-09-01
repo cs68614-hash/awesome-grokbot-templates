@@ -4,7 +4,7 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md) · [Русский](README.ru.md)
 
-이 GitHub 목록은 공식 공유 링크의 원본입니다.같은 템플릿을 검색·카드·제출로 둘러볼 수 있는 카탈로그는 [Grok Bot Templates](https://grokbot-templates.com)에 있습니다.
+이 GitHub 목록은 공식 공유 링크의 출처입니다.같은 템플릿을 검색·카드·제출로 둘러볼 수 있는 카탈로그는 [Grok Bot Templates](https://grokbot-templates.com)에 있습니다.
 
 [Grok Bot](https://docs.x.ai/grok-bot/get-started)은 xAI의 상시 실행 에이전트입니다.소유자는 공유 링크를 공개해 다른 사람이 사본을 추가하게 할 수 있습니다.이 저장소는 그런 공개 템플릿을 모은 독립 awesome 목록입니다.
 
@@ -20,13 +20,13 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 
 ## 목차
 
-- [어시스턴트](#어시스턴트) (29)
-- [엔지니어링](#엔지니어링) (15)
+- [어시스턴트](#어시스턴트) (31)
+- [엔지니어링](#엔지니어링) (19)
 - [리서치](#리서치) (16)
 - [머니](#머니) (11)
-- [세일즈](#세일즈) (12)
-- [크리에이티브](#크리에이티브) (21)
-- [라이프](#라이프) (22)
+- [세일즈](#세일즈) (14)
+- [크리에이티브](#크리에이티브) (23)
+- [라이프](#라이프) (23)
 - [관련](#관련)
 - [기여](#기여)
 
@@ -41,6 +41,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea) — 저소음 비서실장. Slack, 받은편지함, 캘린더를 다루며 초안만 쓰고 보내지는 않습니다. [@aryamankhawow](https://x.com/aryamankhawow)
 - [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — 하루와 이사회를 한 책상에서 굴리며, 마지막 승인은 사람이 합니다. [@Av1dlive](https://x.com/Av1dlive)
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — 매일 가게/프로젝트 일기. 저녁에 사실 위주로 하루를 정리합니다. [@RichSilver](https://x.com/RichSilver)
+- [CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — 전문 AI 에이전트 소규모 팀을 위한 개인 비서실장. 캘린더, 프로젝트, 받은편지함을 조율합니다. [@theaaron](https://x.com/theaaron)
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) — Gmail을 지켜보다가 급하거나 답장이 필요해 보이는 메일이면 알립니다. [@Vixlio](https://x.com/Vixlio)
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — 일별 변경 타임라인을 남겨 나중에 무슨 일이 있었는지 재구성할 수 있게 합니다. [@liam_fallen](https://x.com/liam_fallen)
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — 남은 문제를 조사하고, 안전한 해결 단계를 모두 밟습니다. [@liam_fallen](https://x.com/liam_fallen)
@@ -57,6 +58,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — Notion 프로젝트와 전문 봇을 관리합니다. 결정은 사용자, 실행은 에이전트. [@ericzakariasson](https://x.com/ericzakariasson)
 - [Randal](https://x.ai/bot/IHA3Iiw7vhSa5lmE82o-p) — 스태프 봇을 관리하고 일정을 지키며 운영을 돕는 COO. [@raihankhan_rk](https://x.com/raihankhan_rk)
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) — 반복 업무와 안 쓰는 도구를 감사합니다. 삭제를 권하되 먼저 지우지는 않습니다. [@liam_fallen](https://x.com/liam_fallen)
+- [Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — Grok Bot 초심자에게 작은 팀을 꾸리는 법을 안내합니다. 치프 한 명, 프로젝트 리드 몇 명, 그리고 전문가들. [@theaaron](https://x.com/theaaron)
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — 설명 안 되는 변화를, 가장 개연성 높은 원인을 찾을 때까지 조사합니다. [@liam_fallen](https://x.com/liam_fallen)
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — 전문 에이전트를 고용하고 세계 수준 결정만 내리는 비서실장. [@WorldlyReviewer](https://x.com/WorldlyReviewer)
 - [Spark](https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1) — 5분 온보딩. 짧은 설문 뒤에 필요한 봇을 띄웁니다. [@vincentzhu](https://x.com/vincentzhu)
@@ -71,14 +73,18 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — 몇 가지 선호를 물은 뒤, 초점이 있는 Grok Bot을 설계하고 만듭니다. [@poteto](https://x.com/poteto)
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — 키워드나 직무를 출시 가능한 Grok Bot 레시피(God of Prompt)로 바꿉니다. [@rryssf](https://x.com/rryssf)
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — 바이브코딩 멘터이자 코딩 마법사. 스킬 평의회를 이끕니다. [@NickADobos](https://x.com/NickADobos)
+- [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) — 진짜 Grok Build CLI를 앱, 코드, 딥 리서치에 최대 노력으로 돌립니다. [@BillZanetti](https://x.com/BillZanetti)
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — grokbot.dev에서 Grok Bot 사용 사례를 매일 추천합니다. 가져온 프롬프트는 실행하지 않습니다. [@scheemunai](https://x.com/scheemunai)
 - [Interview Prep](https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3) — 고른 주제로 면접 준비. 예제, 실행 코드, 퀴즈가 있습니다. [@techdevnotes](https://x.com/techdevnotes)
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 지정한 저장소에서 gather, prompt, launch, review, merge를 돌립니다. [@grok](https://x.com/grok)
+- [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) — 야간 엔지니어링 감사. 코드베이스 전체를 조사한 뒤 영역마다 정리 하나씩 출고합니다. [@daisuke](https://x.com/daisuke)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — 저장소, 책, 로그를 한 번 묶고 검색으로 답하며 비용을 보여 줍니다. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — 공유 멀티봇 작업 공간을 정리하고 git으로 백업하며 옮길 수 있게 유지합니다. 레이아웃 규칙과 정리 포함. [@theaaron](https://x.com/theaaron)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — PR을 위험, 빠진 테스트, 얇은 맥락 순으로 보고 그다음 잔소리를 합니다. [@mustafaergisi](https://x.com/mustafaergisi)
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — Herdr 안에서 코딩 에이전트를 오케스트레이션합니다. Herdr는 에이전트 함대용 오픈 런타임 터미널 관리자입니다. [@old_pgmrs_will](https://x.com/old_pgmrs_will)
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Grok Bot 함대의 Cursor 사용량을 보고, 어느 봇이 무엇을 썼는지 이름을 댑니다. [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 로컬 세션의 설정 작업을 스캔한 뒤 공유용 Grok Bot 템플릿을 제안합니다. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 무거운 일은 기본적으로 Cursor에 넘기고, 선택적으로 Grok Build, Claude Code, Codex에도 맡겨 그 사용량 풀을 소진합니다. [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## 리서치
 
@@ -115,8 +121,10 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 
 ## 세일즈
 
+- [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — 시니어 프로덕트 마케터의 랜딩 페이지 리뷰. URL을 보내면 메모를 받습니다. [@Talsiach](https://x.com/Talsiach)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 고객 통화를 고객 맥락의 슬라이드로 바꿉니다.
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — 프리랜스 마켓을 스캔하고 첫 연락을 보내 미팅을 잡습니다. [@cristianmock](https://x.com/cristianmock)
+- [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Google Ads, Meta, SEO, Shopify를 다루는 시니어 마케터. [@irabukht](https://x.com/irabukht)
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — 주어진 딜, 갱신, 견적을 협상합니다. 서명하거나 약속하지는 않습니다. [@liam_fallen](https://x.com/liam_fallen)
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — 지정한 회사의 결정권자에게 닿게 한 뒤, 당신을 대화에 데려옵니다. [@liam_fallen](https://x.com/liam_fallen)
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — Peer-first 프리셋으로 LinkedIn 초대를 심사합니다. 승인한 뒤에만 클릭합니다. [@SEO](https://x.com/SEO)
@@ -130,6 +138,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 
 ## 크리에이티브
 
+- [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) — 초광각 16:9 장면 하나를 그리고 스와이프용 네 칸으로 나누며, 래퍼처럼 말합니다. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — 공식 또는 소유자 영상으로 컷·재컷·샷 노트를 만듭니다. 자동 게시나 원본 덮어쓰기는 하지 않습니다.
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — 중고 디자이너와 콰이엇 럭스를 실제 리스팅과 함께 마켓에서 찾습니다. [@jediahkatz](https://x.com/jediahkatz)
 - [Chef (by dogenorway)](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) — 레시피, 식단, 장보기 목록을 찾고, 제철 로컬 식재료를 기본으로 합니다. [@unicodef1wn](https://x.com/unicodef1wn)
@@ -138,6 +147,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Cold Open](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — 아이디어나 링크를 시트콤풍 짧은 클립으로 만듭니다. 대본 먼저, 승인 뒤에 생성. [@altryne](https://x.com/altryne)
 - [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — 순위가 매겨진 Instagram 아이디어를 슬라이드별 카피와 캡션으로 바꿔 AV 엔지니어에게 넘깁니다. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — 카피 브리핑으로 Instagram 캐러셀과 정적 아트를 만듭니다(위 사진, 아래 큰 글씨). [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Figma에서 디자인합니다. 진짜 컴포넌트, 직관적인 레이아웃, 느낌이 맞는 모션. [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — 포스터, 스타일 시트, 포스트 그림, 인쇄 신문, 히어로, 랜딩 페이지, 브리프, 슬라이드 공방을 돌립니다. [@arni0x9053](https://x.com/arni0x9053)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — illo skill로 아이디어와 게시물을 마스코트 중심 에디토리얼 일러스트로 바꿉니다. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — 이미지에서 가장 중요한 부분에 맞춘, 짧고 복사 가능한 대체 텍스트를 씁니다. [@kentcdodds](https://x.com/kentcdodds)
@@ -163,6 +173,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 요청하면 Instacart 장바구니를 짜 줍니다. [@mvanhorn](https://x.com/mvanhorn)
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — 재향군인의 VA.gov 예약, 청구, 혜택을 추적하고 ID.me 식 거래를 표시합니다. [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — 채팅으로 연결된 홈 로봇을 제어합니다. 시작, 일시정지, 도킹, 상태. [@SawyerMerritt](https://x.com/SawyerMerritt)
+- [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) — 학부모 도우미. Schoology를 가져와 가족 숙제 사이트를 최신으로 유지하고 학교 활동을 지켜봅니다. [@ahalvor](https://x.com/ahalvor)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — 주요 리스팅 사이트에서 12시간 주기로 임대와 집을 찾습니다. [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — 연결된 받은편지함을 일정대로 훑고 할 일을 장부에 모읍니다. [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 파일이나 폴더를 here.now URL로 게시합니다. 내용은 쓰지 않습니다. [@adamludwin](https://x.com/adamludwin)
