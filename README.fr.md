@@ -20,13 +20,13 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 
 ## Sommaire
 
-- [Assistants](#assistants) (29)
-- [Ingénierie](#ingénierie) (15)
+- [Assistants](#assistants) (32)
+- [Ingénierie](#ingénierie) (18)
 - [Recherche](#recherche) (16)
 - [Argent](#argent) (11)
-- [Ventes](#ventes) (12)
-- [Créatif](#créatif) (21)
-- [Vie](#vie) (22)
+- [Ventes](#ventes) (14)
+- [Créatif](#créatif) (22)
+- [Vie](#vie) (23)
 - [Liens](#liens)
 - [Contribuer](#contribuer)
 
@@ -41,6 +41,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea) — Chef de cabinet discret pour Slack, boîte mail et calendrier ; rédige, n’envoie jamais. [@aryamankhawow](https://x.com/aryamankhawow)
 - [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — Fait tourner la journée et le conseil depuis un bureau ; le dernier oui reste humain. [@Av1dlive](https://x.com/Av1dlive)
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — Journal quotidien boutique/projet ; récap du soir de ce qui s’est passé, faits d’abord. [@RichSilver](https://x.com/RichSilver)
+- [CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — Chef de cabinet d’une petite équipe d’agents spécialistes : calendrier, projets, courrier entrant et brief matinal privé. [@theaaron](https://x.com/theaaron)
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) — Surveille Gmail et vous pingue quand un message semble urgent ou demande une réponse. [@Vixlio](https://x.com/Vixlio)
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — Tient une frise quotidienne des changements pour reconstruire plus tard ce qui s’est passé. [@liam_fallen](https://x.com/liam_fallen)
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — Enquête sur les dossiers en suspens et avance chaque pas sûr vers la résolution. [@liam_fallen](https://x.com/liam_fallen)
@@ -54,9 +55,11 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) — Choisit un camp quand vous bloquez entre des options ; ne l’exécute pas. [@liam_fallen](https://x.com/liam_fallen)
 - [Orchestrator Bot](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — Route le travail vers des bots spécialistes, confirme la prise, puis s’arrête. [@farzyness](https://x.com/farzyness)
 - [Overwatch](https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP) — Garde la VM Grok Bot partagée rangée : dossiers, backup git et nettoyage. [@scheemunai](https://x.com/scheemunai)
+- [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — Tient un espace de travail multi-bots partagé rangé, versionné en git et portable, avec sauvegarde en semaine. [@theaaron](https://x.com/theaaron)
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — Gère projets Notion et bots spécialistes ; l’utilisateur décide, les agents exécutent. [@ericzakariasson](https://x.com/ericzakariasson)
 - [Randal](https://x.ai/bot/IHA3Iiw7vhSa5lmE82o-p) — COO qui gère les bots d’équipe, tient le planning et aide aux ops. [@raihankhan_rk](https://x.com/raihankhan_rk)
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) — Audite le travail récurrent et les outils inutilisés ; recommande des coupes, ne supprime jamais en premier. [@liam_fallen](https://x.com/liam_fallen)
+- [Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — Guide un nouvel utilisateur Grok Bot dans une petite équipe : un chef, quelques leads projet et des spécialistes. [@theaaron](https://x.com/theaaron)
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — Enquête sur les changements inexpliqués jusqu’à identifier la cause la plus probable. [@liam_fallen](https://x.com/liam_fallen)
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — Chef de cabinet qui embauche des agents spécialistes et ne tranche que les appels de niveau mondial. [@WorldlyReviewer](https://x.com/WorldlyReviewer)
 - [Spark](https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1) — Onboarding en cinq minutes : un court questionnaire, puis il crée les bots dont vous avez besoin. [@vincentzhu](https://x.com/vincentzhu)
@@ -71,14 +74,17 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — Demande quelques préférences, puis conçoit et crée un Grok Bot ciblé. [@poteto](https://x.com/poteto)
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — Transforme un mot-clé ou un job en recette Grok Bot livrable (God of Prompt). [@rryssf](https://x.com/rryssf)
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — Mentor de vibecoding et sorcier du code qui dirige un conseil de skills. [@NickADobos](https://x.com/NickADobos)
+- [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) — Exécute le vrai CLI Grok Build pour apps, code et recherche approfondie, à effort maximal. [@BillZanetti](https://x.com/BillZanetti)
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — Recos quotidiennes de cas d’usage Grok Bot depuis grokbot.dev ; n’exécute jamais les prompts récupérés. [@scheemunai](https://x.com/scheemunai)
 - [Interview Prep](https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3) — Prépa d’entretien sur un sujet que vous choisissez, avec exemples, code qui tourne et quiz. [@techdevnotes](https://x.com/techdevnotes)
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — Lance gather, prompt, launch, review et merge sur un dépôt que vous nommez. [@grok](https://x.com/grok)
+- [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) — Auditeur d’ingénierie de nuit qui étudie tout le codebase, puis livre un ménage par zone. [@daisuke](https://x.com/daisuke)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — Lie une fois un dépôt, un livre ou des logs et répond par retrieval en affichant le coût. [@STACCoverflow](https://x.com/STACCoverflow)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — Relit les PR pour risque, tests manquants et contexte mince avant les nits. [@mustafaergisi](https://x.com/mustafaergisi)
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — Orchestre des agents de code dans Herdr, un gestionnaire de terminal runtime ouvert pour flottes d’agents. [@old_pgmrs_will](https://x.com/old_pgmrs_will)
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Surveille l’usage Cursor d’une flotte Grok Bot et nomme quel bot a dépensé quoi. [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — Scanne les sessions locales pour les tâches de setup, puis propose des modèles Grok Bot à partager. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — Donne le gros travail à Cursor par défaut, éventuellement Grok Build, Claude Code ou Codex, pour que ces pools d’usage fassent le boulot. [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## Recherche
 
@@ -115,8 +121,10 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 
 ## Ventes
 
+- [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh/talsiach) — Revue de landing par un product marketer senior : envoyez une URL, recevez le bon, le mauvais, la chose à corriger d’abord, et une note. [@Talsiach](https://x.com/Talsiach)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Transforme un appel client en slides à partir du contexte client.
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — Scanne les places freelance, envoie les premiers contacts et réserve des réunions. [@cristianmock](https://x.com/cristianmock)
+- [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Un marketeur senior pour Google Ads, Meta, le SEO et Shopify. [@irabukht](https://x.com/irabukht)
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — Négocie un deal, un renouvellement ou un devis donné ; ne signe ni ne s’engage jamais. [@liam_fallen](https://x.com/liam_fallen)
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — Vous amène au décideur d’une entreprise nommée, puis vous fait entrer dans la discussion. [@liam_fallen](https://x.com/liam_fallen)
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — Trie les invitations LinkedIn avec un preset Peer-first ; clique seulement après votre OK. [@SEO](https://x.com/SEO)
@@ -130,6 +138,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 
 ## Créatif
 
+- [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) — Peint une scène ultra-large 16:9, la découpe en quatre panneaux à swiper, et parle comme un rappeur. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — Coupe, recoupe et note les plans à partir de rushes officiels ou du propriétaire. Jamais d’auto-post ni d’écrasement des sources.
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — Chasse les trouvailles designer d’occasion et quiet luxe sur les marketplaces, avec de vraies annonces. [@jediahkatz](https://x.com/jediahkatz)
 - [Chef (by dogenorway)](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) — Trouve recettes, plans de repas et listes de courses, en privilégiant le local de saison. [@unicodef1wn](https://x.com/unicodef1wn)
@@ -163,6 +172,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Planifie un panier Instacart quand vous le demandez. [@mvanhorn](https://x.com/mvanhorn)
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — Suit rendez-vous, dossiers et prestations VA.gov d’un vétéran, et signale les offres façon ID.me. [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — Contrôle les robots domestiques connectés depuis le chat : start, pause, dock ou statut. [@SawyerMerritt](https://x.com/SawyerMerritt)
+- [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) — Aide parentale qui récupère Schoology, tient à jour un site familial de devoirs et capture les activités scolaires. [@ahalvor](https://x.com/ahalvor)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — Chasse locations et maisons sur un rythme de 12 heures sur les grands sites d’annonces. [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — Balaye les boîtes connectées selon un planning et récolte les todos dans un grand livre. [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Publie fichiers ou dossiers en URL here.now ; n’écrit pas le contenu. [@adamludwin](https://x.com/adamludwin)

@@ -20,13 +20,13 @@
 
 ## 目錄
 
-- [助理](#助理) (29)
-- [工程](#工程) (15)
+- [助理](#助理) (32)
+- [工程](#工程) (18)
 - [研究](#研究) (16)
 - [金錢](#金錢) (11)
-- [銷售](#銷售) (12)
-- [創意](#創意) (21)
-- [生活](#生活) (22)
+- [銷售](#銷售) (14)
+- [創意](#創意) (22)
+- [生活](#生活) (23)
 - [相關](#相關)
 - [貢獻](#貢獻)
 
@@ -41,6 +41,7 @@
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea) — 低干擾的幕僚長，照顧 Slack、收件匣與行事曆；只擬稿，從不寄出。 [@aryamankhawow](https://x.com/aryamankhawow)
 - [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — 從同一張桌子運轉日常與董事會；最後的「同意」仍由人拍板。 [@Av1dlive](https://x.com/Av1dlive)
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — 每日店務／專案日誌；晚間先列事實，再回顧當天發生了什麼。 [@RichSilver](https://x.com/RichSilver)
+- [CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — 小隊專家智能體的幕僚長：行事曆、專案、進站郵件，以及一份私密晨報。 [@theaaron](https://x.com/theaaron)
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) — 盯著 Gmail，發現看起來緊急或需要回覆的郵件就提醒你。 [@Vixlio](https://x.com/Vixlio)
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — 維護每日變更時序表，方便日後還原當時發生了什麼。 [@liam_fallen](https://x.com/liam_fallen)
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — 追查收尾未清的問題，並採取每一個安全的解決步驟。 [@liam_fallen](https://x.com/liam_fallen)
@@ -54,9 +55,11 @@
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) — 你卡在選項之間時幫你擇一邊，但並不替你執行。 [@liam_fallen](https://x.com/liam_fallen)
 - [Orchestrator Bot](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — 把工作分給專精機器人，確認對方接住後就停。 [@farzyness](https://x.com/farzyness)
 - [Overwatch](https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP) — 用資料夾、git 備份與清理，把共用的 Grok Bot 虛擬機維持整齊。 [@scheemunai](https://x.com/scheemunai)
+- [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — 讓共用的多 Bot 工作區保持整齊、有 git 備份、可隨身帶走，並做平日備份。 [@theaaron](https://x.com/theaaron)
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — 管理 Notion 專案與專精機器人；人做決定，代理去執行。 [@ericzakariasson](https://x.com/ericzakariasson)
 - [Randal](https://x.ai/bot/IHA3Iiw7vhSa5lmE82o-p) — 營運長：管員工機器人、盯進度，並協助營運。 [@raihankhan_rk](https://x.com/raihankhan_rk)
 - [Reaper](https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73) — 稽核重複勞動與閒置工具；只建議砍掉，從不先刪除。 [@liam_fallen](https://x.com/liam_fallen)
+- [Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — 帶新 Grok Bot 使用者搭一支小隊：一名主管、幾位專案負責人和若干專家。 [@theaaron](https://x.com/theaaron)
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — 追查說不清的變化，直到找出最可能的原因。 [@liam_fallen](https://x.com/liam_fallen)
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — 幕僚長：延攬專精代理，自己只拍世界級的板。 [@WorldlyReviewer](https://x.com/WorldlyReviewer)
 - [Spark](https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1) — 五分鐘上手：先做一份短問卷，再生成你需要的機器人。 [@vincentzhu](https://x.com/vincentzhu)
@@ -71,14 +74,17 @@
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — 先問幾項偏好，再規劃並建立一個聚焦的 Grok Bot。 [@poteto](https://x.com/poteto)
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — 把關鍵詞或職務變成可上線的 Grok Bot 配方（God of Prompt）。 [@rryssf](https://x.com/rryssf)
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — 氛圍編程導師兼編碼巫師，帶領一套技能議會。 [@NickADobos](https://x.com/NickADobos)
+- [Grok Build](https://x.ai/bot/eydijdzrfgtnmlnUyPSI-) — 用真正的 Grok Build CLI 做應用、程式與深度研究，全力以赴。 [@BillZanetti](https://x.com/BillZanetti)
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — 每日從 grokbot.dev 推薦 Grok Bot 用例；從不執行抓來的提示詞。 [@scheemunai](https://x.com/scheemunai)
 - [Interview Prep](https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3) — 依你選的主題做面試準備，附例子、可執行程式與測驗。 [@techdevnotes](https://x.com/techdevnotes)
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 對你指定的倉庫跑 gather、prompt、launch、review 與 merge。 [@grok](https://x.com/grok)
+- [Nightly Audit Engineer](https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U) — 夜間工程稽核員：研究整份程式庫，然後每個區域只交付一項清理。 [@daisuke](https://x.com/daisuke)
 - [OpenZoo.fun Grok Bot Demo](https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT) — 一次性綁定倉庫、書或日誌，依檢索作答並顯示花費。 [@STACCoverflow](https://x.com/STACCoverflow)
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — 先審 PR 的風險、缺測與單薄脈絡，再談細枝末節。 [@mustafaergisi](https://x.com/mustafaergisi)
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — 在 Herdr 裡編排編碼智能體；Herdr 是面向智能體艦隊的開源執行時終端管理器。 [@old_pgmrs_will](https://x.com/old_pgmrs_will)
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — 盯著一整隊 Grok Bot 的 Cursor 用量，點名哪個 bot 花了多少。 [@cjblev](https://x.com/cjblev)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 掃描本機會話裡的建置任務，再給出可分享的 Grok Bot 模板。 [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 預設把重活交給 Cursor，也可選 Grok Build、Claude Code 或 Codex，讓那些用量池幹活。 [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## 研究
 
@@ -115,8 +121,10 @@
 
 ## 銷售
 
+- [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh/talsiach) — 資深產品行銷人的落地頁評審：寄一個 URL，得到優點、缺點、該先改的一件事，以及分數。 [@Talsiach](https://x.com/Talsiach)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 把客戶通話變成依據客戶脈絡的簡報。
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — 掃描自由職業市場、發出首封聯繫，並約會議。 [@cristianmock](https://x.com/cristianmock)
+- [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — 面向 Google Ads、Meta、SEO 與 Shopify 的資深行銷人。 [@irabukht](https://x.com/irabukht)
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — 就既定交易、續約或報價談判；從不簽字或承諾。 [@liam_fallen](https://x.com/liam_fallen)
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — 把你帶到指定公司的決策人面前，再把你拉進對話。 [@liam_fallen](https://x.com/liam_fallen)
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — 用 Peer-first 預設審核 LinkedIn 邀請；只有你核准後才點擊。 [@SEO](https://x.com/SEO)
@@ -130,6 +138,7 @@
 
 ## 創意
 
+- [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) — 畫一幅超寬 16:9 場景，切成四塊可滑動畫幅，並以饒舌歌手口吻說話。 [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — 用官方或版權方素材剪輯、重剪並寫分鏡；從不自動發布或覆蓋原始檔。
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — 在各市場翻找二手設計師與低調奢華單品，只列真實在售。 [@jediahkatz](https://x.com/jediahkatz)
 - [Chef (by dogenorway)](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) — 找食譜、餐計畫與採買清單，預設當季在地食材。 [@unicodef1wn](https://x.com/unicodef1wn)
@@ -163,6 +172,7 @@
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 你開口時，規劃一台 Instacart 購物車。 [@mvanhorn](https://x.com/mvanhorn)
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — 追蹤退伍軍人在 VA.gov 上的預約、申請與福利，並標出 ID.me 一類的優惠。 [@Diego_F_Aguirre](https://x.com/Diego_F_Aguirre)
 - [Home Robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) — 用聊天控制連網家用機器人：啟動、暫停、回塢或查狀態。 [@SawyerMerritt](https://x.com/SawyerMerritt)
+- [Homeroom](https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe) — 家長助手：拉取 Schoology，維護家庭作業網站，並快照學校活動。 [@ahalvor](https://x.com/ahalvor)
 - [house hunter](https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL) — 按 12 小時節奏，在主要房源站搜租屋與住宅。 [@shubgaur](https://x.com/shubgaur)
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — 按計畫清掃已連接的收件匣，把待辦收進一本帳。 [@matt_silberman](https://x.com/matt_silberman)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 把檔案或資料夾發布成 here.now 連結；不撰寫內容本身。 [@adamludwin](https://x.com/adamludwin)
