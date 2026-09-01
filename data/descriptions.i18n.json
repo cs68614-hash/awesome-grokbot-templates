@@ -1505,5 +1505,115 @@
     "de": "Designt in Figma. Echte Komponenten, intuitives Layout und Motion, die sich richtig anfühlt.",
     "pt-BR": "Designa no Figma. Componentes de verdade, layout intuitivo e motion que parece certo.",
     "ru": "Дизайнит в Figma. Настоящие компоненты, интуитивная вёрстка и движение, которое ощущается правильно."
+  },
+  "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV": {
+    "zh-CN": "把 OCR 图片和文本转成结构化数据，包括财报图片出 Excel，以及发票、证件、合同等自定义蓝图。",
+    "zh-TW": "把 OCR 圖片和文字轉成結構化資料，包括財報圖片出 Excel，以及發票、證件、合約等自訂藍圖。",
+    "ja": "OCR 画像とテキストを構造化データにし、財務諸表画像から Excel や、請求書・身分証・契約などの独自ブループリントにも対応します。",
+    "ko": "OCR 이미지와 텍스트를 구조화 데이터로 바꿉니다. 재무제표 이미지는 Excel로, 인보이스·신분증·계약 등은 맞춤 블루프린트로.",
+    "es": "Pasa imágenes y texto OCR a datos estructurados, incluidas imágenes de estados financieros a Excel y blueprints propios para facturas, IDs y contratos.",
+    "fr": "Transforme images et texte OCR en données structurées, y compris états financiers en Excel et blueprints perso pour factures, pièces d’identité et contrats.",
+    "de": "Macht aus OCR-Bildern und Text strukturierte Daten, inkl. Finanzberichten als Excel und eigenen Blueprints für Rechnungen, IDs und Verträge.",
+    "pt-BR": "Transforma imagens e texto OCR em dados estruturados, inclusive demonstrações financeiras em Excel e blueprints próprios para faturas, IDs e contratos.",
+    "ru": "Превращает OCR-картинки и текст в структурированные данные: финотчёты в Excel и свои схемы для счетов, удостоверений и договоров."
+  },
+  "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv": {
+    "zh-CN": "在 Prism Network 上租 NVIDIA GPU，做共享电脑跑不了的私有分析和 CUDA 任务。",
+    "zh-TW": "在 Prism Network 上租 NVIDIA GPU，做共用電腦跑不了的私有分析和 CUDA 任務。",
+    "ja": "共有コンピュータでは回せない非公開分析と CUDA ジョブ向けに、Prism Network 上の NVIDIA GPU を借ります。",
+    "ko": "공유 컴퓨터에서 돌릴 수 없는 비공개 분석과 CUDA 작업을 위해 Prism Network에서 NVIDIA GPU를 빌립니다.",
+    "es": "Alquila GPUs NVIDIA en Prism Network para análisis privados y jobs CUDA que no caben en el ordenador compartido.",
+    "fr": "Loue des GPU NVIDIA sur Prism Network pour analyses privées et jobs CUDA impossibles sur l’ordinateur partagé.",
+    "de": "Mietet NVIDIA-GPUs im Prism Network für private Analysen und CUDA-Jobs, die auf dem geteilten Rechner nicht laufen.",
+    "pt-BR": "Aluga GPUs NVIDIA na Prism Network para análise privada e jobs CUDA que não rodam no computador compartilhado.",
+    "ru": "Арендует NVIDIA GPU в Prism Network для частного анализа и CUDA-задач, которые не тянет общий компьютер."
+  },
+  "https://x.ai/bot/9nbLm_04EvjnolE9oevTT": {
+    "zh-CN": "带着新用户从角色和常用工具接到可用连接器，并在同一对话里做完第一件真事。",
+    "zh-TW": "帶著新用戶從角色和常用工具接到可用連接器，並在同一對話裡做完第一件真事。",
+    "ja": "新しい Grok Bot ユーザーを、役割と使うツールから本番コネクタまで案内し、同じチャットで最初の実作業までやります。",
+    "ko": "Grok Bot 초심자를 역할과 쓰는 도구에서 실제 커넥터까지 안내한 뒤, 같은 채팅에서 첫 실제 일을 합니다.",
+    "es": "Lleva a un usuario nuevo de Grok Bot de su rol y herramientas a conectores en vivo, y hace el primer trabajo real en el mismo chat.",
+    "fr": "Guide un nouvel utilisateur Grok Bot de son rôle et de ses outils jusqu’aux connecteurs live, puis fait un premier vrai job dans le même chat.",
+    "de": "Führt neue Grok-Bot-Nutzer von Rolle und Tools zu lebenden Connectors und erledigt im selben Chat den ersten echten Job.",
+    "pt-BR": "Leva um usuário novo do Grok Bot do papel e das ferramentas até conectores ao vivo e faz o primeiro trabalho real no mesmo chat.",
+    "ru": "Проводит нового пользователя Grok Bot от роли и инструментов к живым коннекторам и делает первую настоящую задачу в том же чате."
+  },
+  "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j": {
+    "zh-CN": "放手型工程主管：收工、拉起云端智能体、每 30 分钟看 PR，只请你点合并。",
+    "zh-TW": "放手型工程主管：收工、拉起雲端智能體、每 30 分鐘看 PR，只請你按合併。",
+    "ja": "手を出さないエンジニアリング監督。仕事を載せ、クラウドエージェントを起動し、30分周期で PR を見て、マージだけ頼む。",
+    "ko": "손을 대지 않는 엔지니어링 감독. 일을 올리고 클라우드 에이전트를 띄운 뒤 30분마다 PR을 보고, 머지만 요청합니다.",
+    "es": "Supervisor de ingeniería hands-off: mete trabajo, lanza agentes en la nube, vigila PRs cada 30 minutos y solo te pide merge.",
+    "fr": "Superviseur d’ingénierie en hands-off : embarque le travail, lance des agents cloud, surveille les PR toutes les 30 minutes et ne vous demande que le merge.",
+    "de": "Hands-off-Engineering-Supervisor: nimmt Arbeit auf, startet Cloud-Agenten, prüft PRs im 30-Minuten-Takt und bittet nur ums Mergen.",
+    "pt-BR": "Supervisor de engenharia hands-off: embarca o trabalho, sobe agentes na nuvem, olha PRs a cada 30 minutos e só pede o merge.",
+    "ru": "Инженерный супервайзер без рук: берёт работу, запускает облачных агентов, смотрит PR каждые 30 минут и просит только смержить."
+  },
+  "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv": {
+    "zh-CN": "从 substreams.dev 注册表查找并组合包，用 StreamingFast 技能编写测试模块，并带你拿到 Graph Market JWT 以便推流。",
+    "zh-TW": "從 substreams.dev 登錄檔查找並組合套件，用 StreamingFast 技能撰寫測試模組，並帶你拿到 Graph Market JWT 以便串流。",
+    "ja": "substreams.dev レジストリからパッケージを見つけて組み合わせ、StreamingFast スキルでモジュールを書いて試し、Graph Market の JWT 取得まで案内してストリームできるようにします。",
+    "ko": "substreams.dev 레지스트리에서 패키지를 찾아 조합하고, StreamingFast 스킬로 모듈을 작성·테스트하며, Graph Market JWT를 받아 스트림할 수 있게 안내합니다.",
+    "es": "Busca y compone paquetes del registro substreams.dev, escribe y prueba módulos con skills de StreamingFast, y te guía a un JWT de Graph Market para hacer stream.",
+    "fr": "Trouve et compose des paquets du registre substreams.dev, écrit et teste des modules avec les skills StreamingFast, et vous guide vers un JWT Graph Market pour streamer.",
+    "de": "Findet und kombiniert Pakete aus der substreams.dev-Registry, schreibt und testet Module mit StreamingFast-Skills und führt dich zu einem Graph-Market-JWT zum Streamen.",
+    "pt-BR": "Encontra e compõe pacotes do registro substreams.dev, escreve e testa módulos com skills da StreamingFast e te guia a um JWT do Graph Market para fazer stream.",
+    "ru": "Ищет и собирает пакеты из реестра substreams.dev, пишет и тестирует модули навыками StreamingFast и проводит к JWT Graph Market, чтобы стримить."
+  },
+  "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2": {
+    "zh-CN": "个人 Grok Bot 名单的质量把关 CEO：对照岗位卡审其他 bot，没做完的打回去。",
+    "zh-TW": "個人 Grok Bot 名單的品質把關 CEO：對照崗位卡審其他 bot，沒做完的打回去。",
+    "ja": "個人の Grok Bot 名簿の品質CEO。ジョブカードに照らして他 bot をレビューし、未完了の仕事を差し戻します。",
+    "ko": "개인 Grok Bot 명단의 품질 CEO. 직무 카드에 맞춰 다른 봇을 검토하고 미완성 일은 되돌려 보냅니다.",
+    "es": "CEO de listón de calidad para tu roster personal de Grok Bot: revisa otros bots contra sus job cards y devuelve el trabajo incompleto.",
+    "fr": "PDG du niveau de qualité pour un roster Grok Bot perso : relit les autres bots selon leurs job cards et renvoie le travail inachevé.",
+    "de": "Qualitäts-CEO für ein persönliches Grok-Bot-Roster: prüft andere Bots gegen ihre Job Cards und schickt unfertige Arbeit zurück.",
+    "pt-BR": "CEO de padrão de qualidade para um roster pessoal de Grok Bot: revisa outros bots pelas job cards e devolve trabalho inacabado.",
+    "ru": "CEO планки качества для личного состава Grok Bot: сверяет других ботов с их карточками и возвращает недоделанную работу."
+  },
+  "https://x.ai/bot/HC7kphHSxDzb639YlmI6O": {
+    "zh-CN": "记下私密的室内植物养护日志，并每周提醒浇水、换盆、施肥和按季节挪盆。",
+    "zh-TW": "記下私密的室內植物養護日誌，並每週提醒澆水、換盆、施肥和依季節挪盆。",
+    "ja": "室内植物の非公開ケアログと、水やり・植え替え・肥料・季節の移動の週次リマインダーを保ちます。",
+    "ko": "집 화초의 비공개 관리 일지를 남기고, 물주기·분갈이·비료·계절에 따른 자리 옮김을 매주 알려줍니다.",
+    "es": "Lleva un diario privado de plantas de interior y recordatorios semanales de riego, trasplante, abono y mudanzas de temporada.",
+    "fr": "Tient un carnet privé de plantes d’intérieur et des rappels hebdo pour arroser, rempoter, fertiliser et déplacer selon la saison.",
+    "de": "Führt ein privates Zimmerpflanzen-Pflegeprotokoll und wöchentliche Erinnerungen zu Gießen, Umtopfen, Düngen und saisonalem Umstellen.",
+    "pt-BR": "Mantém um diário privado de plantas de casa e lembretes semanais para regar, replantar, adubar e mover conforme a estação.",
+    "ru": "Ведёт частный журнал ухода за комнатными растениями и еженедельные напоминания полить, пересадить, удобрить и переставить по сезону."
+  },
+  "https://x.ai/bot/55t0IuxxlT7BWffNVOKai": {
+    "zh-CN": "把该用的 Chrome Cookie 导入共享电脑，让一队已登录的 Grok Bot 保持登录。",
+    "zh-TW": "把該用的 Chrome Cookie 匯入共用電腦，讓一隊已登入的 Grok Bot 保持登入。",
+    "ja": "必要な Chrome Cookie を共有コンピュータに入れ、ログイン済み Grok Bot 艦隊のサインインを維持します。",
+    "ko": "알맞은 Chrome 쿠키를 공유 컴퓨터에 넣어, 로그인한 Grok Bot 함대가 로그인 상태를 유지하게 합니다.",
+    "es": "Importa las cookies de Chrome correctas al ordenador compartido para que una flota de Grok Bots con sesión no se desconecte.",
+    "fr": "Importe les bons cookies Chrome sur l’ordinateur partagé pour qu’une flotte de Grok Bots connectés reste connectée.",
+    "de": "Importiert die richtigen Chrome-Cookies auf den geteilten Rechner, damit eine Flotte angemeldeter Grok Bots angemeldet bleibt.",
+    "pt-BR": "Importa os cookies certos do Chrome no computador compartilhado para uma frota de Grok Bots logados permanecer logada.",
+    "ru": "Импортирует нужные Chrome-cookies на общий компьютер, чтобы флот вошедших Grok Bot оставался в сессии."
+  },
+  "https://x.ai/bot/htSXUJUQlVr60m9L_unBa": {
+    "zh-CN": "做带旁白的 1080p 网页产品演示：说出要拍哪些屏，它抓实机界面并配上语音和字幕。",
+    "zh-TW": "做帶旁白的 1080p 網頁產品演示：說出要拍哪些畫面，它抓實機介面並配上語音和字幕。",
+    "ja": "Web アプリのナレーション付き 1080p 製品デモ。見せる画面を指定すると、ライブ UI を撮って音声とキャプションを付けます。",
+    "ko": "웹앱의 나레이션 1080p 제품 데모. 보여줄 화면을 말하면 라이브 UI를 잡고 음성과 자막을 붙입니다.",
+    "es": "Hace demos de producto 1080p narrados de una web: dile qué pantallas mostrar y captura la UI en vivo con voz y subtítulos.",
+    "fr": "Fait des démos produit 1080p narrées d’une web app : dites quelles pages montrer, il capture l’UI live avec voix et sous-titres.",
+    "de": "Macht erzählte 1080p-Produktdemos einer Web-App: sag welche Screens, dann fängt es die Live-UI mit Stimme und Captions ein.",
+    "pt-BR": "Faz demos de produto 1080p narrados de um web app: diga quais telas mostrar e ele captura a UI ao vivo com voz e legendas.",
+    "ru": "Делает закадровые 1080p-демо веб-приложения: скажите какие экраны показать — снимет живой UI с голосом и субтитрами."
+  },
+  "https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu": {
+    "zh-CN": "按 Harry Dry 训练的文案总监：重写落地页、广告、邮件和分享卡，让每句都看得见、可证伪、只有你能说。",
+    "zh-TW": "按 Harry Dry 訓練的文案總監：重寫落地頁、廣告、郵件和分享卡，讓每句都看得見、可證偽、只有你能說。",
+    "ja": "Harry Dry 仕込みのコピーチーフ。LP、広告、メール、シェアカードを、視覚的で反証可能、自分にしか言えない一文に書き直します。",
+    "ko": "Harry Dry로 훈련된 카피 치프. 랜딩, 광고, 이메일, 공유 카드를 눈에 보이고 반증 가능하며 당신만 할 수 있는 문장으로 다시 씁니다.",
+    "es": "Un copy chief formado en Harry Dry que reescribe landings, anuncios, emails y share cards para que cada línea sea visual, falseable y solo tuya.",
+    "fr": "Un copy chief formé à Harry Dry qui réécrit landings, pubs, e-mails et cartes de partage pour que chaque ligne soit visuelle, falsifiable et inimitable.",
+    "de": "Ein auf Harry Dry trainierter Copy-Chef, der Landings, Ads, Mails und Share Cards so umschreibt, dass jede Zeile visuell, falsifizierbar und nur von dir ist.",
+    "pt-BR": "Um copy chief treinado em Harry Dry que reescreve landings, anúncios, e-mails e share cards para cada linha ser visual, falseável e só sua.",
+    "ru": "Копи-шеф по школе Harry Dry: переписывает лендинги, рекламу, письма и карточки так, чтобы каждая строка была зримой, проверяемой и только вашей."
   }
 }

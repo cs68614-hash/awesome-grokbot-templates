@@ -1095,6 +1095,86 @@
       "twitter": "johnbai",
       "share_url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
       "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Senior Analyst",
+      "description": "Turns OCR images and text into structured data, including financial-statement images to Excel and custom blueprints for invoices, IDs, and contracts.",
+      "category": "Money",
+      "twitter": "tobias_pfuetze",
+      "share_url": "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Research Runner",
+      "description": "Rents NVIDIA GPUs on Prism Network for private analysis and CUDA jobs that cannot run on the shared computer.",
+      "category": "Research",
+      "twitter": "useprismnetwork",
+      "share_url": "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Latch",
+      "description": "Walks a new Grok Bot user from their role and the tools they use to live connectors, then does a first real job in the same chat.",
+      "category": "Assistants",
+      "twitter": "OliverKorzen",
+      "share_url": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Lingxi's Engineer Bot",
+      "description": "A hands-off engineering supervisor that boards work, launches cloud agents, watches PRs on a 30-minute cadence, and only asks you to merge.",
+      "category": "Engineering",
+      "twitter": "lingxi",
+      "share_url": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "substreams",
+      "description": "Finds and composes packages from the substreams.dev registry, writes and tests modules with StreamingFast skills, and walks you through a Graph Market JWT so you can stream.",
+      "category": "Engineering",
+      "twitter": "graphtronauts_c",
+      "share_url": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Steve J",
+      "description": "Quality-bar CEO for a personal Grok Bot roster: reviews other bots against their job cards and sends back unfinished work.",
+      "category": "Assistants",
+      "twitter": "AhuraDeus",
+      "share_url": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Flora",
+      "description": "Keeps a private houseplant care log and weekly reminders to water, repot, fertilize, and move plants with the seasons.",
+      "category": "Life",
+      "twitter": "RichSilver",
+      "share_url": "https://x.ai/bot/HC7kphHSxDzb639YlmI6O",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Cookie Monster",
+      "description": "Imports the right Chrome cookies onto the shared computer so a fleet of signed-in Grok Bots stays signed in.",
+      "category": "Engineering",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Demo Video",
+      "description": "Makes narrated 1080p product demo videos of a web app: say which screens to show, and it captures the live UI with voice and captions.",
+      "category": "Creative",
+      "twitter": "KdJadeja911",
+      "share_url": "https://x.ai/bot/htSXUJUQlVr60m9L_unBa",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Harry Dry",
+      "description": "A copy chief trained on Harry Dry that rewrites landing pages, ads, emails, and share cards so every line is visual, falsifiable, and only you could say it.",
+      "category": "Sales",
+      "twitter": "joseamijares",
+      "share_url": "https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu",
+      "scraped_at": "2026-09-01"
     }
   ]
 }
