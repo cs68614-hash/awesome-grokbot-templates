@@ -21,12 +21,12 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 ## 目次
 
 - [アシスタント](#アシスタント) (33)
-- [エンジニアリング](#エンジニアリング) (22)
-- [リサーチ](#リサーチ) (17)
+- [エンジニアリング](#エンジニアリング) (23)
+- [リサーチ](#リサーチ) (18)
 - [マネー](#マネー) (12)
-- [セールス](#セールス) (15)
-- [クリエイティブ](#クリエイティブ) (24)
-- [ライフ](#ライフ) (24)
+- [セールス](#セールス) (17)
+- [クリエイティブ](#クリエイティブ) (28)
+- [ライフ](#ライフ) (25)
 - [関連](#関連)
 - [コントリビューション](#コントリビューション)
 
@@ -89,6 +89,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Grok Bot 艦隊全体の Cursor 使用量を監視し、どの bot が何を使ったかを指名します。 [@cjblev](https://x.com/cjblev)
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — substreams.dev レジストリからパッケージを見つけて組み合わせ、StreamingFast スキルでモジュールを書いて試し、Graph Market の JWT 取得まで案内してストリームできるようにします。 [@graphtronauts_c](https://x.com/graphtronauts_c)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — ローカルセッションのセットアップ作業をスキャンし、共有用の Grok Bot テンプレートを出します。 [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) — Grok Bot チーム向けの週次利用監査。ルーチンを棚卸し、相対コストを採点し、重複ジョブと不要なポーリングを指摘します。 [@maxjean__](https://x.com/maxjean__)
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 重い作業は既定で Cursor に渡し、任意で Grok Build、Claude Code、Codex にも回して、それらの使用枠を消化します。 [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## リサーチ
@@ -98,6 +99,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) — 選んだチャンネルの文字起こしを朝に要約。新情報がなければ黙ります。 [@scheemunai](https://x.com/scheemunai)
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — 主要ラボの公式モデル新リリースをブリーフ。それ以外は沈黙。 [@GuleidAmina](https://x.com/GuleidAmina)
 - [Index](https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7) — SEO / AEO の相棒。キーワード調査、ブリーフ、検索ヘルス。 [@adamta](https://x.com/adamta)
+- [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — 直近30日に Reddit、X、YouTube、TikTok、Hacker News、ウェブで、ある話題について人が実際に何と言ったかを調べます。 [@mvanhorn](https://x.com/mvanhorn)
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) — Lenny's Data アーカイブから質問に答えます。 [@lennysan](https://x.com/lennysan)
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit リサーチャー。キーワードから痛みとアイデアパックを集め、投稿はしません。 [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — 平日朝のダイジェスト。実用 AI ツールを 2〜3 件、閑散日はスキップ。 [@byeleni](https://x.com/byeleni)
@@ -129,6 +131,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 ## セールス
 
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — シニアプロダクトマーケターがランディングページをレビュー。URL を送るとメモが返ってきます。 [@Talsiach](https://x.com/Talsiach)
+- [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — 技術系創業者と役員向けのビジネス思考パートナー。データが揃う前にポジショニング、流通、商用化を決める。 [@thesmitpatel](https://x.com/thesmitpatel)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 顧客との通話を、顧客コンテキストからスライドにします。
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — フリーランス市場をスキャンし、初回連絡を送り、打ち合わせを入れます。 [@cristianmock](https://x.com/cristianmock)
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — Google Ads、Meta、SEO、Shopify 向けのシニアマーケター。 [@irabukht](https://x.com/irabukht)
@@ -142,6 +145,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — PhoneZero のアウトバウンドをセットし、明確な「はい」のあと一本かけます。 [@ibelevy](https://x.com/ibelevy)
 - [Pitch Deck Analyzer](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — 短いインタビューから作ったプロファイルに照らしてピッチデッキをレビュー。分析のみ。 [@BrianDEvans](https://x.com/BrianDEvans)
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — 会議のあと、ToDo とフォローアップを下書き。送信はしません。 [@itspriyaptl](https://x.com/itspriyaptl)
+- [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) — Reddit、X、Hacker News、Bluesky を監視し、自社・競合・購買シグナルの言及を拾います。 [@unicodef1wn](https://x.com/unicodef1wn)
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — メールから求職者と空きポジションをマッチ。投資家アップデートと受信をスキャンし、採用シグナルと求職者を拾います。 [@lennysan](https://x.com/lennysan)
 
 ## クリエイティブ
@@ -158,17 +162,21 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — コピーブリーフから Instagram のカルーセルと静止画を作る（上に写真、下に大きな文字）。 [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Figma でデザイン。本物のコンポーネント、直感的なレイアウト、しっくりくるモーション。 [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — ポスター、スタイルシート、投稿画像、印刷新聞、ヒーロー、LP、ブリーフ、スライドのアトリエを回します。 [@arni0x9053](https://x.com/arni0x9053)
+- [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — メール、投稿、ブログ、DM、LP 本文、PR を人の声で書き直すデスク。下書きのみ。 [@massimodeluisa](https://x.com/massimodeluisa)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — illo skill で、アイデアと投稿をマスコット主導のエディトリアルイラストにします。 [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — 画像でいちばん大事な部分に絞った、短くコピー可能な代替テキストを書きます。 [@kentcdodds](https://x.com/kentcdodds)
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — YouTube スタジオのディレクター。動画を1本ずつ、サムネ・タイトル・オープニング・ペイオフの契約として設計します。 [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — 想像の相棒。アート、世界、詩、小さな映画。温かく短い。 [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — 投げたトピックからミームを作る。面白さ優先、ショックはなし。 [@DogecoinNorway](https://x.com/DogecoinNorway)
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — 直近24時間の Web、X、Instagram から旬の AI ニュースを掘り、コピー用ブリーフにします。 [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) — 写真を4役のカラーパレットに。ラベル付き 55/20/20/5 バーと、画像からサンプリングした4つの HEX。 [@subforti](https://x.com/subforti)
+- [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — ゲーム開発者の着想と可視化を、実在ゲームのスタイルで手伝い、2D アートやスプライトシートをゲーム用 PNG に切り出します。 [@DannyLimanseta](https://x.com/DannyLimanseta)
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — 実績のある長尺動画から YouTube Shorts を切り出し、まず Opus Clip、予備は Descript。 [@ShareGrokBots](https://x.com/ShareGrokBots)
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — 完成したクリエイティブ素材から Instagram のカルーセルと投稿を予約・公開します。 [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — 毎時 X／Reddit を偵察し、撮れる AI／テックの TikTok／Reels／Shorts キットを探します。 [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Spotify を操作。セットを選び、アーティストを提案し、ニックネームをデバイスに対応付けます。 [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — 朝の Stitch Fix スタイリスト。天気、購入済みアイテムのコーデ、お得情報。 [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
+- [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — クリエイター向けの X 自動化3種。キーワード DM、フォロワー数下限以上の新規フォロワー待ち行列、ロックされたリストの偵察。 [@theadvisorbtc](https://x.com/theadvisorbtc)
 - [Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — Would You Rather のプロンプトゲーム素材を集め、整理します。 [@CryptoVonDoom](https://x.com/CryptoVonDoom)
 
 ## ライフ
@@ -178,6 +186,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — スキャンやフラットな PDF を Instafill.ai で入力可能なフォームにします。
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — 家庭用 EG4 ハイブリッド太陽光・バッテリーを監視し、故障を知らせます。 [@look4terry](https://x.com/look4terry)
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — ESPN リーグ向けファンタジーフットボール GM。ドラフト、ラインアップ、ウェイバー、トレード。ロスター変更前に確認。 [@Colehollander10](https://x.com/Colehollander10)
+- [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) — ドラフト、トレード、ロスター向けのファンタジーフットボール GM。Yahoo と Sleeper に対応。 [@TylerNishida](https://x.com/TylerNishida)
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — 室内植物の非公開ケアログと、水やり・植え替え・肥料・季節の移動の週次リマインダーを保ちます。 [@RichSilver](https://x.com/RichSilver)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Quick Radar モードで X の DM 関係を地図化し、Act now スレッドを返します。 [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — 頼まれたときに Instacart の買い物カートを計画します。 [@mvanhorn](https://x.com/mvanhorn)

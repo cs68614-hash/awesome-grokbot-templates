@@ -21,12 +21,12 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 ## Contents
 
 - [Assistants](#assistants) (33)
-- [Engineering](#engineering) (22)
-- [Research](#research) (17)
+- [Engineering](#engineering) (23)
+- [Research](#research) (18)
 - [Money](#money) (12)
-- [Sales](#sales) (15)
-- [Creative](#creative) (24)
-- [Life](#life) (24)
+- [Sales](#sales) (17)
+- [Creative](#creative) (28)
+- [Life](#life) (25)
 - [Related](#related)
 - [Contributing](#contributing)
 
@@ -89,6 +89,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Watches Cursor usage across a Grok Bot fleet and names which bot spent what. [@cjblev](https://x.com/cjblev)
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — Finds and composes packages from the substreams.dev registry, writes and tests modules with StreamingFast skills, and walks you through a Graph Market JWT so you can stream. [@graphtronauts_c](https://x.com/graphtronauts_c)
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — Scans local sessions for setup tasks, then offers Grok Bot templates to share. [@STACCoverflow](https://x.com/STACCoverflow)
+- [Usage Auditor](https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2) — A weekly usage auditor for Grok Bot teams that inventories routines, scores relative cost, and flags duplicate jobs and needless polling. [@maxjean__](https://x.com/maxjean__)
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — Hands heavy work to Cursor by default, and optionally Grok Build, Claude Code, or Codex, so those usage pools get used. [@JordanHall_dev](https://x.com/JordanHall_dev)
 
 ## Research
@@ -98,6 +99,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) — Morning transcript recap of channels you pick; quiet if nothing new. [@scheemunai](https://x.com/scheemunai)
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — Briefs new official model releases from major labs; silent otherwise. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Index](https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7) — SEO and AEO teammate for keyword research, briefs, and search health. [@adamta](https://x.com/adamta)
+- [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — Research what people actually say about any topic in the last 30 days across Reddit, X, YouTube, TikTok, Hacker News, and the web. [@mvanhorn](https://x.com/mvanhorn)
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) — Answers questions from Lenny's Data archive. [@lennysan](https://x.com/lennysan)
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Reddit researcher: pain points and idea packs from keywords; never posts. [@tinkerersanky](https://x.com/tinkerersanky)
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — Weekday morning digest of 2-3 practical AI-tool picks, or a slow-day skip. [@byeleni](https://x.com/byeleni)
@@ -129,6 +131,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 ## Sales
 
 - [Blunt](https://x.ai/bot/N0J32FbnVRuetJi1oJggh) — Senior product-marketer review of a landing page: send a URL and get the memo. [@Talsiach](https://x.com/Talsiach)
+- [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — A business thought partner for technical founders and execs: positioning, distribution, and commercialization before the data is complete. [@thesmitpatel](https://x.com/thesmitpatel)
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Turns a customer call into slides from customer context.
 - [Freelance Prospector](https://x.ai/bot/UMCdNlqEH7USe3eOznd1U) — Scans freelance marketplaces, sends first contacts, and books meetings. [@cristianmock](https://x.com/cristianmock)
 - [Grok for SEO, GEO, paid ads and Shopify](https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4) — A senior marketer for Google Ads, Meta, SEO and Shopify. [@irabukht](https://x.com/irabukht)
@@ -142,6 +145,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — Sets up PhoneZero outbound calls and places one call after an explicit yes. [@ibelevy](https://x.com/ibelevy)
 - [Pitch Deck Analyzer](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — Reviews pitch decks against a profile from a short interview; analysis only. [@BrianDEvans](https://x.com/BrianDEvans)
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — After a meeting, drafts todos and a follow-up; never sends. [@itspriyaptl](https://x.com/itspriyaptl)
+- [RedReplier](https://x.ai/bot/8aU6ly_uunnMabpybs3hB) — Watches Reddit, X, Hacker News, and Bluesky for mentions of your product, competitors, and buying-signal phrases. [@unicodef1wn](https://x.com/unicodef1wn)
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — Matches job seekers with open roles from your email. Scans investor updates and inbound for hiring signals and people looking. [@lennysan](https://x.com/lennysan)
 
 ## Creative
@@ -158,17 +162,21 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Engenheiro Audiovisual](https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6) — Builds Instagram carousel and static art from copy briefings (photo on top, big text below). [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [figma bro](https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz) — Designs in Figma. Real components, intuitive layout, and motion that feels right. [@johnbai](https://x.com/johnbai)
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — Runs an atelier for posters, style sheets, post pictures, printable newspapers, heroes, landing pages, briefs, and slides. [@arni0x9053](https://x.com/arni0x9053)
+- [Human Copywriter](https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ) — A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. Draft only. [@massimodeluisa](https://x.com/massimodeluisa)
 - [illo](https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02) — Turns ideas and posts into mascot-led editorial illustrations via the illo skill. [@trevin](https://x.com/trevin)
 - [Imogen](https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X) — Writes brief, copyable alt text focused on the most important part of an image. [@kentcdodds](https://x.com/kentcdodds)
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — YouTube studio director that designs one video at a time as a thumbnail-title-opening-payoff contract. [@gabe_onchain](https://x.com/gabe_onchain)
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — Imagination companion for art, worlds, poems, and little films; warm and brief. [@princess414141](https://x.com/princess414141)
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — Makes a meme from a topic you drop; funny first, never shock. [@DogecoinNorway](https://x.com/DogecoinNorway)
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — Mines hot AI news from the last 24 hours on web, X, and Instagram into a copy briefing. [@adamuchigabriel](https://x.com/adamuchigabriel)
+- [Palette](https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V) — Turns a photo into a four-role colour palette: a labelled 55/20/20/5 bar chart and four hex codes sampled from the image. [@subforti](https://x.com/subforti)
+- [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — Helps game developers ideate and visualize in real-game styles, then produces 2D art or sprite sheets sliced into game-ready PNGs. [@DannyLimanseta](https://x.com/DannyLimanseta)
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — Cuts YouTube Shorts from proven long-form with Opus Clip first and Descript backup. [@ShareGrokBots](https://x.com/ShareGrokBots)
 - [Social Media](https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz) — Schedules and publishes Instagram carousels and posts from finished creative assets. [@adamuchigabriel](https://x.com/adamuchigabriel)
 - [socials](https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE) — Hourly X/Reddit scout for filmable AI/tech TikTok/Reels/Shorts kits. [@ashen_one](https://x.com/ashen_one)
 - [Spotify DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Controls Spotify: picks sets, suggests artists, and maps nicknames to devices. [@trevin](https://x.com/trevin)
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — Morning Stitch Fix stylist: weather, an outfit from bought items, and deals. [@Mitch_Sweigart](https://x.com/Mitch_Sweigart)
+- [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — Three X automations for creators: keyword DMs, a follower queue above a size floor, and a locked-list spy. [@theadvisorbtc](https://x.com/theadvisorbtc)
 - [Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — Gathers and organizes Would You Rather prompt-game content. [@CryptoVonDoom](https://x.com/CryptoVonDoom)
 
 ## Life
@@ -178,6 +186,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — Turns scanned and flat PDFs into fillable forms with Instafill.ai.
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — Watches a home EG4 hybrid solar and battery system and flags faults. [@look4terry](https://x.com/look4terry)
 - [Fantasy Football Advisor](https://x.ai/bot/E273ZIwirOOdwMfeCp97t) — A fantasy football GM for ESPN leagues: draft, lineups, waivers, and trades, asking before roster moves. [@Colehollander10](https://x.com/Colehollander10)
+- [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) — A fantasy football GM for drafts, trades, and roster moves that works with Yahoo and Sleeper. [@TylerNishida](https://x.com/TylerNishida)
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — Keeps a private houseplant care log and weekly reminders to water, repot, fertilize, and move plants with the seasons. [@RichSilver](https://x.com/RichSilver)
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Maps X DM relationships in Quick Radar mode and returns Act now threads. [@pukerrainbrow](https://x.com/pukerrainbrow)
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Plans an Instacart grocery cart when you ask. [@mvanhorn](https://x.com/mvanhorn)
