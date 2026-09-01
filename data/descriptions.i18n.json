@@ -1384,5 +1384,126 @@
     "de": "Baut Instagram-Karussell und statische Motive aus Copy-Briefings (Foto oben, großer Text unten).",
     "pt-BR": "Monta carrossel e arte estática do Instagram a partir de briefings de copy (foto em cima, texto grande embaixo).",
     "ru": "Делает карусель и статику Instagram из копибрифов (фото сверху, крупный текст снизу)."
+  },
+  "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe": {
+    "zh-CN": "家长助手：拉取 Schoology，更新家庭作业站点，并盯着学校活动。",
+    "zh-TW": "家長助手：拉取 Schoology，更新家庭作業網站，並盯著學校活動。",
+    "ja": "保護者向けヘルパー。Schoology を取り込み、家族の宿題サイトを最新に保ち、学校の予定を見守ります。",
+    "ko": "학부모 도우미. Schoology를 가져와 가족 숙제 사이트를 최신으로 유지하고 학교 활동을 지켜봅니다.",
+    "es": "Ayudante para padres: extrae Schoology, mantiene al día el sitio de deberes familiar y vigila las actividades escolares.",
+    "fr": "Aide parentale qui tire Schoology, tient à jour le site de devoirs familial et surveille les activités scolaires.",
+    "de": "Elternhelfer, der Schoology holt, die Familien-Hausaufgaben-Seite aktuell hält und Schulaktivitäten beobachtet.",
+    "pt-BR": "Ajudante dos pais que puxa o Schoology, mantém o site de deveres da família atualizado e observa as atividades da escola.",
+    "ru": "Помощник родителя: тянет Schoology, держит семейный сайт с домашкой актуальным и следит за школьными делами."
+  },
+  "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d": {
+    "zh-CN": "画一幅超宽 16:9 场景，拆成四格滑动分镜，说话像说唱歌手。",
+    "zh-TW": "畫一幅超寬 16:9 場景，拆成四格滑動分鏡，說話像饒舌歌手。",
+    "ja": "超ワイド 16:9 の一枚を描き、スワイプ用の4ペインに分け、ラッパー口調で話します。",
+    "ko": "초광각 16:9 장면 하나를 그리고 스와이프용 네 칸으로 나누며, 래퍼처럼 말합니다.",
+    "es": "Pinta una escena ultra ancha 16:9, la parte en cuatro paneles deslizables y habla como un rapero.",
+    "fr": "Peint une scène ultra-large 16:9, la découpe en quatre volets à swiper, et parle comme un rappeur.",
+    "de": "Malt eine ultrabreite 16:9-Szene, teilt sie in vier Wisch-Paneele und spricht wie ein Rapper.",
+    "pt-BR": "Pinta uma cena ultrawide 16:9, divide em quatro painéis de swipe e fala como um rapper.",
+    "ru": "Рисует одну сверхширокую сцену 16:9, режет на четыре свайп-панели и говорит как рэпер."
+  },
+  "https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4": {
+    "zh-CN": "面向 Google Ads、Meta、SEO 和 Shopify 的资深营销人。",
+    "zh-TW": "面向 Google Ads、Meta、SEO 與 Shopify 的資深行銷人。",
+    "ja": "Google Ads、Meta、SEO、Shopify 向けのシニアマーケター。",
+    "ko": "Google Ads, Meta, SEO, Shopify를 다루는 시니어 마케터.",
+    "es": "Marketer senior para Google Ads, Meta, SEO y Shopify.",
+    "fr": "Marketeur senior pour Google Ads, Meta, SEO et Shopify.",
+    "de": "Senior-Marketer für Google Ads, Meta, SEO und Shopify.",
+    "pt-BR": "Marketeiro sênior para Google Ads, Meta, SEO e Shopify.",
+    "ru": "Старший маркетолог по Google Ads, Meta, SEO и Shopify."
+  },
+  "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD": {
+    "zh-CN": "默认把重活交给 Cursor，也可交给 Grok Build、Claude Code 或 Codex，把那些用量池用起来。",
+    "zh-TW": "預設把重活用 Cursor 做，也可交給 Grok Build、Claude Code 或 Codex，把那些用量池用起來。",
+    "ja": "重い作業は既定で Cursor に渡し、任意で Grok Build、Claude Code、Codex にも回して、それらの使用枠を消化します。",
+    "ko": "무거운 일은 기본적으로 Cursor에 넘기고, 선택적으로 Grok Build, Claude Code, Codex에도 맡겨 그 사용량 풀을 소진합니다.",
+    "es": "Pasa el trabajo pesado a Cursor por defecto, y opcionalmente a Grok Build, Claude Code o Codex, para gastar esos cupos.",
+    "fr": "Donne le travail lourd à Cursor par défaut, et optionnellement à Grok Build, Claude Code ou Codex, pour consommer ces quotas.",
+    "de": "Gibt schwere Arbeit standardmäßig an Cursor, optional an Grok Build, Claude Code oder Codex, damit diese Nutzungspools genutzt werden.",
+    "pt-BR": "Entrega o trabalho pesado ao Cursor por padrão e, opcionalmente, ao Grok Build, Claude Code ou Codex, para usar esses pools.",
+    "ru": "Тяжёлую работу по умолчанию отдаёт Cursor, по желанию — Grok Build, Claude Code или Codex, чтобы эти квоты не простаивали."
+  },
+  "https://x.ai/bot/BsExflSUXpW0hs21OTBzu": {
+    "zh-CN": "带着刚接触 Grok Bot 的人搭一个小队：一名主管、几位项目负责人和若干专家。",
+    "zh-TW": "帶著剛接觸 Grok Bot 的人組一個小隊：一名主管、幾位專案負責人和若干專家。",
+    "ja": "Grok Bot 初心者を案内し、チーフ1人、数人のプロジェクトリード、専門家からなる小チームを作ります。",
+    "ko": "Grok Bot 초심자에게 작은 팀을 꾸리는 법을 안내합니다. 치프 한 명, 프로젝트 리드 몇 명, 그리고 전문가들.",
+    "es": "Guía a alguien nuevo en Grok Bot a armar un equipo pequeño: un chief, unos project leads y especialistas.",
+    "fr": "Guide un débutant Grok Bot pour monter une petite équipe : un chief, quelques project leads et des spécialistes.",
+    "de": "Führt Grok-Bot-Neulinge durch den Aufbau eines kleinen Teams: ein Chief, ein paar Project Leads und Spezialisten.",
+    "pt-BR": "Guia quem é novo no Grok Bot a montar um time pequeno: um chief, alguns project leads e especialistas.",
+    "ru": "Проводит новичка в Grok Bot через сборку маленькой команды: один chief, несколько project lead и специалисты."
+  },
+  "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9": {
+    "zh-CN": "让共享的多 bot 工作区保持整齐、有 git 备份、可带走，含布局约定和清理。",
+    "zh-TW": "讓共用的多 bot 工作區保持整齊、有 git 備份、可帶走，含版面約定與清理。",
+    "ja": "共有のマルチ bot ワークスペースを整理し、git でバックアップし、持ち運び可能に。レイアウト規約とクリーンアップも含みます。",
+    "ko": "공유 멀티봇 작업 공간을 정리하고 git으로 백업하며 옮길 수 있게 유지합니다. 레이아웃 규칙과 정리 포함.",
+    "es": "Mantiene un workspace compartido de varios bots organizado, con git y portable, incluidas convenciones de layout y limpieza.",
+    "fr": "Garde un workspace multi-bots partagé rangé, sauvegardé en git et portable, conventions de layout et nettoyage compris.",
+    "de": "Hält einen geteilten Multi-Bot-Workspace organisiert, git-gesichert und portabel, inkl. Layout-Konventionen und Aufräumen.",
+    "pt-BR": "Mantém um workspace compartilhado de vários bots organizado, com git e portátil, incluindo convenções de layout e limpeza.",
+    "ru": "Держит общее мультибот-рабочее пространство в порядке, с git и переносимым, включая раскладку и уборку."
+  },
+  "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D": {
+    "zh-CN": "面向一小队专业 AI 智能体的私人幕僚长；协调日历、项目和收件箱。",
+    "zh-TW": "面向一小隊專業 AI 智能體的私人幕僚長；協調行事曆、專案與收件匣。",
+    "ja": "専門 AI エージェントの小さなチーム向けの個人チーフオブスタッフ。カレンダー、プロジェクト、受信箱を調整します。",
+    "ko": "전문 AI 에이전트 소규모 팀을 위한 개인 비서실장. 캘린더, 프로젝트, 받은편지함을 조율합니다.",
+    "es": "Jefe de gabinete personal para un equipo pequeño de agentes IA especialistas; coordina calendario, proyectos e inbox.",
+    "fr": "Chef de cabinet personnel pour une petite équipe d’agents IA spécialistes ; coordonne calendrier, projets et inbox.",
+    "de": "Persönlicher Stabschef für ein kleines Team spezialisierter KI-Agenten; koordiniert Kalender, Projekte und Posteingang.",
+    "pt-BR": "Chefe de gabinete pessoal para um time pequeno de agentes de IA especialistas; coordena calendário, projetos e inbox.",
+    "ru": "Личный начальник штаба для маленькой команды узких ИИ-агентов; координирует календарь, проекты и входящие."
+  },
+  "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U": {
+    "zh-CN": "夜间工程审计员：先调研整份代码库，再按区域各交一处清理。",
+    "zh-TW": "夜間工程稽核：先研究整份程式庫，再按區域各交出一處清理。",
+    "ja": "夜間のエンジニアリング監査。コードベース全体を調べ、領域ごとに1件のクリーンアップを出荷します。",
+    "ko": "야간 엔지니어링 감사. 코드베이스 전체를 조사한 뒤 영역마다 정리 하나씩 출고합니다.",
+    "es": "Auditor de ingeniería nocturno que investiga todo el código y entrega una limpieza por área.",
+    "fr": "Auditeur d’ingénierie nocturne qui étudie tout le codebase, puis livre un nettoyage par zone.",
+    "de": "Nächtlicher Engineering-Auditor, der die ganze Codebase recherchiert und dann pro Bereich eine Aufräumung liefert.",
+    "pt-BR": "Auditor de engenharia noturno que pesquisa o codebase inteiro e entrega uma limpeza por área.",
+    "ru": "Ночной инженерный аудитор: исследует весь код, затем сдаёт по одной уборке на область."
+  },
+  "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-": {
+    "zh-CN": "用真正的 Grok Build CLI 做应用、代码和深度调研，全力跑满。",
+    "zh-TW": "用真正的 Grok Build CLI 做應用、程式與深度研究，全力跑滿。",
+    "ja": "本物の Grok Build CLI を、アプリ・コード・深いリサーチに最大努力で回します。",
+    "ko": "진짜 Grok Build CLI를 앱, 코드, 딥 리서치에 최대 노력으로 돌립니다.",
+    "es": "Ejecuta el CLI real de Grok Build para apps, código e investigación profunda a máximo esfuerzo.",
+    "fr": "Lance le vrai CLI Grok Build pour apps, code et recherche approfondie, à effort maximal.",
+    "de": "Fährt die echte Grok-Build-CLI für Apps, Code und tiefe Recherche mit maximalem Einsatz.",
+    "pt-BR": "Roda o CLI de verdade do Grok Build para apps, código e pesquisa profunda no esforço máximo.",
+    "ru": "Запускает настоящий CLI Grok Build для приложений, кода и глубокого ресёрча на максимуме."
+  },
+  "https://x.ai/bot/N0J32FbnVRuetJi1oJggh": {
+    "zh-CN": "资深产品营销人审落地页：丢一个 URL，拿回备忘录。",
+    "zh-TW": "資深產品行銷人審落地頁：丟一個 URL，拿回備忘錄。",
+    "ja": "シニアプロダクトマーケターがランディングページをレビュー。URL を送るとメモが返ってきます。",
+    "ko": "시니어 프로덕트 마케터의 랜딩 페이지 리뷰. URL을 보내면 메모를 받습니다.",
+    "es": "Review de product marketer senior de una landing: envía una URL y recibe el memo.",
+    "fr": "Revue de landing par un product marketer senior : envoyez une URL, recevez le mémo.",
+    "de": "Senior-Product-Marketer-Review einer Landingpage: URL schicken, Memo zurückbekommen.",
+    "pt-BR": "Review de product marketer sênior de uma landing: envie uma URL e receba o memo.",
+    "ru": "Ревью лендинга старшим продакт-маркетологом: кидаете URL — получаете записку."
+  },
+  "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz": {
+    "zh-CN": "在 Figma 里做设计：真组件、直观布局、感觉对的动效。",
+    "zh-TW": "在 Figma 裡做設計：真元件、直覺版面、感覺對的動效。",
+    "ja": "Figma でデザイン。本物のコンポーネント、直感的なレイアウト、しっくりくるモーション。",
+    "ko": "Figma에서 디자인합니다. 진짜 컴포넌트, 직관적인 레이아웃, 느낌이 맞는 모션.",
+    "es": "Diseña en Figma. Componentes reales, layout intuitivo y motion que se siente bien.",
+    "fr": "Conçoit dans Figma. Vrais composants, layout intuitif, et un motion qui sonne juste.",
+    "de": "Designt in Figma. Echte Komponenten, intuitives Layout und Motion, die sich richtig anfühlt.",
+    "pt-BR": "Designa no Figma. Componentes de verdade, layout intuitivo e motion que parece certo.",
+    "ru": "Дизайнит в Figma. Настоящие компоненты, интуитивная вёрстка и движение, которое ощущается правильно."
   }
 }

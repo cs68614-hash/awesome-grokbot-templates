@@ -1007,6 +1007,94 @@
       "twitter": "adamuchigabriel",
       "share_url": "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6",
       "scraped_at": "2026-08-31"
+    },
+    {
+      "name": "Homeroom",
+      "description": "A parent helper that pulls Schoology, keeps a family homework site current, and watches school activities.",
+      "category": "Life",
+      "twitter": "ahalvor",
+      "share_url": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "4 Panez",
+      "description": "Paints one ultra-wide 16:9 scene, splits it into four swipe panes, and talks like a rapper.",
+      "category": "Creative",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Grok for SEO, GEO, paid ads and Shopify",
+      "description": "A senior marketer for Google Ads, Meta, SEO and Shopify.",
+      "category": "Sales",
+      "twitter": "irabukht",
+      "share_url": "https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Usage-pool orchestrator",
+      "description": "Hands heavy work to Cursor by default, and optionally Grok Build, Claude Code, or Codex, so those usage pools get used.",
+      "category": "Engineering",
+      "twitter": "JordanHall_dev",
+      "share_url": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Set Up",
+      "description": "Walks someone new to Grok Bot through building a small team: one chief, a few project leads, and specialists.",
+      "category": "Assistants",
+      "twitter": "theaaron",
+      "share_url": "https://x.ai/bot/BsExflSUXpW0hs21OTBzu",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Overwatch",
+      "description": "Keeps a shared multi-bot workspace organized, git-backed, and portable, including layout conventions and cleanup.",
+      "category": "Engineering",
+      "twitter": "theaaron",
+      "share_url": "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "CoS",
+      "description": "A personal chief of staff for a small team of specialist AI agents; coordinates calendar, projects, and inbox.",
+      "category": "Assistants",
+      "twitter": "theaaron",
+      "share_url": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Nightly Audit Engineer",
+      "description": "A nightly engineering auditor that researches a whole codebase, then ships one cleanup per area.",
+      "category": "Engineering",
+      "twitter": "daisuke",
+      "share_url": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Grok Build",
+      "description": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort.",
+      "category": "Engineering",
+      "twitter": "BillZanetti",
+      "share_url": "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Blunt",
+      "description": "Senior product-marketer review of a landing page: send a URL and get the memo.",
+      "category": "Sales",
+      "twitter": "Talsiach",
+      "share_url": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+      "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "figma bro",
+      "description": "Designs in Figma. Real components, intuitive layout, and motion that feels right.",
+      "category": "Creative",
+      "twitter": "johnbai",
+      "share_url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+      "scraped_at": "2026-09-01"
     }
   ]
 }
