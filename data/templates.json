@@ -1639,6 +1639,366 @@
       "twitter": "thekuchh",
       "share_url": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
       "scraped_at": "2026-09-01"
+    },
+    {
+      "name": "Grok Bot Highlights",
+      "description": "Chinese curator of high-quality high-traffic Grok Bot explorer posts; weekday AM/PM sweeps.",
+      "category": "Research",
+      "twitter": "MaiYangAI",
+      "share_url": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Private Desk",
+      "description": "Runs sensitive analysis in Prism confidential GPU enclaves with local encryption and attestation.",
+      "category": "Engineering",
+      "twitter": "useprismnetwork",
+      "share_url": "https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "tinkabot",
+      "description": "Builds Cursor/Agent plugins around an API—usually as MCP plus skills.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Redact",
+      "description": "Files people-search and data-broker opt-outs in the browser for one authorized person.",
+      "category": "Life",
+      "twitter": "PyRo1121",
+      "share_url": "https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Maskoff",
+      "description": "Scores public X profiles for catfish tells; paste a handle or sweep a public follower list.",
+      "category": "Life",
+      "twitter": "RyanGBsystems",
+      "share_url": "https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Poteto Chief of Staff",
+      "description": "Runs a small Grok Bot team poteto-style: few routine runs, short bots for repeats, cloud agents for code.",
+      "category": "Assistants",
+      "twitter": "HaseebMir91",
+      "share_url": "https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Daily Easy Apply Digest",
+      "description": "Morning digest of mid-level backend Easy Apply jobs from LinkedIn and Indeed, scored to your resume.",
+      "category": "Research",
+      "twitter": "HaseebMir91",
+      "share_url": "https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Easy Apply Queue",
+      "description": "One-hour Easy Apply window with a durable queue so the same posting is never fetched twice.",
+      "category": "Research",
+      "twitter": "HaseebMir91",
+      "share_url": "https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Tuner",
+      "description": "Tunes bot settings and routines so the desk runs smoother.",
+      "category": "Assistants",
+      "twitter": "humanmeteorite",
+      "share_url": "https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Scout",
+      "description": "Scouts signals and returns a short actionable brief.",
+      "category": "Research",
+      "twitter": "zeuuss_01",
+      "share_url": "https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "MadMax Mode",
+      "description": "High-aggression execution mode for shipping hard and fast.",
+      "category": "Assistants",
+      "twitter": "JoePro",
+      "share_url": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Token Accountant",
+      "description": "Tracks where tokens and cloud-agent time go across a multi-bot shop.",
+      "category": "Money",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/zdnVIfLkNmRwZqqogojuc",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "The Bobs",
+      "description": "Twin efficiency consultants who audit your bot roster, flag overlap, and recommend what to cut.",
+      "category": "Assistants",
+      "twitter": "Boilerfan1234",
+      "share_url": "https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Forge",
+      "description": "Factory manager for flow-next specs: keeps a marked-ready spec moving through plan, work, review, and PR.",
+      "category": "Engineering",
+      "twitter": "DanKillenberger",
+      "share_url": "https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Repo Engineer",
+      "description": "Ships small GitHub fixes as pull requests through Cursor cloud agents; never merges itself.",
+      "category": "Engineering",
+      "twitter": "RustamAtuev",
+      "share_url": "https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Investor Bot",
+      "description": "Autonomous swing trader for a small (~$1k) brokerage book with defined stops and quiet alerts.",
+      "category": "Money",
+      "twitter": "MadeItHappenX",
+      "share_url": "https://x.ai/bot/UWNGpcghM9H79JCb4of5Q",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "InsightfulPipe",
+      "description": "Senior marketer for ads, SEO, social, and Shopify powered by live InsightfulPipe data.",
+      "category": "Sales",
+      "twitter": "insightfulpipe",
+      "share_url": "https://x.ai/bot/vYIAB3Z6V8gEERewymcw1",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Universal Video Downloader",
+      "description": "Paste a video link; get a playable MP4 from X, Reels, YouTube, TikTok, Vimeo, and 1500+ sites.",
+      "category": "Creative",
+      "twitter": "ApexSMK",
+      "share_url": "https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Vidmoat Bot",
+      "description": "Cuts, previews, and renders videos in Vidmoat over MCP into an editable timeline.",
+      "category": "Creative",
+      "twitter": "vidmoat",
+      "share_url": "https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Copay Compass",
+      "description": "Helps navigate medical copays and insurance cost choices with clear next steps.",
+      "category": "Money",
+      "twitter": "MSaintjour",
+      "share_url": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "AE deal bot",
+      "description": "Account-executive deal helper that keeps pipeline and next actions tight.",
+      "category": "Sales",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Growth Desk",
+      "description": "Growth desk that plans and ships acquisition experiments end to end.",
+      "category": "Sales",
+      "twitter": "AbuSaud_Cyber",
+      "share_url": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Chief",
+      "description": "Chief-of-staff style orchestrator that assigns and tracks work across bots.",
+      "category": "Assistants",
+      "twitter": "rafdotworks",
+      "share_url": "https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Testbench",
+      "description": "Prism testbench for evaluating agent runs in isolated compute.",
+      "category": "Engineering",
+      "twitter": "useprismnetwork",
+      "share_url": "https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Gus Fring",
+      "description": "Calm operations partner that keeps the desk orderly and on schedule.",
+      "category": "Assistants",
+      "twitter": "liam_fallen",
+      "share_url": "https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Beatrix Kiddo",
+      "description": "Focused strike bot for finishing one hard job cleanly.",
+      "category": "Assistants",
+      "twitter": "liam_fallen",
+      "share_url": "https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Jordan Belfort",
+      "description": "High-energy sales closer that drafts pitches and follow-ups.",
+      "category": "Sales",
+      "twitter": "liam_fallen",
+      "share_url": "https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "AvatarMaker",
+      "description": "Generates and iterates avatar images for profiles and brands.",
+      "category": "Creative",
+      "twitter": "Andrew51786",
+      "share_url": "https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Vet",
+      "description": "Vets templates and shares before you add them to your desk.",
+      "category": "Research",
+      "twitter": "GrokBotIdeas",
+      "share_url": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Porter",
+      "description": "Moves a complete Grok Bot roster—jobs, memories, routines—from one app to another.",
+      "category": "Assistants",
+      "twitter": "darylbleach",
+      "share_url": "https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Token Ops",
+      "description": "Tracks live routines across bots, how often they fire, and whether tokens are worth it.",
+      "category": "Money",
+      "twitter": "adgapar",
+      "share_url": "https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Bot Father",
+      "description": "Central orchestrator that nourishes, protects, and evolves a network of child agents.",
+      "category": "Assistants",
+      "twitter": "abdshomad",
+      "share_url": "https://x.ai/bot/dVQjvC6c-sMhtgVskciBH",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "The Accountant",
+      "description": "Finds runaway-token bots—over-polling, retry loops—and tells you what to tighten.",
+      "category": "Money",
+      "twitter": "brstorrie",
+      "share_url": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Grok Build",
+      "description": "Builds client websites, deploys a Vercel preview, and emails the client the link.",
+      "category": "Engineering",
+      "twitter": "beaudenison",
+      "share_url": "https://x.ai/bot/iwa3WaHZn385jfZrsQngL",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Trendspotter",
+      "description": "Weekday digest of sports, entertainment, and culture trends plus AI-in-marketing signals.",
+      "category": "Research",
+      "twitter": "jennananpei",
+      "share_url": "https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "t2000",
+      "description": "Marketplace operator for t2000.ai—earn, hire, settle, and sell in USDC.",
+      "category": "Money",
+      "twitter": "funkii",
+      "share_url": "https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "SumoSign",
+      "description": "Sends documents for human signature via SumoSign with the client’s own API key.",
+      "category": "Engineering",
+      "twitter": "SumoSign",
+      "share_url": "https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "STEER",
+      "description": "Writing desk for killing AI slop—mark a draft, save, get a rewrite that follows the marks.",
+      "category": "Creative",
+      "twitter": "bfrench",
+      "share_url": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "2nd Brain",
+      "description": "Lattice wiki compiler for a personal second brain from PDFs, notes, and saved posts.",
+      "category": "Research",
+      "twitter": "LeTerryBZH",
+      "share_url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Lumos",
+      "description": "Technical educator using the Feynman technique with examples and daily-life analogies.",
+      "category": "Research",
+      "twitter": "mdafanulh",
+      "share_url": "https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "UniFi AQ TRMNL",
+      "description": "Builds a TRMNL private plugin that surfaces UniFi Protect air-quality sensor data.",
+      "category": "Engineering",
+      "twitter": "rrrkren",
+      "share_url": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Librarian",
+      "description": "Organizes and retrieves documents and notes across your Grok Bot desk.",
+      "category": "Research",
+      "twitter": "ShaneMac",
+      "share_url": "https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Grok Build",
+      "description": "Grok Build variant for shipping client sites with preview links.",
+      "category": "Engineering",
+      "twitter": "DAssetBuzz",
+      "share_url": "https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "Sous Chef",
+      "description": "Kitchen sidekick that plans meals, prep, and grocery lists.",
+      "category": "Life",
+      "twitter": "amberdawn1786",
+      "share_url": "https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t",
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "SEOAgent",
+      "description": "Autonomous SEO engineer that bootstraps SEOAgent in your site repo and grows organic traffic.",
+      "category": "Sales",
+      "twitter": "SEOAgent_",
+      "share_url": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+      "scraped_at": "2026-09-02"
     }
   ]
 }
