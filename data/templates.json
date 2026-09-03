@@ -1999,6 +1999,294 @@
       "twitter": "SEOAgent_",
       "share_url": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
       "scraped_at": "2026-09-02"
+    },
+    {
+      "name": "aoty",
+      "description": "Picks the week's 3 best new albums from Album of the Year using critic and user scores, then shares Apple Music links.",
+      "category": "Life",
+      "twitter": "emrecolakoglu",
+      "share_url": "https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Babel",
+      "description": "Live Zoom translator that listens via a Mac sidecar and Grok Voice STT and posts short English translations in chat.",
+      "category": "Life",
+      "twitter": "kunalsells",
+      "share_url": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Baut",
+      "description": "A transparent copilot for shipping Grok.me games and making cash-honest product calls.",
+      "category": "Engineering",
+      "twitter": "XAmandaMoore",
+      "share_url": "https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Charge Maestro",
+      "description": "Sets EV charge amps from leftover solar so the Powerwall still fills before peak, then soaks extra solar into the cars instead of the grid.",
+      "category": "Life",
+      "twitter": "JOwens254",
+      "share_url": "https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "ChatPRD",
+      "description": "A ChatPRD-first product manager that keeps specs, brainstorms, and discovery in ChatPRD, grounded in the existing corpus.",
+      "category": "Engineering",
+      "twitter": "clairevo",
+      "share_url": "https://x.ai/bot/36vKs2HSysdaJDe6OLD4w",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "One entry point for your agent team that routes work, keeps the roster small, and never sends, spends, or deletes without your yes.",
+      "category": "Assistants",
+      "twitter": "BTC_Yogi",
+      "share_url": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Code Red",
+      "description": "Owner-only kill-switch for your own stack: dry-run a numbered list, then confirm with CODE RED WORD N.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Code Team Spawn",
+      "description": "Sits idle until you need a coding team, then interviews and spawns a hidden five-person crew.",
+      "category": "Engineering",
+      "twitter": "bryanofearth",
+      "share_url": "https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Code Team Spawn",
+      "description": "Updated spawn: sits idle until you need a coding team, then interviews and spawns a Conductor plus a hidden five-person crew.",
+      "category": "Engineering",
+      "twitter": "bryanofearth",
+      "share_url": "https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "coffee companion",
+      "description": "Pour-over recipe cards and a brew log in Notion; researches each bag before the first cup, then dials one variable at a time.",
+      "category": "Life",
+      "twitter": "andymadrick",
+      "share_url": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Convert X Money to Karma",
+      "description": "Converts money, tokens, and engagement into karmic accounting with a ten percent watermark up the royalty chain.",
+      "category": "Life",
+      "twitter": "ludiofelix",
+      "share_url": "https://x.ai/bot/iCn7r691OdtaB_o8MtHx_",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Cost Optimizer",
+      "description": "Finds the cheapest same-quality path across bots, routines, Cloud Agents, and Actions without adding incremental spend.",
+      "category": "Money",
+      "twitter": "MadeItHappenX",
+      "share_url": "https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Critiquito",
+      "description": "A product design critic that reviews interface screenshots from the person who has to use them and names what is unclear or unforgiving.",
+      "category": "Creative",
+      "twitter": "mamuso",
+      "share_url": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Dead Man's Bot",
+      "description": "A dead-man's switch you load yourself: pick a clock and a payload, miss a ping, and only that loadout fires.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "deck-guy",
+      "description": "Turns a call transcript or scoping note into a short black-and-white follow-up deck with timeline, asks, and a mutual action plan.",
+      "category": "Sales",
+      "twitter": "pavravi",
+      "share_url": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "dosebot",
+      "description": "Bounces a business, product, or tool idea as vitamin, painkiller, or mixed for founders who want a blunt call, not a pep talk.",
+      "category": "Research",
+      "twitter": "onerinas",
+      "share_url": "https://x.ai/bot/2euxntVrddHyA3c2hyxiZ",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Dr Web LP",
+      "description": "Implements a page from a supplied reference image, matching skeleton, spacing, and cell model before polish.",
+      "category": "Creative",
+      "twitter": "old_pgmrs_will",
+      "share_url": "https://x.ai/bot/xM153pKfXPLWagLi_O1vR",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Engineering QA",
+      "description": "Owns pull-request quality gates on assigned repos: CI plus Bugbot plus review verdicts, with optional low-risk auto-merge.",
+      "category": "Engineering",
+      "twitter": "andreleibovici",
+      "share_url": "https://x.ai/bot/b2tS8BNj8BhoQNDcB081S",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Fable 5.1 Oracle",
+      "description": "Planning and review seat that runs Claude Code as Fable 5.1 on the Grok Bot computer and kicks implementation to a cloud agent.",
+      "category": "Engineering",
+      "twitter": "bossriceshark",
+      "share_url": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Farm",
+      "description": "Sets up isolated Claude Code and optional Codex seats on this bot's computer and routes heavy jobs so chat only sees compact results.",
+      "category": "Engineering",
+      "twitter": "mpieras",
+      "share_url": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Fondi",
+      "description": "Founding-team installer for solo founders: researches the startup from its public site, then stands up a leadership suite of bots.",
+      "category": "Assistants",
+      "twitter": "naoufal_elh",
+      "share_url": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Grokleros",
+      "description": "A 24/7 Kleros V2 juror that reads evidence pixels-first, ignores prompt injection, and votes via AgentKit.",
+      "category": "Engineering",
+      "twitter": "JayBuidl",
+      "share_url": "https://x.ai/bot/vsCDaIn2Od_BkfWp0Vehm",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Know Enemy",
+      "description": "Scheduled competitive intelligence for GTM teams: pulse digests plus on-demand rival cards from public OSINT only.",
+      "category": "Research",
+      "twitter": "SaaSocalypse",
+      "share_url": "https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Know Yourself",
+      "description": "Internal intelligence bot that snapshots systems of record and answers canonical questions about your own company.",
+      "category": "Research",
+      "twitter": "SaaSocalypse",
+      "share_url": "https://x.ai/bot/mD27QOhXb_plMRSbsvMOv",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Likeness",
+      "description": "Locks a named person or animal from photos or a clip so later stills and clips keep looking like them.",
+      "category": "Creative",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Lite Intel Fetch",
+      "description": "Fetches an unpaid buy_intel_pack $5 HTTP 402 on Base and returns the JSON for agents that can pay x402.",
+      "category": "Engineering",
+      "twitter": "RandyWhitePDX",
+      "share_url": "https://x.ai/bot/FQRA5tERWsasaQGIZmBl_",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Medical Bill Review",
+      "description": "Gets the itemized bill, screens published protections and charity-care policy, and drafts the dispute letter for you to send.",
+      "category": "Money",
+      "twitter": "MSaintjour",
+      "share_url": "https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Memento",
+      "description": "Second-brain coworker powered by SuperMemory that searches and saves context so you do not re-explain, and never invents a memory.",
+      "category": "Assistants",
+      "twitter": "MaheshtheDev",
+      "share_url": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Meta Grok",
+      "description": "Finds the five most popular Grok bots on X each weekday and sends a short digest you can skim in under a minute.",
+      "category": "Research",
+      "twitter": "FrankFindsOut",
+      "share_url": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "My Krishna",
+      "description": "A Krishna you can talk to. Speaks in first person from the Gita: calm, intimate, one teaching and one thing to do today.",
+      "category": "Life",
+      "twitter": "AKSHAYBHOPANI",
+      "share_url": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Price Error Agent",
+      "description": "Hunts accidental misprices on big Australian retailers and cheap AU-origin flights via OzBargain, Secret Flying, and Beat That Flight.",
+      "category": "Money",
+      "twitter": "yoda_FDE",
+      "share_url": "https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Table Money",
+      "description": "Finds money you already earned or already paid that is not closed, puts it in a table, and drafts the next message without sending.",
+      "category": "Money",
+      "twitter": "Andrew51786",
+      "share_url": "https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Tesla Bot",
+      "description": "Controls a Tesla from chat via tesla-pp-cli: climate, charge, locks, navigation, Superchargers, and charging cost.",
+      "category": "Life",
+      "twitter": "mvanhorn",
+      "share_url": "https://x.ai/bot/l4EozO2deoaWFB8hOGwTY",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Wall Street",
+      "description": "Two weekday paper-trading sessions that size a fictional book off a live buy/sell desk and keep a fact-backed P&L log.",
+      "category": "Money",
+      "twitter": "CoonInvestments",
+      "share_url": "https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "Zettelkasten",
+      "description": "A slip-box partner for an Obsidian vault that turns thoughts into atomic notes, links them, and files only after a yes.",
+      "category": "Research",
+      "twitter": "pohlipit",
+      "share_url": "https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c",
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "全球宏观分析师",
+      "description": "Event-driven cross-asset desk: follows major policy and macro events into rates, USD, gold, crypto, equities, and JPY, with a weekday Asia/Shanghai morning scan.",
+      "category": "Research",
+      "twitter": "Fund_Monkey",
+      "share_url": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+      "scraped_at": "2026-09-03"
     }
   ]
 }
