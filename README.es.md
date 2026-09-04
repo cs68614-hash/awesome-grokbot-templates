@@ -20,7 +20,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 
 ## Contenido
 
-- [Asistentes](#asistentes) (54)
+- [Asistentes](#asistentes) (55)
 - [Ingeniería](#ingeniería) (69)
 - [Investigación](#investigación) (39)
 - [Dinero](#dinero) (34)
@@ -56,6 +56,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Diseña, audita y afina Grok bots para que sigan siendo usables y útiles. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — Socio de operaciones sereno que mantiene el escritorio ordenado y a horario. [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — Encuentra supuestos de carga y comprueba si siguen siendo ciertos. [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — Un compañero Grok Bot de día a día para quien viene de Claude o Codex. Se queda, aprende la semana y ayuda con el ritmo de vida y trabajo, incluido iCloud. [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — Asistente entre semana que resume email, calendario, Notion y Slack según un playbook. [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — Jefe de gabinete que convierte prioridades en acción coordinada entre asistentes. [@kentcdodds](https://x.com/kentcdodds)
 - [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — Lleva a un usuario nuevo de Grok Bot de su rol y herramientas a conectores en vivo, y hace el primer trabajo real en el mismo chat. [@OliverKorzen](https://x.com/OliverKorzen)

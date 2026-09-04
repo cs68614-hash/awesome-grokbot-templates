@@ -3672,5 +3672,16 @@
     "de": "Führt jedes Cursor-CLI-Modell von Grok Bot aus; Setup installiert die CLI und schreibt deine Intent-|Model-Tabelle.",
     "pt-BR": "Roda qualquer modelo Cursor CLI a partir do Grok Bot; o setup instala o CLI e escreve sua tabela Intent | Model.",
     "ru": "Запускает любую модель Cursor CLI из Grok Bot; сетап ставит CLI и пишет таблицу Intent | Model."
+  },
+  "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA": {
+    "zh-CN": "给习惯用 Claude 或 Codex 的人做日常 Grok Bot 搭档。一直在线、记住本周安排，并帮忙理顺生活与工作节奏，包括 iCloud。",
+    "zh-TW": "給習慣用 Claude 或 Codex 的人當日常 Grok Bot 搭檔。一直在線、記住本週安排，並幫忙理順生活與工作節奏，包括 iCloud。",
+    "ja": "Claude や Codex に慣れた人向けの日常の Grok Bot パートナー。居続けてその週を覚え、iCloud を含む生活と仕事のリズムを手伝います。",
+    "ko": "Claude나 Codex에 익숙한 사람을 위한 일상 Grok Bot 파트너. 곁에 머물며 그 주를 기억하고, iCloud를 포함한 생활과 업무 리듬을 돕습니다.",
+    "es": "Un compañero Grok Bot de día a día para quien viene de Claude o Codex. Se queda, aprende la semana y ayuda con el ritmo de vida y trabajo, incluido iCloud.",
+    "fr": "Un partenaire Grok Bot au quotidien pour ceux habitués à Claude ou Codex. Reste, apprend la semaine, et aide au rythme de vie et de travail, iCloud inclus.",
+    "de": "Ein alltäglicher Grok-Bot-Partner für Leute, die Claude oder Codex gewohnt sind. Bleibt da, lernt die Woche und hilft beim Lebens- und Arbeitsrhythmus, inklusive iCloud.",
+    "pt-BR": "Um parceiro Grok Bot do dia a dia para quem vem do Claude ou do Codex. Fica por perto, aprende a semana e ajuda no ritmo de vida e trabalho, inclusive iCloud.",
+    "ru": "Повседневный партнёр Grok Bot для тех, кто привык к Claude или Codex. Остаётся рядом, запоминает неделю и помогает с ритмом жизни и работы, включая iCloud."
   }
 }

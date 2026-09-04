@@ -20,7 +20,7 @@
 
 ## 目录
 
-- [助理](#助理) (54)
+- [助理](#助理) (55)
 - [工程](#工程) (69)
 - [研究](#研究) (39)
 - [金钱](#金钱) (34)
@@ -56,6 +56,7 @@
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — 设计、审计并调校 Grok 机器人，让它们一直好用、有帮助。 [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — 冷静的运营搭档，让桌子整齐、按点走。 [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — 找出承重的假设，并核对它们现在是否仍然成立。 [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — 给习惯用 Claude 或 Codex 的人做日常 Grok Bot 搭档。一直在线、记住本周安排，并帮忙理顺生活与工作节奏，包括 iCloud。 [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — 工作日助手：按剧本汇总邮件、日历、Notion 和 Slack。 [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 幕僚长：把优先级变成各助手之间的协同行动。 [@kentcdodds](https://x.com/kentcdodds)
 - [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — 带着新用户从角色和常用工具接到可用连接器，并在同一对话里做完第一件真事。 [@OliverKorzen](https://x.com/OliverKorzen)

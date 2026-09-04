@@ -20,7 +20,7 @@
 
 ## Содержание
 
-- [Ассистенты](#ассистенты) (54)
+- [Ассистенты](#ассистенты) (55)
 - [Инжиниринг](#инжиниринг) (69)
 - [Исследования](#исследования) (39)
 - [Деньги](#деньги) (34)
@@ -56,6 +56,7 @@
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Проектирует, аудирует и настраивает Grok-ботов, чтобы они оставались удобными и полезными. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — Спокойный операционный партнёр: держит стол в порядке и по расписанию. [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — Находит несущие допущения и проверяет, верны ли они до сих пор. [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — Повседневный партнёр Grok Bot для тех, кто привык к Claude или Codex. Остаётся рядом, запоминает неделю и помогает с ритмом жизни и работы, включая iCloud. [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — Будничный ассистент: сводит почту, календарь, Notion и Slack по плейбуку. [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — Начальник штаба, который превращает приоритеты в согласованные действия ассистентов. [@kentcdodds](https://x.com/kentcdodds)
 - [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — Проводит нового пользователя Grok Bot от роли и инструментов к живым коннекторам и делает первую настоящую задачу в том же чате. [@OliverKorzen](https://x.com/OliverKorzen)
