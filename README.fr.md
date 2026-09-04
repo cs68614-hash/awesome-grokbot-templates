@@ -20,7 +20,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 
 ## Sommaire
 
-- [Assistants](#assistants) (55)
+- [Assistants](#assistants) (56)
 - [Ingénierie](#ingénierie) (69)
 - [Recherche](#recherche) (39)
 - [Argent](#argent) (34)
@@ -56,6 +56,7 @@ Docs : [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://d
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Conçoit, audite et règle les Grok bots pour qu’ils restent utilisables et utiles. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — Partenaire ops calme qui tient le bureau rangé et à l’heure. [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — Trouve les hypothèses porteuses et vérifie si elles tiennent encore. [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Marquis](https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2) — Partenaire au quotidien qui reste : briefs en semaine, boucles ouvertes, veille mail et setup des connecteurs. Parle comme un collègue vif, pas comme un prestataire one-shot. [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — Un partenaire Grok Bot au quotidien pour ceux habitués à Claude ou Codex. Reste, apprend la semaine, et aide au rythme de vie et de travail, iCloud inclus. [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — Assistant en semaine : récap e-mail, calendrier, Notion et Slack selon un playbook. [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — Chef de cabinet qui transforme les priorités en action coordonnée entre assistants. [@kentcdodds](https://x.com/kentcdodds)

@@ -20,7 +20,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 
 ## 목차
 
-- [어시스턴트](#어시스턴트) (55)
+- [어시스턴트](#어시스턴트) (56)
 - [엔지니어링](#엔지니어링) (69)
 - [리서치](#리서치) (39)
 - [머니](#머니) (34)
@@ -56,6 +56,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Grok 봇을 설계·감사·튜닝해 계속 쓰기 쉽고 도움이 되게 합니다. [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — 차분한 운영 파트너. 데스크를 정돈되고 일정대로 유지합니다. [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — 하중을 받치는 가정을 찾아, 지금도 참인지 확인합니다. [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Marquis](https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2) — 곁에 남는 일상 파트너. 평일 브리프, 열린 루프, 메일 감시, 커넥터 설정. 한 번만 쓰는 외주가 아니라 날카로운 동료처럼 말합니다. [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — Claude나 Codex에 익숙한 사람을 위한 일상 Grok Bot 파트너. 곁에 머물며 그 주를 기억하고, iCloud를 포함한 생활과 업무 리듬을 돕습니다. [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — 평일 어시스턴트. 플레이북으로 이메일, 캘린더, Notion, Slack을 요약합니다. [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 우선순위를 어시스턴트 간 조율된 행동으로 바꾸는 비서실장. [@kentcdodds](https://x.com/kentcdodds)
