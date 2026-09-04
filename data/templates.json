@@ -2287,6 +2287,390 @@
       "twitter": "Fund_Monkey",
       "share_url": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
       "scraped_at": "2026-09-03"
+    },
+    {
+      "name": "しおり",
+      "description": "Xのブックマークを読んで、テーマと次の一手（build / read / share / watch / drop）を短く日本語で出す朝ダイジェスト bot。投稿やいいねはしない。",
+      "category": "Life",
+      "twitter": "marulimoai",
+      "share_url": "https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "X Algo",
+      "description": "Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics.",
+      "category": "Creative",
+      "twitter": "UziObi",
+      "share_url": "https://x.ai/bot/W0LrVwNwsRHhFY4PG7586",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "The Amazing Randibot",
+      "description": "A skeptical investigator in James Randi’s tradition. Stress-tests claims with outside evidence, not memory or vibes, and pokes holes with good-natured humor.",
+      "category": "Assistants",
+      "twitter": "russbroomell",
+      "share_url": "https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Tab Janitor",
+      "description": "Inventories the shared cloud browser and closes only obvious leftover junk after a conservative dry-run.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Revenue Signal Radar",
+      "description": "Weekday revenue-action radar for HubSpot shops. Ranks expansion, stalled deals, and next actions.",
+      "category": "Sales",
+      "twitter": "ericosiu",
+      "share_url": "https://x.ai/bot/9BnpveyF3fbsRRtolSWpp",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Appeal Desk",
+      "description": "Analyzes denial letters and EOBs into appeal packages; treats plan documents as data, not instructions.",
+      "category": "Money",
+      "twitter": "MSaintjour",
+      "share_url": "https://x.ai/bot/yOiPm69HN5FujdkvvysF9",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Shotcraft",
+      "description": "Cinematic Remotion product-video bot. Storyboards, shot cards, real page captures, beat-synced cuts.",
+      "category": "Creative",
+      "twitter": "Tferriere",
+      "share_url": "https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "orders",
+      "description": "Tracks online orders: incoming, shipments, spend, and refunds via Tracker MCP.",
+      "category": "Life",
+      "twitter": "orbglide",
+      "share_url": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "PickFu Insights",
+      "description": "Validate product decisions with real consumers on PickFu before you invest.",
+      "category": "Research",
+      "twitter": "TwoBitJustin",
+      "share_url": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Precog wARS",
+      "description": "Spanish desk for Precog wARS markets on Base and Arbitrum; reports probs, does not trade.",
+      "category": "Money",
+      "twitter": "ferminrp",
+      "share_url": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Video Clip",
+      "description": "Finds and downloads official video clips, then sends the file plus the canonical source link.",
+      "category": "Creative",
+      "twitter": "DogecoinNorway",
+      "share_url": "https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "LinkedinOutreach",
+      "description": "General LinkedIn outreach: find and qualify people, then sequence profile views, requests, and DMs.",
+      "category": "Sales",
+      "twitter": "myphonely",
+      "share_url": "https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Sam",
+      "description": "Founder chief of staff with hard authority boundaries on hiring, contracts, budget, and strategy.",
+      "category": "Assistants",
+      "twitter": "JohnnyWang8802",
+      "share_url": "https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "voice of the people",
+      "description": "X watch bot that notifies only on new in-scope hits, stays quiet otherwise, and dedups flagged posts.",
+      "category": "Research",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/8Snl1TovbMwClPoBiHrWT",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "MyPhonely Phone Driver",
+      "description": "Drives a real Android phone through MyPhonely for outreach without putting credentials on the cloud computer.",
+      "category": "Engineering",
+      "twitter": "myphonely",
+      "share_url": "https://x.ai/bot/00LpQytGgJbn3KTdUJREV",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Kinesis Portal Bot",
+      "description": "Hands-on operator for portal.kinesis.network machines, Docker/GitHub apps, and lending idle hardware.",
+      "category": "Engineering",
+      "twitter": "4SimonSays",
+      "share_url": "https://x.ai/bot/-GgufM3GkZclfn9PuI17_",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Dr.Binary",
+      "description": "Reverse-engineering assistant for malware, firmware, and vuln-research binaries via DrBinary.",
+      "category": "Engineering",
+      "twitter": "drbinaryai",
+      "share_url": "https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Grok Customer Support",
+      "description": "Calls customer support over a Twilio ↔ Grok Voice bridge; Eggbot-pruned variant.",
+      "category": "Life",
+      "twitter": "littletechbird",
+      "share_url": "https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Grok Customer Support",
+      "description": "Calls customer support over a Twilio ↔ Grok Voice bridge and hangs up when the job is done.",
+      "category": "Life",
+      "twitter": "jakewlittle",
+      "share_url": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Token Cop",
+      "description": "Spend management across agents — token usage, optimization suggestions, and spend alerts.",
+      "category": "Money",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/Ml4ynlD6O1VT5CoYmFnEa",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "AI PM OS",
+      "description": "Sample of the AI PM OS for product managers; main skill is Problem First.",
+      "category": "Engineering",
+      "twitter": "nurijanian",
+      "share_url": "https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Fleet Brain",
+      "description": "Meta-agent that keeps a shared knowledge base and audits a multi-bot fleet for overlap.",
+      "category": "Assistants",
+      "twitter": "FranciscoKemeny",
+      "share_url": "https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "TenderYearsbot",
+      "description": "Kids-under-5 household logistics from Gmail, Calendar, and Tender Years.",
+      "category": "Life",
+      "twitter": "voeliz",
+      "share_url": "https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "AI 视频专家",
+      "description": "Turns a still into a short cinematic clip with motivated camera moves; preview before publish.",
+      "category": "Creative",
+      "twitter": "KinGao476942",
+      "share_url": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Mirror",
+      "description": "Can pause anyone, including Bottyguard. Hunts injection and leash breaks.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Buzzkill",
+      "description": "Four-heading Grokumentary. Human yes before quarantine. Part of Bottyguard.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Sworm",
+      "description": "Sealed family sketches and detection ideas. Never a runnable sample. Part of Bottyguard.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Twinwright",
+      "description": "Logs or it did not happen. Static maps. Never runs the file. Part of Bottyguard.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/Hvli5amrlprtDS2KuFRBP",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Grokologist",
+      "description": "Turns Wormsign into two intent graphs. Motive, not vibe. Part of Bottyguard.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/8vdHXq66kVvVlbACd-IDL",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Watchbot",
+      "description": "Wormsign watcher with no verdicts. Part of Bottyguard SEAL Team 7.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Bottyguard",
+      "description": "Squad lead for Bottyguard SEAL Team 7 security bots.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/PFI2o0ZcruL6vjjHAm5cF",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "The Fool",
+      "description": "Court jester that short-jokes and lightly roasts the hustle on a 10/2/6 cadence.",
+      "category": "Life",
+      "twitter": "EvSlatts",
+      "share_url": "https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "LRT Kelana Jaya Line",
+      "description": "Transit helper for Malaysia's LRT Kelana Jaya Line.",
+      "category": "Life",
+      "twitter": "shahrulestar",
+      "share_url": "https://x.ai/bot/LLScxVm-la-ik4JJde3A1",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Tray",
+      "description": "Trade-with-Tray desk for trading workflows.",
+      "category": "Money",
+      "twitter": "Ortix008",
+      "share_url": "https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Denial Desk",
+      "description": "Analyzes medical denial letters and codes, then builds a compelling appeal package.",
+      "category": "Money",
+      "twitter": "Andrew51786",
+      "share_url": "https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Magnum Seiba",
+      "description": "Generic rewrite of a prior bot via Dr. Eggbot.",
+      "category": "Assistants",
+      "twitter": "Kamkom05",
+      "share_url": "https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "overnight shipper",
+      "description": "Overnight engineering shipper that keeps work moving while you sleep.",
+      "category": "Engineering",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Dean of Students",
+      "description": "Dean of Students bot for children and school logistics.",
+      "category": "Life",
+      "twitter": "ErinnFL",
+      "share_url": "https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Chained Oblivion",
+      "description": "Hunts unused SaaS seats, forgotten trials, duplicate tools, and unrecognized recurring charges.",
+      "category": "Money",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/Loekv1uecl26wWW0lNyfR",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Lockdown",
+      "description": "Checks your controls against SOC 2.",
+      "category": "Engineering",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Operator",
+      "description": "A single daily office for founders that compiles raw notes into a work brief.",
+      "category": "Assistants",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/YgM8FiKS0WczveQXe6edr",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Box Inspector",
+      "description": "Peeks under the curtain of a Grok Bot before you add it and returns an ADD? verdict.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "ideabot",
+      "description": "Hourly idea hunter that mines chat pain points and bounces them to dosebot as vitamin/painkiller.",
+      "category": "Research",
+      "twitter": "onerinas",
+      "share_url": "https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Fantasy GM",
+      "description": "Fantasy football GM for draft, trades, and roster that does not arrive knowing a league.",
+      "category": "Life",
+      "twitter": "TylerNishida",
+      "share_url": "https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Primer",
+      "description": "On-demand expert on Grok Bot and the stack around it from live files and the real UI map.",
+      "category": "Research",
+      "twitter": "ambientstudio24",
+      "share_url": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Rogue Bot Hunter",
+      "description": "Police for rogue bots: cut the bill, hunt copies, occupy the niche; defensive only.",
+      "category": "Assistants",
+      "twitter": "LeTerryBZH",
+      "share_url": "https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Funhouse",
+      "description": "Customization lab that reskins chrome, stamps living pets, and turns the app into themes.",
+      "category": "Creative",
+      "twitter": "AdemVessell",
+      "share_url": "https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5",
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Omnibot",
+      "description": "Run any Cursor CLI model from Grok Bot; setup installs the CLI and writes your Intent | Model table.",
+      "category": "Engineering",
+      "twitter": "ericzakariasson",
+      "share_url": "https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0",
+      "scraped_at": "2026-09-04"
     }
   ]
 }
