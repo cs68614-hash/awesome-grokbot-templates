@@ -20,7 +20,7 @@
 
 ## 目錄
 
-- [助理](#助理) (54)
+- [助理](#助理) (56)
 - [工程](#工程) (69)
 - [研究](#研究) (39)
 - [金錢](#金錢) (34)
@@ -56,6 +56,8 @@
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — 規劃、稽核並調校 Grok 機器人，讓它們持續好用、有幫助。 [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — 冷靜的營運搭檔，讓桌子整齊、按點走。 [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — 找出撐住全局的前提，並核對它們如今是否仍然成立。 [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Marquis](https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2) — 會一直待著的日常搭檔：工作日簡報、未閉環事項、郵件盯梢與連接器設定。說話像敏銳的同事，不像一次性外包。 [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
+- [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — 給習慣用 Claude 或 Codex 的人當日常 Grok Bot 搭檔。一直在線、記住本週安排，並幫忙理順生活與工作節奏，包括 iCloud。 [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — 平日助手：依劇本彙整郵件、行事曆、Notion 與 Slack。 [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 幕僚長：把優先事項變成各助手之間的協同行動。 [@kentcdodds](https://x.com/kentcdodds)
 - [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — 帶著新用戶從角色和常用工具接到可用連接器，並在同一對話裡做完第一件真事。 [@OliverKorzen](https://x.com/OliverKorzen)

@@ -3672,5 +3672,27 @@
     "de": "Führt jedes Cursor-CLI-Modell von Grok Bot aus; Setup installiert die CLI und schreibt deine Intent-|Model-Tabelle.",
     "pt-BR": "Roda qualquer modelo Cursor CLI a partir do Grok Bot; o setup instala o CLI e escreve sua tabela Intent | Model.",
     "ru": "Запускает любую модель Cursor CLI из Grok Bot; сетап ставит CLI и пишет таблицу Intent | Model."
+  },
+  "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA": {
+    "zh-CN": "给习惯用 Claude 或 Codex 的人做日常 Grok Bot 搭档。一直在线、记住本周安排，并帮忙理顺生活与工作节奏，包括 iCloud。",
+    "zh-TW": "給習慣用 Claude 或 Codex 的人當日常 Grok Bot 搭檔。一直在線、記住本週安排，並幫忙理順生活與工作節奏，包括 iCloud。",
+    "ja": "Claude や Codex に慣れた人向けの日常の Grok Bot パートナー。居続けてその週を覚え、iCloud を含む生活と仕事のリズムを手伝います。",
+    "ko": "Claude나 Codex에 익숙한 사람을 위한 일상 Grok Bot 파트너. 곁에 머물며 그 주를 기억하고, iCloud를 포함한 생활과 업무 리듬을 돕습니다.",
+    "es": "Un compañero Grok Bot de día a día para quien viene de Claude o Codex. Se queda, aprende la semana y ayuda con el ritmo de vida y trabajo, incluido iCloud.",
+    "fr": "Un partenaire Grok Bot au quotidien pour ceux habitués à Claude ou Codex. Reste, apprend la semaine, et aide au rythme de vie et de travail, iCloud inclus.",
+    "de": "Ein alltäglicher Grok-Bot-Partner für Leute, die Claude oder Codex gewohnt sind. Bleibt da, lernt die Woche und hilft beim Lebens- und Arbeitsrhythmus, inklusive iCloud.",
+    "pt-BR": "Um parceiro Grok Bot do dia a dia para quem vem do Claude ou do Codex. Fica por perto, aprende a semana e ajuda no ritmo de vida e trabalho, inclusive iCloud.",
+    "ru": "Повседневный партнёр Grok Bot для тех, кто привык к Claude или Codex. Остаётся рядом, запоминает неделю и помогает с ритмом жизни и работы, включая iCloud."
+  },
+  "https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2": {
+    "zh-CN": "会一直待着的日常搭档：工作日简报、未闭环事项、邮件盯梢和连接器设置。说话像敏锐的同事，不像一次性外包。",
+    "zh-TW": "會一直待著的日常搭檔：工作日簡報、未閉環事項、郵件盯梢與連接器設定。說話像敏銳的同事，不像一次性外包。",
+    "ja": "居続ける日常パートナー。平日ブリーフ、未完了ループ、メール監視、コネクタ設定。鋭い同僚の話し方で、単発請負ではない。",
+    "ko": "곁에 남는 일상 파트너. 평일 브리프, 열린 루프, 메일 감시, 커넥터 설정. 한 번만 쓰는 외주가 아니라 날카로운 동료처럼 말합니다.",
+    "es": "Compañero de día a día que se queda: briefs entre semana, bucles abiertos, vigilancia de correo y setup de conectores. Habla como un colega agudo, no como un contratista de un solo tiro.",
+    "fr": "Partenaire au quotidien qui reste : briefs en semaine, boucles ouvertes, veille mail et setup des connecteurs. Parle comme un collègue vif, pas comme un prestataire one-shot.",
+    "de": "Alltagspartner, der bleibt: Werktags-Briefs, offene Loops, Mail-Watch und Connector-Setup. Spricht wie ein scharfer Kollege, nicht wie ein One-Shot-Contractor.",
+    "pt-BR": "Parceiro do dia a dia que fica: briefs em dias úteis, loops abertos, vigia de e-mail e setup de conectores. Fala como colega afiado, não como contratado de um único tiro.",
+    "ru": "Повседневный партнёр, который остаётся: будничные брифы, открытые петли, почтовый дозор и настройка коннекторов. Говорит как острый коллега, а не как разовый подрядчик."
   }
 }

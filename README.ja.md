@@ -20,7 +20,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 
 ## 目次
 
-- [アシスタント](#アシスタント) (54)
+- [アシスタント](#アシスタント) (56)
 - [エンジニアリング](#エンジニアリング) (69)
 - [リサーチ](#リサーチ) (39)
 - [マネー](#マネー) (34)
@@ -56,6 +56,8 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Grok ボットを設計・監査・調整し、使いやすく役立つ状態を保ちます。 [@GuleidAmina](https://x.com/GuleidAmina)
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — 落ち着いたオペレーション相棒。デスクを整然と、予定どおりに保ちます。 [@liam_fallen](https://x.com/liam_fallen)
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — 荷重を支える前提を見つけ、今も本当かを確かめます。 [@liam_fallen](https://x.com/liam_fallen)
+- [Jarvis by Marquis](https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2) — 居続ける日常パートナー。平日ブリーフ、未完了ループ、メール監視、コネクタ設定。鋭い同僚の話し方で、単発請負ではない。 [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
+- [Jarvis by Robert](https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA) — Claude や Codex に慣れた人向けの日常の Grok Bot パートナー。居続けてその週を覚え、iCloud を含む生活と仕事のリズムを手伝います。 [@DhalgrenMarquis](https://x.com/DhalgrenMarquis)
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — 平日アシスタント。プレイブックに沿ってメール、カレンダー、Notion、Slack を要約します。 [@LoganARobison](https://x.com/LoganARobison)
 - [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 優先事項を、アシスタント横断の連携アクションに変えるチーフオブスタッフ。 [@kentcdodds](https://x.com/kentcdodds)
 - [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — 新しい Grok Bot ユーザーを、役割と使うツールから本番コネクタまで案内し、同じチャットで最初の実作業までやります。 [@OliverKorzen](https://x.com/OliverKorzen)
