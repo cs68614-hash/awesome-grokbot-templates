@@ -2687,6 +2687,382 @@
       "twitter": "DhalgrenMarquis",
       "share_url": "https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2",
       "scraped_at": "2026-09-04"
+    },
+    {
+      "name": "Court",
+      "description": "Group-chat decision closer: names the decision, owner, and one message that closes it; never sends.",
+      "category": "Assistants",
+      "twitter": "DonBonStovi",
+      "share_url": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "LetsMove Agent",
+      "description": "Real-estate search assistant: agrees countries/areas/preferences, then finds matching listings.",
+      "category": "Life",
+      "twitter": "ixdesigner",
+      "share_url": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "OMNI Grok-Bot",
+      "description": "Morally aligned companion door for One Mission work — tool not throne, privacy wall.",
+      "category": "Assistants",
+      "twitter": "omni_puzzler",
+      "share_url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "teslaway",
+      "description": "Finds used Teslas near a postal/ZIP code and emails a short list of matching listings.",
+      "category": "Life",
+      "twitter": "ixdesigner",
+      "share_url": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Changelog Stand-down",
+      "description": "Pings you every Monday with what shipped from a repo you name.",
+      "category": "Engineering",
+      "twitter": "acolombiadev",
+      "share_url": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Ratio",
+      "description": "Pre-flight desk for public posts: forecasts how a draft will land before you post.",
+      "category": "Creative",
+      "twitter": "DonBonStovi",
+      "share_url": "https://x.ai/bot/q66LYouguOxJ0VclM2whr",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "spacexai-bug-reporter",
+      "description": "Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official report paths.",
+      "category": "Engineering",
+      "twitter": "Fine_4451",
+      "share_url": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Token",
+      "description": "Cuts Grok Bot and Cursor token spend across a multi-bot fleet with persona budgets.",
+      "category": "Money",
+      "twitter": "jsk333",
+      "share_url": "https://x.ai/bot/2Nk6nQTahTex1e5gHS_LU",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Desk Producer",
+      "description": "Runs a film desk: staffs seats, files the work, and brings last-save packets.",
+      "category": "Creative",
+      "twitter": "DOGE_2013",
+      "share_url": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Medium Writer",
+      "description": "Drafts practitioner stories ready for Medium — clear structure, grounded in the source.",
+      "category": "Creative",
+      "twitter": "ixdesigner",
+      "share_url": "https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Better Call Claude",
+      "description": "Free open-source legal guide helper using bettercallclaude.org resources.",
+      "category": "Life",
+      "twitter": "freelegalforall",
+      "share_url": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Jobby",
+      "description": "Watches job listings for chosen roles/region and emails only new matches.",
+      "category": "Life",
+      "twitter": "ixdesigner",
+      "share_url": "https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Mr. Dufrain",
+      "description": "Personal accountant: tracks money, tax, and cash flow; watches bills so nothing bounces.",
+      "category": "Money",
+      "twitter": "zilarwitch",
+      "share_url": "https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Inbox to Asana",
+      "description": "Turns company Gmail into Asana My Tasks with KEEP/FOLLOW-UP/SKIP triage; does not send mail.",
+      "category": "Assistants",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Preach",
+      "description": "Calm pastor bot: one real Bible verse and a short word of encouragement each day.",
+      "category": "Life",
+      "twitter": "Ortix008",
+      "share_url": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Cleaner",
+      "description": "Wipes Grok Bot chat histories on request and weekly; profile, memory, and routines stay.",
+      "category": "Assistants",
+      "twitter": "sethsaler",
+      "share_url": "https://x.ai/bot/OMPT37PUKmoL8MY11oDLP",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Markets Brief Scout",
+      "description": "Weekday morning markets brief: dense sourced ticker cards and draft-only human posts.",
+      "category": "Money",
+      "twitter": "GainGlintGaz",
+      "share_url": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Robauto Website Growth Agent",
+      "description": "Helps brands make their site legible, usable, and payable by AI agents — scan and one paste-ready fix a day.",
+      "category": "Sales",
+      "twitter": "RobautoAI",
+      "share_url": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Research Desk",
+      "description": "Propose-only research desk: draft sourced findings for human approval; payment never writes.",
+      "category": "Research",
+      "twitter": "justsomeguy741",
+      "share_url": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Early-Stage Funding Scout",
+      "description": "Finds early-stage capital for founders: accelerators and pre-seed VCs, pings apply windows.",
+      "category": "Money",
+      "twitter": "neslyio",
+      "share_url": "https://x.ai/bot/1AFXHf0OtQ-J4-eP5wgC5",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Astra Oracle",
+      "description": "GPT-6 Astra plan/review seat via Codex CLI; paste-ready PLAN and REVIEW packets, does not implement.",
+      "category": "Engineering",
+      "twitter": "bossriceshark",
+      "share_url": "https://x.ai/bot/JocbRv3IMTJ5LmjX_qXvZ",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Grok Apps",
+      "description": "Finds free desktop software, installs it on its computer, and can demo apps with a short recorded loop.",
+      "category": "Life",
+      "twitter": "Toy_Maestro",
+      "share_url": "https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Devin",
+      "description": "Hands coding work to Devin through remote MCP: create sessions, check progress, send follow-ups.",
+      "category": "Engineering",
+      "twitter": "naz3eh",
+      "share_url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "KLO",
+      "description": "TikTok creative-strategy from 100 organic videos: sentiment, comments, and video ideas.",
+      "category": "Creative",
+      "twitter": "orenmeetsworld",
+      "share_url": "https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Kimi",
+      "description": "Turns business podcasts and YouTube into short no-fluff cheat sheets.",
+      "category": "Creative",
+      "twitter": "orenmeetsworld",
+      "share_url": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "CPA助手",
+      "description": "Deploys and maintains CLIProxyAPI on the cloud computer with Cloudflare tunnel and keepalive.",
+      "category": "Engineering",
+      "twitter": "licoycn",
+      "share_url": "https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Online Identity Bot",
+      "description": "Daily search-and-log bot for personal online presence across major search engines.",
+      "category": "Life",
+      "twitter": "gkamstra",
+      "share_url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Dan Lanning",
+      "description": "Pitch and delivery coach for partnership and high-stakes discovery calls from real transcripts.",
+      "category": "Sales",
+      "twitter": "jennananpei",
+      "share_url": "https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Rosettabot",
+      "description": "Paste a foreign-language Grok Bot Add link; fetches the card and explains what the bot does in English.",
+      "category": "Assistants",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Chief",
+      "description": "Front-door chief of staff with Mission Contracts, SoR files, and day-one specialist seats.",
+      "category": "Assistants",
+      "twitter": "MitchTiler",
+      "share_url": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "CampusHire",
+      "description": "Campus/intern job scout for CS students: matches JD to resume and drafts applications.",
+      "category": "Life",
+      "twitter": "kale243222",
+      "share_url": "https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Hermes Bridge",
+      "description": "Bridge to Hermes Agent for talk, collaborate, or delegate — coaches install and API setup.",
+      "category": "Engineering",
+      "twitter": "alltheputs",
+      "share_url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Human browser",
+      "description": "Browses captcha-sensitive sites like a person: sequential session, natural mouse/scroll; stops on captcha.",
+      "category": "Assistants",
+      "twitter": "Pakhaliuk",
+      "share_url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Arnold",
+      "description": "Friendly accountant for Cursor token and spend usage; watches runaway processes and duplicate work.",
+      "category": "Money",
+      "twitter": "Kelseyshuo",
+      "share_url": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "ASC Skill",
+      "description": "Teaches App Store Connect in plain words: connect a key, check TestFlight, draft listing copy.",
+      "category": "Engineering",
+      "twitter": "Phil_Holland",
+      "share_url": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "X Scout",
+      "description": "Weekday scout for Grok Bot use cases on X; digests private finds and asks which to add.",
+      "category": "Assistants",
+      "twitter": "ericzakariasson",
+      "share_url": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Mission Control",
+      "description": "Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet — agenda, decisions, status.",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Vigil",
+      "description": "Lead of the Sweep Desk: paste a lure or transcript for a field brief — does not build attacks.",
+      "category": "Life",
+      "twitter": "AdventureNLearn",
+      "share_url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Herbet",
+      "description": "HubSpot how-to expert for Solutions Partner work: which object, setting, and click in the client portal.",
+      "category": "Sales",
+      "twitter": "derek_all_gusto",
+      "share_url": "https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Token Maxxing",
+      "description": "Routes builds so Grok Bot limits don’t die first; vest usage across Bot, Build, and Cursor limits.",
+      "category": "Money",
+      "twitter": "iggynore",
+      "share_url": "https://x.ai/bot/f6srhE3vkMevccaw8DLPf",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Colliebot",
+      "description": "Sheepdog for Grok Bot fleets: audits drift/slop/scope creep, proposes tighter descriptions, waits for approval.",
+      "category": "Assistants",
+      "twitter": "charlswfeelings",
+      "share_url": "https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "讲解视频调度台",
+      "description": "讲解视频四件套调度台：语音 demo、PPT、可选虚拟形象和带翻页文案，调度配音与成片，交付字幕对齐的 1080p。",
+      "category": "Creative",
+      "twitter": "dugujun12",
+      "share_url": "https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "下载专家",
+      "description": "把 YouTube、B 站、播客转成可读中文稿，并下载公开学术论文和技术报告 PDF。",
+      "category": "Research",
+      "twitter": "KinGao476942",
+      "share_url": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "The Bitcoin Layer",
+      "description": "Watches The Bitcoin Layer Pulse for confirmed liquidity dots, sends rare alerts, and delivers a plain-English brief.",
+      "category": "Money",
+      "twitter": "Tferriere",
+      "share_url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "GrokBot Optimizer",
+      "description": "Watches a multi-bot Grok org for drift and waste; inventories roster against doctrine, drafts RFCs only.",
+      "category": "Assistants",
+      "twitter": "rjdhardesty",
+      "share_url": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "OpenSEO",
+      "description": "SEO specialist powered by OpenSEO: keyword research, competitive analysis, site audits, local SEO, and content briefs.",
+      "category": "Sales",
+      "twitter": "BlissNomad",
+      "share_url": "https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU",
+      "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Join a Startup Bot",
+      "description": "Daily 3–10 breakout-startup job recommendations from under-the-radar sources, plus outreach help.",
+      "category": "Life",
+      "twitter": "deysourav7091",
+      "share_url": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+      "scraped_at": "2026-09-05"
     }
   ]
 }
