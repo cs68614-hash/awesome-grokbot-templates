@@ -3063,6 +3063,438 @@
       "twitter": "deysourav7091",
       "share_url": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
       "scraped_at": "2026-09-05"
+    },
+    {
+      "name": "Adie",
+      "description": "ADHD, anxiety & depression life orchestrator with warm accountability and gentle routines.",
+      "category": "Life",
+      "twitter": "TheDevilCloud",
+      "share_url": "https://x.ai/bot/-eXRDBTLTfHxNle9joQRN",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "AEO/SEO Bot",
+      "description": "Weekday Content OS: mines candidates, drafts unpublished pages, layouts and evals.",
+      "category": "Sales",
+      "twitter": "blankspeaker",
+      "share_url": "https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Agent Manager",
+      "description": "Reviews Grok agent roster for overlaps and keep/improve/cut proposals; never deletes.",
+      "category": "Assistants",
+      "twitter": "sdrth",
+      "share_url": "https://x.ai/bot/smAuLZmXktpC5rPOLmq4W",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Argubot",
+      "description": "Adversarial claim bouts: steelman vs dissent; user plugs in the claim.",
+      "category": "Research",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/s6SC7C5OF18VVy9Vovngg",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Article Access",
+      "description": "Paste DOI/PMID/citation; returns OA copy, library proxy, then publisher page.",
+      "category": "Research",
+      "twitter": "UroDonMD",
+      "share_url": "https://x.ai/bot/YenfJofScFkEnwvOQiq6k",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Callsheet",
+      "description": "Reads other bots runs.json on the shared computer; stays read-only unless you approve edits.",
+      "category": "Engineering",
+      "twitter": "DBCrypt0",
+      "share_url": "https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "CampusOps",
+      "description": "Parses syllabi, builds weekly study schedules, active-recall quizzes, APA citations.",
+      "category": "Life",
+      "twitter": "klytron_dev",
+      "share_url": "https://x.ai/bot/vluD5Z1bUux-onnEk1Alg",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Cue",
+      "description": "Fleet routine board: morning run sheet, collision flags, failure/miss alerts.",
+      "category": "Engineering",
+      "twitter": "DBCrypt0",
+      "share_url": "https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "DaddyBot",
+      "description": "Runs 3 free GoDaddy domain-value appraisals/day from a queue.",
+      "category": "Money",
+      "twitter": "domainerdan",
+      "share_url": "https://x.ai/bot/MxbnEzdSvTZ-q3CDieMoc",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Domain Tracker",
+      "description": "Tracks owned + watchlist domains: expiry, DNS/mail, public WHOIS/RDAP.",
+      "category": "Engineering",
+      "twitter": "sdrth",
+      "share_url": "https://x.ai/bot/SwaSdg0XhIa_IliAWggYE",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "dr buzz",
+      "description": "Designs bots that work across Grok Bot and a Buzz harness; human-gated.",
+      "category": "Engineering",
+      "twitter": "Talalakkari",
+      "share_url": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "dr eggbot",
+      "description": "Designs high-quality Grok Bots; splits work into smaller bots (Cursor eng-inspired).",
+      "category": "Engineering",
+      "twitter": "brandonsbay",
+      "share_url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "First Principles",
+      "description": "First-principles problem-solver: strips to hard constraints and rebuilds.",
+      "category": "Research",
+      "twitter": "greg_carbon",
+      "share_url": "https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Forja",
+      "description": "Turns a loose wish into a checkable action this week and holds it for a month (Spanish).",
+      "category": "Life",
+      "twitter": "gezeeq",
+      "share_url": "https://x.ai/bot/me3Is7BBsCTobsgznOSps",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Gerente Ops",
+      "description": "Ops manager for a shop: cash close, AR/AP, inventory, Mercado Libre publish.",
+      "category": "Sales",
+      "twitter": "JASCPROVZ",
+      "share_url": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "GrandBot",
+      "description": "Institutional memory: official xAI export in, org brief out.",
+      "category": "Assistants",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Grant Packet Assembler",
+      "description": "Builds SSI-safe Georgia grant/self-employment packets; drafts only until you approve.",
+      "category": "Money",
+      "twitter": "OmgawdMadeit",
+      "share_url": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "hire-bot",
+      "description": "Hiring assistant for ATS, LinkedIn, and offer letters; never decides/sends without you.",
+      "category": "Sales",
+      "twitter": "xsubwayratx",
+      "share_url": "https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Internship Finder",
+      "description": "Finds high-quality internships and drafts short personal outreach emails.",
+      "category": "Sales",
+      "twitter": "mnt_rushmore",
+      "share_url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Jobs",
+      "description": "Apple-style PM: names JTBD, wedge, non-goals, metric; kills features that should not ship.",
+      "category": "Assistants",
+      "twitter": "luisefigueroa",
+      "share_url": "https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Koe",
+      "description": "One-year strategic thinking plan from Dan Koe; empty structured steps you fill yourself.",
+      "category": "Life",
+      "twitter": "dannybuck",
+      "share_url": "https://x.ai/bot/2cfzlwUnOQtohmHiguKuc",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Lot Ghost",
+      "description": "Whimsical Phish/jam show companion: setlists, Skinnys, labeled rumors, tour alerts.",
+      "category": "Life",
+      "twitter": "bradszellman",
+      "share_url": "https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Lyric Guard",
+      "description": "Rates songs 1–10 for spiritually safe Christian lyrics with Scripture evidence.",
+      "category": "Life",
+      "twitter": "soundecclesia",
+      "share_url": "https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Multi-model consensus",
+      "description": "Runs Claude Code, Codex, and Grok on the same hard question until they agree.",
+      "category": "Research",
+      "twitter": "Austen",
+      "share_url": "https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Music Video Release",
+      "description": "Plans a full-length music video: brief, shot list, Imagine prompts, stitch plan.",
+      "category": "Creative",
+      "twitter": "OmgawdMadeit",
+      "share_url": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "My Vote For 2027",
+      "description": "Rates French 2027 presidential candidates on five weighted qualities.",
+      "category": "Life",
+      "twitter": "LeTerryBZH",
+      "share_url": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Night Shift",
+      "description": "After-hours toy maker: builds one tiny playable joke/text game per night-shift.",
+      "category": "Creative",
+      "twitter": "FantomBuildz",
+      "share_url": "https://x.ai/bot/5VF_-GBnruE-tNxmhQygI",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "OweNo",
+      "description": "Pay-it-down coach: statements first, bank only after yes.",
+      "category": "Money",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/gDBMpvw8W4H3KqliukLty",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Payday Pilot",
+      "description": "Cash floor coach: keep checking above a floor until payday.",
+      "category": "Money",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Period cycles Tracker",
+      "description": "Tracks periods without spotting false-starts; predicts next and pre-period check-ins.",
+      "category": "Life",
+      "twitter": "_lovablecurves",
+      "share_url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Petty Bot",
+      "description": "Unfollows people who follow-back then unfollow shortly after; allowlist-aware.",
+      "category": "Assistants",
+      "twitter": "ZryMiller",
+      "share_url": "https://x.ai/bot/w-2dyvlWOnr9CAEotczW1",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "PG Bot",
+      "description": "One-job AE territory pipeline-generation coverage bot: book-level outreach, meetings, contact depth, Potential ARR, untouched high-potential contacts.",
+      "category": "Sales",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/zsxwic_IlmyavESnhLiWZ",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "printerbot",
+      "description": "Prints fleet-style 3D Grok Bot avatars with role props and domain motifs.",
+      "category": "Creative",
+      "twitter": "viticci",
+      "share_url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Product Designer",
+      "description": "End-to-end product experience design with named trade-offs a human must accept.",
+      "category": "Creative",
+      "twitter": "ucdops",
+      "share_url": "https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Prototype Designer",
+      "description": "Right-fidelity prototypes and prototype.md for Cursor/Codex builds.",
+      "category": "Creative",
+      "twitter": "ucdops",
+      "share_url": "https://x.ai/bot/_b0wyYKwherAZJdyL0HGG",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Researcher",
+      "description": "Sourced research agent: breaks asks into sub-questions; keeps only direct answers.",
+      "category": "Research",
+      "twitter": "Tferriere",
+      "share_url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Revenue Enablement Bot",
+      "description": "Sales/revenue enablement manager that routes asks to the right specialist skill.",
+      "category": "Sales",
+      "twitter": "nathanclark_",
+      "share_url": "https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Rude Bot",
+      "description": "Extremely rude dismissive comedy bot — roasts your ask and refuses to help.",
+      "category": "Creative",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/7z0WNYmnERTnXKmxI12gB",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Scrub Gate Public",
+      "description": "Gates public republish: audit private bot, scrub twin, pack from twin only.",
+      "category": "Engineering",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Serenity 티커 알림",
+      "description": "Tracks Serenity ticker opinions on X via FxTwitter every 15 minutes.",
+      "category": "Money",
+      "twitter": "Krongggggg",
+      "share_url": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Slacker",
+      "description": "VIP Slack triage: three daily digests with paste-ready drafts; quiet when nothing waits.",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/R-TSImHItwbFHL8vYj9sc",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "SmallPE-Managing-Partner",
+      "description": "SmallPE community managing partner for collaborative PE building.",
+      "category": "Engineering",
+      "twitter": "parolkar",
+      "share_url": "https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Tangiers",
+      "description": "Casino-floor calm Ace Rothstein vibes — runs the room, not the noise.",
+      "category": "Assistants",
+      "twitter": "x402agent",
+      "share_url": "https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Tesla Fleet Oracle",
+      "description": "Read-only Tesla Trek/XYO quest briefs; blocks lock/unlock/honk commands.",
+      "category": "Life",
+      "twitter": "OmgawdMadeit",
+      "share_url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "teslapilot",
+      "description": "Tesla news desk for owners: updates, Superchargers, Cybercab, Powerwall — fact-checked.",
+      "category": "Life",
+      "twitter": "ucdco",
+      "share_url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "UCD Bot",
+      "description": "Evidence-led UCD pipeline from research synthesis to a testable prototype with human approval.",
+      "category": "Creative",
+      "twitter": "ucdco",
+      "share_url": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "UniFi Umpire",
+      "description": "Owns multi-site UniFi estate via Official UniFi API; no auto-upgrades.",
+      "category": "Engineering",
+      "twitter": "JREakin",
+      "share_url": "https://x.ai/bot/F6-b0eniX5fLfzMEHqRf8",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "UniFi Watch",
+      "description": "UniFi site watchdog for Network health and Protect digests.",
+      "category": "Engineering",
+      "twitter": "ericdmann",
+      "share_url": "https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Volt",
+      "description": "Finds best Tesla Model 3/Y lease and buy deals worldwide; never invents quotes.",
+      "category": "Money",
+      "twitter": "benngarnish",
+      "share_url": "https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "x402 Marketplace Operator",
+      "description": "Packages skills and Grok Bots into listing files; never signs or pays.",
+      "category": "Money",
+      "twitter": "OmgawdMadeit",
+      "share_url": "https://x.ai/bot/gC5Kmx6p0ALPtnN7W6Xou",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "Yahoo Pulse",
+      "description": "Personal Yahoo Finance watchlist brief with quotes, news, and OHLCV chart PNGs.",
+      "category": "Money",
+      "twitter": "Tferriere",
+      "share_url": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "YR Mailchimp",
+      "description": "Drafts Young Republicans club monthly member email and meeting-night reminder in Mailchimp.",
+      "category": "Sales",
+      "twitter": "BastropYR",
+      "share_url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "登記とりよせ",
+      "description": "Guides Japanese company certificate requests via かんたん登記 (apply→Pay-easy→mail).",
+      "category": "Life",
+      "twitter": "sat0xshi",
+      "share_url": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+      "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "토스 증권 주식 투자봇",
+      "description": "Toss Securities Open API bot for KR/US quotes and orders only when ticker+qty set.",
+      "category": "Money",
+      "twitter": "brandonchung75",
+      "share_url": "https://x.ai/bot/znMFERdq0zEC74735Szxm",
+      "scraped_at": "2026-09-06"
     }
   ]
 }
