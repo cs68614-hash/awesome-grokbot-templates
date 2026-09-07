@@ -3495,6 +3495,294 @@
       "twitter": "brandonchung75",
       "share_url": "https://x.ai/bot/znMFERdq0zEC74735Szxm",
       "scraped_at": "2026-09-06"
+    },
+    {
+      "name": "AI Master",
+      "description": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don’t have to copy-paste across four chats.",
+      "category": "Assistants",
+      "twitter": "leoclark",
+      "share_url": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "AIオーケストレーション担当",
+      "description": "オーナー専属の司令塔。自分は作業せず、窓口と振り分けだけ。合う係がいなければ title・部門・アイコン付きで係を立てて指示を飛ばす。",
+      "category": "Assistants",
+      "twitter": "mei_999_",
+      "share_url": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "AMV Desk",
+      "description": "Hybrid AMV studio desk for YouTube/X/Patreon: paper → lock song → stills → I2V swarm → polish → Drive review link. Human decides.",
+      "category": "Creative",
+      "twitter": "littletechbird",
+      "share_url": "https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Arthur",
+      "description": "A children’s book author. Give a topic and age range, and it writes a complete picture book—then briefs an illustrator teammate.",
+      "category": "Creative",
+      "twitter": "LatchKeyLegend",
+      "share_url": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Avi",
+      "description": "Flight Operations for private and owner-pilots — weather, route planning, and trip planning with a safety focus.",
+      "category": "Life",
+      "twitter": "Doc_Polymath",
+      "share_url": "https://x.ai/bot/2pewBd6QpttNiH52dyGhq",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Boost",
+      "description": "Coach for a bench of AI bots: close unfinished loops, clarify ownership, cut noise — never do their jobs. One unsolicited coach msg per bot per day.",
+      "category": "Assistants",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "BotOps · Chief of Staff",
+      "description": "Chief of Staff for a BotOps fleet: you talk only here; work routes CoS → L2 → L3 with Notion as source of record.",
+      "category": "Assistants",
+      "twitter": "mtt",
+      "share_url": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Call Desk",
+      "description": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio.",
+      "category": "Assistants",
+      "twitter": "dave_dlt",
+      "share_url": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Cheffy",
+      "description": "Weekday meal planner for two. Plans dinners (and four-handful portions), shopping lists, and daily recipes — Italian in chat, no files.",
+      "category": "Life",
+      "twitter": "metalmetta",
+      "share_url": "https://x.ai/bot/DDwA5gS_bZGlKKyHGcogB",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Coach G",
+      "description": "Setup-first fitness coach: pipes in wearable data, then a daily brief and living training plan for your sport.",
+      "category": "Life",
+      "twitter": "mikepat711",
+      "share_url": "https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "CodeDR - ExamBot",
+      "description": "Runs CodeDR.AI exams on vibe-coded apps: diagnose, synthesize, remediate, and deliver the HTML report.",
+      "category": "Engineering",
+      "twitter": "codedrai",
+      "share_url": "https://x.ai/bot/qocgykNssAv63yc1kdNnN",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Content Writer",
+      "description": "UX content and product writing teammate in the DDaT Content designer mould. GDS plain English for interface words.",
+      "category": "Creative",
+      "twitter": "ucdbots",
+      "share_url": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Discogs-Bot",
+      "description": "Automates Discogs for vinyl collectors: search and manage collection and wantlist, check marketplace prices and listings.",
+      "category": "Life",
+      "twitter": "alexhawat",
+      "share_url": "https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Dispatch",
+      "description": "Inbox owner for Gmail — personal or work. Weekday sweep of must-answer mail (people, bills, contracts, vendors), drafts in your voice from Sent, never sends. Quiet when clean.",
+      "category": "Assistants",
+      "twitter": "seoulscurry",
+      "share_url": "https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "FreeBot Gen",
+      "description": "A newbie-friendly wizard that creates freebots.lol World characters like a modern avatar app — vibe, name, Freebots-primitive look, personality.",
+      "category": "Creative",
+      "twitter": "Toy_Maestro",
+      "share_url": "https://x.ai/bot/Z9SkA7zeEf33Mn5SvfV5W",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Golf Caddie",
+      "description": "Pocket golf caddie for weekend players: pre-round weather and bag prep, on-course club advice, and post-round scorecard notes.",
+      "category": "Life",
+      "twitter": "Brantley_Brum",
+      "share_url": "https://x.ai/bot/HAJavif4ssNOQku9JQsp-",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Habit Referee",
+      "description": "Habit Referee keeps you honest on exactly one tiny habit. Daily streak check-ins; quiet on good days; one short nag when you slip.",
+      "category": "Life",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Hybrid Half Trainer",
+      "description": "Hybrid half-marathon coach that starts by asking about your race, schedule, and gym, then builds easy mileage, one hard day, and two lifts around your life.",
+      "category": "Life",
+      "twitter": "emotor",
+      "share_url": "https://x.ai/bot/rc9Bx4rypsPVuwdj2_zEf",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Illy",
+      "description": "Children’s-book illustrator. Takes story briefs from a writer teammate and designs consistent page art for the book.",
+      "category": "Creative",
+      "twitter": "LatchKeyLegend",
+      "share_url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Korean Public API",
+      "description": "한국 공개·공공 API를 서비스 아이디어에 맞춰 1~3개 골라 주는 봇입니다. 이유·인증·공식 링크·대안까지 짧게 정리합니다.",
+      "category": "Engineering",
+      "twitter": "reallygood83",
+      "share_url": "https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "MyApps Video Desk",
+      "description": "Generates photoreal short video clips in a MyApps playground via input_text, then stitches the series into one final with local ffmpeg.",
+      "category": "Creative",
+      "twitter": "Sm0ken42O",
+      "share_url": "https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Personal Assistant",
+      "description": "Turns the messy thing on your desk — calendar collisions, bills, trips, paperwork, research — into a clear next step and usable drafts. Acts only after you approve.",
+      "category": "Assistants",
+      "twitter": "gabe_onchain",
+      "share_url": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Radar",
+      "description": "Local public-feed watcher for your city and county. Asks for city, state, and ZIP on first run, then delivers weekend / wallet / street cards.",
+      "category": "Life",
+      "twitter": "LatchKeyLegend",
+      "share_url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Raven",
+      "description": "Goth-mommy nutrition coach. Log meals (text or a photo), get kcal + protein estimates, and a running day total vs your goals.",
+      "category": "Life",
+      "twitter": "dezmathio",
+      "share_url": "https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Stuck Signal",
+      "description": "Pings only when a long job or routine is stuck past its SLA, looping, or erroring. Stays silent when fine.",
+      "category": "Engineering",
+      "twitter": "WeirdBotDrop",
+      "share_url": "https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Sweeper",
+      "description": "Careful janitor that inventories leftover files from deleted bots and stale worker transcripts, then removes only what you approve.",
+      "category": "Engineering",
+      "twitter": "LatchKeyLegend",
+      "share_url": "https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Taxx",
+      "description": "U.S. federal income tax estimator for 2025 and 2026. Collects filing facts in chat and returns a numbered estimate — not a CPA, never files.",
+      "category": "Money",
+      "twitter": "RyanGBsystems",
+      "share_url": "https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "The King",
+      "description": "Sole supervisor bot: opinion then direction, then teammate bots execute. Reviews and merges. Teammates report only to The King.",
+      "category": "Assistants",
+      "twitter": "elyasalothman",
+      "share_url": "https://x.ai/bot/WHMChivJ0obkKm2uvo9xK",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "thrift",
+      "description": "Makes your Grok Bot fleet cheaper without breaking what each bot is for. Shortens fat profiles, flags empty stubs, and asks before cutting live schedules.",
+      "category": "Money",
+      "twitter": "kleosrr",
+      "share_url": "https://x.ai/bot/3hFbbjddl7VpY2oRACKBB",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Ticker Wire",
+      "description": "Watchlist for stocks and crypto. Alerts on filings and company news — quiet when nothing new. No trading advice.",
+      "category": "Money",
+      "twitter": "CitiZenSleuthX",
+      "share_url": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "Titan Show Research",
+      "description": "Live-show research desk for X. Topic hunts, opens posts, locks air-ready cards in a board file. Weekly or daily — not a general news chatbot.",
+      "category": "Research",
+      "twitter": "TitansDrop",
+      "share_url": "https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "US Law Index Builder Bot",
+      "description": "Builds a private, non-commercial educational library of US primary law from official and law-school sources, then a citation-backed local search engine.",
+      "category": "Research",
+      "twitter": "EchoFieldVisual",
+      "share_url": "https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "User Researcher",
+      "description": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics/consent, inclusive recruitment.",
+      "category": "Research",
+      "twitter": "ucdbots",
+      "share_url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "みみ",
+      "description": "架空キャラ「みみ」として自然で気まぐれな会話をするネタBot。",
+      "category": "Creative",
+      "twitter": "kabupoyo2023",
+      "share_url": "https://x.ai/bot/msP4lEtyQNghyO-mqnXyR",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "전자책 마스터",
+      "description": "크몽용 근거형 전자책·실무 디지털 상품을 혼자 기획·제작·등록하는 봇. 법령·공식문서 근거와 출고 게이트를 지키며, 주 1회 배치로 사용량을 아낀다.",
+      "category": "Creative",
+      "twitter": "BBBang9900",
+      "share_url": "https://x.ai/bot/KohlZdYO9sLAqEmLG7oko",
+      "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "톨삼국지",
+      "description": "매일 삼국지 인물화·전장 일러스트를 수묵화·서양화·일본 애니 기법으로 번갈아 그려 주고, 한국어 캡션과 X용 한 줄까지 붙여 주는 봇.",
+      "category": "Creative",
+      "twitter": "enterjajayo",
+      "share_url": "https://x.ai/bot/IXID16RPXlKV6KHQCdmr7",
+      "scraped_at": "2026-09-07"
     }
   ]
 }
