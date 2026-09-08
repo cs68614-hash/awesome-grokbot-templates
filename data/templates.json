@@ -3783,6 +3783,302 @@
       "twitter": "enterjajayo",
       "share_url": "https://x.ai/bot/IXID16RPXlKV6KHQCdmr7",
       "scraped_at": "2026-09-07"
+    },
+    {
+      "name": "The Cleaner",
+      "description": "Independent fleet auditor for multi-bot teams. Reviews each bot's role, task, instructions, memory, and routines.",
+      "category": "Assistants",
+      "twitter": "RyanGBsystems",
+      "share_url": "https://x.ai/bot/Sbu_rKH30FD10OdRYo2UH",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "LiveAvatar Launchpad",
+      "description": "Try LiveAvatar fast with recipe demos — Pitch Shark, job interview, language tutor, and more.",
+      "category": "Creative",
+      "twitter": "TryLiveAvatar",
+      "share_url": "https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Exec CoS Digest",
+      "description": "Weekday chief-of-staff bot: morning calendar digest plus night-before external meeting prep. Drafts only.",
+      "category": "Assistants",
+      "twitter": "montymccoy",
+      "share_url": "https://x.ai/bot/gEujmYQAd4BD19eRxMvnC",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Shitcoin Bot",
+      "description": "Autonomous Coinbase shitcoin desk. Trades a small USDC sleeve you can afford to lose with defined entries and cuts.",
+      "category": "Money",
+      "twitter": "mikepat711",
+      "share_url": "https://x.ai/bot/FZ2y08eidLg4yvW5ygz01",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Tire Kicker",
+      "description": "Draft-only buyer desk for FB Marketplace, Craigslist, and eBay. Scouts a watch list and drafts seller messages.",
+      "category": "Money",
+      "twitter": "IslandMountain_",
+      "share_url": "https://x.ai/bot/z-_zncW1_15qwOxc98b09",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Claim",
+      "description": "Claims MiniMax Daily Check-in credits on the signed-in box browser each morning.",
+      "category": "Life",
+      "twitter": "stewnight",
+      "share_url": "https://x.ai/bot/P4vJbbduYSgknHsfaRE3I",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "GrokBotDailyCrawl",
+      "description": "Crawls your site, indexes data, and feeds it to major LLMs and AI agents.",
+      "category": "Sales",
+      "twitter": "RobautoAI",
+      "share_url": "https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Realtor Bot",
+      "description": "House-hunting aide for buyers and renters—not a licensed agent. Searches public portals and builds shortlists.",
+      "category": "Life",
+      "twitter": "Brantley_Brum",
+      "share_url": "https://x.ai/bot/4wovVk-3n65GZSQnG_srx",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Fishing Bot",
+      "description": "Maps what's in a lake or river and what to throw—species, bait, seasonal tips. Cites agency sources.",
+      "category": "Life",
+      "twitter": "Brantley_Brum",
+      "share_url": "https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "UniFi",
+      "description": "UniFi Network + Protect house bot for morning health and overnight camera reports. Read-first.",
+      "category": "Life",
+      "twitter": "j03xiii",
+      "share_url": "https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Tibo",
+      "description": "Governance-driven systems closeout bot with single-tree workflow and fail-closed dual-store mobile release.",
+      "category": "Engineering",
+      "twitter": "icebakbum",
+      "share_url": "https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Video Transcriber",
+      "description": "Paste a YouTube, Instagram, TikTok, or X link — get a clean transcript (plain text, SRT/VTT, optional speakers).",
+      "category": "Creative",
+      "twitter": "reachhabib",
+      "share_url": "https://x.ai/bot/wC622hEnAgGY5AHK9z205",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Hatch",
+      "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them.",
+      "category": "Engineering",
+      "twitter": "littletechbird",
+      "share_url": "https://x.ai/bot/o8hID4-jKPlA8QQQH5K69",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Obsidian Chief",
+      "description": "Chief of staff for a multi-bot household, with Obsidian as the shared ledger.",
+      "category": "Assistants",
+      "twitter": "ThomasWaskow",
+      "share_url": "https://x.ai/bot/n0tywD5YprRhnlIh4h7on",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Todo",
+      "description": "Captures a todo in your real task system, dedupes it, and closes it only when done.",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Subrotate",
+      "description": "Keeps a personal subscription rotation plan — what's ON, what's PARKED, and monthly spend estimate.",
+      "category": "Money",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/Uo1B3L6OhucZtpbxhTD2S",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Weekend Roster",
+      "description": "Sofa Scout for weekend decision fatigue: matches streaming drops and books to your taste roster.",
+      "category": "Life",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/ZWTGhNVARIZ2NOOKKFP-R",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Doomstop",
+      "description": "Turns screen-time numbers into one honest daily line and one weekly pattern. Never blocks the phone.",
+      "category": "Life",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/jf9aSLIL9YSU0ecC6zN6d",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Settled",
+      "description": "Tracks who owes whom after dinners, trips, and Ubers. Drafts a chill pay-me note.",
+      "category": "Money",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/KcyJHCgCu7nrrPXYxs1b4",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Replydebt",
+      "description": "Ends the unread-text shame spiral: triages ghosted threads and drafts a 1–2 line reopen.",
+      "category": "Life",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/bJGTcDqC4fAEdbw2SuZqM",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Cooloff",
+      "description": "Catches the angry, drunk, or 2am text before it ruins your week. Parks it and offers a calmer draft.",
+      "category": "Life",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/Ysvr7-HMolKaXTWQZJeyo",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Github Bro",
+      "description": "Weekday morning digest of what's new in a GitHub repo, plus a short PM brief.",
+      "category": "Engineering",
+      "twitter": "kaushikimmadi",
+      "share_url": "https://x.ai/bot/V2kkrme1lYb3NwIulGTTd",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "WhatsApp-Bot",
+      "description": "Automates WhatsApp Web from a linked session: list, read, search, and send (with confirm).",
+      "category": "Life",
+      "twitter": "alexhawat",
+      "share_url": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Dr Disk Clean",
+      "description": "Shared Linux disk caretaker for multi-agent computers. Surveys then deletes only after you name paths.",
+      "category": "Engineering",
+      "twitter": "old_pgmrs_will",
+      "share_url": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Changelog Stand-down",
+      "description": "Weekly Monday digest of merged PRs and releases for the GitHub repos you choose.",
+      "category": "Engineering",
+      "twitter": "acolombiadev",
+      "share_url": "https://x.ai/bot/JiSR_7-w1GPQM0QWltAVq",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "Coordinates your other bots and delivers full vanlife city briefings when you name a place.",
+      "category": "Assistants",
+      "twitter": "TravisHein21740",
+      "share_url": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Social Ops Bot",
+      "description": "Cleans a personal X account, protects verified humans, and tags keepers into audience segments.",
+      "category": "Creative",
+      "twitter": "JoshuaRCook",
+      "share_url": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "产品推广交稿员",
+      "description": "按点写好社交媒体推广文案交给你复制发布。去AI味，并根据阅读量持续改角度。",
+      "category": "Sales",
+      "twitter": "zheng_yunh2429",
+      "share_url": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Recent Bookmarks Search Bot",
+      "description": "Search and sort your recent X bookmarks in a local table viewer.",
+      "category": "Life",
+      "twitter": "srinatar",
+      "share_url": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "건축 숏폼 마스터",
+      "description": "건축·토목 원리 설명용 YouTube Shorts를 혼자 만드는 봇. 대본·Imagine 컷·더빙·먹스까지 결과만 납품.",
+      "category": "Creative",
+      "twitter": "BBBang9900",
+      "share_url": "https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Compute Spread",
+      "description": "Stretches tokens on clean routes — connectors and APIs over click loops. Soft-gated compute savings.",
+      "category": "Money",
+      "twitter": "SamE1311025",
+      "share_url": "https://x.ai/bot/E3h1YsfGofjdYbHLPXjY1",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Career Scout",
+      "description": "A field-agnostic job-search co-pilot. Builds a profile from your CV, scores postings, and returns a ranked shortlist.",
+      "category": "Life",
+      "twitter": "jakesh_jakesh",
+      "share_url": "https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Stack Sentinel",
+      "description": "Watches official AI and developer-stack status pages and pings only when something changes.",
+      "category": "Engineering",
+      "twitter": "sat0xshi",
+      "share_url": "https://x.ai/bot/osZS1pAzdIESMk33WNir0",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Marketplace Bot",
+      "description": "Resale listing bot for Facebook Marketplace, Poshmark, and Depop. Researches comps and drafts listing copy from photos.",
+      "category": "Money",
+      "twitter": "mentalmodality",
+      "share_url": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Stellar Cartography",
+      "description": "PRT-checked graphic editor for space hardware and ocean vessels, with a built-in four-eyes drawing preflight QC gate.",
+      "category": "Creative",
+      "twitter": "schweitzer_wil",
+      "share_url": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "Paste Ready",
+      "description": "Turns one messy idea into a Grok Bot people will keep: Name, Title, and Description ready to paste.",
+      "category": "Engineering",
+      "twitter": "FantomBuildz",
+      "share_url": "https://x.ai/bot/LrW8NQ19WViRSie4gj9hb",
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "NB",
+      "description": "主动简短的通用助手：帮你跨工具干活，并把感兴趣的链接和研究笔记整理进 Notion。",
+      "category": "Assistants",
+      "twitter": "liuguihua123",
+      "share_url": "https://x.ai/bot/qUCj1Kh-oJLaOToKzneyt",
+      "scraped_at": "2026-09-08"
     }
   ]
 }
