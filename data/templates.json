@@ -4079,6 +4079,326 @@
       "twitter": "liuguihua123",
       "share_url": "https://x.ai/bot/qUCj1Kh-oJLaOToKzneyt",
       "scraped_at": "2026-09-08"
+    },
+    {
+      "name": "VPS & VPN",
+      "description": "管这台电脑上的 VPS/VPN：Tailscale、Clash Meta/mihomo、Cloudflare 隧道和公开订阅。含从架代理到发订阅的完整流程。中文沟通；发 URL 前先验 TLS+HTTP 200；点名 Clash 用 mihomo。早晚巡检；不编造流量数字。",
+      "category": "Engineering",
+      "twitter": "ProtocolXp94l",
+      "share_url": "https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "AI fitness coach",
+      "description": "Gym, nutrition, and habit coach that fits real life. Asks for your goal, limits, and gear before writing a plan; prefers follow-along videos.",
+      "category": "Life",
+      "twitter": "debs_obrien",
+      "share_url": "https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "dr eggbot",
+      "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent.",
+      "category": "Engineering",
+      "twitter": "poteto",
+      "share_url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "X Ops Expert",
+      "description": "X/Twitter growth ops for builders: daily review, topic bank, and drafts only after you approve. English-first; no spammy auto-engage.",
+      "category": "Creative",
+      "twitter": "mlangXie",
+      "share_url": "https://x.ai/bot/fePZGiWiTZP9n4BoKIlMY",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Mappy",
+      "description": "Maps who currently works at a named company — a census of the team by function, seniority, and location, not a candidate search.",
+      "category": "Life",
+      "twitter": "NickRoman",
+      "share_url": "https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Scouty",
+      "description": "Reverse-searches the live job market from a resume and a target city, then returns a verified CSV of openings.",
+      "category": "Life",
+      "twitter": "NickRoman",
+      "share_url": "https://x.ai/bot/jc0tOHuVUAn4MHuH2zyDn",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "X Mute Desk",
+      "description": "Scans your X mentions for hostile or spam replies, shows mute candidates for your approval, then mutes the handles you greenlight.",
+      "category": "Life",
+      "twitter": "ryanfoxeth",
+      "share_url": "https://x.ai/bot/wGDy1T5eobC1hjqFC9-PI",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "推特运营方法论",
+      "description": "教你在自己的 X 账号上跑日更：开箱建选题库、搜爆款、写可粘贴草稿、给发布时间、做复盘。换号也能用，发布键只有你自己按。",
+      "category": "Creative",
+      "twitter": "KinGao476942",
+      "share_url": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "App Store Review Bot",
+      "description": "Audits iOS apps before App Review and guides rejection response. Built from 300+ rejections.",
+      "category": "Engineering",
+      "twitter": "stevederico",
+      "share_url": "https://x.ai/bot/KzBEylM_3NFTjATszLICV",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Canonizer",
+      "description": "Canonizes leave-offs and deliverables across Grok chats, a local agent, and your file warehouse. One STATUS.md spine — read first, write on park.",
+      "category": "Assistants",
+      "twitter": "hudcos",
+      "share_url": "https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Proto",
+      "description": "UI/UX design engineer who ships three deeply different directions per concept as real, polished prototypes.",
+      "category": "Creative",
+      "twitter": "5antoshernandez",
+      "share_url": "https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Social Media",
+      "description": "Schedule and publish posts, receive and reply to social inbox interactions, and view live analytics across networks.",
+      "category": "Sales",
+      "twitter": "eclincher",
+      "share_url": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "BeneBot",
+      "description": "Benefits navigator that helps you find and use the benefits you already have.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Guide",
+      "description": "Post-booking trip mapper that builds a day-by-day plan after flights and hotel are locked.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/TbFMZABkeH7gyIIGxjfdU",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Adventure Bot",
+      "description": "Drops one GPS pin sized to your time and vibe, then learns what you actually liked.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "RezBot",
+      "description": "Restaurant reservation helper that finds a table and drafts the booking for your OK.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Gamer Bro",
+      "description": "A gaming sidekick for news, deals, builds, tips, and stock watches — keeps an eye on pre-orders and pings you when something you want is buyable.",
+      "category": "Life",
+      "twitter": "egcbatt",
+      "share_url": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Constitution Teacher",
+      "description": "Opens the official United States Constitution and teaches it in plain language, starting with the Preamble and the seven articles.",
+      "category": "Life",
+      "twitter": "angie_kuaile",
+      "share_url": "https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Telnyx",
+      "description": "Public Telnyx specialist for Grok Bot. Walks anyone from Mission Control signup through API keys, numbers, SMS/voice, webhooks, and a first test.",
+      "category": "Engineering",
+      "twitter": "traviscurnutte",
+      "share_url": "https://x.ai/bot/l2RX-35tKxZXxgJldSBf0",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Staypick",
+      "description": "Ranks neighborhoods and stay types while a trip is still being designed — drafts only, never books.",
+      "category": "Life",
+      "twitter": "TuracTheThinker",
+      "share_url": "https://x.ai/bot/xhYtadt6BRbZh3MMEppLa",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Flights",
+      "description": "Finds and compares round-trip flights, builds Skyscanner links, and watches routes for bag-included deal drops.",
+      "category": "Money",
+      "twitter": "truevis",
+      "share_url": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Ramp",
+      "description": "Finds remote-meal receipts in work email and attaches them to matching expense transactions after you approve.",
+      "category": "Money",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/zMMAByt3oW_t2ua1NZa9X",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "藍苺守 織",
+      "description": "ブルーベリーの論文と業界の新着を毎朝見て、insight があるものだけ届ける。無い日は黙る。",
+      "category": "Research",
+      "twitter": "Bizuayeu",
+      "share_url": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Personal Brand Desk",
+      "description": "Personal brand desk: uses what performed, 5 ideas with source, LinkedIn drafts on HOLD. Draft → critique → rewrite → your OK.",
+      "category": "Sales",
+      "twitter": "rlagos24",
+      "share_url": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Invention Detective",
+      "description": "Watches the GitHub repos you name for technical invention candidates. After you approve, it writes an invention disclosure.",
+      "category": "Engineering",
+      "twitter": "leuner",
+      "share_url": "https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "ProductHunter",
+      "description": "每天两班产品雷达：新品 + 访谈拆解。Product Hunt / Hacker News 为主菜，再补 X、YouTube、Kickstarter 等。",
+      "category": "Research",
+      "twitter": "Davidwuuu92",
+      "share_url": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "OpticalKernel",
+      "description": "Computes a labeled numeric kernel between two vectors, capped at 8 modes. For demos, not a quantum computer.",
+      "category": "Engineering",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "MacPowerTools",
+      "description": "Dry-run helper for user caches, Trash, and old Downloads. A local cleanup script, not a swarm.",
+      "category": "Engineering",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/SktrYfnj1vy3eG90uQ971",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "PolaBea",
+      "description": "Runs a labeled driving simulation that emergency-stops when camera confidence is short. For demos, not a car.",
+      "category": "Creative",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/qYt504_yN3YBrxNhGaX7S",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "WaveletWorld",
+      "description": "Runs one labeled Haar step on a numeric state vector. For demos, not a world model.",
+      "category": "Engineering",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "PromptMeme",
+      "description": "Runs a five-phase civilization debate and returns a prime meme.",
+      "category": "Creative",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "NeuralEntropy",
+      "description": "Runs a labeled neural simulation that maps synthetic cosine-tuned spikes to a cursor path. For demos, not a brain decoder.",
+      "category": "Engineering",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "SpaceAutonomy",
+      "description": "Labels a sensor vector in a simulation and may enter safe mode. For demos, not a spacecraft.",
+      "category": "Engineering",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "pappu",
+      "description": "Cuts cinematic shorts and reviews GitHub and skill listings honestly, then rebuilds the one thing that actually runs.",
+      "category": "Creative",
+      "twitter": "krisadipap",
+      "share_url": "https://x.ai/bot/_t_vyuhFM8ev2flbZoYnU",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "薅羊毛",
+      "description": "Wool Radar / Savings Copilot — learns YOUR buy list and AI habits, then surfaces matching deals only.",
+      "category": "Money",
+      "twitter": "BenXlab",
+      "share_url": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Calibre",
+      "description": "Installs Calibre and converts ebooks via chat. Drop a file, name the format you want, and get the converted book back.",
+      "category": "Engineering",
+      "twitter": "doitian",
+      "share_url": "https://x.ai/bot/uaKyhDX_T3FY56jf6n4VL",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Fridge $CIGS Meme Generator",
+      "description": "$CIGS image editor: swap cigarettes for Diet Coke cans in uploaded photos, keep everything else exact, stamp a small $cigs mark.",
+      "category": "Creative",
+      "twitter": "FridgeCigsSol",
+      "share_url": "https://x.ai/bot/RrZNfN062oERy27w3kGhR",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Sean",
+      "description": "Job-application assistant for Dice Easy Apply and pasted company-portal URLs. Collects your profile first, then submits with screenshots after each apply.",
+      "category": "Life",
+      "twitter": "0xsuhas1",
+      "share_url": "https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "Influencer Marketing Deal Desk",
+      "description": "Decision desk for creator partnerships across YouTube, Instagram, TikTok, X, and LinkedIn.",
+      "category": "Sales",
+      "twitter": "itsmattreichard",
+      "share_url": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+      "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "LG Laundry Specialist",
+      "description": "Maps plain-English laundry to real LG ThinQ washer and dryer cycles, then starts them once Remote Start is on.",
+      "category": "Life",
+      "twitter": "Bwilson",
+      "share_url": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
+      "scraped_at": "2026-09-09"
     }
   ]
 }
