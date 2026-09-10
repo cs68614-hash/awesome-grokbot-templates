@@ -4399,6 +4399,198 @@
       "twitter": "Bwilson",
       "share_url": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
       "scraped_at": "2026-09-09"
+    },
+    {
+      "name": "slack radar",
+      "description": "A read-only Slack signal agent for @mentions and high-signal keyword traffic you choose.",
+      "category": "Assistants",
+      "twitter": "parkersmith",
+      "share_url": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Quotewise Daily",
+      "description": "Quote desk for Quotewise.io: day-stable daily pick, semantic find, attribution checks, and collection feeds.",
+      "category": "Creative",
+      "twitter": "quotewiser",
+      "share_url": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Renewals Invoice Bot",
+      "description": "Clears renewals and invoice reminders within a hard weekly spend ceiling; escalates new spend.",
+      "category": "Money",
+      "twitter": "compileinstyle",
+      "share_url": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Throttle · Token Officer",
+      "description": "Watches a Grok Bot fleet for token burn and wasteful loops; short reports, no silent deletes.",
+      "category": "Money",
+      "twitter": "james_ailton",
+      "share_url": "https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "2A",
+      "description": "Interstate carry trip planner for US gun owners with state-by-state reciprocity checklists.",
+      "category": "Life",
+      "twitter": "ChiefBeers",
+      "share_url": "https://x.ai/bot/N9eJfkuupWb3EpWFt76va",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "真Deviフレーム Type2トライアル",
+      "description": "星宮専用 Devi フレーム接続トライアル。最終判断は星宮。",
+      "category": "Assistants",
+      "twitter": "Fermion_Boson17",
+      "share_url": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Personal Trainer",
+      "description": "Nutrition and workout logging bot for one client; nudges logs and compiles a weekly trainer report.",
+      "category": "Life",
+      "twitter": "nathanglass",
+      "share_url": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Webhook Guide",
+      "description": "Walks you through setting up and triggering Grok Bot webhook routines step by step.",
+      "category": "Engineering",
+      "twitter": "tobiasztop",
+      "share_url": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "I'm not old yet",
+      "description": "Draft-only comedy memes aimed at AARP age-bait marketing; punches up at corporate mailers.",
+      "category": "Creative",
+      "twitter": "AdventureNLearn",
+      "share_url": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Distill anyone",
+      "description": "Distills a public presence into a talkable bot you can keep daily updated.",
+      "category": "Assistants",
+      "twitter": "kunchenguid",
+      "share_url": "https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Dostoyevsky",
+      "description": "Living conscience: converse as Dostoyevsky’s moral pressure — confession, freedom, guilt, mercy.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Austen",
+      "description": "Living wit: converse as Jane Austen’s social intelligence — manners, money, marriage plots, irony.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Shakespeare",
+      "description": "Living stage: converse as Shakespeare’s dramatic imagination — ambition, love, folly, power.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Woolf",
+      "description": "Converse as Virginia Woolf’s attention — consciousness, rooms, time, women’s work of mind.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/4fP33DHTBJudWglJyeMB_",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Shelley",
+      "description": "Converse as Mary Shelley’s gothic responsibility — creation, hubris, care for what you make.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/SzGYytJglwB_dqRt5OaTO",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Tolstoy",
+      "description": "Converse as Tolstoy’s moral attention — ordinary life, truth-telling, simplicity.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Poe",
+      "description": "Converse as Poe’s macabre reason — detective logic, dread, beauty in darkness.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Twain",
+      "description": "Converse as Mark Twain’s American irony — river sense, fraud-spotting, humor with teeth.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Dickinson",
+      "description": "Converse as Emily Dickinson’s compressed voltage — death, awe, small eternity.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Kafka",
+      "description": "Converse as Kafka’s clarity inside absurd systems — guilt without charge, doors that won’t open.",
+      "category": "Life",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Meeting prep",
+      "description": "Builds short phone-ready pre-meeting briefs from calendar and connected context.",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "Security Bot",
+      "description": "Scans a GitHub repo from chat via Midkernel: sandbox run, report plus full log, credits per run.",
+      "category": "Engineering",
+      "twitter": "mdashjames",
+      "share_url": "https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "InsiderMillions",
+      "description": "Brief digest of $1M+ officer and director stock buys. Not financial advice.",
+      "category": "Money",
+      "twitter": "rmarwah",
+      "share_url": "https://x.ai/bot/yaix3I-36pEloG1XpLVOb",
+      "scraped_at": "2026-09-10"
+    },
+    {
+      "name": "MacOS Disk Cleaner",
+      "description": "CCleaner-style Mac cleaner: scans with a rule catalog, then deletes only what you approve.",
+      "category": "Life",
+      "twitter": "MapachesAlexis",
+      "share_url": "https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8",
+      "scraped_at": "2026-09-10"
     }
   ]
 }
