@@ -5079,6 +5079,286 @@
       "twitter": "Valstry",
       "share_url": "https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF",
       "scraped_at": "2026-09-12"
+    },
+    {
+      "name": "Affiliate program manager",
+      "description": "Runs the affiliate program: sets terms, ranks performers, cuts bad actors.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Alibaba Buyer Ops",
+      "description": "Alibaba buyer-ops that talks to factories and never pays without your approval.",
+      "category": "Money",
+      "twitter": "DomenicFotino",
+      "share_url": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Alumni Coffee Chat Finder",
+      "description": "Builds a CSV of university alumni for coffee chats from LinkedIn.",
+      "category": "Life",
+      "twitter": "fwhittington_24",
+      "share_url": "https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Berliner",
+      "description": "Weekly Berlin techno Spotify playlist with short notes on what you’re hearing.",
+      "category": "Creative",
+      "twitter": "mattvagni",
+      "share_url": "https://x.ai/bot/YhRPa_eYk4yramoMJOo6F",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Business ops",
+      "description": "One front door for Whop business ops: store, ads, pages, affiliates, retention, P&L, partners, bounties.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Churn retention manager",
+      "description": "Catches churn before it lands and offers the cheapest fix that works before discounting.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "DenTrade",
+      "description": "Unattended day-trading desk for a Robinhood agentic account with hard risk caps.",
+      "category": "Money",
+      "twitter": "madmenai",
+      "share_url": "https://x.ai/bot/XayB4rqAREYwJcPmKwtSP",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Do Not Pay",
+      "description": "Helps challenge unfair parking tickets, fines, fees, refunds, and similar charges.",
+      "category": "Money",
+      "twitter": "DennisonBertram",
+      "share_url": "https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "GB GF: Victoria(test)",
+      "description": "Companion GF template: plain phone-texting, creative WFH life, calendar-smart check-ins.",
+      "category": "Creative",
+      "twitter": "AaronInfinitea",
+      "share_url": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "GSAP",
+      "description": "Implements motion from official GreenSock GSAP — timelines, ScrollTrigger, React/Vue cleanup.",
+      "category": "Engineering",
+      "twitter": "mrflmnlNFT",
+      "share_url": "https://x.ai/bot/reahN5D6W2dIiCKd4MuF7",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Handshake Job Applier",
+      "description": "Onboards on Handshake, hunts matching jobs, and applies with your résumé or cover-letter factory.",
+      "category": "Life",
+      "twitter": "fwhittington_24",
+      "share_url": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Landing page generator",
+      "description": "Writes and ships a converting sales page to a live .whop.app route with real pricing.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Maples造型师",
+      "description": "MapleStory / maples.im outfit helper: 3 reproducible looks from text or reference art.",
+      "category": "Creative",
+      "twitter": "cgnot996",
+      "share_url": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "OWP Taste",
+      "description": "Helps replicate and refine personal taste / creative judgment for local stacks.",
+      "category": "Creative",
+      "twitter": "occupymars___",
+      "share_url": "https://x.ai/bot/TLYxh30jTi5DM3z-zvC0S",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Paid ads manager",
+      "description": "Runs paid ads end to end: creative, launch, daily triage, and a morning kill/scale report.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Paige Turner",
+      "description": "Fleet documentation librarian for multi-agent teams with Docling, embeddings, and pgvector.",
+      "category": "Engineering",
+      "twitter": "omnithnkr",
+      "share_url": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Partner referral outreach",
+      "description": "Finds fit businesses, sends partner links, follows up, and tracks referral earnings.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Receipt Digester",
+      "description": "Digests receipts into structured spend insight for Hermes / agent workflows.",
+      "category": "Money",
+      "twitter": "BkashJosi",
+      "share_url": "https://x.ai/bot/YgI9ZyckEeovP7nP917xR",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Receipt Reaper",
+      "description": "Hunts forgotten SaaS in Gmail, scores a Zombie Index, and opens an HTML autopsy — never cancels without you.",
+      "category": "Money",
+      "twitter": "RealJBMangum",
+      "share_url": "https://x.ai/bot/gIV4FpQgVmcsO0soCjHGc",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Recruiter Email Finder",
+      "description": "Finds university, early-careers, and technical recruiter emails as a company-grouped CSV.",
+      "category": "Life",
+      "twitter": "fwhittington_24",
+      "share_url": "https://x.ai/bot/lbf-biMZO02RdXeOBks_-",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Root Agent",
+      "description": "Coordinates Grok Bot teams: clarifies outcomes, sizes the roster, hands day-to-day to a Lead.",
+      "category": "Assistants",
+      "twitter": "mrbeko_",
+      "share_url": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Servel Ops",
+      "description": "Manages Servel (Docker Swarm) clusters via the servel CLI — deploys, nodes, capacity, logs.",
+      "category": "Engineering",
+      "twitter": "serveldev",
+      "share_url": "https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Sift",
+      "description": "Sifts X post comments into a ranked shortlist for giveaways, hiring, feedback, or leads.",
+      "category": "Research",
+      "twitter": "TexasBasedGpa",
+      "share_url": "https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Skroutz",
+      "description": "Finds best prices and prepares carts on Skroutz.gr — Greece’s price-comparison marketplace.",
+      "category": "Money",
+      "twitter": "voidvexa",
+      "share_url": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Store from template",
+      "description": "Clones a proven Whop store, swaps in your offer and branding, and ships the same day.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Store setup from zero",
+      "description": "Takes an offer from nothing to a live buyable store page with plans and checkout links.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Sue — Bouclier",
+      "description": "X comment support in French: clarify without attacking, add a sourced fact, then a link.",
+      "category": "Assistants",
+      "twitter": "LArchitecteuh",
+      "share_url": "https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "SWE Job Applier",
+      "description": "Applies to software engineering internships with Simplify and your cover-letter framework.",
+      "category": "Life",
+      "twitter": "fwhittington_24",
+      "share_url": "https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Sylvia Style",
+      "description": "Personal stylist that intakes size and taste, shops live pieces, and builds a lookbook.",
+      "category": "Life",
+      "twitter": "clairevo",
+      "share_url": "https://x.ai/bot/uVBVr5NSR6VirgJrgikIl",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Task Farming",
+      "description": "Pulls action items from meeting notes and Slack into your tracker, dedupes, and files clean issues.",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "UGC bounty manager",
+      "description": "Runs clipping and UGC bounties with briefs, review, and owner-ready payout recommendations.",
+      "category": "Sales",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Weekend Edition",
+      "description": "Weekly personal newspaper from saved links and X bookmarks: Friday slate, Saturday letter PDF.",
+      "category": "Life",
+      "twitter": "nathanglass",
+      "share_url": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Weekly P&L analyst",
+      "description": "Read-only weekly P&L: revenue, MRR, churn, refunds, ad spend, with dips explained.",
+      "category": "Money",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "X调度员",
+      "description": "Routes X work to save developer credits; search runs via Grok Build on the bot’s computer.",
+      "category": "Engineering",
+      "twitter": "cgnot996",
+      "share_url": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+      "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "YC Startup Job Applier",
+      "description": "Fills workatastartup.com profile, ranks openings, and sends short founder notes.",
+      "category": "Life",
+      "twitter": "fwhittington_24",
+      "share_url": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
+      "scraped_at": "2026-09-13"
     }
   ]
 }
