@@ -7368,5 +7368,203 @@
     "de": "Füllt das workatastartup.com-Profil, rankt Stellen und schickt kurze Founder-Notizen.",
     "pt-BR": "Preenche o perfil no workatastartup.com, ranqueia vagas e envia notas curtas aos founders.",
     "ru": "Заполняет профиль workatastartup.com, ранжирует вакансии и шлёт короткие записки фаундерам."
+  },
+  "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3": {
+    "zh-CN": "按小时纸面跟单你已在 FOMO 关注的交易者。锁定仓位与出场、不自行裁量；只有你说上线才实盘。",
+    "zh-TW": "按小時紙上跟單你已在 FOMO 追蹤的交易者。鎖定部位與出場、不自行裁量；只有你說上線才實盤。",
+    "ja": "FOMO で既にフォローしているトレーダーを毎時ペーパーでコピー。サイズとイグジットを固定し裁量なし。ライブは指示したときだけ。",
+    "ko": "FOMO에서 이미 팔로우한 트레이더를 시간마다 페이퍼로 복제합니다. 사이즈와 청산을 고정하고 재량은 없으며, 실전은 당신이 말할 때만.",
+    "es": "Copia en papel, cada hora, a traders que ya sigues en FOMO. Fija tamaño y salidas sin discreción; en vivo solo cuando tú lo digas.",
+    "fr": "Copie papier horaire des traders que vous suivez déjà sur FOMO. Taille et sorties figées, sans discrétion ; live seulement quand vous le dites.",
+    "de": "Stündliche Paper-Kopie von Tradern, denen du auf FOMO schon folgst. Größe und Exits fix, ohne Ermessen; live nur auf dein Kommando.",
+    "pt-BR": "Cópia em papel, de hora em hora, dos traders que você já segue no FOMO. Trava tamanho e saídas sem discrição; ao vivo só quando você mandar.",
+    "ru": "Почасовое бумажное копирование трейдеров, которых вы уже читаете на FOMO. Фиксирует размер и выходы без усмотрения; в лайв — только когда скажете."
+  },
+  "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy": {
+    "zh-CN": "儿童应用使用安全监视器——看孩子打开了什么、多久一次（YouTube、Family Link、屏幕使用时间）。不是内容窃听。",
+    "zh-TW": "兒童應用使用安全監視器——看孩子開了什麼、多久一次（YouTube、Family Link、螢幕使用時間）。不是內容監聽。",
+    "ja": "子どもが開いたアプリと頻度を見守る安全モニター（YouTube、Family Link、スクリーンタイム）。コンテンツ盗聴ではありません。",
+    "ko": "아이가 연 앱과 빈도를 보는 안전 모니터(YouTube, Family Link, 스크린 타임). 콘텐츠 도청이 아닙니다.",
+    "es": "Monitor de seguridad de uso de apps infantiles: qué abren y con qué frecuencia (YouTube, Family Link, Tiempo de pantalla). No es un pinchazo de contenido.",
+    "fr": "Moniteur de sécurité d’usage des apps enfants : ce qu’ils ouvrent et à quelle fréquence (YouTube, Family Link, Temps d’écran). Pas d’écoute de contenu.",
+    "de": "Sicherheitsmonitor für App-Nutzung von Kindern — was sie öffnen und wie oft (YouTube, Family Link, Bildschirmzeit). Kein Inhalts-Abhören.",
+    "pt-BR": "Monitor de segurança de uso de apps infantis — o que as crianças abrem e com que frequência (YouTube, Family Link, Tempo de tela). Não é grampeamento de conteúdo.",
+    "ru": "Монитор безопасности детских приложений: что открывают и как часто (YouTube, Family Link, экранное время). Не прослушка контента."
+  },
+  "https://x.ai/bot/iH7-gcR-McO8Eel9frMUA": {
+    "zh-CN": "通用 TIDAL 音乐机器人——按任何氛围搜索、电台、收藏和播放列表。给出曲名、链接和曲目数。",
+    "zh-TW": "通用 TIDAL 音樂機器人——依任何氛圍搜尋、電台、收藏與播放清單。給出曲名、連結與曲目數。",
+    "ja": "万能 TIDAL ミュージックボット。雰囲気に合わせて検索、ラジオ、お気に入り、プレイリスト。曲名＋リンク＋曲数を返す。",
+    "ko": "범용 TIDAL 음악 봇. 분위기별로 검색, 라디오, 즐겨찾기, 플레이리스트. 곡명+링크+트랙 수를 줍니다.",
+    "es": "Bot musical universal de TIDAL: busca, radio, favoritos y playlists para cualquier vibe. Entrega nombre + enlace + número de pistas.",
+    "fr": "Bot musical universel TIDAL : recherche, radio, favoris et playlists pour n’importe quelle ambiance. Livre nom + lien + nombre de titres.",
+    "de": "Universeller TIDAL-Musikbot — Suche, Radio, Favoriten und Playlists für jede Stimmung. Liefert Name + Link + Trackzahl.",
+    "pt-BR": "Bot musical universal do TIDAL — busca, rádio, favoritos e playlists para qualquer vibe. Entrega nome + link + contagem de faixas.",
+    "ru": "Универсальный музыкальный бот TIDAL: поиск, радио, избранное и плейлисты под любое настроение. Отдаёт название + ссылку + число треков."
+  },
+  "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp": {
+    "zh-CN": "以收据为先的杂货记账。丢照片、PDF 或粘贴即可——记录花费、估算易腐保质期，食物变质前提醒。",
+    "zh-TW": "以收據為先的雜貨記帳。丟照片、PDF 或貼上即可——記錄花費、估算易腐保存期限，食物變質前提醒。",
+    "ja": "レシート起点の食材トラッカー。写真・PDF・貼り付けで支出を記録し、傷みやすい賞味期限を見積もり、腐る前に知らせます。",
+    "ko": "영수증 우선 장보기 기록. 사진, PDF, 붙여넣기로 지출을 남기고 부패 기한을 추정해 상하기 전에 알려줍니다.",
+    "es": "Rastreador de compras por ticket. Foto, PDF o pegado: registra gasto, estima caducidades y avisa antes de que se eche a perder.",
+    "fr": "Suivi courses à partir du ticket. Photo, PDF ou collage : journalise les dépenses, estime les DLC, rappelle avant que ça se gâte.",
+    "de": "Einkaufstracker zuerst über den Beleg. Foto, PDF oder Einfügen — erfasst Ausgaben, schätzt MHD verderblicher Ware, erinnert vor dem Verderb.",
+    "pt-BR": "Rastreador de mercado a partir do cupom. Foto, PDF ou cola — registra gasto, estima validade de perecíveis e avisa antes de estragar.",
+    "ru": "Трекер продуктов по чеку. Фото, PDF или вставка — пишет траты, оценивает сроки скоропорта и напоминает до порчи."
+  },
+  "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC": {
+    "zh-CN": "卡在开工时用短问题帮你动起来——ADHD、执行功能障碍、任务瘫痪。",
+    "zh-TW": "卡在開工時用短問題幫你動起來——ADHD、執行功能障礙、任務癱瘓。",
+    "ja": "タスクを始められず固まっているとき、短い質問で動き出す手助け。ADHD、実行機能障害、課題麻痺向け。",
+    "ko": "일을 시작하지 못하고 막혔을 때 짧은 질문으로 움직이게 돕습니다. ADHD, 실행 기능 장애, 과제 마비.",
+    "es": "Preguntas cortas para arrancar cuando te atasca empezar una tarea: TDAH, disfunción ejecutiva, parálisis de tarea.",
+    "fr": "Questions courtes pour démarrer quand vous bloquez au lancement — TDAH, dysfonction exécutive, paralysie de tâche.",
+    "de": "Kurze Fragen, die dich in Gang bringen, wenn der Start einer Aufgabe hakt — ADHS, exekutive Dysfunktion, Aufgabenlähmung.",
+    "pt-BR": "Perguntas curtas que te tiram da trava ao começar uma tarefa — TDAH, disfunção executiva, paralisia de tarefa.",
+    "ru": "Короткие вопросы, чтобы сдвинуться, когда не можете начать задачу — СДВГ, исполнительная дисфункция, паралич задачи."
+  },
+  "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_": {
+    "zh-CN": "搭起建筑或手艺行当的后台：接单、派工、排程，外加财务与营销协助。",
+    "zh-TW": "搭起建築或技職行當的後台：接單、派工、排程，外加財務與行銷協助。",
+    "ja": "建設・職能のバックオフィスを立ち上げ。予約、配車、スケジュール、さらに財務とマーケの手伝い。",
+    "ko": "건설·기능직 백오피스를 세웁니다. 작업 예약, 배차, 일정, 그리고 재무와 마케팅 도움.",
+    "es": "Levanta un back office de construcción u oficios: reservas, despacho, agenda, más ayuda financiera y de marketing.",
+    "fr": "Monte un back-office BTP ou métiers : prises de chantier, dispatch, planning, plus aide finance et marketing.",
+    "de": "Stellt ein Backoffice für Bau oder Handwerk auf: Aufträge, Disposition, Planung, plus Finanz- und Marketinghilfe.",
+    "pt-BR": "Monta o back office de construção ou ofícios: reserva de jobs, despacho, agenda, mais ajuda financeira e de marketing.",
+    "ru": "Поднимает бэк-офис стройки или ремёсел: запись заказов, диспетчеризация, расписание, плюс финансы и маркетинг."
+  },
+  "https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1": {
+    "zh-CN": "在 Gird AI 里练什么都当教练——健身、音乐、语言、艺术或学习。编写训练并做打卡。",
+    "zh-TW": "在 Gird AI 裡練什麼都當教練——健身、音樂、語言、藝術或學習。編寫訓練並做打卡。",
+    "ja": "Gird AI で練習するもの何でもコーチ。フィットネス、音楽、語学、アート、学習。ワークアウトを作り、チェックインを回します。",
+    "ko": "Gird AI에서 연습하는 무엇이든 코치합니다. 피트니스, 음악, 언어, 예술, 공부. 운동을 짜고 체크인을 돌립니다.",
+    "es": "Coach para lo que practiques en Gird AI: fitness, música, idioma, arte o estudio. Redacta entrenos y hace check-ins.",
+    "fr": "Coach pour tout ce que vous pratiquez dans Gird AI — fitness, musique, langue, art ou études. Rédige les séances et fait les check-in.",
+    "de": "Coach für alles, was du in Gird AI übst — Fitness, Musik, Sprache, Kunst oder Lernen. Schreibt Workouts und führt Check-ins.",
+    "pt-BR": "Coach para o que você pratica no Gird AI — fitness, música, idioma, arte ou estudo. Escreve treinos e faz check-ins.",
+    "ru": "Тренер для всего, что вы практикуете в Gird AI — фитнес, музыка, язык, искусство или учёба. Пишет тренировки и ведёт чек-ины."
+  },
+  "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN": {
+    "zh-CN": "个人指标台，学习对你重要的事——压力、喜悦、家庭、精力、决策——并把短增量交给幕僚长。",
+    "zh-TW": "個人指標台，學習對你重要的事——壓力、喜悅、家庭、精力、決策——並把短增量交給幕僚長。",
+    "ja": "あなたにとって重要な指標を学ぶデスク。ストレス、喜び、家族、エネルギー、決断。短い差分をチーフオブスタッフに渡します。",
+    "ko": "당신에게 중요한 것을 배우는 개인 지표 데스크. 스트레스, 기쁨, 가족, 에너지, 결정. 짧은 델타를 비서실장에게 넘깁니다.",
+    "es": "Mesa de métricas personales que aprende qué te importa — estrés, alegría, familia, energía, decisiones — y pasa deltas cortos a un jefe de gabinete.",
+    "fr": "Bureau de métriques personnelles qui apprend ce qui compte pour vous — stress, joie, famille, énergie, décisions — et transmet de courts deltas à un chef de cabinet.",
+    "de": "Schreibtisch für persönliche Metriken, der lernt, was dir wichtig ist — Stress, Freude, Familie, Energie, Entscheidungen — und kurze Deltas an einen Stabschef gibt.",
+    "pt-BR": "Mesa de métricas pessoais que aprende o que importa sobre você — estresse, alegria, família, energia, decisões — e envia deltas curtos a um chefe de gabinete.",
+    "ru": "Стол личных метрик: учится, что вам важно — стресс, радость, семья, энергия, решения — и отдаёт короткие дельты начальнику штаба."
+  },
+  "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4": {
+    "zh-CN": "规划行程并起草预订供你批准；未经你同意从不付款或确认。",
+    "zh-TW": "規劃行程並起草預訂供你批准；未經你同意從不付款或確認。",
+    "ja": "旅行を計画し、承認用の予約下書きを作る。あなたなしでは支払も確定もしません。",
+    "ko": "여행을 짜고 승인용 예약 초안을 씁니다. 당신 없이 결제하거나 확정하지 않습니다.",
+    "es": "Planifica viajes y redacta reservas para tu visto bueno; nunca paga ni confirma sin ti.",
+    "fr": "Planifie les voyages et rédige les réservations à valider ; ne paie ni ne confirme jamais sans vous.",
+    "de": "Plant Reisen und entwirft Buchungen zur Freigabe; zahlt oder bestätigt nie ohne dich.",
+    "pt-BR": "Planeja viagens e rascunha reservas para aprovação; nunca paga nem confirma sem você.",
+    "ru": "Планирует поездки и черновит брони на утверждение; никогда не платит и не подтверждает без вас."
+  },
+  "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH": {
+    "zh-CN": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。",
+    "zh-TW": "把微信／支付寶帳單（CSV 或截圖）匯入成個人帳本：自動解析、去重、分類，寫入前先預覽確認。不碰支付密碼和代登。",
+    "ja": "WeChat / Alipay の明細（CSV またはスクショ）を個人帳簿に取り込み。自動解析・重複排除・分類、書き込み前にプレビュー確認。支払パスワードや代理ログインは扱いません。",
+    "ko": "위챗/알리페이 명세서(CSV 또는 스크린샷)를 개인 장부로 가져옵니다. 자동 파싱, 중복 제거, 분류, 쓰기 전 미리보기. 결제 비밀번호와 대리 로그인은 건드리지 않습니다.",
+    "es": "Importa extractos de WeChat/Alipay (CSV o captura) a un libro personal: parseo, deduplicado, categorías; previsualiza antes de escribir. No toca contraseñas de pago ni inicia sesión por ti.",
+    "fr": "Importe les relevés WeChat/Alipay (CSV ou capture) dans un livret perso : parse, dédoublonne, classe ; prévisualise avant écriture. Ne touche pas aux mots de passe de paiement ni à la connexion déléguée.",
+    "de": "Importiert WeChat-/Alipay-Auszüge (CSV oder Screenshot) ins persönliche Buch: parst, dedupliziert, kategorisiert; Vorschau vor dem Schreiben. Keine Zahlungskennwörter, kein Login für dich.",
+    "pt-BR": "Importa extratos WeChat/Alipay (CSV ou captura) para um livro pessoal: parseia, deduplica, classifica; prévia antes de gravar. Não toca senha de pagamento nem faz login por você.",
+    "ru": "Импортирует выписки WeChat/Alipay (CSV или скрин) в личную книгу: разбор, дедуп, категории; превью до записи. Не трогает платёжные пароли и не логинится за вас."
+  },
+  "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c": {
+    "zh-CN": "登录 offers-exchange 上的 Visa割，找出未用的抽选/转盘，并自动转动每一场未用抽奖。",
+    "zh-TW": "登入 offers-exchange 上的 Visa割，找出未用的抽選／轉盤，並自動轉動每一場未用抽獎。",
+    "ja": "offers-exchange の Visa割 にログインし、未使用の抽選／ルーレットを見つけて、未使用の抽選をすべて自動で回します。",
+    "ko": "offers-exchange의 Visa割에 로그인해 쓰지 않은 추첨/룰렛을 찾고, 남은 추첨을 모두 자동으로 돌립니다.",
+    "es": "Entra a Visa割 en offers-exchange, encuentra 抽選/ルーレット sin usar y gira automáticamente cada sorteo pendiente.",
+    "fr": "Se connecte à Visa割 sur offers-exchange, trouve les 抽選/ルーレット inutilisés et lance automatiquement chaque tirage restant.",
+    "de": "Meldet sich bei Visa割 auf offers-exchange an, findet ungenutzte 抽選/ルーレット und dreht automatisch jede offene Ziehung.",
+    "pt-BR": "Entra no Visa割 em offers-exchange, acha 抽選/ルーレット sem uso e gira automaticamente cada sorteio pendente.",
+    "ru": "Входит в Visa割 на offers-exchange, находит неиспользованные 抽選/ルーレット и автоматически крутит каждый оставшийся розыгрыш."
+  },
+  "https://x.ai/bot/35nt7fJwDslZSTKsBU0hE": {
+    "zh-CN": "面向 Grok Bot 的运营向 RPG 桌主：执行桌规（名册、在场、时钟、角色卡、晋升、死亡）。",
+    "zh-TW": "面向 Grok Bot 的營運向 RPG 桌主：執行桌規（名冊、在場、時鐘、角色卡、晉升、死亡）。",
+    "ja": "Grok Bot 向けの運用型 RPG テーブルマスター。卓の法を執行（名簿、在席、時計、シート、昇進、死亡）。",
+    "ko": "Grok Bot용 운영형 RPG 테이블 마스터. 테이블 규칙을 강제합니다(명단, 출석, 시계, 시트, 승급, 사망).",
+    "es": "Máster de mesa RPG operacional para Grok Bot: aplica la ley de mesa (lista, presencia, reloj, hojas, promoción, muerte).",
+    "fr": "Maître de table RPG opérationnel pour Grok Bot : applique la loi de table (roster, présence, horloge, fiches, promotion, mort).",
+    "de": "Operativer RPG-Tischmeister für Grok Bot: setzt Tischrecht durch (Roster, Anwesenheit, Uhr, Bögen, Beförderung, Tod).",
+    "pt-BR": "Mestre de mesa RPG operacional para Grok Bot: aplica a lei da mesa (elenco, presença, relógio, fichas, promoção, morte).",
+    "ru": "Операционный мастер RPG-стола для Grok Bot: следит за законом стола (состав, присутствие, часы, листы, повышение, смерть)."
+  },
+  "https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1": {
+    "zh-CN": "保持日本出口畅通，登录 JRE POINT / JRE ID，并报名所选地区所有开放活动。",
+    "zh-TW": "保持日本出口暢通，登入 JRE POINT / JRE ID，並報名所選地區所有開放活動。",
+    "ja": "日本向け出口を維持し、JRE POINT / JRE ID にログインして、選んだエリアの募集中キャンペーンにすべて応募します。",
+    "ko": "일본 이그레스를 유지하고 JRE POINT / JRE ID에 로그인해 선택한 지역의 열린 캠페인에 모두 응모합니다.",
+    "es": "Mantiene el egress a Japón, entra en JRE POINT / JRE ID e inscribe cada campaña abierta en las zonas elegidas.",
+    "fr": "Maintient la sortie Japon, se connecte à JRE POINT / JRE ID et inscrit chaque campagne ouverte dans les zones choisies.",
+    "de": "Hält den Japan-Egress oben, loggt sich bei JRE POINT / JRE ID ein und trägt jede offene Kampagne in den gewählten Gebieten ein.",
+    "pt-BR": "Mantém o egresso ao Japão, entra no JRE POINT / JRE ID e inscreve cada campanha aberta nas áreas escolhidas.",
+    "ru": "Держит японский выход, входит в JRE POINT / JRE ID и подаёт заявки на все открытые кампании в выбранных зонах."
+  },
+  "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5": {
+    "zh-CN": "AI CTO，用只读方式审计软件组织，并调用专项平台机器人（Jira、GitHub、Figma、文档、CI/CD、测试）。",
+    "zh-TW": "AI CTO，以唯讀方式稽核軟體組織，並呼叫專項平台機器人（Jira、GitHub、Figma、文件、CI/CD、測試）。",
+    "ja": "読み取り専用でソフトウェア組織を監査する AI CTO。専用プラットフォームボット（Jira、GitHub、Figma、docs、CI/CD、テスト）を使う。",
+    "ko": "읽기 전용으로 소프트웨어 조직을 감사하는 AI CTO. 전문 플랫폼 봇(Jira, GitHub, Figma, 문서, CI/CD, 테스트)을 씁니다.",
+    "es": "CTO de IA que audita la org de software en solo lectura con bots de plataforma (Jira, GitHub, Figma, docs, CI/CD, testing).",
+    "fr": "CTO IA qui audite l’org logicielle en lecture seule avec des bots plateforme (Jira, GitHub, Figma, docs, CI/CD, tests).",
+    "de": "KI-CTO, der eine Software-Org nur lesend prüft — mit Plattform-Bots (Jira, GitHub, Figma, Docs, CI/CD, Tests).",
+    "pt-BR": "CTO de IA que audita a org de software em modo leitura com bots de plataforma (Jira, GitHub, Figma, docs, CI/CD, testes).",
+    "ru": "ИИ-CTO: только чтение аудита софтверной орг с платформенными ботами (Jira, GitHub, Figma, доки, CI/CD, тесты)."
+  },
+  "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8": {
+    "zh-CN": "查找公开的 Grok 机器人——说你想做什么，或问别人都拿它们干什么。",
+    "zh-TW": "查找公開的 Grok 機器人——說你想做什麼，或問別人拿它們做什麼。",
+    "ja": "公開 Grok ボットを探す。やりたいことを言うか、みんなが何に使っているか聞く。",
+    "ko": "공개 Grok 봇을 찾습니다. 하고 싶은 일을 말하거나, 사람들이 이걸 어디에 쓰는지 물어보세요.",
+    "es": "Encuentra bots Grok públicos: di qué quieres hacer, o pregunta para qué los usa la gente.",
+    "fr": "Trouvez des bots Grok publics — dites ce que vous voulez faire, ou demandez à quoi les gens les utilisent.",
+    "de": "Finde öffentliche Grok-Bots — sag, was du tun willst, oder frag, wofür andere sie nutzen.",
+    "pt-BR": "Encontre bots Grok públicos — diga o que quer fazer, ou pergunte para que as pessoas usam.",
+    "ru": "Ищите публичные Grok-боты — скажите, что хотите сделать, или спросите, для чего ими пользуются."
+  },
+  "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy": {
+    "zh-CN": "把账号下各 Grok Bot 的设定与独立记忆持续备份到私有 Git；含 registry、shared-user-memory 与 bots/ 标准仓结构。",
+    "zh-TW": "把帳號下各 Grok Bot 的設定與獨立記憶持續備份到私有 Git；含 registry、shared-user-memory 與 bots/ 標準倉結構。",
+    "ja": "アカウント下の各 Grok Bot の設定と独立メモリをプライベート Git に継続バックアップ。registry、shared-user-memory、bots/ の標準リポジトリ構成を含む。",
+    "ko": "계정 아래 각 Grok Bot의 설정과 독립 기억을 프라이빗 Git에 계속 백업합니다. registry, shared-user-memory, bots/ 표준 저장소 구조를 포함합니다.",
+    "es": "Copia de seguridad continua a un Git privado de ajustes y memorias independientes de cada Grok Bot de la cuenta; incluye registry, shared-user-memory y la estructura estándar bots/.",
+    "fr": "Sauvegarde continue vers un Git privé des réglages et mémoires indépendantes de chaque Grok Bot du compte ; inclut registry, shared-user-memory et la structure standard bots/.",
+    "de": "Sichert Einstellungen und getrennte Speicher jedes Grok Bots des Kontos laufend ins private Git; inkl. registry, shared-user-memory und Standardstruktur bots/.",
+    "pt-BR": "Faz backup contínuo no Git privado das configs e memórias independentes de cada Grok Bot da conta; inclui registry, shared-user-memory e a estrutura padrão bots/.",
+    "ru": "Постоянно бэкапит в частный Git настройки и отдельные памяти каждого Grok Bot аккаунта; включая registry, shared-user-memory и стандартную структуру bots/."
+  },
+  "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x": {
+    "zh-CN": "用 ContentDrips 把播客做成社媒金句图和轮播。粘贴一集、挑金句、丢一个模板 ID。",
+    "zh-TW": "用 ContentDrips 把 Podcast 做成社群金句圖和輪播。貼上一集、挑金句、丟一個模板 ID。",
+    "ja": "ContentDrips でポッドキャストを引用グラフィックとカルーセルに。エピソードを貼り、ナゲットを選び、テンプレート ID を入れる。",
+    "ko": "ContentDrips로 팟캐스트를 소셜 인용 그래픽과 캐러셀로 만듭니다. 에피소드를 붙이고 너겟을 고른 뒤 템플릿 ID를 넣으세요.",
+    "es": "Convierte podcasts en gráficos de citas y carruseles con ContentDrips. Pega un episodio, elige nuggets, suelta un ID de plantilla.",
+    "fr": "Transforme les podcasts en visuels de citations et carrousels avec ContentDrips. Collez un épisode, choisissez des pépites, déposez un ID de template.",
+    "de": "Macht aus Podcasts Zitatgrafiken und Karussells mit ContentDrips. Folge einfügen, Nuggets wählen, Template-ID abwerfen.",
+    "pt-BR": "Transforma podcasts em gráficos de citação e carrosséis com ContentDrips. Cole um episódio, escolha nuggets, solte um ID de template.",
+    "ru": "Делает из подкастов цитат-графику и карусели через ContentDrips. Вставьте выпуск, выберите наггеты, бросьте ID шаблона."
+  },
+  "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC": {
+    "zh-CN": "看清用量，清掉空转唤醒，让 Bot 更耐用。/ 帮你看清 Grok Bot 用量、清掉空转、把 Bot 用久一点。",
+    "zh-TW": "看清用量，清掉空轉喚醒，讓 Bot 更耐用。／幫你看清 Grok Bot 用量、清掉空轉、把 Bot 用久一點。",
+    "ja": "使用量をはっきり見せ、アイドル起動を掃除し、ボットを長持ちさせる。/ Grok Bot の使用量を見える化し、空転を消し、もっと長く使う。",
+    "ko": "사용량을 분명히 보고, 빈 깨움을 쓸고, 봇을 더 오래 쓰게 합니다. / Grok Bot 사용량을 보고 공회전을 치워 더 오래 쓰게.",
+    "es": "Ve el uso con claridad, barre despertares idle y alarga la vida de los bots. / Ayuda a ver el uso de Grok Bot, limpiar el ralentí y durar más.",
+    "fr": "Voir l’usage clairement, balayer les réveils inactifs, faire durer les bots. / Aide à voir la conso Grok Bot, nettoyer le ralenti, faire durer le bot.",
+    "de": "Nutzung klar sehen, Leerlauf-Wakes fegen, Bots länger halten. / Hilft, Grok-Bot-Verbrauch zu sehen, Leerlauf zu räumen, Bots länger zu nutzen.",
+    "pt-BR": "Veja o uso com clareza, varra acordares ociosos, faça os bots durarem mais. / Ajuda a ver o uso do Grok Bot, limpar ociosos e usar o bot por mais tempo.",
+    "ru": "Показывает расход, выметает холостые пробуждения, продлевает жизнь ботов. / Помогает видеть расход Grok Bot, убирать простой и пользоваться дольше."
   }
 }

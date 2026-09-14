@@ -5359,6 +5359,150 @@
       "twitter": "fwhittington_24",
       "share_url": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
       "scraped_at": "2026-09-13"
+    },
+    {
+      "name": "Fomo Live Bot",
+      "description": "Hourly paper-first copy of traders you already follow on FOMO. Locks size and exits with no discretion; live only when you say go live.",
+      "category": "Money",
+      "twitter": "theadvisorbtc",
+      "share_url": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Family Safety Monitor",
+      "description": "Child application-usage safety monitor — watch what kids open and how often (YouTube, Family Link, Screen Time). Not a content wiretap.",
+      "category": "Life",
+      "twitter": "KevinTweets1",
+      "share_url": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "TIDAL",
+      "description": "Universal TIDAL music bot — search, radio, favorites, and playlists for any vibe. Delivers name + link + track count.",
+      "category": "Creative",
+      "twitter": "hottubjohn",
+      "share_url": "https://x.ai/bot/iH7-gcR-McO8Eel9frMUA",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Grocery Bot",
+      "description": "Receipt-first grocery tracker. Drop a photo, PDF, or paste — logs spend, estimates perishable use-bys, nudges before food spoils.",
+      "category": "Life",
+      "twitter": "Brantley_Brum",
+      "share_url": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Unstick me",
+      "description": "Short questions that help you get going when stuck starting a task — ADHD, executive dysfunction, task paralysis.",
+      "category": "Life",
+      "twitter": "YanqingCheng",
+      "share_url": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Grant General Manager",
+      "description": "Stands up a construction or trades back office: job booking, dispatch, scheduling, plus finance and marketing help.",
+      "category": "Assistants",
+      "twitter": "HouseHackerJon",
+      "share_url": "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Gird Coach",
+      "description": "Coach for anything you practice in Gird AI — fitness, music, language, art, or study. Authors workouts and runs check-ins.",
+      "category": "Life",
+      "twitter": "ryness",
+      "share_url": "https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "About Me",
+      "description": "Personal-metrics desk that learns what matters about you — stress, joy, family, energy, decisions — and feeds short deltas to a chief-of-staff.",
+      "category": "Assistants",
+      "twitter": "TAftermath2020",
+      "share_url": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Travel Agent",
+      "description": "Plans trips and drafts bookings for approval; never pays or confirms without you.",
+      "category": "Life",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "账单进口",
+      "description": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。",
+      "category": "Money",
+      "twitter": "coolbat1999",
+      "share_url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Visa割bot",
+      "description": "Logs into Visa割 on offers-exchange, finds unused 抽選/ルーレット, and spins every unused draw automatically.",
+      "category": "Life",
+      "twitter": "countertek",
+      "share_url": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Dungeon Master",
+      "description": "Operational RPG table master for Grok Bot: enforces table law (roster, presence, clock, sheets, promotion, death).",
+      "category": "Creative",
+      "twitter": "houjimmy1",
+      "share_url": "https://x.ai/bot/35nt7fJwDslZSTKsBU0hE",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "JREキャンペーンbot",
+      "description": "Keeps Japan egress up, logs into JRE POINT / JRE ID, and entries every open campaign in the chosen areas.",
+      "category": "Life",
+      "twitter": "countertek",
+      "share_url": "https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "CTO Bot",
+      "description": "AI CTO that runs a read-only software org audit with specialized platform bots (Jira, GitHub, Figma, docs, CI/CD, testing).",
+      "category": "Engineering",
+      "twitter": "asmDevsit",
+      "share_url": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Grok Bot Directory",
+      "description": "Find public Grok bots — say what you want to do, or ask what people use these for.",
+      "category": "Assistants",
+      "twitter": "Leechael",
+      "share_url": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "记忆管家",
+      "description": "把账号下各 Grok Bot 的设定与独立记忆持续备份到私有 Git；含 registry、shared-user-memory 与 bots/ 标准仓结构。",
+      "category": "Engineering",
+      "twitter": "cgnot996",
+      "share_url": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "NuggetBot",
+      "description": "Turn podcasts into social quote graphics and carousels with ContentDrips. Paste an episode, pick nuggets, drop a template ID.",
+      "category": "Creative",
+      "twitter": "im_usamakhalid",
+      "share_url": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Sweeper / 清道夫",
+      "description": "See usage clearly, sweep idle wakes, make bots last longer. / 帮你看清 Grok Bot 用量、清掉空转、把 Bot 用久一点。",
+      "category": "Assistants",
+      "twitter": "MaiYangAI",
+      "share_url": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+      "scraped_at": "2026-09-14"
     }
   ]
 }
