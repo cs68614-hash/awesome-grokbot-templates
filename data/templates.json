@@ -5503,6 +5503,134 @@
       "twitter": "MaiYangAI",
       "share_url": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
       "scraped_at": "2026-09-14"
+    },
+    {
+      "name": "Lienzo",
+      "description": "Design-resource inbox for Grok Bot. Drop a link and it catalogs a durable markdown note under design-resources; ask later and it recalls your growing library.",
+      "category": "Creative",
+      "twitter": "FrancoE114696",
+      "share_url": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "x402 bot",
+      "description": "SolGPT / x402.life NL trading desk for Solana. Runs Jupiter, Pump, Phoenix, Backpack, and StonkFun with Solflare as the default signer; never stores private keys in chat.",
+      "category": "Money",
+      "twitter": "0rdlibrary",
+      "share_url": "https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Tin El Investigador",
+      "description": "Investigates questions on the web and your tools, and prepares daily Spanish X drafts (reflection + entertainment news + a wise psychology phrase).",
+      "category": "Research",
+      "twitter": "valengiulimor",
+      "share_url": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Commitments",
+      "description": "Catches promises you make in Slack, Notion, and email, logs them in a Notion database, and keeps them open until they're done.",
+      "category": "Assistants",
+      "twitter": "samlambert",
+      "share_url": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Grottle",
+      "description": "Grottle (gauge + throttle) — a fuel-tank for Grok Bot / Cursor Sand weekly usage. See what's left of the weekly compute bucket instead of flying blind.",
+      "category": "Engineering",
+      "twitter": "BCornTexas",
+      "share_url": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Sally",
+      "description": "Weekday-morning real-estate scout: budget, size, schools, commute; explains why a listing fits and learns from feedback.",
+      "category": "Life",
+      "twitter": "EastgoCC",
+      "share_url": "https://x.ai/bot/pRoDOS3PHZI7JE-Mn4hb6",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "E-mail Organizer",
+      "description": "Professionele Gmail-organizer: vendor-labels, lege inbox van ruis, /Payments alleen voor PDF-facturen, en een dagelijkse check die alleen echte acties opmerkt.",
+      "category": "Assistants",
+      "twitter": "leingoedbloed",
+      "share_url": "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Deck Builder",
+      "description": "Clones marketing GTM templates, picks on-brand layouts, and fills a customer deck for your review.",
+      "category": "Sales",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Skool Community Bot",
+      "description": "Helps community admins run a Skool group: members, posts, personalized follow-ups, and Q&A collation. Works through the browser — no Skool connector.",
+      "category": "Assistants",
+      "twitter": "shawnjooste",
+      "share_url": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "左左的AI情报员",
+      "description": "面向关注 AI 产品、Agent、编程与模型能力的中文用户：按固定 46 源做核验、去重与重要性评分，输出简洁中文情报日报；不凑数、不外发。",
+      "category": "Research",
+      "twitter": "zuoyou_ai",
+      "share_url": "https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "记账管家",
+      "description": "私人账本助手：收文字、小票/账单截图、录音入账，本地 CSV + 可选飞书多维表格同步；开箱会引导安装飞书 CLI 并登录授权。",
+      "category": "Money",
+      "twitter": "cgnot996",
+      "share_url": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Reply Radar",
+      "description": "Finds hot posts in your niches and drafts short replies so you can grow on X without spraying comments. You pick topics, spend limits, and how often it runs.",
+      "category": "Sales",
+      "twitter": "sam_builds_ai",
+      "share_url": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "日本語チェック",
+      "description": "上司や決裁者に渡す文章の日本語をチェックする担当。文法・表記・敬語・読みやすさを直し、意味は変えず、新規執筆や送信はしません。",
+      "category": "Assistants",
+      "twitter": "gold24k9999",
+      "share_url": "https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Quiz Historyczny",
+      "description": "Codziennie dwie zagadki historyczne: Polska + Europa (ew. USA z europejskim korzeniem). Poziom średni / średnio trudny — do myślenia, nie do wkuwania dat.",
+      "category": "Life",
+      "twitter": "vxel",
+      "share_url": "https://x.ai/bot/D5A4QbXMACLWWokY4r3i4",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "Nessie",
+      "description": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor, wage ladder, Treasury ops, honest pay-fors, and kitchen-table explainers.",
+      "category": "Research",
+      "twitter": "AlecSnelling",
+      "share_url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+      "scraped_at": "2026-09-15"
+    },
+    {
+      "name": "X Writer",
+      "description": "Learn any X account's writing style, then draft tweets, edits, and long-form posts in that voice.",
+      "category": "Creative",
+      "twitter": "starzq",
+      "share_url": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+      "scraped_at": "2026-09-15"
     }
   ]
 }

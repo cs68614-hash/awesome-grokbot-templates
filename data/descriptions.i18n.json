@@ -7566,5 +7566,181 @@
     "de": "Nutzung klar sehen, Leerlauf-Wakes fegen, Bots länger halten. / Hilft, Grok-Bot-Verbrauch zu sehen, Leerlauf zu räumen, Bots länger zu nutzen.",
     "pt-BR": "Veja o uso com clareza, varra acordares ociosos, faça os bots durarem mais. / Ajuda a ver o uso do Grok Bot, limpar ociosos e usar o bot por mais tempo.",
     "ru": "Показывает расход, выметает холостые пробуждения, продлевает жизнь ботов. / Помогает видеть расход Grok Bot, убирать простой и пользоваться дольше."
+  },
+  "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp": {
+    "zh-CN": "Grok Bot 的设计资源收件箱。丢一个链接，它就在 design-resources 下存成持久的 markdown 笔记；之后问起，能从不断增长的资料库里召回。",
+    "zh-TW": "Grok Bot 的設計資源收件匣。丟一個連結，它就在 design-resources 下存成持久的 markdown 筆記；之後問起，能從不斷增長的資料庫裡召回。",
+    "ja": "Grok Bot 向けデザイン資料の受信箱。リンクを渡すと design-resources 配下に耐久のある markdown メモとして整理。後で聞けば、育っていくライブラリから思い出します。",
+    "ko": "Grok Bot용 디자인 자료 수신함. 링크를 넣으면 design-resources 아래 지속되는 마크다운 노트로 정리하고, 나중에 물으면 커지는 라이브러리에서 꺼내줍니다.",
+    "es": "Bandeja de recursos de diseño para Grok Bot. Suelta un enlace y lo cataloga como nota markdown duradera en design-resources; pregúntale después y recupera tu biblioteca creciente.",
+    "fr": "Boîte de ressources design pour Grok Bot. Déposez un lien, il le classe en note markdown durable sous design-resources ; redemandez plus tard, il retrouve votre bibliothèque grandissante.",
+    "de": "Design-Ressourcen-Posteingang für Grok Bot. Link einwerfen — er katalogisiert eine dauerhafte Markdown-Notiz unter design-resources; später nachfragen, und er holt aus der wachsenden Bibliothek.",
+    "pt-BR": "Caixa de recursos de design para Grok Bot. Solte um link e ele cataloga uma nota markdown durável em design-resources; pergunte depois e ele recupera sua biblioteca crescente.",
+    "ru": "Входящие дизайн-ресурсов для Grok Bot. Бросьте ссылку — он кладёт устойчивую markdown-заметку в design-resources; спросите позже — достанет из растущей библиотеки."
+  },
+  "https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg": {
+    "zh-CN": "SolGPT / x402.life 的 Solana 自然语言交易台。跑 Jupiter、Pump、Phoenix、Backpack 和 StonkFun，默认用 Solflare 签名；从不把私钥存在聊天里。",
+    "zh-TW": "SolGPT / x402.life 的 Solana 自然語言交易台。跑 Jupiter、Pump、Phoenix、Backpack 和 StonkFun，預設用 Solflare 簽名；從不把私鑰存在聊天裡。",
+    "ja": "SolGPT / x402.life の Solana 自然言語取引デスク。Jupiter、Pump、Phoenix、Backpack、StonkFun を動かし、既定の署名は Solflare。秘密鍵をチャットに保存しません。",
+    "ko": "SolGPT / x402.life의 솔라나 자연어 트레이딩 데스크. Jupiter, Pump, Phoenix, Backpack, StonkFun을 돌리고 기본 서명자는 Solflare; 비공개 키를 채팅에 저장하지 않습니다.",
+    "es": "Mesa de trading NL de SolGPT / x402.life para Solana. Ejecuta Jupiter, Pump, Phoenix, Backpack y StonkFun con Solflare como firmante por defecto; nunca guarda claves privadas en el chat.",
+    "fr": "Desk de trading NL SolGPT / x402.life pour Solana. Lance Jupiter, Pump, Phoenix, Backpack et StonkFun avec Solflare comme signataire par défaut ; ne stocke jamais les clés privées dans le chat.",
+    "de": "SolGPT-/x402.life-NL-Handelsdesk für Solana. Fährt Jupiter, Pump, Phoenix, Backpack und StonkFun mit Solflare als Standard-Signer; speichert nie Private Keys im Chat.",
+    "pt-BR": "Mesa de trading NL SolGPT / x402.life para Solana. Roda Jupiter, Pump, Phoenix, Backpack e StonkFun com Solflare como signatário padrão; nunca guarda chaves privadas no chat.",
+    "ru": "NL-торговый стол SolGPT / x402.life для Solana. Запускает Jupiter, Pump, Phoenix, Backpack и StonkFun; подпись по умолчанию — Solflare; приватные ключи в чат не кладёт."
+  },
+  "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd": {
+    "zh-CN": "用网页和你的工具调查问题，并准备每日西班牙语 X 草稿（反思 + 娱乐新闻 + 一句心理学智语）。",
+    "zh-TW": "用網頁和你的工具調查問題，並準備每日西班牙語 X 草稿（反思 + 娛樂新聞 + 一句心理學智語）。",
+    "ja": "Web と手元のツールで問いを調べ、毎日のスペイン語 X 下書き（内省 + エンタメニュース + 心理学の一句）を用意します。",
+    "ko": "웹과 당신의 도구로 질문을 조사하고, 매일 스페인어 X 초안(성찰 + 엔터 뉴스 + 심리학 한 구절)을 준비합니다.",
+    "es": "Investiga preguntas en la web y tus herramientas, y prepara borradores diarios en X en español (reflexión + noticias de ocio + una frase sabia de psicología).",
+    "fr": "Enquête sur le web et vos outils, et prépare des brouillons X quotidiens en espagnol (réflexion + actu divertissement + une phrase de psychologie).",
+    "de": "Recherchiert Fragen im Web und in deinen Tools und bereitet tägliche spanische X-Entwürfe vor (Reflexion + Unterhaltungsnews + ein kluger Psychologie-Satz).",
+    "pt-BR": "Investiga perguntas na web e nas suas ferramentas, e prepara rascunhos diários em espanhol no X (reflexão + notícias de entretenimento + uma frase sábia de psicologia).",
+    "ru": "Исследует вопросы в вебе и ваших инструментах и готовит ежедневные испанские черновики для X (размышление + развлекательные новости + мудрая психологическая фраза)."
+  },
+  "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn": {
+    "zh-CN": "抓住你在 Slack、Notion 和邮件里许下的承诺，记入 Notion 数据库，未完成就一直保持打开。",
+    "zh-TW": "抓住你在 Slack、Notion 和郵件裡許下的承諾，記入 Notion 資料庫，未完成就一直保持開啟。",
+    "ja": "Slack、Notion、メールで交わした約束を拾い、Notion データベースに記録し、終わるまで開いたままにします。",
+    "ko": "Slack, Notion, 이메일에서 한 약속을 잡아 Notion 데이터베이스에 기록하고, 끝날 때까지 열어 둡니다.",
+    "es": "Captura las promesas que haces en Slack, Notion y el correo, las registra en una base Notion y las deja abiertas hasta que estén hechas.",
+    "fr": "Attrape les promesses faites dans Slack, Notion et l’e-mail, les consigne dans une base Notion et les laisse ouvertes jusqu’à ce qu’elles soient faites.",
+    "de": "Fängt Zusagen in Slack, Notion und E-Mail, legt sie in einer Notion-Datenbank ab und hält sie offen, bis sie erledigt sind.",
+    "pt-BR": "Captura promessas que você faz no Slack, Notion e e-mail, registra numa base Notion e as mantém abertas até concluídas.",
+    "ru": "Ловит обещания из Slack, Notion и почты, пишет их в базу Notion и держит открытыми, пока не сделаны."
+  },
+  "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L": {
+    "zh-CN": "Grottle（gauge + throttle）—— Grok Bot / Cursor Sand 每周用量的油箱。看清每周算力桶还剩多少，而不是盲飞。",
+    "zh-TW": "Grottle（gauge + throttle）—— Grok Bot / Cursor Sand 每週用量的油箱。看清每週算力桶還剩多少，而不是盲飛。",
+    "ja": "Grottle（gauge + throttle）— Grok Bot / Cursor Sand の週次使用量燃料タンク。週次コンピュート枠の残りが見え、勘で飛ばなくて済む。",
+    "ko": "Grottle(gauge + throttle) — Grok Bot / Cursor Sand 주간 사용량의 연료통. 주간 컴퓨트 버킷이 얼마나 남았는지 보고 눈감고 날지 않습니다.",
+    "es": "Grottle (gauge + throttle) — un depósito de combustible para el uso semanal de Grok Bot / Cursor Sand. Ve cuánto queda del cubo semanal de cómputo en vez de volar a ciegas.",
+    "fr": "Grottle (gauge + throttle) — un réservoir pour l’usage hebdomadaire Grok Bot / Cursor Sand. Voyez ce qui reste du seau de compute de la semaine au lieu de voler à l’aveugle.",
+    "de": "Grottle (gauge + throttle) — Tank für den wöchentlichen Verbrauch von Grok Bot / Cursor Sand. Sieht, was vom Wochen-Compute-Bucket übrig ist, statt blind zu fliegen.",
+    "pt-BR": "Grottle (gauge + throttle) — um tanque de combustível para o uso semanal de Grok Bot / Cursor Sand. Veja o que resta do balde semanal de compute em vez de voar no escuro.",
+    "ru": "Grottle (gauge + throttle) — бак недельного расхода Grok Bot / Cursor Sand. Показывает, сколько осталось в недельном compute-ведре, вместо слепого полёта."
+  },
+  "https://x.ai/bot/pRoDOS3PHZI7JE-Mn4hb6": {
+    "zh-CN": "工作日早晨的房产侦察：预算、面积、学校、通勤；解释房源为何合适，并从反馈中学习。",
+    "zh-TW": "工作日早晨的房產偵察：預算、面積、學校、通勤；解釋房源為何合適，並從回饋中學習。",
+    "ja": "平日朝の不動産スカウト。予算、広さ、学校、通勤。なぜその物件が合うかを説明し、フィードバックから学びます。",
+    "ko": "평일 아침 부동산 정찰: 예산, 크기, 학교, 출퇴근. 매물이 왜 맞는지 설명하고 피드백에서 배웁니다.",
+    "es": "Explorador inmobiliario de mañanas entre semana: presupuesto, tamaño, colegios, trayecto; explica por qué encaja un anuncio y aprende del feedback.",
+    "fr": "Éclaireur immo du matin en semaine : budget, taille, écoles, trajet ; explique pourquoi une annonce convient et apprend du retour.",
+    "de": "Werktags-Morgen-Immobilienscout: Budget, Größe, Schulen, Pendeln; erklärt, warum ein Inserat passt, und lernt aus Feedback.",
+    "pt-BR": "Batedor imobiliário nas manhãs de dia útil: orçamento, tamanho, escolas, deslocamento; explica por que um anúncio cabe e aprende com o feedback.",
+    "ru": "Утренний разведчик недвижимости по будням: бюджет, площадь, школы, дорога; объясняет, почему объект подходит, и учится на отзывах."
+  },
+  "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd": {
+    "zh-CN": "专业 Gmail 整理员：供应商标签、清空收件箱噪音、/Payments 只收 PDF 发票，以及只标出真正待办的每日检查。",
+    "zh-TW": "專業 Gmail 整理員：供應商標籤、清空收件匣雜訊、/Payments 只收 PDF 發票，以及只標出真正待辦的每日檢查。",
+    "ja": "プロ向け Gmail オーガナイザー。ベンダーラベル、ノイズのない受信箱、PDF 請求書だけの /Payments、本当のアクションだけを拾う毎日のチェック。",
+    "ko": "전문 Gmail 정리기: 벤더 라벨, 소음 없는 받은편지함, PDF 청구서만 받는 /Payments, 진짜 할 일만 짚는 일일 점검.",
+    "es": "Organizador profesional de Gmail: etiquetas de proveedores, bandeja limpia de ruido, /Payments solo para facturas PDF, y un chequeo diario que solo marca acciones reales.",
+    "fr": "Organisateur Gmail pro : labels fournisseurs, boîte vidée du bruit, /Payments uniquement pour factures PDF, et un contrôle quotidien qui ne relève que les vraies actions.",
+    "de": "Professioneller Gmail-Organizer: Vendor-Labels, leerer Posteingang ohne Rauschen, /Payments nur für PDF-Rechnungen, und ein täglicher Check, der nur echte Aktionen merkt.",
+    "pt-BR": "Organizador profissional do Gmail: labels de fornecedores, caixa vazia de ruído, /Payments só para faturas PDF, e um check diário que só marca ações de verdade.",
+    "ru": "Профессиональный организатор Gmail: метки поставщиков, чистый от шума инбокс, /Payments только для PDF-счетов и ежедневная проверка, которая ловит лишь настоящие действия."
+  },
+  "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC": {
+    "zh-CN": "克隆营销 GTM 模板，挑选符合品牌的版式，填好客户演示文稿供你审阅。",
+    "zh-TW": "複製行銷 GTM 模板，挑選符合品牌的版式，填好客戶簡報供你審閱。",
+    "ja": "マーケティング GTM テンプレートを複製し、ブランドに合うレイアウトを選び、レビュー用の顧客デッキを埋める。",
+    "ko": "마케팅 GTM 템플릿을 복제하고 브랜드에 맞는 레이아웃을 골라 검토용 고객 덱을 채웁니다.",
+    "es": "Clona plantillas de marketing GTM, elige layouts on-brand y rellena un deck de cliente para tu revisión.",
+    "fr": "Clone des templates marketing GTM, choisit des mises en page on-brand et remplit un deck client pour votre relecture.",
+    "de": "Klont Marketing-GTM-Vorlagen, wählt on-brand Layouts und füllt ein Kunden-Deck zur Prüfung.",
+    "pt-BR": "Clona templates de marketing GTM, escolhe layouts on-brand e preenche um deck de cliente para sua revisão.",
+    "ru": "Клонирует маркетинговые GTM-шаблоны, выбирает on-brand раскладки и заполняет клиентскую колоду на ревью."
+  },
+  "https://x.ai/bot/k52i6aFytc3an6PabakvN": {
+    "zh-CN": "帮社区管理员运营 Skool 群组：成员、帖子、个性化跟进和问答汇总。走浏览器，无需 Skool 连接器。",
+    "zh-TW": "幫社群管理員營運 Skool 群組：成員、貼文、個人化追蹤和問答彙整。走瀏覽器，無需 Skool 連接器。",
+    "ja": "Skool グループ運営を手伝う。メンバー、投稿、個別フォロー、Q&A 整理。ブラウザ経由で動き、Skool コネクタは不要。",
+    "ko": "커뮤니티 관리자가 Skool 그룹을 운영하도록 돕습니다. 멤버, 게시글, 맞춤 후속, Q&A 정리. 브라우저로 동작하며 Skool 커넥터는 없습니다.",
+    "es": "Ayuda a admins de comunidad a llevar un grupo Skool: miembros, posts, seguimientos personalizados y recopilación de Q&A. Funciona por el navegador — sin conector Skool.",
+    "fr": "Aide les admins communauté à tenir un groupe Skool : membres, posts, relances perso et collation de Q&R. Passe par le navigateur — pas de connecteur Skool.",
+    "de": "Hilft Community-Admins, eine Skool-Gruppe zu führen: Mitglieder, Posts, personalisierte Follow-ups und Q&A-Sammlung. Läuft über den Browser — kein Skool-Connector.",
+    "pt-BR": "Ajuda admins de comunidade a tocar um grupo Skool: membros, posts, follow-ups personalizados e colação de Q&A. Funciona pelo navegador — sem conector Skool.",
+    "ru": "Помогает админам сообщества вести группу Skool: участники, посты, персональные фоллоу-апы и сводка Q&A. Работает через браузер — без коннектора Skool."
+  },
+  "https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt": {
+    "zh-CN": "面向关注 AI 产品、Agent、编程与模型能力的中文用户：按固定 46 源做核验、去重与重要性评分，输出简洁中文情报日报；不凑数、不外发。",
+    "zh-TW": "面向關注 AI 產品、Agent、程式與模型能力的中文用戶：按固定 46 源做核驗、去重與重要性評分，輸出簡潔中文情報日報；不湊數、不外發。",
+    "ja": "AI 製品・エージェント・プログラミング・モデル能力を追う中国語ユーザー向け。固定 46 ソースで検証・重複排除・重要度採点し、簡潔な中国語インテリジェンス日報を出す。水増しなし、外部送信なし。",
+    "ko": "AI 제품·에이전트·프로그래밍·모델 능력을 보는 중문 사용자용. 고정 46개 소스로 검증·중복 제거·중요도 채점 후 간결한 중문 정보 일보를 냅니다. 채우지 않고, 밖으로 보내지 않습니다.",
+    "es": "Para usuarios en chino que siguen productos de IA, agentes, programación y capacidades de modelos: verifica, deduplica y puntúa 46 fuentes fijas, y emite un briefing chino conciso; sin relleno ni envíos externos.",
+    "fr": "Pour lecteurs chinois qui suivent produits IA, agents, programmation et capacités de modèles : vérifie, déduplique et note 46 sources fixes, et sort un briefing chinois concis ; pas de remplissage ni d’envoi externe.",
+    "de": "Für chinesischsprachige Nutzer zu KI-Produkten, Agenten, Programmierung und Modellfähigkeiten: prüft, entdoppelt und bewertet 46 feste Quellen und liefert ein knappes chinesisches Intelligence-Briefing; kein Füllstoff, kein Versand nach außen.",
+    "pt-BR": "Para leitores em chinês que acompanham produtos de IA, agents, programação e capacidades de modelos: verifica, deduplica e pontua 46 fontes fixas e emite um briefing chinês conciso; sem enchimento nem envio externo.",
+    "ru": "Для китаеязычных читателей про AI-продукты, агентов, программирование и модели: проверяет, дедуплицирует и оценивает 46 фиксированных источников и выдаёт краткий китайский разведсвод; без воды и без рассылки наружу."
+  },
+  "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE": {
+    "zh-CN": "私人账本助手：收文字、小票/账单截图、录音入账，本地 CSV + 可选飞书多维表格同步；开箱会引导安装飞书 CLI 并登录授权。",
+    "zh-TW": "私人帳簿助手：收文字、小票／帳單截圖、錄音入帳，本地 CSV + 可選飛書多維表格同步；開箱會引導安裝飛書 CLI 並登入授權。",
+    "ja": "個人帳簿アシスタント。テキスト、レシート／請求書スクショ、音声で記帳。ローカル CSV ＋任意の Feishu 多次元表同期。初回は Feishu CLI の導入とログイン認可を案内。",
+    "ko": "개인 장부 도우미. 텍스트, 영수증/청구서 스크린샷, 녹음으로 기장. 로컬 CSV + 선택적 페이슈 다차원 표 동기화. 첫 실행은 페이슈 CLI 설치와 로그인 권한을 안내합니다.",
+    "es": "Asistente de libro personal: entra texto, capturas de tickets/facturas y audio; CSV local + sync opcional a tabla Feishu; al arrancar guía a instalar el CLI de Feishu e iniciar sesión.",
+    "fr": "Assistant de grand livre perso : texte, captures de tickets/factures et audio ; CSV local + sync optionnelle Feishu ; au démarrage, guide l’install du CLI Feishu et la connexion.",
+    "de": "Privates Haushaltsbuch: Text, Beleg-/Rechnungs-Screenshots und Audio buchen; lokales CSV + optionale Feishu-Tabelle; beim Start Anleitung zu Feishu-CLI-Install und Login.",
+    "pt-BR": "Assistente de livro-caixa pessoal: texto, prints de recibos/contas e áudio; CSV local + sync opcional com tabela Feishu; na abertura guia a instalar o CLI Feishu e autorizar o login.",
+    "ru": "Личный бухгалтер: текст, скрины чеков/счетов и голос в учёт; локальный CSV + опциональная синхронизация с таблицей Feishu; при старте проводит установку Feishu CLI и вход."
+  },
+  "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc": {
+    "zh-CN": "在你的细分领域找热帖并起草短回复，让你在 X 上增长而不狂喷评论。你来定话题、花费上限和运行频率。",
+    "zh-TW": "在你的細分領域找熱帖並起草短回覆，讓你在 X 上成長而不狂噴留言。你來定話題、花費上限和執行頻率。",
+    "ja": "ニッチのホット投稿を探し、短い返信下書きを作る。コメントを撒き散らさず X で伸ばす。トピック、支出上限、実行頻度はあなたが決める。",
+    "ko": "니치의 핫 게시물을 찾아 짧은 답글 초안을 씁니다. 댓글을 뿌리지 않고 X에서 성장하세요. 주제, 지출 한도, 실행 빈도는 당신이 고릅니다.",
+    "es": "Encuentra posts calientes en tus nichos y redacta respuestas cortas para crecer en X sin disparar comentarios. Tú eliges temas, límites de gasto y frecuencia.",
+    "fr": "Trouve les posts chauds de vos niches et rédige de courtes réponses pour grandir sur X sans mitrailler. Vous choisissez sujets, plafonds de dépense et fréquence.",
+    "de": "Findet heiße Posts in deinen Nischen und entwirft kurze Replies, damit du auf X wächst ohne Kommentare zu sprühen. Du wählst Themen, Ausgabelimits und Takt.",
+    "pt-BR": "Acha posts quentes nos seus nichos e rascunha respostas curtas para crescer no X sem pulverizar comentários. Você escolhe temas, limites de gasto e frequência.",
+    "ru": "Ищет горячие посты в ваших нишах и черновит короткие ответы, чтобы расти в X без спама комментариев. Темы, лимиты трат и частоту задаёте вы."
+  },
+  "https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT": {
+    "zh-CN": "给上司或决策者看的日语文稿校对员。改语法、用字、敬语和可读性，不改含义，不新写、不发送。",
+    "zh-TW": "給上司或決策者看的日文文稿校對員。改文法、用字、敬語和可讀性，不改含義，不新寫、不寄出。",
+    "ja": "上司や決裁者に渡す文章の日本語をチェックする担当。文法・表記・敬語・読みやすさを直し、意味は変えず、新規執筆や送信はしません。",
+    "ko": "상사나 결재자에게 넘길 글의 일본어를 점검하는 담당. 문법·표기·경어·가독성을 고치고 뜻은 바꾸지 않으며, 새로 쓰거나 보내지는 않습니다.",
+    "es": "Revisor de japonés para textos que van a un jefe o decisor. Corrige gramática, ortografía, keigo y legibilidad; no cambia el sentido; no escribe de nuevo ni envía.",
+    "fr": "Contrôleur de japonais pour textes destinés à un supérieur ou décideur. Corrige grammaire, graphie, keigo et lisibilité ; ne change pas le sens ; n’écrit ni n’envoie rien de neuf.",
+    "de": "Japanisch-Prüfer für Texte an Vorgesetzte oder Entscheider. Korrigiert Grammatik, Schreibung, Keigo und Lesbarkeit; ändert den Sinn nicht; schreibt und sendet nichts Neues.",
+    "pt-BR": "Revisor de japonês para textos que vão a um chefe ou decisor. Corrige gramática, grafia, keigo e legibilidade; não muda o sentido; não escreve nem envia nada novo.",
+    "ru": "Проверяет японский текстов для начальства и лиц, принимающих решения. Правит грамматику, написание, кэйго и читаемость; смысл не меняет; сам не пишет и не отправляет."
+  },
+  "https://x.ai/bot/D5A4QbXMACLWWokY4r3i4": {
+    "zh-CN": "每天两道历史谜题：波兰 + 欧洲（或带欧洲根的美国）。中等 / 中偏难——用来想，不是背日期。",
+    "zh-TW": "每天兩道歷史謎題：波蘭 + 歐洲（或帶歐洲根的美國）。中等／中偏難——用來想，不是背日期。",
+    "ja": "毎日ふたつの歴史クイズ：ポーランド＋ヨーロッパ（または欧州ルーツの米国）。中級／やや難。暗記ではなく考えるためのもの。",
+    "ko": "매일 역사 수수께끼 두 개: 폴란드 + 유럽(또는 유럽 뿌리를 둔 미국). 중급 / 중상 — 날짜 암기가 아니라 생각용.",
+    "es": "Cada día dos acertijos históricos: Polonia + Europa (o EE. UU. con raíz europea). Nivel medio / medio-alto — para pensar, no para memorizar fechas.",
+    "fr": "Chaque jour deux énigmes historiques : Pologne + Europe (ou USA à racine européenne). Niveau moyen / assez dur — pour réfléchir, pas pour bachoter des dates.",
+    "de": "Täglich zwei Geschichtsrätsel: Polen + Europa (ggf. USA mit europäischer Wurzel). Mittel / mittel-schwer — zum Nachdenken, nicht zum Auswendiglernen von Daten.",
+    "pt-BR": "Todo dia dois enigmas históricos: Polônia + Europa (ou EUA com raiz europeia). Nível médio / médio-difícil — para pensar, não para decorar datas.",
+    "ru": "Каждый день две исторические загадки: Польша + Европа (или США с европейским корнем). Средний / средне-сложный уровень — чтобы думать, не зубрить даты."
+  },
+  "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_": {
+    "zh-CN": "美国全民分红 + 主权财富方案的设计搭档：锁定 500 美元下限、工资阶梯、财政部运作、诚实的资金来源，以及厨房桌上能讲清的说明。",
+    "zh-TW": "美國全民分紅 + 主權財富方案的設計搭檔：鎖定 500 美元下限、工資階梯、財政部運作、誠實的資金來源，以及廚房桌上能講清的說明。",
+    "ja": "米国市民配当＋ソブリンウェルス案のデザインパートナー。500 ドル下限固定、賃金ラダー、財務省オペ、正直な財源、食卓で話せる説明。",
+    "ko": "미국 시민 배당 + 국부펀드 패키지의 설계 파트너. 잠긴 500달러 하한, 임금 사다리, 재무부 운영, 정직한 재원, 식탁에서 설명할 수 있는 설명.",
+    "es": "Socio de diseño para un paquete de dividendo ciudadano de EE. UU. + riqueza soberana: suelo de 500 $ bloqueado, escalera salarial, ops del Tesoro, financiaciones honestas y explicaciones de mesa de cocina.",
+    "fr": "Partenaire de conception pour un paquet dividende citoyen US + richesse souveraine : plancher 500 $ verrouillé, échelle salariale, ops du Trésor, financements honnêtes et explications de table de cuisine.",
+    "de": "Designpartner für ein US-Bürgerdividenden- plus Staatsvermögenspaket: festgelegte 500-$-Untergrenze, Lohnleiter, Treasury-Ops, ehrliche Gegenfinanzierung und Küchentisch-Erklärungen.",
+    "pt-BR": "Parceiro de desenho para um pacote de dividendo cidadão dos EUA + riqueza soberana: piso de US$ 500 travado, escada salarial, ops do Tesouro, fontes honestas e explicações de mesa de cozinha.",
+    "ru": "Партнёр по дизайну пакета гражданских дивидендов США + суверенного фонда: зафиксированный пол $500, лестница зарплат, операции Казначейства, честные источники и объяснения для кухонного стола."
+  },
+  "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we": {
+    "zh-CN": "学习任意 X 账号的文风，再以那种声音起草推文、改稿和长文。",
+    "zh-TW": "學習任意 X 帳號的文風，再以那種聲音起草推文、改稿和長文。",
+    "ja": "任意の X アカウントの文体を学び、その声でツイート、修正、長文を下書きする。",
+    "ko": "아무 X 계정의 문체를 배운 뒤 그 목소리로 트윗, 수정, 장문을 초안합니다.",
+    "es": "Aprende el estilo de escritura de cualquier cuenta de X y luego redacta tuits, ediciones y textos largos con esa voz.",
+    "fr": "Apprend le style d’écriture de n’importe quel compte X, puis rédige tweets, réécritures et longs posts dans cette voix.",
+    "de": "Lernt den Schreibstil eines beliebigen X-Kontos und entwirft Tweets, Edits und Longform in dieser Stimme.",
+    "pt-BR": "Aprende o estilo de escrita de qualquer conta no X e rascunha tweets, edições e posts longos nessa voz.",
+    "ru": "Учится стилю любого аккаунта X и черновит твиты, правки и лонгриды этим голосом."
   }
 }
