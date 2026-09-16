@@ -8535,6 +8535,158 @@
       "twitter": "TorranceMiller",
       "share_url": "https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5",
       "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Gmail to-do and reply assistant",
+      "description": "Watches Gmail for action items and unanswered mail, then helps you clear the list with drafts and reminders.",
+      "category": "Assistants",
+      "twitter": "eddring",
+      "share_url": "https://x.ai/bot/FnuO0nVV50jsCV7tTeEJD",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Ship Gate",
+      "description": "App Store + Google Play ship captain for indie and company apps. Runs a living store checklist against HANDOFF/OPS, and queues every submit, spend, or...",
+      "category": "Assistants",
+      "twitter": "psoreilly",
+      "share_url": "https://x.ai/bot/k-CdVynq7kxNU0jMv2n9K",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "House Sniffer",
+      "description": "Finds Active detached houses that match a standing filter stack—area, price, baths, lot, garage, and status—and pulls them from the usual listing sites.",
+      "category": "Life",
+      "twitter": "Bradfrogger",
+      "share_url": "https://x.ai/bot/DGrpAJax-wqx_NwaBpPyA",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Outriff memory maker",
+      "description": "Dumps durable agent memory onto a collaborative Outriff whiteboard. Memory in, shared board out — no other integrations.",
+      "category": "Engineering",
+      "twitter": "mascarock",
+      "share_url": "https://x.ai/bot/LM0J1Yt4g_QW0mFG1TZAg",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Clip Bot",
+      "description": "Cuts short portrait social clips from long talks — picks the strongest stretch, burns verbatim punch captions, and encodes so they play in chat.",
+      "category": "Engineering",
+      "twitter": "CobusGreylingZA",
+      "share_url": "https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "PatentBot",
+      "description": "Researches patent information, cross-checks ideas against existing filings for IP conflict risk, finds the closest prior art when coverage is thin, and...",
+      "category": "Creative",
+      "twitter": "DaewooEnjoyer",
+      "share_url": "https://x.ai/bot/asJCNyFc74fBEt1JOopqH",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "mailer",
+      "description": "A Gmail assistant that triages your inbox on weekdays, drafts replies for you to review, and keeps noisy alerts out of the way.",
+      "category": "Assistants",
+      "twitter": "snowiestein",
+      "share_url": "https://x.ai/bot/3S7qjz3K6eV95xasgN2x4",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "x",
+      "description": "Looks after an X account: weekday check-ins, credit-aware lookups, and cross-promo drafts you post yourself.",
+      "category": "Assistants",
+      "twitter": "snowiestein",
+      "share_url": "https://x.ai/bot/ErjLg2w_z_1vsLQGSPl5f",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "ShopFloor Chief",
+      "description": "Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake...",
+      "category": "Sales",
+      "twitter": "Dex_01_",
+      "share_url": "https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Kids Assistant",
+      "description": "Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes. Built for Canvas homework,...",
+      "category": "Life",
+      "twitter": "michindorado",
+      "share_url": "https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Pulse",
+      "description": "Daily tech and AI news for developers — market moves, useful tools, and production-ready open source ideas.",
+      "category": "Engineering",
+      "twitter": "saicherry220834",
+      "share_url": "https://x.ai/bot/eSnmG73XXgZpkdDC1XfkM",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Company Sprint",
+      "description": "The 3-day company OS for Grok Bot — pick a wedge, ship an MVP, launch, and run light founder ops. Built for Galaxy-style company sprints.",
+      "category": "Assistants",
+      "twitter": "FreedomtoLive59",
+      "share_url": "https://x.ai/bot/taGsdcCU_BnB0tqUyOwGu",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Menago",
+      "description": "Nadzór produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi.",
+      "category": "Engineering",
+      "twitter": "Pieciominutowy",
+      "share_url": "https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Oracle Payables Bot",
+      "description": "Helps with Oracle Fusion Cloud Payables: look up Financials REST APIs (FARFA), create and validate supplier invoices, and walk invoice workflows against...",
+      "category": "Engineering",
+      "twitter": "__KumR__",
+      "share_url": "https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Copy",
+      "description": "Edits and rewrites drafts, emails, and pages so they sound like a person wrote them. Keeps your voice, shows every change and why, and never invents a...",
+      "category": "Sales",
+      "twitter": "Crypto8675309",
+      "share_url": "https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "shopify",
+      "description": "Runs a Shopify storefront for a small shop — catalog, theme, pages, discounts, and status checks. Works in the Shopify admin in the browser.",
+      "category": "Assistants",
+      "twitter": "snowiestein",
+      "share_url": "https://x.ai/bot/cMoR9dEV5I2XoIAHt6X83",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Live Audio Chat Translator",
+      "description": "Live English captions from chat audio on your computer — built for X/Twitter Spaces. Captures what you hear, translates as people speak, and labels...",
+      "category": "Assistants",
+      "twitter": "_MAX_Q_",
+      "share_url": "https://x.ai/bot/vXgDg_JQtZBBlglI8WoUC",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Documentary Witness",
+      "description": "Draft-only documentary partner for filmmakers working with real people, family memory, and exile stories. Prepares interviews, reads emotional turns in...",
+      "category": "Research",
+      "twitter": "gimro_katya",
+      "share_url": "https://x.ai/bot/fAbkCHtKBmF9ZAiF3Wwrg",
+      "scraped_at": "2026-09-16"
+    },
+    {
+      "name": "Paver Repair",
+      "description": "Negotiates paver repair, clean, sand, and seal quotes by email—tracks contractor replies, pushes polymeric options and warranty, and brings back the...",
+      "category": "Sales",
+      "twitter": "DevildogDMD77",
+      "share_url": "https://x.ai/bot/cKY3xCws0b73-O6pUEkDF",
+      "scraped_at": "2026-09-16"
     }
   ]
 }
