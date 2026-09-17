@@ -9943,6 +9943,294 @@
       "twitter": "fireitup365",
       "share_url": "https://x.ai/bot/GM_1Lh44jlHxEcT148pXg",
       "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "Meeting prep, inbox drafts, coordinates other bots without babysitting",
+      "category": "Assistants",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/C85nxPOO-d7BjJJ5blGk4",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Email Bot",
+      "description": "Turns inbox threads into action lists and drafts; never sends until approve",
+      "category": "Assistants",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/RiqLdJ0BipnpJEjzadgy_",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Gmail Bot",
+      "description": "Weekday morning unread digests, drafts in your voice, triage labels/trash",
+      "category": "Assistants",
+      "twitter": "aseemwangoo",
+      "share_url": "https://x.ai/bot/4Kert6xnfaArPgZmyJi5M",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Home Org",
+      "description": "Photo-based home organization coach; clear one zone at a time",
+      "category": "Assistants",
+      "twitter": "Diggit43",
+      "share_url": "https://x.ai/bot/BtGJm4Svym2EpO4yAFfbs",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Job Scout",
+      "description": "Finds job openings across LinkedIn, X, and career pages via Firecrawl/Convex",
+      "category": "Assistants",
+      "twitter": "AHadzibabic",
+      "share_url": "https://x.ai/bot/ULxKLXULUm0Fg8ZCbHHyt",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Operations Manager",
+      "description": "Ops Manager front door for a small-business bot team",
+      "category": "Assistants",
+      "twitter": "green_tuff",
+      "share_url": "https://x.ai/bot/qQ0fMeAgyYvPV8jAPmVw_",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Optima",
+      "description": "Leftover-rules cleaner for Grok Bots; owns Forgetting",
+      "category": "Assistants",
+      "twitter": "TOATspace",
+      "share_url": "https://x.ai/bot/bCbTllH-w87rHpu3avg5Y",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Scout",
+      "description": "Scout seat in Ben’s living bot team (Galaxy Challenge set)",
+      "category": "Assistants",
+      "twitter": "BinLeenk",
+      "share_url": "https://x.ai/bot/LQS0iGR1ZlFTksuUjPqZX",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Steward",
+      "description": "Attention guardian and coherence keeper for a small living bot team",
+      "category": "Assistants",
+      "twitter": "BinLeenk",
+      "share_url": "https://x.ai/bot/CKWQH2JqcsgYXN6uhCR5I",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Structure",
+      "description": "Structure seat in Ben’s living bot team (Galaxy Challenge set)",
+      "category": "Assistants",
+      "twitter": "BinLeenk",
+      "share_url": "https://x.ai/bot/Ft6PXN7eTwVVsC-gVPEHW",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Synthesizer",
+      "description": "Reflection partner; maps complex material into how-you-serve articulations",
+      "category": "Assistants",
+      "twitter": "BinLeenk",
+      "share_url": "https://x.ai/bot/-FSiZDOogRKS95ErsgNa3",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Cashtag Clash Bot",
+      "description": "Turns messy $cashtag dumps into distinct equity/ETF/tokenized/perp seats",
+      "category": "Engineering",
+      "twitter": "PatNeville7",
+      "share_url": "https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "CYBERCABINSIGHT Builder",
+      "description": "Builds/runs Tesla Cybercab research site (JA/EN) with Austin/US usage brief",
+      "category": "Engineering",
+      "twitter": "bestband2016",
+      "share_url": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Data Bot",
+      "description": "Cleans form exports/spreadsheets into clear metrics digests",
+      "category": "Engineering",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/L2XnvQ2nhHBxgisZ2w-rK",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "DogTheNaughtyHunter",
+      "description": "Hunts X botnets on signed-in X; deep-walks notifications into swarm lists",
+      "category": "Engineering",
+      "twitter": "TheRetardedELon",
+      "share_url": "https://x.ai/bot/3nkH58KUSQG5S7A29rzWi",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Dr. Eggbot (Bot Designer)",
+      "description": "Designs focused Grok Bots with one clear job and tight boundaries",
+      "category": "Engineering",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/DUfaLelLJRtsDDAdJAcud",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Zoho Bot",
+      "description": "Zoho Mail unread sweep; flags spam/cold pitches; delete/reply",
+      "category": "Engineering",
+      "twitter": "aseemwangoo",
+      "share_url": "https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Bot Village Fleet",
+      "description": "Fleet for lead contact, specs, Stripe, booking, social, research",
+      "category": "Research",
+      "twitter": "asdennison",
+      "share_url": "https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Family Tracer",
+      "description": "Genealogy research teammate; sourced timeline, never invents ancestors",
+      "category": "Research",
+      "twitter": "prepperevol",
+      "share_url": "https://x.ai/bot/4uDh1KecF-pYO6BSmfjYD",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Minime",
+      "description": "Research-and-admin helper for PhD work, patent paperwork, and light multi-bot coordination",
+      "category": "Research",
+      "twitter": "Bla1333435",
+      "share_url": "https://x.ai/bot/r52weR45dfl7d4H_5Ww9g",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Research Bot",
+      "description": "Researches markets/competitors; returns cited briefs",
+      "category": "Research",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/Mm8wm2rrURkjUhAbklQ64",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Startup Sleuth",
+      "description": "Sources unusual early-stage startups for angel investors; twice-weekly shortlist",
+      "category": "Research",
+      "twitter": "FrancisPSantora",
+      "share_url": "https://x.ai/bot/DlhUriPFrGv6jTJ_H3RJx",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "LLC formation",
+      "description": "Form a US LLC or C-Corp via Whop: collect details, checkout, track docs",
+      "category": "Money",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/jjZi3um8a6oczowN3ydyE",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Prosperity",
+      "description": "Prosperity seat in Ben’s living bot team (Galaxy Challenge set)",
+      "category": "Money",
+      "twitter": "BinLeenk",
+      "share_url": "https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Sankalpa",
+      "description": "AI startup team: challenge assumptions, validate market, build, sell, operate",
+      "category": "Money",
+      "twitter": "prasad_pol50464",
+      "share_url": "https://x.ai/bot/tKZy48MlAbIo_bPuAOehm",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Icebreaker",
+      "description": "Weekday commercial seller watch for brokers; short call-list pings",
+      "category": "Sales",
+      "twitter": "Apache1999",
+      "share_url": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Landscape Ops Root",
+      "description": "Root planner for landscape design/build ops: sales, field, money, presence",
+      "category": "Sales",
+      "twitter": "GoeLandscapes",
+      "share_url": "https://x.ai/bot/sXxteYqvOtq6FMldfAVPw",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Music PR Bot",
+      "description": "Album outreach: daily pitches, drafts, CRM for radio/press",
+      "category": "Sales",
+      "twitter": "Danihakim73",
+      "share_url": "https://x.ai/bot/o2_Nqk-xSpJRDquQrSmyP",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Lead Meme Editor",
+      "description": "Runs a daily Meme Desk: trends, drafts, renders, picks winner",
+      "category": "Creative",
+      "twitter": "Noname94556341",
+      "share_url": "https://x.ai/bot/W3n0bVOUjCF8fDrUEyFGr",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Slide Bot",
+      "description": "Builds and updates customer decks from brand system and call notes",
+      "category": "Creative",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/wH4vQSge_ibrgBBtJDHbh",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "YouTube Soft-PASS Ops",
+      "description": "Private-first YouTube music publishing with DistroKid prep and proof gates",
+      "category": "Creative",
+      "twitter": "EricChez",
+      "share_url": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "AWS Re:Invent Organiser Bot",
+      "description": "Plans re:Invent around free food, swag, keynote, and daily on-site briefings",
+      "category": "Life",
+      "twitter": "j6nw8t",
+      "share_url": "https://x.ai/bot/gKLzVf2dgWtLbpN56aruo",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Continuity",
+      "description": "Life/practice field keeper for household ops and light admin",
+      "category": "Life",
+      "twitter": "BinLeenk",
+      "share_url": "https://x.ai/bot/iEP6SsaPiaP5gOj02HNXs",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Flubber",
+      "description": "Step-pet fitness buddy whose energy tracks daily movement",
+      "category": "Life",
+      "twitter": "JennaLiftsLife",
+      "share_url": "https://x.ai/bot/s8DLSqL4iSknCpXBuCtuN",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Meal Planning & Grocery Buying Bot",
+      "description": "Weekly-ad dinners, grocery list, cart load with spend confirm",
+      "category": "Life",
+      "twitter": "ScottBuildsBots",
+      "share_url": "https://x.ai/bot/lj8-Co5IA-wbN4T84zK8L",
+      "scraped_at": "2026-09-17"
+    },
+    {
+      "name": "Robin",
+      "description": "Flight upgrade optimizer: ranks itineraries by complimentary upgrade odds",
+      "category": "Life",
+      "twitter": "drhowell1",
+      "share_url": "https://x.ai/bot/Ycw6R4sK_jLw3oG02mO1A",
+      "scraped_at": "2026-09-17"
     }
   ]
 }
