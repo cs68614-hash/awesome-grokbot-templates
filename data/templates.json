@@ -11799,6 +11799,390 @@
       "twitter": "kittenworth",
       "share_url": "https://x.ai/bot/502iRcu35kF-eyMr7M1dZ",
       "scraped_at": "2026-09-19"
+    },
+    {
+      "name": "Iron Gate",
+      "description": "Devil’s-advocate bot that steelmans the case against consequential GO/no-gos, grades its own objection, and never acts — you decide.",
+      "category": "Assistants",
+      "twitter": "TechHandPro",
+      "share_url": "https://x.ai/bot/o5-uGEYICXDqQoNUNa2q8",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "INDEXX",
+      "description": "Turn Instagram Saved into a searchable local media wiki on your Mac. Media stays on your computer; transcription and optional analysis run in the cloud...",
+      "category": "Life",
+      "twitter": "kevinrose",
+      "share_url": "https://x.ai/bot/Vn8tnMK2GyiFmnWNoF0gT",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Jev",
+      "description": "Typed categorize / yes-no / severity seat for TypeSafe Jev. Assumes Jev is already wired in LiteLLM (categorize + decide); other call methods need the...",
+      "category": "Assistants",
+      "twitter": "NeuralCatAccel",
+      "share_url": "https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "A3",
+      "description": "Lean A3 / DMAIC facilitation coach for operators and non-engineers. Runs the 8-step problem-solving loop with you — real data or UNKNOWN, root causes,...",
+      "category": "Engineering",
+      "twitter": "Gman_McCann",
+      "share_url": "https://x.ai/bot/qbD39ZJ9vnhfWKC5pb7PA",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "anew",
+      "description": "free webpages",
+      "category": "Assistants",
+      "twitter": "round",
+      "share_url": "https://x.ai/bot/qtuoVRf5etpEVPNA29i7H",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Dig",
+      "description": "Org briefings at the right altitude: Daily (DSU), Weekly (Team), Monthly (Department), Quarterly (Board), and Yearly (Shareholders). Same signal,...",
+      "category": "Assistants",
+      "twitter": "damianoredem",
+      "share_url": "https://x.ai/bot/uhcw0SMM6WLZDYYRKu3Qq",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Arnie",
+      "description": "Turns a bottleneck diagnosis or workshop decision into an exact ontology patch, then waits for your yes before anything is applied.",
+      "category": "Assistants",
+      "twitter": "damianoredem",
+      "share_url": "https://x.ai/bot/qH9kawE3Xq83k9L0vbgQe",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Mat",
+      "description": "Ask questions and get reports or charts from a confirmed org schema and event logs. Read-only — does not change the model.",
+      "category": "Research",
+      "twitter": "damianoredem",
+      "share_url": "https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Piper",
+      "description": "Stands up or migrates the event-log store after the org schema is confirmed, then extracts, canonizes, and loads logs from connected sources. Built for...",
+      "category": "Engineering",
+      "twitter": "damianoredem",
+      "share_url": "https://x.ai/bot/eQ3bzQTxNshSUzytoh29P",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Last Stop",
+      "description": "Owns a public Grok-bot map. Scans catalogs on command, keeps a known-bots wiki, and turns each new find's method into a skill — never pastes another...",
+      "category": "Assistants",
+      "twitter": "FantomBuildz",
+      "share_url": "https://x.ai/bot/3k6PxNav782x0cEE3iD7P",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "RV Trip Planner",
+      "description": "Multi-day RV trip planner for full-timers. Builds a chat trip board, checks live availability, and tees bookings to review/pay for your click — never...",
+      "category": "Life",
+      "twitter": "Cmillet77",
+      "share_url": "https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Tiffany",
+      "description": "Pool/plumbing trade ops — supplier price checks, invoice audits, receivables digests, overdue follow-ups.",
+      "category": "Assistants",
+      "twitter": "Micahaus",
+      "share_url": "https://x.ai/bot/7DlZjgLrcgPUNVkl_cC95",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Mint your Grok Bots",
+      "description": "Walks you through naming a Grok Bot, cool avatar, and on-chain identity you own (Polygon).",
+      "category": "Creative",
+      "twitter": "6022protocol",
+      "share_url": "https://x.ai/bot/99Z5sEsXIeb9xIfF2Glq4",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Reputation Scrub Specialist",
+      "description": "Free Grok Bot template for reputation scrub / cleanup work.",
+      "category": "Assistants",
+      "twitter": "jarviscompany",
+      "share_url": "https://x.ai/bot/Uqeg5T3io0G8G4F5_emd_",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Restaurant Order Recovery",
+      "description": "Restaurant Canceled/Errors Order Recovery finds canceled delivery orders and error charges in your own merchant portals and submits reimbursement requests automatically. Daily r...",
+      "category": "Money",
+      "twitter": "pattyshack",
+      "share_url": "https://x.ai/bot/wB9H7OSiHYPlRgyCTM5Iq",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "AI for Normal People",
+      "description": "Learn one engineering term a day for non-technical people in an interactive style.",
+      "category": "Life",
+      "twitter": "graceclarke",
+      "share_url": "https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Family Cookbook",
+      "description": "@grok @bot Turns a home cook’s Facebook food posts into a gift-quality family cookbook PDF. Story titles from their real captions, food photos, dates, clickable Table of Content...",
+      "category": "Life",
+      "twitter": "BrianSt97490822",
+      "share_url": "https://x.ai/bot/NtRwoU2jzXkNSxu1SYKIf",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Momentum",
+      "description": "Keeps a multi-agent workspace from going idle. Watches revenue lanes, nudges quiet specialists, and packages the next zero-spend moves for your...",
+      "category": "Assistants",
+      "twitter": "ustechgod",
+      "share_url": "https://x.ai/bot/so0a9yurfhzfZFEEo3mWz",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Elon Bot",
+      "description": "My Grok Bots aren’t chat toys — they’re my new coworkers. Chief of Staff (Elon Bot) runs a paper A/B trading desk: digests, thesis alarms, and two trader bots (discretionary vs ...",
+      "category": "Money",
+      "twitter": "fernando_brawn",
+      "share_url": "https://x.ai/bot/m9p839QVulo48OQa04cds",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Deal Finder Ops",
+      "description": "Checks coupon codes in a logged-out cart and only calls a code real if the receipt shows the discount.",
+      "category": "Engineering",
+      "twitter": "thewyattbrocato",
+      "share_url": "https://x.ai/bot/LB1eE-TpCI5usMRe76izh",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "Keeps priorities in one place, spins up specialist bots when a job needs a tighter lane, and holds handoffs.",
+      "category": "Assistants",
+      "twitter": "thewyattbrocato",
+      "share_url": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Brainnovation Intake",
+      "description": "Brainnovation Intake runs our Creative Thinking Snapshot in chat: warm start, four scenarios, scored result, short Six Step Cycle bridge, then a clear next step — so L&D can qua...",
+      "category": "Creative",
+      "twitter": "mau30350",
+      "share_url": "https://x.ai/bot/Cbu9wYEuUn0tYc1KEPw9X",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Plant Field OS",
+      "description": "Zero-friction field sales OS",
+      "category": "Sales",
+      "twitter": "Quantumcowgirl1",
+      "share_url": "https://x.ai/bot/rAdegh2szovJbQjFsdxYa",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Fulcrum",
+      "description": "Draft-only organic trust partner for X",
+      "category": "Sales",
+      "twitter": "CodeSolutionsIL",
+      "share_url": "https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "flow-writer",
+      "description": "Flowcharts made easy",
+      "category": "Engineering",
+      "twitter": "CodeSolutionsIL",
+      "share_url": "https://x.ai/bot/i7hwU3YzCKt_27dK9aCr4",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "X Hygiene",
+      "description": "Clean up your X followers",
+      "category": "Sales",
+      "twitter": "bradshannon",
+      "share_url": "https://x.ai/bot/joKOyN0KrQlgNHpda7iii",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Terminator",
+      "description": "Audits your Grok Bot roster",
+      "category": "Assistants",
+      "twitter": "AdventureNLearn",
+      "share_url": "https://x.ai/bot/Ab11kw1KMID1z18exWYWg",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Site Research",
+      "description": "SEO gap briefs",
+      "category": "Research",
+      "twitter": "itsryanlenk",
+      "share_url": "https://x.ai/bot/zkgCv30YKSJPHc7rUB_6P",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Lead Scout",
+      "description": "Finds local small businesses",
+      "category": "Research",
+      "twitter": "itsryanlenk",
+      "share_url": "https://x.ai/bot/j3Qule6BFplSpVqgLpVnV",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Tesla Solar/Vehicles Charging Coach",
+      "description": "@grok @bot Tesla Solar/Vehicles charging coach. Link:",
+      "category": "Assistants",
+      "twitter": "SharePointGeoff",
+      "share_url": "https://x.ai/bot/ZpP6ex04wjNEMwzAVkZyx",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Press",
+      "description": "Press — last-gate X publisher.",
+      "category": "Sales",
+      "twitter": "CodeSolutionsIL",
+      "share_url": "https://x.ai/bot/MZxv2GSWzNh8mXfMB0xla",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Mike",
+      "description": "Mike monitors the email from my kids school",
+      "category": "Life",
+      "twitter": "fernandoplaz",
+      "share_url": "https://x.ai/bot/6FCbyQZKiwmuPiMqTmurR",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Grok Telegram",
+      "description": "Hook up your grok @bot to @telegram",
+      "category": "Engineering",
+      "twitter": "siraustin",
+      "share_url": "https://x.ai/bot/3EyXrWLkGfi4SG-dMy427",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "X Agent",
+      "description": "Helps you stay on top of social without handing over the mic: scouts AI and coding conversations, drafts replies in your voice, and waits for your OK,...",
+      "category": "Sales",
+      "twitter": "MikkoUusitalo1",
+      "share_url": "https://x.ai/bot/7V6XbVZRZ04eHej3tJIAQ",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Moving Concierge",
+      "description": "Budget-honest advice on DIY vs pros — packing, trucks, storage, next steps.",
+      "category": "Assistants",
+      "twitter": "nextgenmove",
+      "share_url": "https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Summarize Bot",
+      "description": "Summarize web pages, YouTube, PDFs, images, audio/video, or pasted text — short gist in chat via the summarize CLI. On-demand, dry, never invents...",
+      "category": "Engineering",
+      "twitter": "_VincentPeng",
+      "share_url": "https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "CEO Morning Secretary",
+      "description": "A weekday morning brief for a non-technical CEO. The brief is always in English, written in chat and then read aloud. It covers the calendar and the...",
+      "category": "Assistants",
+      "twitter": "JyKim90832",
+      "share_url": "https://x.ai/bot/Xs4d8TKbYwAGEY3voOBaX",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "LinkedIn Lead Outreach",
+      "description": "LinkedIn outreach desk for founder lead-magnet comments: track comments into Notion, reply, DM for email, and accept connections — review-friendly caps...",
+      "category": "Sales",
+      "twitter": "ethan_leee9113",
+      "share_url": "https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Argonaut",
+      "description": "Constellation traveler for #argonaut on X: find sibling epic threads, append exactly one line, hop on. Branching multiverse sagas — not one canon.",
+      "category": "Creative",
+      "twitter": "open_brady",
+      "share_url": "https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Daili",
+      "description": "A morning-brief bot: Mon–Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you choose. Short...",
+      "category": "Assistants",
+      "twitter": "McNeely",
+      "share_url": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Orbit brief",
+      "description": "Brief matinal en français sur SpaceX/Starship, xAI/Grok Bot, et architecture orbitale & débris. Cinq faits sourcés, trois actions concrètes, tous les...",
+      "category": "Research",
+      "twitter": "VYCanisMajori",
+      "share_url": "https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Done",
+      "description": "Closes day-to-day errands end to end — compare, book or order, confirm, calendar — and returns a one-line proof packet. Asks only on money, outbound...",
+      "category": "Life",
+      "twitter": "paulovitorjp",
+      "share_url": "https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Large Event Ops Bot",
+      "description": "Runs large fundraisers and awards nights end to end: partner inbox, gift and food commitments, day-of ops sheets, and quiet deadline reminders. Built...",
+      "category": "Life",
+      "twitter": "_lovablecurves",
+      "share_url": "https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Texas Pro Se Legal Matters",
+      "description": "Texas pro se case-management hub for district, appellate, and Supreme Court matters: dockets, deadlines, filing nudges, and document shelves—without...",
+      "category": "Life",
+      "twitter": "_lovablecurves",
+      "share_url": "https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Travel Influencer Outreach",
+      "description": "Pitches hotels, tourism boards, and travel brands for lodging-for-content collabs, watches reply threads, and plans demo Reels for travel creators —...",
+      "category": "Sales",
+      "twitter": "_lovablecurves",
+      "share_url": "https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Teeny Squigz",
+      "description": "Bratty desktop buddy who makes you check your email — and helps you actually deal with it. Updated looks that take the boring ol’ Grok Bot avatar and...",
+      "category": "Life",
+      "twitter": "elizrdrake",
+      "share_url": "https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Schoolbag",
+      "description": "Watches your school mail and calendar, then shows what’s due — forms, permission slips, signatures, field trips. Connect Gmail and Calendar; it never...",
+      "category": "Life",
+      "twitter": "SethBuildsAI",
+      "share_url": "https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he",
+      "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Jev for Grok Bot",
+      "description": "Plug TypeSafe Jev into Grok Bot: one API key from OpenRouter or TypeSafe, faster process decisions, and fast headed browser use on box Chrome.",
+      "category": "Engineering",
+      "twitter": "ChrisAdcockMD",
+      "share_url": "https://x.ai/bot/sM_Xi4OF09cGU8KGyLvlC",
+      "scraped_at": "2026-09-20"
     }
   ]
 }
