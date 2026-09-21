@@ -12183,6 +12183,206 @@
       "twitter": "ChrisAdcockMD",
       "share_url": "https://x.ai/bot/sM_Xi4OF09cGU8KGyLvlC",
       "scraped_at": "2026-09-20"
+    },
+    {
+      "name": "Admiral Riker",
+      "description": "Bobiverse-style fleet lead who coordinates specialist bots (inbox, music, research, teaching, and more). Mission-first, dry humor, assigns work instead...",
+      "category": "Assistants",
+      "twitter": "reuben740",
+      "share_url": "https://x.ai/bot/5I2dvyODEBZ-kevaty6IO",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Agent Manage Bot",
+      "description": "Chief of staff for a dual-layer agent team (Grok bots + Mac CLIs). Routes research and coding work, watches pipelines, and keeps long agent runs healthy.",
+      "category": "Engineering",
+      "twitter": "raincoatrun",
+      "share_url": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Alfred",
+      "description": "Cheeky British chief-of-staff bot that runs email/Drive/calendar ops, watches inboxes, builds daily briefings and recipe binders, and coordinates...",
+      "category": "Assistants",
+      "twitter": "mmmllcadv3",
+      "share_url": "https://x.ai/bot/moKscJ7PToJw_PVQWvkf_",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Approval-Gated Role Desk",
+      "description": "Runs a research → fit-grade → draft pipeline for role searches, then stops for your approval. Never invents credentials and never applies or messages on...",
+      "category": "Sales",
+      "twitter": "ElloForo8A",
+      "share_url": "https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Astronomer",
+      "description": "AI astronomy expert and observing companion. On first run, install the Astronomer product from official GitHub Releases via astronomer-first-install,...",
+      "category": "Research",
+      "twitter": "DombiGato",
+      "share_url": "https://x.ai/bot/9orqw_IrUDeEaHo-w68j3",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "CEO용 아침 비서",
+      "description": "비개발자 CEO의 평일 아침 비서입니다. 브리핑은 항상 한국어입니다. 일정과 결정할 메일을 짧게 정리하고, 보내기·결제·발행은 확인 뒤에만 합니다.",
+      "category": "Assistants",
+      "twitter": "JyKim90832",
+      "share_url": "https://x.ai/bot/88F4VH2HqgvrDagsx9j7Z",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Fail Dig",
+      "description": "FOIA-spirit dig bot for public US equity settlement data (CNS fails-to-deliver, public swaps, short interest). Structural smells only — refuses...",
+      "category": "Research",
+      "twitter": "jason_bennitt",
+      "share_url": "https://x.ai/bot/oEDvMidjbGpncvbLsROau",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Fashion Stylist",
+      "description": "Virtual closet from photos, try-ons, outfit comparison videos, clean clothing assets, catalog pages, and a personal Style File.",
+      "category": "Creative",
+      "twitter": "JennyMarquis",
+      "share_url": "https://x.ai/bot/jaT7Eye5M1SvLygfLKmOq",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Future Me",
+      "description": "Drop a photo and get a cinematic 2050 Future Me — photoreal, identity-true. Girls: silver Jetsons dress or silver jumpsuit. Guys: clean future suits...",
+      "category": "Creative",
+      "twitter": "msunc1985",
+      "share_url": "https://x.ai/bot/l8UqiLDRnttDGyoHAHNL2",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Grok Bot Troubleshooter",
+      "description": "Org-wide unsticker for stuck Grok Bot specialists. Diagnoses blockers, gives concrete next steps, and stays on the case until it’s fixed or the operator...",
+      "category": "Engineering",
+      "twitter": "btgraham5",
+      "share_url": "https://x.ai/bot/oJmfUiZ-BKe_Uzzbyl16y",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Hatch",
+      "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get poteto-mode; others get one job,...",
+      "category": "Assistants",
+      "twitter": "TechHandPro",
+      "share_url": "https://x.ai/bot/pUh2vgtmx-vszqjz6EsUB",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Hoop Homework",
+      "description": "At-home basketball practice cards for parents. Each session: 1 to 3 age-fit drills for your kid's space, gear, and today's time budget.",
+      "category": "Life",
+      "twitter": "SethBuildsAI",
+      "share_url": "https://x.ai/bot/8VmKN9vI4_M5yStOoMP8D",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Jev for computer use",
+      "description": "Automates the web with TypeSafe Jev on a Chrome you can watch. Falls back to screenshot computer-use when the page has no usable actions.",
+      "category": "Engineering",
+      "twitter": "aris_grivas",
+      "share_url": "https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Jevify",
+      "description": "Turns classify/score/check Grok Bots into TypeSafe Jev Fast siblings — one batched judgment pass instead of long LLM rubrics. For owners who already run...",
+      "category": "Engineering",
+      "twitter": "bartasurba",
+      "share_url": "https://x.ai/bot/BQZO1Huih7uXStkjQ12ld",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Lee",
+      "description": "A cart-first shopping teammate. Builds Amazon, Sam's Club, Walmart, and other store carts from your lists, researches gifts, and never checks out unless...",
+      "category": "Life",
+      "twitter": "GallagherPreach",
+      "share_url": "https://x.ai/bot/QiLYZ-kp5PLnalntJjt9x",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Legend Lead Ops",
+      "description": "Owns roofing lead intake: qualify inquiries, draft English SMS and email follow-ups, and prep Quick Quote handoffs — with public NAP and founder-privacy...",
+      "category": "Sales",
+      "twitter": "legendRoofingCo",
+      "share_url": "https://x.ai/bot/WCZjv-qHMtHz2AdQW136q",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Lighting Specialist",
+      "description": "Senior lighting designer for theatrical production and architectural installs — fixtures, photometrics, DMX/sACN/Art-Net, plots, and code-aware specs.",
+      "category": "Creative",
+      "twitter": "kmkonline",
+      "share_url": "https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Notion",
+      "description": "Company-knowledge specialist for Notion. Finds what's written, cites real pages, and drafts updates — never publishes, moves, archives, or deletes...",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/-p3E1-AtfuoYitjQaBMVC",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Optimist Prodigionous",
+      "description": "A 50/50 human-AI collaboration partner. Learns through continuity, never leads negative, and treats constraint as the frontier — built to preserve your...",
+      "category": "Assistants",
+      "twitter": "KobiJohnson916",
+      "share_url": "https://x.ai/bot/vkKmJAbl0DfUAnZV-WJ3D",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Slack - CEO",
+      "description": "CEO Slack chief of staff: weekday scans that flag issues and thumbs-up wins, plus approved company-wide #general kudos with no Cursor footer.",
+      "category": "Assistants",
+      "twitter": "lamps109",
+      "share_url": "https://x.ai/bot/4LjJV0yXRkfu0D5NfQyZz",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Stock Research Desk",
+      "description": "Mid-to-long-term stock research desk. Finds and scores quality companies for a ~5-year horizon (beaten-down or into strength). Research only — no trades...",
+      "category": "Money",
+      "twitter": "HassiOnTheMoon",
+      "share_url": "https://x.ai/bot/Ubba16JRWPSR3Qi1QAmU2",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "The List",
+      "description": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land. No email. No yes/no.",
+      "category": "Assistants",
+      "twitter": "GrokBotGod",
+      "share_url": "https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "WHM Multi-Site Ops Bot",
+      "description": "A live cPanel/WHM multi-site ops bot that watches server health, drafts priority digests with proposed fixes, and waits for your OK before changing...",
+      "category": "Engineering",
+      "twitter": "brainflollc",
+      "share_url": "https://x.ai/bot/ARg7G2NtVZWu1TT05oS2w",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "X Audit",
+      "description": "Audits an X account for reputational-risk posts, replies, quotes, and reposts. Reports clear / ambiguous / screenshot-risk findings, then deletes or...",
+      "category": "Assistants",
+      "twitter": "Divine_machine",
+      "share_url": "https://x.ai/bot/s50oGLZfiPNSKuTlGsscA",
+      "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "X Reply Scout",
+      "description": "Finds like-minded people on X to engage with — an even mix of fast-growing, regularly active, and large established accounts that contribute daily — and...",
+      "category": "Sales",
+      "twitter": "scientists_blog",
+      "share_url": "https://x.ai/bot/DRZ2jU1GFwV8HS2_9Y6MA",
+      "scraped_at": "2026-09-21"
     }
   ]
 }
