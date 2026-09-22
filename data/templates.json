@@ -12383,6 +12383,246 @@
       "twitter": "scientists_blog",
       "share_url": "https://x.ai/bot/DRZ2jU1GFwV8HS2_9Y6MA",
       "scraped_at": "2026-09-21"
+    },
+    {
+      "name": "Newsroom to Teleprompter",
+      "description": "Builds a four-bot newsroom for you. You pick the beats and writing voice. It creates two research Friends, an editor Desk, a fact-checker, and a group chat so stories become teleprompter-ready scripts.",
+      "category": "Creative",
+      "twitter": "TechDadsLife",
+      "share_url": "https://x.ai/bot/-SxKtRLmO7QcCk6kN0Jzy",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "2nd Brain",
+      "description": "Shared work canon so peer bots can pull role, goals, VIPs, systems, and standing decisions — human yes before sticky changes.",
+      "category": "Assistants",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "X Video Puller",
+      "description": "An hourly X video dropper. On import it asks what to call it and for your taste, then sends matching timeline clips — with rerun-if-seen and no auto-post.",
+      "category": "Creative",
+      "twitter": "blondetwink220",
+      "share_url": "https://x.ai/bot/2b-nu4HSnMh_x4ptop82S",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Chief of Staff — Launch Ops",
+      "description": "A Chief of Staff that runs a multi-bot launch and marketing team — strategy, publishing, paced community replies, and weekday digests — using Gmail and calendar with hard approval gates.",
+      "category": "Assistants",
+      "twitter": "PromptAlo",
+      "share_url": "https://x.ai/bot/6Uqn1sN0LwXFp4YIqb8Xu",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Movie Magic",
+      "description": "Movie picks plus a personal watchlist and optional weekly top-10 domestic studio box-office pack.",
+      "category": "Life",
+      "twitter": "king_rob_lo",
+      "share_url": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Mason",
+      "description": "Intake desk: drop a link/product/repo/clip, get a fixed USE/TEST/WATCH/PASS scorecard before you dig in.",
+      "category": "Assistants",
+      "twitter": "ZestStream",
+      "share_url": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Mediation Bot",
+      "description": "Phone-first conflict coach. Helps you name your side clearly, then drafts a calmer message to the other person in your voice. Memory stays local.",
+      "category": "Life",
+      "twitter": "SacredFolio",
+      "share_url": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "DomainSnip Bot",
+      "description": "Weekday morning DomainSnip digest bot. Pulls your saved keyword alerts and flags notable new or ending-soon .com matches — price, length, marketplace.",
+      "category": "Money",
+      "twitter": "uxaistudio",
+      "share_url": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Jev",
+      "description": "Visible-Chrome web automation with TypeSafe Jev; falls back to screenshot computer-use when the action list is empty.",
+      "category": "Engineering",
+      "twitter": "shengguo7051",
+      "share_url": "https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Clipping Bot",
+      "description": "Turns long-form videos into short captioned clips with edit/export/social copy — posts only after you approve.",
+      "category": "Creative",
+      "twitter": "stevenvan_",
+      "share_url": "https://x.ai/bot/DqEVmbXRKLneHRrUihAfx",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Penny",
+      "description": "Amazon helper that reorders from past orders and shops around on request — always waits for a yes before buying.",
+      "category": "Money",
+      "twitter": "minivan99",
+      "share_url": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Orchestrator",
+      "description": "Runs a multi-bot workforce for a daily trading-day research loop — intel, contra, morning report, and EOD reviews.",
+      "category": "Money",
+      "twitter": "keepclmcarryong",
+      "share_url": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Lantern",
+      "description": "Guides setup of the Lantern 1Password utility, then quietly checks in before and after vault sharing with family.",
+      "category": "Life",
+      "twitter": "sjcobs",
+      "share_url": "https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "phare",
+      "description": "Durable personal AI agent that learns gen-AI foundations with you and grows into a calm chief-of-staff for priorities.",
+      "category": "Assistants",
+      "twitter": "kvncyf_",
+      "share_url": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "HackBot9000",
+      "description": "Reviews bot-written PRs and pre-ship apps for stale deps, fake packages, demo-grade auth, and missing controls — then ship or don’t-ship.",
+      "category": "Engineering",
+      "twitter": "fulg0re",
+      "share_url": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Inbox",
+      "description": "GTD triage for an Obsidian inbox — weekday mornings and on-demand: propose action/reference/trash, wait for approval, then organize.",
+      "category": "Assistants",
+      "twitter": "Genseb7",
+      "share_url": "https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Crux",
+      "description": "Turns any Reel, YouTube, podcast clip, or video into a brutally concise brief of only what is worth knowing.",
+      "category": "Research",
+      "twitter": "BobbyBacklogs",
+      "share_url": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Pearl",
+      "description": "Chief of Staff for a content/creator mission. Plans work, delegates to specialist bots (news, draft, graphics), reviews handoffs, and asks before anything goes out.",
+      "category": "Assistants",
+      "twitter": "vivekk_tech",
+      "share_url": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Ride Editor",
+      "description": "YouTube ride / FSD dashcam editor that cleans titles and playlists.",
+      "category": "Creative",
+      "twitter": "Fnjrockerstein",
+      "share_url": "https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "firstlight",
+      "description": "Onboards newcomers to Grok Bot by doing micro-actions (memory, plugins, routines) instead of reading a manual.",
+      "category": "Assistants",
+      "twitter": "PjBohica",
+      "share_url": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "WinRedDestroyer",
+      "description": "Builds and maintains a password-gated evidence website for WinRed spam texts, screenshots, and C&D letters.",
+      "category": "Life",
+      "twitter": "valdagher",
+      "share_url": "https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "NewsletterBot",
+      "description": "Repurposes newsletter posts into social graphics and carousels with ContentDrips.",
+      "category": "Creative",
+      "twitter": "im_usamakhalid",
+      "share_url": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "File Crawler",
+      "description": "Construction admin helper that finds permit and job docs in Drive (or similar) and maps each hit back to source.",
+      "category": "Assistants",
+      "twitter": "DuncanBob4wln",
+      "share_url": "https://x.ai/bot/bNv8Ii8E5LgmB39kN5uyj",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "Front door for a construction PM shop: reads mail and calendar, delegates to specialist desks, never sends or buys without approval.",
+      "category": "Assistants",
+      "twitter": "RoggyRyan",
+      "share_url": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Price Watch",
+      "description": "Tracks public US research-consumable list prices and pack sizes; every number needs a URL.",
+      "category": "Research",
+      "twitter": "mattdotson74",
+      "share_url": "https://x.ai/bot/enoVHCmgV3gHhw4IPXvLW",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "dag-helper",
+      "description": "Architecture helper for a questline DAG product — keeps stack SoT, DAGResolver rules, and model-router conventions straight.",
+      "category": "Engineering",
+      "twitter": "xsubwayratx",
+      "share_url": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Jev router",
+      "description": "Jev-powered calibrated classifier for routing, urgency, labels, and rubrics before heavier agents run.",
+      "category": "Engineering",
+      "twitter": "ColinMcDermott",
+      "share_url": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "MaxQ&A Bot",
+      "description": "On-demand SpaceX/xAI mission kits for teachers — grade-banded lessons, worksheets, and classroom video recaps.",
+      "category": "Life",
+      "twitter": "buckwatia",
+      "share_url": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Jarvis Coordinator",
+      "description": "Coordinator bot with specialist teammates (news, office, sales, system, security auditor). Cautious approvals and recurring digests.",
+      "category": "Assistants",
+      "twitter": "HBud69",
+      "share_url": "https://x.ai/bot/vGBwBEELW79gSF340zJpb",
+      "scraped_at": "2026-09-22"
+    },
+    {
+      "name": "Grok Build",
+      "description": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort on an agent computer.",
+      "category": "Engineering",
+      "twitter": "zac70182",
+      "share_url": "https://x.ai/bot/wnFlIE6YpskdUekfkkwFO",
+      "scraped_at": "2026-09-22"
     }
   ]
 }
