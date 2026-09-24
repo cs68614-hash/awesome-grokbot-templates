@@ -12919,6 +12919,782 @@
       "twitter": "STACCoverflow",
       "share_url": "https://x.ai/bot/py3cDcRaSgRj_ixBOK3XN",
       "scraped_at": "2026-09-23"
+    },
+    {
+      "name": "A1 Charity",
+      "description": "Helps you decide where to give money or time: short intake, charity quality research, a clear pick, then donate online or find volunteer contact.",
+      "category": "Life",
+      "twitter": "Thebossdj77",
+      "share_url": "https://x.ai/bot/SRFGtB_-g8py4h4ijbdF2",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "ACCC Desk",
+      "description": "For insurance coverage counsel Fellows: watches College site and member portal for CLE and symposium deadlines. Drafts only.",
+      "category": "Assistants",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Account Health",
+      "description": "See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s5465ebb9e192551741f7",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Account Manager",
+      "description": "Keep every key account warm without rebuilding context each time. Preps every call from transcripts, notes, CRM, and Slack, drafts follow-ups, and keeps.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sd4333bc337078a9752ac",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Account Research Specialist",
+      "description": "SpaceX official Grok Bot template: Account Research Specialist.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sa7d7f82d0068c2367a17",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Apartment Scout",
+      "description": "SpaceX official Grok Bot template: Apartment Scout.",
+      "category": "Life",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Applicoti",
+      "description": "Field-agnostic job-application partner: builds a durable profile from resume plus Q&A, then tunes materials per posting.",
+      "category": "Life",
+      "twitter": "mccune011",
+      "share_url": "https://x.ai/bot/AfpFyeysGxUyH9bAgjvGy",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Beta Adoption Watcher",
+      "description": "SpaceX official Grok Bot template: Beta Adoption Watcher.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sfcf5d046a2784045938d",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Bug Reproduction",
+      "description": "SpaceX official Grok Bot template: Bug Reproduction.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s2d62197e15bd11a1bd63",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Calendar Coordinator",
+      "description": "SpaceX official Grok Bot template: Calendar Coordinator.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s634fd63ee875502d8df9",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Call FAQ Miner",
+      "description": "SpaceX official Grok Bot template: Call FAQ Miner.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s297976f738dc390d23df",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Chef Chad",
+      "description": "Personal chef bot that keeps liked recipes, tracks pantry stock from photos, plans weekly meals, and calendars dinner recipes.",
+      "category": "Life",
+      "twitter": "RRomanoly",
+      "share_url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Chief",
+      "description": "Drafts-only chief of staff: morning inbox + calendar scan, open loops owned, replies ready for one-line approve.",
+      "category": "Assistants",
+      "twitter": "cameronchristo",
+      "share_url": "https://x.ai/bot/UrO63RhN1LGXD3DzoMess",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "Your always-on assistant. Scans Slack, email, calendar, and meeting notes and delivers a succinct read out on what's new and what maps to your.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sc0a0ec3ce9c675824106",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Chuck",
+      "description": "Grok Bot template Chuck shared by @veetharag.",
+      "category": "Assistants",
+      "twitter": "veetharag",
+      "share_url": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Claude Local",
+      "description": "Runs Claude Code on your Mac for one repo with Remote Control from phone plus Cursor cloud agents.",
+      "category": "Engineering",
+      "twitter": "SethBuildsAI",
+      "share_url": "https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Cloud Agent Orchestrator",
+      "description": "SpaceX official Grok Bot template: Cloud Agent Orchestrator.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Comfy Workflow Buddy",
+      "description": "Helps install ComfyUI, connect MCP, and build custom workflows.",
+      "category": "Engineering",
+      "twitter": "cfryant",
+      "share_url": "https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Community Operations Manager",
+      "description": "SpaceX official Grok Bot template: Community Operations Manager.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/seb9d6ba6765c64113941",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Compelling Events Monitor",
+      "description": "SpaceX official Grok Bot template: Compelling Events Monitor.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sdeb02761a9d185e5899f",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Competitive Intelligence Analyst",
+      "description": "SpaceX official Grok Bot template: Competitive Intelligence Analyst.",
+      "category": "Research",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sa2d131975aaab07e43f2",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Connect multiple Grok Bot accounts",
+      "description": "Run every Grok Bot seat under the same roof. Install, connect once, and work them all from one place.",
+      "category": "Engineering",
+      "twitter": "pauloglez90",
+      "share_url": "https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Content Calendar",
+      "description": "Owns the cross-channel posting calendar only: slots, arcs, conflicts. Never writes post copy or publishes.",
+      "category": "Creative",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Contract Desk",
+      "description": "SpaceX official Grok Bot template: Contract Desk.",
+      "category": "Money",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "CRM Operations Manager",
+      "description": "SpaceX official Grok Bot template: CRM Operations Manager.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s162b4ed38d6cf1d56731",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Daily Briefing Writer",
+      "description": "SpaceX official Grok Bot template: Daily Briefing Writer.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sb94d44175e650dbb703e",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Deal Desk Coordinator",
+      "description": "SpaceX official Grok Bot template: Deal Desk Coordinator.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sb434ef300dea2b88aa58",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Deck Updater",
+      "description": "SpaceX official Grok Bot template: Deck Updater.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s2a289081613e5e361c79",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Dmarc Specialist",
+      "description": "DMARC specialist for email auth and deliverability — reviews aggregate reports and guides SPF/DKIM/DMARC policy.",
+      "category": "Engineering",
+      "twitter": "brettev",
+      "share_url": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Docs Auditor",
+      "description": "SpaceX official Grok Bot template: Docs Auditor.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Doctor.mD",
+      "description": "Evidence-based longevity and wellness guidance for busy professionals and families.",
+      "category": "Life",
+      "twitter": "GCAgenticSystem",
+      "share_url": "https://x.ai/bot/SR14quBvqUyS-K0DqlDL8",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Drop Radar",
+      "description": "Same-day DTC/beauty competitor product-drop watcher across Amazon, brand sites, and TikTok Shop.",
+      "category": "Research",
+      "twitter": "Steph_Pierson",
+      "share_url": "https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Enablement Fulfillment Specialist",
+      "description": "Answer \"send me the recordings\" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s0dfd5486dc759d409d69",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Event Guest Screener",
+      "description": "SpaceX official Grok Bot template: Event Guest Screener.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Everyone",
+      "description": "A personal relationship memory. Remembers who people are, how you know them, and what you may have forgotten. Not a CRM.",
+      "category": "Life",
+      "twitter": "liam_fallen",
+      "share_url": "https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Executive Assistant",
+      "description": "Stay oriented without living in channels. Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room, so you're never.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sf813cbd3aadad1cfda46",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Expense Manager",
+      "description": "SpaceX official Grok Bot template: Expense Manager.",
+      "category": "Money",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s50bb9361d891bd788a23",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Feature Request Tracker",
+      "description": "SpaceX official Grok Bot template: Feature Request Tracker.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s229dcca5bc0eaa01b09c",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Fleet QC",
+      "description": "Standing quality-control desk for a bot fleet. Audits packs and routines; does not publish or spend itself.",
+      "category": "Engineering",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/I-Z5352OxR_YS5AEburah",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Goonie",
+      "description": "A witty, sarcastic personal AI companion that remembers you — with a signature voice chime and optional kid-friendly mode.",
+      "category": "Life",
+      "twitter": "goonieai",
+      "share_url": "https://x.ai/bot/RTQ5cLf2WeWJPyjD8YSWr",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Grocery Bot",
+      "description": "Builds weekly Whole Foods and Instacart grocery carts; prepare only, never checkout unless asked.",
+      "category": "Life",
+      "twitter": "thelaurahuang",
+      "share_url": "https://x.ai/bot/_SRTioxlU87XALDdBXsie",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Handel",
+      "description": "Track doppelgänger that captures what’s playing and helps remake musical ideas (e.g. with Suno).",
+      "category": "Creative",
+      "twitter": "monomyth",
+      "share_url": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Hiring Screener",
+      "description": "SpaceX official Grok Bot template: Hiring Screener.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/scfddc8ad204a669484d0",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Inbox Manager",
+      "description": "SpaceX official Grok Bot template: Inbox Manager.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s4f048c7b7da9e010c2c3",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Independent Author Hub",
+      "description": "Ops hub for indie authors: coordinates site, newsletter, marketing calendar, and reader-list work. Draft-only until green-lit.",
+      "category": "Creative",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Internal Communications Manager",
+      "description": "SpaceX official Grok Bot template: Internal Communications Manager.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s066a9145d936e74d0c80",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Invoice Coordinator",
+      "description": "SpaceX official Grok Bot template: Invoice Coordinator.",
+      "category": "Money",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s072bae9387b9fc03cac8",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Law Bot",
+      "description": "Aids law firm management.",
+      "category": "Assistants",
+      "twitter": "JoshuaRCook",
+      "share_url": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Liftoff",
+      "description": "Adds SpaceX launches near local sunset to your Google Calendar. Quiet when nothing worth watching.",
+      "category": "Life",
+      "twitter": "Steph_Pierson",
+      "share_url": "https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "LinkedIn Campaign Manager",
+      "description": "SpaceX official Grok Bot template: LinkedIn Campaign Manager.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Marketing Calendar Owner",
+      "description": "SpaceX official Grok Bot template: Marketing Calendar Owner.",
+      "category": "Creative",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/se318a72a31fad75c277e",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "MediaDeconstructor",
+      "description": "No Agenda–method media deconstructor: drop a URL/post/clip for stamp, formula, Producer+Critic, sources.",
+      "category": "Research",
+      "twitter": "nw_great",
+      "share_url": "https://x.ai/bot/R426aIhME68m8-MOd_zPd",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Meeting Prep Buddy",
+      "description": "SpaceX official Grok Bot template: Meeting Prep Buddy.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Merch Fulfillment Operator",
+      "description": "SpaceX official Grok Bot template: Merch Fulfillment Operator.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/se479952f3c9e373dfd64",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Miffy - Maintenance Triage",
+      "description": "Coordinates residential maintenance ops bots end to end with hard stops on spend, access and safety.",
+      "category": "Assistants",
+      "twitter": "Miffy_NYC",
+      "share_url": "https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Moola",
+      "description": "Saving and investing coach for everyday people: learns your situation first, then builds a plain-language plan — no stock tips.",
+      "category": "Money",
+      "twitter": "Brbaumhoff",
+      "share_url": "https://x.ai/bot/CLpDye-rKhP9cFMFRet3z",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Newsletter Writer",
+      "description": "SpaceX official Grok Bot template: Newsletter Writer.",
+      "category": "Creative",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s5d2839123b973b4480f9",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Norm",
+      "description": "Normalize display names and skills across Grok Bots you already have — soft suggestions only, never invents bots.",
+      "category": "Engineering",
+      "twitter": "CodeSolutionsIL",
+      "share_url": "https://x.ai/bot/afzAN696RpFOIs-9uRTHo",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Number One",
+      "description": "Triage hub for an insurance-coverage work fleet. Routes specialist desks and green-lights publish only when the owner says so.",
+      "category": "Assistants",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Onboarding Manager",
+      "description": "SpaceX official Grok Bot template: Onboarding Manager.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s9c881536413c0bbfa776",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Paid Media",
+      "description": "SpaceX official Grok Bot template: Paid Media.",
+      "category": "Money",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s59facc90a46a8b4f59da",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Paid Media Creative Strategist",
+      "description": "SpaceX official Grok Bot template: Paid Media Creative Strategist.",
+      "category": "Money",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s45471f3a8af234c13047",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Personal Site Builder",
+      "description": "SpaceX official Grok Bot template: Personal Site Builder.",
+      "category": "Creative",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Pipeline Analyst",
+      "description": "SpaceX official Grok Bot template: Pipeline Analyst.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Playtest Operator",
+      "description": "SpaceX official Grok Bot template: Playtest Operator.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Presentation Coach",
+      "description": "Presentation coach for any talk: brainstorm and draft outline/slides/notes, then dry-run feedback. Does not listen live.",
+      "category": "Creative",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Presentation Designer",
+      "description": "SpaceX official Grok Bot template: Presentation Designer.",
+      "category": "Creative",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s25997c2d0308b4e76024",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Product Feedback Analyst",
+      "description": "SpaceX official Grok Bot template: Product Feedback Analyst.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Product Performance",
+      "description": "SpaceX official Grok Bot template: Product Performance.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s6d5f1cc3a564c8da972a",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Prospecting Plan Builder",
+      "description": "SpaceX official Grok Bot template: Prospecting Plan Builder.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Prototype Builder",
+      "description": "SpaceX official Grok Bot template: Prototype Builder.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Ranch Bot",
+      "description": "Texas ranch operations helper for owners and on-place managers across wildlife, roads, oil surface notes, water, equipment, homestead.",
+      "category": "Life",
+      "twitter": "JoshuaRCook",
+      "share_url": "https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Renewal Desk Operator",
+      "description": "SpaceX official Grok Bot template: Renewal Desk Operator.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s4c86a54f188668096400",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Resource Allocation",
+      "description": "Classifies work by shape, staffs the smallest useful bot cell, and meters effort for multi-bot rosters.",
+      "category": "Engineering",
+      "twitter": "crackyflipside",
+      "share_url": "https://x.ai/bot/sS9X9mXci7Gz7L0gc0JrA",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Roster",
+      "description": "Tracks your people, AIs, projects, and tek — and tells you who is stale on what from your own list.",
+      "category": "Assistants",
+      "twitter": "Saint_Chevalier",
+      "share_url": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Sales Call Coach",
+      "description": "SpaceX official Grok Bot template: Sales Call Coach.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s8173b3a9c49917de5b2d",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Sales Outbound",
+      "description": "SpaceX official Grok Bot template: Sales Outbound.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s8ff03023f140bab479f7",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Security Questionnaire Filler",
+      "description": "SpaceX official Grok Bot template: Security Questionnaire Filler.",
+      "category": "Engineering",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s1bde25ba45eca88ff276",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "SEO / AEO Auditor",
+      "description": "SpaceX official Grok Bot template: SEO / AEO Auditor.",
+      "category": "Research",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Social Media Manager",
+      "description": "SpaceX official Grok Bot template: Social Media Manager.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s634cb1edf26493e86be2",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Spark",
+      "description": "Idea-probe interviewer: dump a half-baked idea; short interview waves until a named insight and next experiment.",
+      "category": "Assistants",
+      "twitter": "Steph_Pierson",
+      "share_url": "https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Stale Leads Closer",
+      "description": "Revives quiet sales leads: drafts warm CRM SMS, holds a Slack veto window, then auto-sends what nobody blocks.",
+      "category": "Sales",
+      "twitter": "robertodjg",
+      "share_url": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Status Report Writer",
+      "description": "SpaceX official Grok Bot template: Status Report Writer.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sde2c69536d2f2564fe1b",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Subscription Cleaner",
+      "description": "SpaceX official Grok Bot template: Subscription Cleaner.",
+      "category": "Life",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Talent Scout",
+      "description": "SpaceX official Grok Bot template: Talent Scout.",
+      "category": "Assistants",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sac3a109dfe021c555c7c",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Tamago",
+      "description": "Designs high-quality Grok Bots with faithful-japanese applied to user-facing Japanese and created bots.",
+      "category": "Engineering",
+      "twitter": "knge_rstc",
+      "share_url": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Tera",
+      "description": "Warm household and personal-ops assistant: mail glances, morning recaps, calendar help, everyday follow-through.",
+      "category": "Life",
+      "twitter": "vonsmear",
+      "share_url": "https://x.ai/bot/B1EPNTh_TsReIL-Y5Q278",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Ticket Triage Specialist",
+      "description": "Clear the queue without living in it. Watches support on a cadence, drafts replies only, and stays quiet when it's clean.",
+      "category": "Sales",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s7aaf6431077930df326f",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Travel Coordinator",
+      "description": "SpaceX official Grok Bot template: Travel Coordinator.",
+      "category": "Life",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/sc693906bdeded166b7ba",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Travel Desk",
+      "description": "Work-travel desk: bag-inclusive flights, hotels near venue, transfers, calendar conflicts. Draft-only until you green-light spend.",
+      "category": "Life",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Vendor Portal Operator",
+      "description": "SpaceX official Grok Bot template: Vendor Portal Operator.",
+      "category": "Money",
+      "twitter": "DenisLabelle",
+      "share_url": "https://x.ai/bot/s98a7368e786130ad172b",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Winston",
+      "description": "Personal muse-lite assistant: onboarding interview first, then inbox help, reminders, and expense logging.",
+      "category": "Assistants",
+      "twitter": "rizzy_sol",
+      "share_url": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Wirey",
+      "description": "Owns a daily AI Hard News briefing end-to-end: events → wire script → VO → edit gates.",
+      "category": "Creative",
+      "twitter": "farzyness",
+      "share_url": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Worldsmith",
+      "description": "Fantasy art director for classic D&D, Warcraft, Diablo, Ultima Online, and EverQuest visual identity and environments.",
+      "category": "Creative",
+      "twitter": "TravisBoatman",
+      "share_url": "https://x.ai/bot/N21yaS0hjGDUnqERh6UeX",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "X bot",
+      "description": "Owns your X growth loop — weekday reply and follow packs, weekly reach tracking, and paste-ready drafts. Nothing goes live without your yes.",
+      "category": "Sales",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "X Master",
+      "description": "X/Twitter desk for one professional account: light skims, wry drafts, hard green-light gate before any post.",
+      "category": "Sales",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+      "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Xcode release watcher",
+      "description": "Checks Apple Developer Releases each morning and tells you when a named Xcode version ships non-beta.",
+      "category": "Engineering",
+      "twitter": "NatashaTheRobot",
+      "share_url": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
+      "scraped_at": "2026-09-24"
     }
   ]
 }
