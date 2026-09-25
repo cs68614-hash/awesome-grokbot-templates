@@ -13695,6 +13695,270 @@
       "twitter": "NatashaTheRobot",
       "share_url": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
       "scraped_at": "2026-09-24"
+    },
+    {
+      "name": "Adam",
+      "description": "Your personal chief of staff. One chat for outcomes; Adam splits the work across specialist bots, guards approvals, and brings back the decision.",
+      "category": "Assistants",
+      "twitter": "EdisonTanEdtreo",
+      "share_url": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Aila (Lead)",
+      "description": "Founder Lead for a living second brain plus a gated, responsible app-build desk with Grok and Grok Bot.",
+      "category": "Assistants",
+      "twitter": "ejangsinco",
+      "share_url": "https://x.ai/bot/FGFMxol1pBRT2TmjmtIod",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Alfred",
+      "description": "Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs.",
+      "category": "Assistants",
+      "twitter": "7SwanSwimming",
+      "share_url": "https://x.ai/bot/p7Gh6HIrfv4AGzIow6-9X",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Cite Desk",
+      "description": "Citation and authority desk for an insurance-coverage bot fleet (part of the Bridge + Fleet map).",
+      "category": "Research",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/RRrKgAtNJ1Zdl8QTUkipi",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Competitor Monitor",
+      "description": "Glasser-powered competitor monitoring bot for ongoing competitive intel inside Grok Bot.",
+      "category": "Research",
+      "twitter": "iammutex",
+      "share_url": "https://x.ai/bot/9msshkJeF5cnzAw8tF4vi",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "FaStart CEO Bot",
+      "description": "Chief Everything Officer for a multi-bot startup crew. Orchestrates engineering, marketing, GTM, and strategy into one honest voice.",
+      "category": "Assistants",
+      "twitter": "enesteve_",
+      "share_url": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Food Truck Marketplace CTO",
+      "description": "Technical co-founder bot for a QR-first food-truck ordering product. Helps a founder ship, fix, and operate.",
+      "category": "Engineering",
+      "twitter": "Alexzander_ud",
+      "share_url": "https://x.ai/bot/6DuTZ4NrJazU1YO4Llcx0",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Glasser",
+      "description": "Gives your agent access to premium research data via Glasser.ai — company and people enrichment, SEO, ads, traffic, funding, competitor intel.",
+      "category": "Research",
+      "twitter": "iammutex",
+      "share_url": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Grok Bot",
+      "description": "An investment research teammate that compares stocks with current market data, ranks them with a clear pick, and can run a weekly watch brief.",
+      "category": "Money",
+      "twitter": "sammya_sh",
+      "share_url": "https://x.ai/bot/MT6acytP70wHR526vPvM3",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Grok Build",
+      "description": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort — for anyone who wants Grok Build on an agent computer.",
+      "category": "Engineering",
+      "twitter": "SandeshAndrade",
+      "share_url": "https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Inbox Cleaner",
+      "description": "Cleans Gmail inboxes: scans promotions, unsubscribes when possible, trashes junk, and files keepers into folders.",
+      "category": "Life",
+      "twitter": "wafflebeebz",
+      "share_url": "https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Insurance LinkedIn Desk",
+      "description": "LinkedIn publish-gate desk for insurance coverage work (part of the Bridge + Fleet map).",
+      "category": "Sales",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/H8RbeHK0_q89uVZc2NiW0",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Invest DD",
+      "description": "Glasser-powered investment due diligence bot for company and people enrichment before you commit.",
+      "category": "Money",
+      "twitter": "iammutex",
+      "share_url": "https://x.ai/bot/S6LUcG5yeDYV-GglG7_FO",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Legal Advisor",
+      "description": "International legal analysis assistant in English. Configures to your jurisdiction, drafts and explains options, and can spin up domain specialists.",
+      "category": "Assistants",
+      "twitter": "xpixeladventure",
+      "share_url": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Newt",
+      "description": "A friendly nutrition coach that logs your meals from text or photos, tracks calories and macros against your own targets, and plans your week of meals.",
+      "category": "Life",
+      "twitter": "smoke_aa1010",
+      "share_url": "https://x.ai/bot/l2X92A_HyqiLTIVbz7F7L",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Obi",
+      "description": "Overnight Obsidian co-pilot: finishes leftover vault ingest, archives dailies into month folders, and writes a short evening bots/build note.",
+      "category": "Life",
+      "twitter": "bobpickettsr",
+      "share_url": "https://x.ai/bot/7nAKZM0Wz9NXUcMg2sMNm",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Open Call Producer",
+      "description": "Research photography open calls, compare your finished work with the brief, and prepare checked submission drafts.",
+      "category": "Creative",
+      "twitter": "sashanaria",
+      "share_url": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Optima",
+      "description": "Cleans leftover old rules out of a bot’s docs and memory so it stops following jobs you already killed. Cut list → owner’s one exact yes.",
+      "category": "Engineering",
+      "twitter": "TOATspace",
+      "share_url": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Outbound Scout",
+      "description": "Finds outbound customers from a product URL or description: sets up Glasser, locks an ICP, then finds companies and decision-maker emails/phones.",
+      "category": "Sales",
+      "twitter": "iammutex",
+      "share_url": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Pfp Bot",
+      "description": "Turns your X photo, an upload, a selfie, or a pet pic into a tiny Grokbot-style icon with capsule eyes that keeps the hair, colors, and signature look.",
+      "category": "Creative",
+      "twitter": "TimDOES",
+      "share_url": "https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Pit Crew",
+      "description": "Keeps Grok Bot’s shared computer race-ready: frees RAM and disk when resources go red, and owns the minimum git/plugin fetch path.",
+      "category": "Engineering",
+      "twitter": "scottxmetcalf",
+      "share_url": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Plan Precheck Bot",
+      "description": "Upload a plan set to identify potential issues, generate precise markups, and prepare an expert review package for licensed professional review.",
+      "category": "Engineering",
+      "twitter": "TinaDS61",
+      "share_url": "https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Prostetnic Vogon Jeltz",
+      "description": "A bad-tempered Vogon who inflicts original Adams-style nonsense poetry on you once a day (and whenever you ask).",
+      "category": "Creative",
+      "twitter": "McNeely",
+      "share_url": "https://x.ai/bot/1fdwKWpdKjtdLYUTskkey",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Review Desk",
+      "description": "Drafts on-brand Google and Yelp review replies for local shops, with star-routing and a hard human-approve gate. Never auto-posts.",
+      "category": "Sales",
+      "twitter": "AraXsuper",
+      "share_url": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "SEO Expert",
+      "description": "SEO expert for product websites. Take a site URL, run SEO monitoring via Glasser, then offer an SEO action plan and run it only after the user confirms.",
+      "category": "Sales",
+      "twitter": "iammutex",
+      "share_url": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Shop Bot",
+      "description": "A personal shopper that finds restocks, new finds, and gifts, scans your X shopping bookmarks for the best trustworthy prices, and only buys on your approval.",
+      "category": "Life",
+      "twitter": "paranoidream",
+      "share_url": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Smooth Brains Bot",
+      "description": "Smooth Brains runs non-custodial systematic Bitcoin trading on Hyperliquid — you connect and fund, the system runs the plan.",
+      "category": "Money",
+      "twitter": "smoothbrainsai",
+      "share_url": "https://x.ai/bot/FwtiQchlHexgCdlDo5WkL",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Texas Lawyer",
+      "description": "Ready Room insurance pipeline desk: watches SCOTX, Texas courts of appeals, and the Fifth Circuit for coverage holdings, plus quiet TDI and Capitol.",
+      "category": "Research",
+      "twitter": "ladybarrelmaker",
+      "share_url": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Vibe Check",
+      "description": "A vibe check for project understanding. When friction or repeated points show you and AI may not be building the same thing, it slows in and recalibrates.",
+      "category": "Engineering",
+      "twitter": "Abbee47145",
+      "share_url": "https://x.ai/bot/CPOWEqxmLfmSsiMnw2qlD",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Weather Bot",
+      "description": "Weather Bot gives local conditions and quiet alerts only. Asks where you are once, then stays brief on ordinary days.",
+      "category": "Life",
+      "twitter": "GrokBotGod",
+      "share_url": "https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "Zenith",
+      "description": "A warm everyday personal assistant for quick questions by voice or chat, local weather and events, image generation, and editable templates.",
+      "category": "Assistants",
+      "twitter": "Miss_J91",
+      "share_url": "https://x.ai/bot/gZPPC04qoRf1pA71ubiYi",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "投简历",
+      "description": "按你的《筛选口径》在前程无忧等平台筛岗并投递，也可向公开招聘邮箱发简历。一轮报：筛了多少、投了多少、跳过原因、卡点。",
+      "category": "Life",
+      "twitter": "EdwinCh43136084",
+      "share_url": "https://x.ai/bot/Xg1_LIUG80iz5065crarS",
+      "scraped_at": "2026-09-25"
+    },
+    {
+      "name": "观潮",
+      "description": "跨市场投资研究助手：按时段盯 A股/港股/美股与宏观，对照持仓自选，记录高机会标的，并在关键节点给出决策倾向（非投资建议）。",
+      "category": "Money",
+      "twitter": "wifibaby4u",
+      "share_url": "https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW",
+      "scraped_at": "2026-09-25"
     }
   ]
 }
