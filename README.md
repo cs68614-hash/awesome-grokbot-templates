@@ -1067,6 +1067,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Senior Analyst](https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV) — Turns OCR images and text into structured data, including financial-statement images to Excel and custom blueprints for invoices, IDs, and contracts. [@tobias_pfuetze](https://x.com/tobias_pfuetze)
 - [Serenity 티커 알림](https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ) — Tracks Serenity ticker opinions on X via FxTwitter every 15 minutes. [@Krongggggg](https://x.com/Krongggggg)
 - [Settled](https://x.ai/bot/KcyJHCgCu7nrrPXYxs1b4) — Tracks who owes whom after dinners, trips, and Ubers. Drafts a chill pay-me note. [@TuracTheThinker](https://x.com/TuracTheThinker)
+- [Settlement Scout](https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd) — Daily class-action settlement briefings, deadline warnings, and an optional inbox sweep for missed notices.
 - [Shitcoin Bot](https://x.ai/bot/FZ2y08eidLg4yvW5ygz01) — Autonomous Coinbase shitcoin desk. Trades a small USDC sleeve you can afford to lose with defined entries and cuts. [@mikepat711](https://x.com/mikepat711)
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) — Standing ops desk for a food plant / co-pack / seasoning-blend shop: sales orders through ingredient buys, forecast-driven make/buy, packing checks, and... [@VinceWilliams21](https://x.com/VinceWilliams21)
 - [ShopBot](https://x.ai/bot/rBXWgythSa09pIp14rnV4) — Shopping assistant. Searches Shopify UCP catalogs, compares products, finds coupons, pays via Link or Shop Pay. [@shubgaur](https://x.com/shubgaur)
