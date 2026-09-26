@@ -14359,6 +14359,14 @@
       "twitter": "x1Ler",
       "share_url": "https://x.ai/bot/ZN1EymIusO1adHWaIuJJe",
       "scraped_at": "2026-09-26"
+    },
+    {
+      "name": "Settlement Scout",
+      "description": "Daily class-action settlement briefings, deadline warnings, and an optional inbox sweep for missed notices.",
+      "category": "Money",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd",
+      "scraped_at": "2026-09-26"
     }
   ]
 }
