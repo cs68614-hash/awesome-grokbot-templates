@@ -16143,6 +16143,46 @@
       "twitter": "wikiwayne",
       "share_url": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl",
       "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Fantasy Football",
+      "description": "Weekly NFL fantasy co-pilot: start/sit, waivers, trades, FAAB",
+      "category": "Life",
+      "twitter": "btclawyerguy",
+      "share_url": "https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Job Hunt",
+      "description": "Daily job shortlist, tailored materials, draft applications",
+      "category": "Life",
+      "twitter": "AnthonyDo",
+      "share_url": "https://x.ai/bot/4DlWbDs7ddKWhgpQ3l71a",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "NoShipSherlock",
+      "description": "Lost package desk: tracks missing/stalled shipments, carrier playbooks",
+      "category": "Life",
+      "twitter": "beyrouti",
+      "share_url": "https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Staging QA Tester",
+      "description": "QA walks staging like a real user; Pass/Partial/Fail reports",
+      "category": "Engineering",
+      "twitter": "njivy",
+      "share_url": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Web 3/Crypto",
+      "description": "Weekly P2E/Web3/crypto briefing, lessons, creator program help",
+      "category": "Money",
+      "twitter": "Raester41",
+      "share_url": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK",
+      "scraped_at": "2026-09-27"
     }
   ]
 }

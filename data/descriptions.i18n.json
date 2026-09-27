@@ -22196,5 +22196,60 @@
     "de": "Macht aus umsetzbaren Gmail-/Outlook-Mails Asana-Aufgaben",
     "pt-BR": "Transforma e-mails acionáveis do Gmail/Outlook em tarefas do Asana",
     "ru": "Превращает письма Gmail/Outlook, по которым надо действовать, в задачи Asana"
+  },
+  "https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH": {
+    "zh-CN": "每周 NFL 梦幻橄榄球副驾：首发/替补、豁免权、交易、FAAB",
+    "zh-TW": "每週 NFL 夢幻橄欖球副駕：先發／板凳、豁免權、交易、FAAB",
+    "ja": "週次の NFL ファンタジー副操縦士：先発／ベンチ、ウェイバー、トレード、FAAB",
+    "ko": "주간 NFL 판타지 부조종사: 선발/벤치, 웨이버, 트레이드, FAAB",
+    "es": "Copiloto semanal de fantasy NFL: start/sit, waivers, canjes y FAAB",
+    "fr": "Copilote fantasy NFL hebdomadaire : start/sit, waivers, trades, FAAB",
+    "de": "Wöchentlicher NFL-Fantasy-Copilot: Start/Sit, Waivers, Trades, FAAB",
+    "pt-BR": "Copiloto semanal de fantasy da NFL: start/sit, waivers, trocas e FAAB",
+    "ru": "Еженедельный второй пилот NFL fantasy: start/sit, waiver, обмены, FAAB"
+  },
+  "https://x.ai/bot/4DlWbDs7ddKWhgpQ3l71a": {
+    "zh-CN": "每日职位短名单、定制材料和申请草稿",
+    "zh-TW": "每日職缺短名單、客製材料和申請草稿",
+    "ja": "毎日の求人ショートリスト、合わせた資料、応募の下書き",
+    "ko": "매일 채용 숏리스트, 맞춤 자료, 지원서 초안",
+    "es": "Lista corta diaria de empleos, materiales a medida y borradores de postulación",
+    "fr": "Shortlist d’emplois quotidienne, documents sur mesure, brouillons de candidature",
+    "de": "Tägliche Job-Shortlist, zugeschnittene Unterlagen, Bewerbungsentwürfe",
+    "pt-BR": "Shortlist diária de vagas, materiais sob medida e rascunhos de candidatura",
+    "ru": "Ежедневный короткий список вакансий, материалы под вас и черновики откликов"
+  },
+  "https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY": {
+    "zh-CN": "丢件台：跟踪失踪或停滞的货件，以及承运商应对手册",
+    "zh-TW": "丟件台：追蹤失蹤或停滯的貨件，以及承運商應對手冊",
+    "ja": "紛失荷物デスク：行方不明・停滞した配送を追い、運送会社の手順書を持つ",
+    "ko": "분실 택배 데스크: 사라지거나 멈춘 배송을 추적하고 운송사 플레이북을 둡니다",
+    "es": "Mesa de paquetes perdidos: sigue envíos desaparecidos o parados y playbooks de transportistas",
+    "fr": "Desk colis perdu : suit les envois manquants ou bloqués, playbooks transporteurs",
+    "de": "Lost-Package-Desk: verfolgt vermisste oder stockende Sendungen, Carrier-Playbooks",
+    "pt-BR": "Mesa de pacotes perdidos: rastreia envios sumidos ou parados e playbooks das transportadoras",
+    "ru": "Стол потерянных посылок: следит за пропавшими и застрявшими отправлениями и плейбуками перевозчиков"
+  },
+  "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ": {
+    "zh-CN": "像真实用户一样走查预发环境；给出通过、部分通过或失败报告",
+    "zh-TW": "像真實使用者一樣走查預發環境；給出通過、部分通過或失敗報告",
+    "ja": "実ユーザーのようにステージングを歩き、Pass／Partial／Fail の報告を出す",
+    "ko": "실제 사용자처럼 스테이징을 걷고 Pass/Partial/Fail 보고서를 냅니다",
+    "es": "El QA recorre staging como un usuario real; informes Pass, Partial o Fail",
+    "fr": "La QA parcourt le staging comme un vrai utilisateur ; rapports Pass, Partial ou Fail",
+    "de": "QA geht Staging wie ein echter Nutzer ab; Berichte Pass, Partial oder Fail",
+    "pt-BR": "O QA percorre o staging como um usuário real; relatórios Pass, Partial ou Fail",
+    "ru": "QA проходит staging как настоящий пользователь; отчёты Pass, Partial или Fail"
+  },
+  "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK": {
+    "zh-CN": "每周 P2E/Web3/加密简报、课程，以及创作者计划协助",
+    "zh-TW": "每週 P2E/Web3/加密簡報、課程，以及創作者計畫協助",
+    "ja": "週次の P2E／Web3／クリプトブリーフ、レッスン、クリエイタープログラムの手伝い",
+    "ko": "주간 P2E/Web3/크립토 브리프, 레슨, 크리에이터 프로그램 도움",
+    "es": "Briefing semanal de P2E/Web3/cripto, lecciones y ayuda con programas de creadores",
+    "fr": "Brief hebdo P2E/Web3/crypto, leçons et aide aux programmes créateurs",
+    "de": "Wöchentliches P2E/Web3/Krypto-Briefing, Lektionen und Hilfe bei Creator-Programmen",
+    "pt-BR": "Briefing semanal de P2E/Web3/cripto, lições e ajuda com programas de criadores",
+    "ru": "Еженедельный бриф P2E/Web3/крипто, уроки и помощь с программами для авторов"
   }
 }
