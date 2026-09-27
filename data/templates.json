@@ -16055,6 +16055,94 @@
       "twitter": "shin_chan_ai",
       "share_url": "https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId",
       "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "What's Up Tonight Bot",
+      "description": "Nightly stargazing brief: go/no-go, clouds, Moon, planets, ISS",
+      "category": "Research",
+      "twitter": "stargazer_tim",
+      "share_url": "https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Agent Mail",
+      "description": "Template for giving your agent an email via AgentMail with triage",
+      "category": "Assistants",
+      "twitter": "JJEnglert",
+      "share_url": "https://x.ai/bot/j9Cm3GKLDCptPwwxZWbbD",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Tradbot",
+      "description": "Watches personal email and calendar so school forms and bills don't slip",
+      "category": "Life",
+      "twitter": "harriskennyx",
+      "share_url": "https://x.ai/bot/wOE4e95HNxhSbrzyLkSI-",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Tallyhand",
+      "description": "Every request tracked, one owner, nothing sent without your OK",
+      "category": "Assistants",
+      "twitter": "gitshipdone",
+      "share_url": "https://x.ai/bot/7fExIoCYvACOqWtnY0U0o",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Shipcall",
+      "description": "SHIP / FIX FIRST / HOLD gate before anything goes out",
+      "category": "Assistants",
+      "twitter": "gitshipdone",
+      "share_url": "https://x.ai/bot/heDLKYR7XvlUURWPVYPZD",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Briefkeep",
+      "description": "Brief going in, commitments logged coming out",
+      "category": "Assistants",
+      "twitter": "gitshipdone",
+      "share_url": "https://x.ai/bot/JlW3e0RAMYLcjQ5a32rCY",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Tesseract Video Editor",
+      "description": "Edits footage into finished videos with local Tesseract",
+      "category": "Creative",
+      "twitter": "theaaron",
+      "share_url": "https://x.ai/bot/11IubmXmwiQg8UdZY41SK",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Bound",
+      "description": "Weekly FastBound A&D auditor for blank TTSN sales",
+      "category": "Money",
+      "twitter": "Jasonturcotte",
+      "share_url": "https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "FUTU 브로커 주식 거래 봇",
+      "description": "Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇",
+      "category": "Money",
+      "twitter": "brandonchung75",
+      "share_url": "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "XChat 사례 큐레이터 봇",
+      "description": "X에서 Grok Bot 활용 사례를 찾아 요약·번역해 XChat 그룹에 올림",
+      "category": "Research",
+      "twitter": "brandonchung75",
+      "share_url": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+      "scraped_at": "2026-09-27"
+    },
+    {
+      "name": "Asana Task Master",
+      "description": "Turns actionable Gmail/Outlook emails into Asana tasks",
+      "category": "Assistants",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl",
+      "scraped_at": "2026-09-27"
     }
   ]
 }

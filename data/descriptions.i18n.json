@@ -22075,5 +22075,126 @@
     "de": "Selbstbeobachtungs-Bot, der alte Notizen in Fakt, Deutung und unbestätigt teilt, metakognitiv wird und den nächsten Zug nennt",
     "pt-BR": "Bot de auto-observação que separa notas antigas em fato, interpretação e não confirmado, faz metacognição e propõe o próximo passo",
     "ru": "Бот самонаблюдения: делит прошлые заметки на факт, интерпретацию и неподтверждённое, делает метакогницию и предлагает следующий ход"
+  },
+  "https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE": {
+    "zh-CN": "夜间观星简报：去或不去、云、月亮、行星、国际空间站",
+    "zh-TW": "夜間觀星簡報：去或不去、雲、月亮、行星、國際太空站",
+    "ja": "夜の天体観測ブリーフ：行く／行かない、雲、月、惑星、ISS",
+    "ko": "밤 별 관측 브리프: 갈지 말지, 구름, 달, 행성, ISS",
+    "es": "Brief nocturno de observación: ir o no, nubes, Luna, planetas, ISS",
+    "fr": "Brief nocturne d’observation : go/no-go, nuages, Lune, planètes, ISS",
+    "de": "Nächtliches Sternbeobachtungs-Briefing: go/no-go, Wolken, Mond, Planeten, ISS",
+    "pt-BR": "Brief noturno de observação: ir ou não, nuvens, Lua, planetas, ISS",
+    "ru": "Ночной бриф для наблюдений: идти или нет, облака, Луна, планеты, МКС"
+  },
+  "https://x.ai/bot/j9Cm3GKLDCptPwwxZWbbD": {
+    "zh-CN": "通过 AgentMail 给你的代理一个邮箱，并做分拣",
+    "zh-TW": "透過 AgentMail 給你的代理一個信箱，並做分揀",
+    "ja": "AgentMail でエージェントにメールを渡し、仕分けするテンプレート",
+    "ko": "AgentMail로 에이전트에게 이메일을 주고 분류하는 템플릿",
+    "es": "Plantilla para dar a tu agente un correo vía AgentMail, con triaje",
+    "fr": "Modèle pour donner un e-mail à votre agent via AgentMail, avec tri",
+    "de": "Vorlage, deinem Agenten per AgentMail eine E-Mail zu geben, mit Triage",
+    "pt-BR": "Template para dar um e-mail ao seu agente via AgentMail, com triagem",
+    "ru": "Шаблон, чтобы дать агенту почту через AgentMail, с разбором входящих"
+  },
+  "https://x.ai/bot/wOE4e95HNxhSbrzyLkSI-": {
+    "zh-CN": "看着个人邮件和日历，不让学校表格和账单漏掉",
+    "zh-TW": "看著個人郵件和行事曆，不讓學校表格和帳單漏掉",
+    "ja": "個人メールとカレンダーを見て、学校の書類と請求を漏らさない",
+    "ko": "개인 메일과 캘린더를 봐서 학교 양식과 청구서가 빠지지 않게 합니다",
+    "es": "Vigila el correo personal y el calendario para que no se escapen formularios escolares ni facturas",
+    "fr": "Surveille le courrier personnel et le calendrier pour que formulaires d’école et factures ne passent pas",
+    "de": "Beobachtet private Mail und Kalender, damit Schulformulare und Rechnungen nicht durchrutschen",
+    "pt-BR": "Observa o e-mail pessoal e o calendário para formulários da escola e contas não escaparem",
+    "ru": "Следит за личной почтой и календарём, чтобы школьные формы и счета не проскочили"
+  },
+  "https://x.ai/bot/7fExIoCYvACOqWtnY0U0o": {
+    "zh-CN": "每个请求都有跟踪、一个负责人，未经你同意不发出任何东西",
+    "zh-TW": "每個請求都有追蹤、一個負責人，未經你同意不發出任何東西",
+    "ja": "すべての依頼を追跡し、担当は一人。あなたの OK なしには何も送らない",
+    "ko": "모든 요청을 추적하고 담당은 한 명. 당신의 OK 없이는 아무것도 보내지 않습니다",
+    "es": "Cada solicitud queda registrada, un solo dueño, nada se envía sin tu OK",
+    "fr": "Chaque demande est suivie, un seul owner, rien n’est envoyé sans votre OK",
+    "de": "Jede Anfrage wird verfolgt, ein Owner, nichts geht raus ohne dein OK",
+    "pt-BR": "Cada pedido rastreado, um dono, nada enviado sem o seu OK",
+    "ru": "Каждый запрос учтён, один владелец, ничего не уходит без вашего OK"
+  },
+  "https://x.ai/bot/heDLKYR7XvlUURWPVYPZD": {
+    "zh-CN": "任何东西发出前的 SHIP / FIX FIRST / HOLD 门禁",
+    "zh-TW": "任何東西發出前的 SHIP / FIX FIRST / HOLD 門禁",
+    "ja": "何かを出す前の SHIP / FIX FIRST / HOLD ゲート",
+    "ko": "무엇이든 나가기 전의 SHIP / FIX FIRST / HOLD 게이트",
+    "es": "Puerta SHIP / FIX FIRST / HOLD antes de que salga nada",
+    "fr": "Porte SHIP / FIX FIRST / HOLD avant que quoi que ce soit ne sorte",
+    "de": "SHIP-/FIX-FIRST-/HOLD-Gate, bevor irgendetwas rausgeht",
+    "pt-BR": "Portão SHIP / FIX FIRST / HOLD antes de qualquer coisa sair",
+    "ru": "Ворота SHIP / FIX FIRST / HOLD, прежде чем что-либо уйдёт наружу"
+  },
+  "https://x.ai/bot/JlW3e0RAMYLcjQ5a32rCY": {
+    "zh-CN": "简报进去，承诺记下来出来",
+    "zh-TW": "簡報進去，承諾記下來出來",
+    "ja": "ブリーフが入って、コミットメントが記録されて出てくる",
+    "ko": "브리프가 들어가고, 약속이 기록되어 나옵니다",
+    "es": "El brief entra; los compromisos quedan registrados al salir",
+    "fr": "Le brief entre, les engagements sont notés à la sortie",
+    "de": "Brief rein, Zusagen werden beim Rauskommen protokolliert",
+    "pt-BR": "O brief entra; os compromissos saem registrados",
+    "ru": "Бриф на входе, обязательства записаны на выходе"
+  },
+  "https://x.ai/bot/11IubmXmwiQg8UdZY41SK": {
+    "zh-CN": "用本地 Tesseract 把素材剪成成片",
+    "zh-TW": "用本地 Tesseract 把素材剪成成片",
+    "ja": "ローカルの Tesseract で素材を完成動画に編集する",
+    "ko": "로컬 Tesseract로 영상을 완성 영상으로 편집합니다",
+    "es": "Edita material en videos terminados con Tesseract local",
+    "fr": "Monte les rushes en vidéos finies avec Tesseract en local",
+    "de": "Schneidet Material mit lokalem Tesseract zu fertigen Videos",
+    "pt-BR": "Edita material em vídeos prontos com o Tesseract local",
+    "ru": "Монтирует материал в готовые видео локальным Tesseract"
+  },
+  "https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh": {
+    "zh-CN": "每周 FastBound A&D 审计，查空白 TTSN 销售",
+    "zh-TW": "每週 FastBound A&D 審計，查空白 TTSN 銷售",
+    "ja": "空白の TTSN 販売を見る、週次の FastBound A&D 監査",
+    "ko": "빈 TTSN 판매를 보는 주간 FastBound A&D 감사",
+    "es": "Auditor semanal de FastBound A&D para ventas TTSN en blanco",
+    "fr": "Audit hebdomadaire FastBound A&D pour les ventes TTSN vierges",
+    "de": "Wöchentlicher FastBound-A&D-Prüfer für leere TTSN-Verkäufe",
+    "pt-BR": "Auditor semanal FastBound A&D para vendas TTSN em branco",
+    "ru": "Еженедельный аудитор FastBound A&D для пустых продаж TTSN"
+  },
+  "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r": {
+    "zh-CN": "用 Futu OpenD 下指定订单，成交后通知的股票交易 Bot",
+    "zh-TW": "用 Futu OpenD 下指定訂單，成交後通知的股票交易 Bot",
+    "ja": "Futu OpenD で指定注文を入れ、約定したら知らせる株式取引ボット",
+    "ko": "Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇",
+    "es": "Bot de trading que pone órdenes indicadas con Futu OpenD y avisa cuando se ejecutan",
+    "fr": "Bot de trading qui place des ordres indiqués via Futu OpenD et prévient à l’exécution",
+    "de": "Aktien-Trading-Bot, der über Futu OpenD angegebene Orders setzt und bei Ausführung meldet",
+    "pt-BR": "Bot de trading que coloca ordens indicadas no Futu OpenD e avisa quando executam",
+    "ru": "Бот торговли акциями: ставит указанные заявки через Futu OpenD и сообщает об исполнении"
+  },
+  "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi": {
+    "zh-CN": "在 X 上找 Grok Bot 用法案例，摘要并翻译后发到 XChat 群",
+    "zh-TW": "在 X 上找 Grok Bot 用法案例，摘要並翻譯後發到 XChat 群",
+    "ja": "X で Grok Bot の活用事例を探し、要約・翻訳して XChat グループに上げる",
+    "ko": "X에서 Grok Bot 활용 사례를 찾아 요약·번역해 XChat 그룹에 올림",
+    "es": "Busca en X casos de uso de Grok Bot, los resume y traduce, y los sube a un grupo de XChat",
+    "fr": "Cherche sur X des cas d’usage Grok Bot, les résume et traduit, puis les poste dans un groupe XChat",
+    "de": "Sucht auf X Grok-Bot-Anwendungsfälle, fasst sie zusammen, übersetzt sie und postet sie in eine XChat-Gruppe",
+    "pt-BR": "Procura no X casos de uso do Grok Bot, resume e traduz, e sobe num grupo do XChat",
+    "ru": "Ищет в X примеры использования Grok Bot, кратко переводит и публикует в группу XChat"
+  },
+  "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl": {
+    "zh-CN": "把 Gmail/Outlook 里可执行的邮件变成 Asana 任务",
+    "zh-TW": "把 Gmail/Outlook 裡可執行的郵件變成 Asana 任務",
+    "ja": "対応が必要な Gmail／Outlook のメールを Asana のタスクにする",
+    "ko": "조치가 필요한 Gmail/Outlook 메일을 Asana 작업으로 바꿉니다",
+    "es": "Convierte correos accionables de Gmail/Outlook en tareas de Asana",
+    "fr": "Transforme les e-mails actionnables Gmail/Outlook en tâches Asana",
+    "de": "Macht aus umsetzbaren Gmail-/Outlook-Mails Asana-Aufgaben",
+    "pt-BR": "Transforma e-mails acionáveis do Gmail/Outlook em tarefas do Asana",
+    "ru": "Превращает письма Gmail/Outlook, по которым надо действовать, в задачи Asana"
   }
 }
