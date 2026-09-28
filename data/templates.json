@@ -17367,6 +17367,14 @@
       "twitter": "kaixinluo6268",
       "share_url": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
       "scraped_at": "2026-09-28"
+    },
+    {
+      "name": "Promptsmithbot",
+      "description": "Interviews you about your goal, then writes a complete prompt optimized for Anthropic's Claude Opus 5.5, following the official prompting guides. Runs a weekly check of the guides for changes.",
+      "category": "Engineering",
+      "twitter": null,
+      "share_url": "https://x.ai/bot/Y88UF-JhSZfG5q_L05XnQ",
+      "scraped_at": "2026-09-28"
     }
   ]
 }
