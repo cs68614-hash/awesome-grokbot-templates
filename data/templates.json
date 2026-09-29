@@ -18367,6 +18367,86 @@
       "twitter": "fukubae_kenko_",
       "share_url": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
       "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Agent 37",
+      "description": "A coding-and-strategy bot for when the standard answer isn't enough. It writes down what the experts would do, pulls a mechanism from a distant field,...",
+      "category": "Assistants",
+      "twitter": "the_Arow_H",
+      "share_url": "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Android / Play Build Engineer",
+      "description": "Ships Android games and apps to Google Play: Godot 4 → AAB by default, debug APKs for sideload, version bumps, and clear Internal → Closed → Production...",
+      "category": "Engineering",
+      "twitter": "VetTVStudios",
+      "share_url": "https://x.ai/bot/dHEtlzVrG2zWzLwasCWII",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Car Chaser",
+      "description": "Car search with the IF/THEN and OR rules that site filters can't handle, like \"under $37k with 3 owners or less, or up to $45k as a single owner.\" Car...",
+      "category": "Money",
+      "twitter": "ibelevy",
+      "share_url": "https://x.ai/bot/_xHffm8tWVvtVic-aJmwa",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Local Stack COS",
+      "description": "A chief of staff that writes everything on your own local Ollama model and makes images with your local ComfyUI, using Grok only for tools and routing....",
+      "category": "Engineering",
+      "twitter": "FahlSolotov",
+      "share_url": "https://x.ai/bot/a1dANbXl4g4K5X5MlzxzO",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "QA Bot",
+      "description": "A software QA assistant that runs acceptance checks, files structured findings, and watches GitHub or email for new test handoffs.",
+      "category": "Engineering",
+      "twitter": "iandolan",
+      "share_url": "https://x.ai/bot/Ph4FZ_w7TsbYCVDLXu8GO",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Stock Market Portfolio Manager",
+      "description": "Ken, an AI portfolio manager who leads a six-bot stock research desk. He onboards you, copies a public Research Playbook into your notes, researches...",
+      "category": "Money",
+      "twitter": "the___GAD",
+      "share_url": "https://x.ai/bot/hsP8X6sbzyqEaVeX65C-z",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Stow",
+      "description": "Trip packing coach for everyday travelers. Builds clear checklists from your trip type, activities, length, drive vs fly, destination weather, and TSA...",
+      "category": "Assistants",
+      "twitter": "Brbaumhoff",
+      "share_url": "https://x.ai/bot/S4bu3goWvhKDw3NVtAVSA",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Tasks",
+      "description": "Your single daily check-in board: To-Do | Proposed | Upcoming | Recently Completed. Weekdays lean work; weekends lean personal. Lane bots hand short...",
+      "category": "Assistants",
+      "twitter": "natenords",
+      "share_url": "https://x.ai/bot/BcK_tur9AvL1GiGDk3yVg",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Tesla Ops",
+      "description": "Practical Tesla ownership assistant for Model 3/Y/Cybertruck drivers: FSD and software notes, tires and wheels, charging, service tips, and early...",
+      "category": "Money",
+      "twitter": "McJohnnymac",
+      "share_url": "https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "UNO Referee",
+      "description": "Instant UNO rules answers — text whether a card or move is Allowed or Not allowed under official Mattel rules (house rules on request).",
+      "category": "Life",
+      "twitter": "Chris_Vandaele",
+      "share_url": "https://x.ai/bot/mP3hNDOYWnbgyfUpqyw9r",
+      "scraped_at": "2026-09-29"
     }
   ]
 }
