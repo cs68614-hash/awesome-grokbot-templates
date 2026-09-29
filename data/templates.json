@@ -18447,6 +18447,198 @@
       "twitter": "Chris_Vandaele",
       "share_url": "https://x.ai/bot/mP3hNDOYWnbgyfUpqyw9r",
       "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Globetrotter",
+      "description": "A personal travel assistant that finds flight, hotel, and rental confirmations in your email and turns them into one clean itinerary per trip, flagging...",
+      "category": "Life",
+      "twitter": "valdagher",
+      "share_url": "https://x.ai/bot/fAFQVx6a_2eigk9eA3soI",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Emai",
+      "description": "An inbox-triage assistant that clears promos, newsletters, and bulk digests out of your Gmail or webmail every weekday by archiving them. It leaves real...",
+      "category": "Assistants",
+      "twitter": "arthur_win8",
+      "share_url": "https://x.ai/bot/iLxlC_78W0dUaB7La8T5p",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Cloudflare",
+      "description": "Runs your Cloudflare account through the new `cf` CLI: DNS, zones, SSL, WAF, Access, Workers, Pages, R2, D1, KV, and Queues. It reads first, shows a...",
+      "category": "Engineering",
+      "twitter": "JS_Zao",
+      "share_url": "https://x.ai/bot/8PJjDLzjuEt3xfhKrtQKy",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Nam",
+      "description": "Creates cute, short bot names from the words and functions you pick, then sets up the bot when you like the name.",
+      "category": "Creative",
+      "twitter": "arthur_win8",
+      "share_url": "https://x.ai/bot/I09yihGvSkP2wfE1dET9Z",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Dave Ramsey",
+      "description": "A household budgeting coach that builds a zero-based budget for each credit card statement cycle from your take-home income and keeps you on track. It...",
+      "category": "Money",
+      "twitter": "wrowston",
+      "share_url": "https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Meeting Actions",
+      "description": "For people who leave meetings with loose ends. Turns notes into an action list and optional draft follow-ups. Never sends without your yes.",
+      "category": "Assistants",
+      "twitter": "AnthonyDo",
+      "share_url": "https://x.ai/bot/r0ytQbGZt4MuaE1XoH312",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "SEO Content Desk (seodraft)",
+      "description": "An SEO content desk that writes blog posts without AI slop: topics with real search volume, drafts built from your own evidence, and quality checks that...",
+      "category": "Sales",
+      "twitter": "chorch_md",
+      "share_url": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Job Application Helper",
+      "description": "Finds jobs that fit you and tailors your CV, cover letters, and application answers to each posting. For anyone job hunting who wants stronger...",
+      "category": "Life",
+      "twitter": "Queenity78",
+      "share_url": "https://x.ai/bot/HBd90B7Y4kjZcFe7TveCw",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Job Hunter And Monitorer",
+      "description": "Finds and tracks target job roles on a schedule, updates a live tracker with real openings and status changes only. Pairs with Compute Capacity Steward,...",
+      "category": "Life",
+      "twitter": "PokornyTheodor",
+      "share_url": "https://x.ai/bot/_TJlNN5QDM5qVGJD_FI3c",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Review Reply Craft",
+      "description": "Helps small local businesses write human-sounding Google review replies and turn goodwill into paid reply packs.",
+      "category": "Sales",
+      "twitter": "Omenfinancial",
+      "share_url": "https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Jevopus",
+      "description": "Runs big jobs on ChatGPT Codex and Claude Code seats on its own computer. Jev picks the best and cheapest model for each task.",
+      "category": "Engineering",
+      "twitter": "0xCodila",
+      "share_url": "https://x.ai/bot/DuR7hXCsNBslEHmUG1vOZ",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Listing Lab",
+      "description": "Sell-side eBay and Craigslist specialist: research comps, improve listing photos, price with Best Offer floors, and cross-post bulky items for local...",
+      "category": "Money",
+      "twitter": "allinjoe",
+      "share_url": "https://x.ai/bot/PLHgxWWERqM2CgC98Aikh",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Laggy8",
+      "description": "A $100k soft-cap Mag8 laggard sleeve: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR...",
+      "category": "Money",
+      "twitter": "SachivM99",
+      "share_url": "https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Listing Polish",
+      "description": "Rewrites Airbnb/VRBO and Etsy listings so they convert without sounding spammy. Paste your title and description for sharper titles, a clean...",
+      "category": "Sales",
+      "twitter": "Omenfinancial",
+      "share_url": "https://x.ai/bot/v-rXX1htNDDMR110ZovcW",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Notes → Agenda",
+      "description": "Paste rough meeting notes or a scrubbed transcript. Get a clean draft — summary, decisions, action items with owners/due dates when stated, and open...",
+      "category": "Assistants",
+      "twitter": "MisledFan",
+      "share_url": "https://x.ai/bot/6_vKE3XpHQg0l3UxERFsp",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Botsitter",
+      "description": "Makes sure other bots actually finished. Checks their artifacts, pokes holes if needed, and only then do you call it done.",
+      "category": "Engineering",
+      "twitter": "AustinBrown1776",
+      "share_url": "https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "The Posting Tool",
+      "description": "Schedules your short-form videos and posts to X, Threads, TikTok, Instagram, Pinterest and YouTube from your own signed-in browser, using each app's...",
+      "category": "Sales",
+      "twitter": "CryptoBandit100",
+      "share_url": "https://x.ai/bot/VQYoIcMIuXM4w80F8T8SN",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "EncycloNetBot",
+      "description": "Privacy-first exploratory research companion for Grok Bot. Bridges social/web scientific, artistic, and philosophical discourse with academic-grade...",
+      "category": "Research",
+      "twitter": "gflucifer0",
+      "share_url": "https://x.ai/bot/WCjeMaiYe07AwZCdl3GlI",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Chief",
+      "description": "Un jefe de gabinete personal para founders con varios proyectos. Es tu primer contacto: resuelve, deriva o coordina al resto de tus bots, y cada día...",
+      "category": "Assistants",
+      "twitter": "franperez_fp",
+      "share_url": "https://x.ai/bot/8XD1HkmamSpzjZdBZKFSG",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Angry email → Soft reply",
+      "description": "Paste a blunt or angry email draft and optional tone. Get one clearer, more professional rewrite that keeps your facts, ask, and boundary. You copy and...",
+      "category": "Assistants",
+      "twitter": "MisledFan",
+      "share_url": "https://x.ai/bot/-ZHPJfwGTosEKmzelCSOH",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "VidBoi",
+      "description": "Get a video done fast from a chat, a call, or your channels. Generate with Runway or Higgsfield in chat, review a contact sheet to regen or swap shots,...",
+      "category": "Creative",
+      "twitter": "connorgrasso_",
+      "share_url": "https://x.ai/bot/dRpUAWpjMusdTw0oy4re3",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Weekly One-Pager",
+      "description": "Paste your week's numbers and notes and get a one-page business report, with measured figures kept apart from estimates and no gaps filled with guesses.",
+      "category": "Money",
+      "twitter": "AMFoxtrot",
+      "share_url": "https://x.ai/bot/JB6agCG1OcwHqjwIrkl_O",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Spec → Listing",
+      "description": "Paste verified product facts and get a truthful listing draft — title, short description, key features, and anything missing. You copy to the store....",
+      "category": "Sales",
+      "twitter": "MisledFan",
+      "share_url": "https://x.ai/bot/4uk1wr4vgC4zROKbvSZUP",
+      "scraped_at": "2026-09-29"
+    },
+    {
+      "name": "Week → Plan",
+      "description": "Paste priorities, fixed commitments, work blocks, deadlines, and energy limits. Get a realistic day-by-day week draft, a short priority list, and a...",
+      "category": "Assistants",
+      "twitter": "MisledFan",
+      "share_url": "https://x.ai/bot/sihBQMCqnaHpvRI0B0uRo",
+      "scraped_at": "2026-09-29"
     }
   ]
 }
