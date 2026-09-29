@@ -25254,5 +25254,115 @@
     "de": "Schick ein Foto von dem, was du heute gegessen hast: sucht auf X passende Rezepte für Frühstück, Mittag- und Abendessen morgen, mit Screenshot des Posts. Für alle, die die Nährstoffbalance verbessern wollen.",
     "pt-BR": "Envie uma foto do que você comeu hoje e ele busca no X receitas que cabem no café, almoço e jantar de amanhã, com captura do post. Para quem quer equilibrar a nutrição.",
     "ru": "Пришлите фото того, что вы ели сегодня: ищет в X рецепты на завтрак, обед и ужин завтра и прикладывает скрин поста. Для тех, кто хочет выровнять баланс питания."
+  },
+  "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw": {
+    "zh-CN": "当标准答案不够用时的编码与策略 bot。它写下专家会怎么做，并从遥远领域抽出一个机制…",
+    "zh-TW": "當標準答案不夠用時的編碼與策略 bot。它寫下專家會怎麼做，並從遙遠領域抽出一個機制…",
+    "ja": "標準の答えでは足りないときのコーディングと戦略のボット。専門家ならどうするかを書き、遠い分野から仕組みを一つ引く…",
+    "ko": "표준 답이 부족할 때의 코딩·전략 봇. 전문가가 할 일을 적고, 먼 분야에서 메커니즘을 하나 가져옵니다…",
+    "es": "Un bot de código y estrategia para cuando la respuesta estándar no basta. Anota lo que harían los expertos y saca un mecanismo de un campo lejano...",
+    "fr": "Un bot code et stratégie pour quand la réponse standard ne suffit pas. Il note ce que feraient les experts et tire un mécanisme d’un domaine lointain...",
+    "de": "Ein Coding-und-Strategie-Bot für den Fall, dass die Standardantwort nicht reicht. Er schreibt auf, was Experten täten, und holt einen Mechanismus aus einem fernen Feld...",
+    "pt-BR": "Um bot de código e estratégia para quando a resposta padrão não basta. Ele anota o que os especialistas fariam e puxa um mecanismo de um campo distante...",
+    "ru": "Бот кода и стратегии на случай, когда стандартного ответа мало. Записывает, что сделали бы эксперты, и берёт механизм из далёкой области..."
+  },
+  "https://x.ai/bot/dHEtlzVrG2zWzLwasCWII": {
+    "zh-CN": "把 Android 游戏和应用发到 Google Play：默认 Godot 4 → AAB，侧载用调试 APK，版本号递增，以及清楚的 Internal → Closed → Production…",
+    "zh-TW": "把 Android 遊戲和應用發到 Google Play：預設 Godot 4 → AAB，側載用除錯 APK，版本號遞增，以及清楚的 Internal → Closed → Production…",
+    "ja": "Android のゲームとアプリを Google Play へ出す。既定は Godot 4 → AAB、サイドロード用デバッグ APK、バージョン上げ、Internal → Closed → Production を明確に…",
+    "ko": "Android 게임과 앱을 Google Play에 올립니다. 기본은 Godot 4 → AAB, 사이드로드용 디버그 APK, 버전 올리기, Internal → Closed → Production을 분명히…",
+    "es": "Publica juegos y apps Android en Google Play: Godot 4 → AAB por defecto, APKs de depuración para sideload, subidas de versión y un Internal → Closed → Production claro...",
+    "fr": "Livre jeux et apps Android sur Google Play : Godot 4 → AAB par défaut, APK de debug pour le sideload, bumps de version, et un Internal → Closed → Production clair...",
+    "de": "Liefert Android-Spiele und -Apps an Google Play: Godot 4 → AAB standardmäßig, Debug-APKs zum Sideload, Versionserhöhungen und klares Internal → Closed → Production...",
+    "pt-BR": "Publica jogos e apps Android na Google Play: Godot 4 → AAB por padrão, APKs de debug para sideload, bumps de versão e um Internal → Closed → Production claro...",
+    "ru": "Выкладывает Android-игры и приложения в Google Play: по умолчанию Godot 4 → AAB, отладочные APK для sideload, подъём версии и ясный путь Internal → Closed → Production..."
+  },
+  "https://x.ai/bot/_xHffm8tWVvtVic-aJmwa": {
+    "zh-CN": "用网站筛选器做不到的 IF/THEN 和 OR 规则搜车，例如“3 个及以下车主且低于 3.7 万美元，或单一车主可到 4.5 万美元。”车…",
+    "zh-TW": "用網站篩選器做不到的 IF/THEN 和 OR 規則搜車，例如「3 個及以下車主且低於 3.7 萬美元，或單一車主可到 4.5 萬美元。」車…",
+    "ja": "サイトのフィルタでは扱えない IF/THEN と OR で車を探す。例：「3万7千ドル未満でオーナー3人以下、または単一オーナーなら4万5千ドルまで。」車…",
+    "ko": "사이트 필터가 못 하는 IF/THEN과 OR 규칙으로 차를 찾습니다. 예: \"오너 3명 이하에 3만7천 달러 미만, 또는 단일 오너면 4만5천 달러까지.\" 차…",
+    "es": "Búsqueda de autos con reglas IF/THEN y OR que los filtros de los sitios no pueden, como \"menos de $37k con 3 dueños o menos, o hasta $45k si es un solo dueño.\" Auto...",
+    "fr": "Recherche auto avec des règles IF/THEN et OR que les filtres des sites ne gèrent pas, comme « sous 37 k$ avec 3 propriétaires ou moins, ou jusqu’à 45 k$ en propriétaire unique. » Voiture...",
+    "de": "Autosuche mit IF/THEN- und OR-Regeln, die Seitenfilter nicht können, etwa „unter 37.000 $ mit 3 Haltern oder weniger, oder bis 45.000 $ als Einzelhalter.“ Auto...",
+    "pt-BR": "Busca de carro com regras IF/THEN e OR que os filtros dos sites não aguentam, como \"abaixo de US$ 37 mil com 3 donos ou menos, ou até US$ 45 mil se for um único dono.\" Carro...",
+    "ru": "Поиск авто с правилами IF/THEN и OR, которые фильтры сайтов не умеют, например «до $37k и не больше 3 владельцев, или до $45k у одного владельца». Авто..."
+  },
+  "https://x.ai/bot/a1dANbXl4g4K5X5MlzxzO": {
+    "zh-CN": "幕僚长：所有文字写在你自己的本地 Ollama 模型上，图片用你本地的 ComfyUI，Grok 只用于工具和路由…",
+    "zh-TW": "幕僚長：所有文字寫在你自己的本地 Ollama 模型上，圖片用你本地的 ComfyUI，Grok 只用於工具和路由…",
+    "ja": "チーフオブスタッフ。文章は自分のローカル Ollama に書き、画像はローカル ComfyUI。Grok はツールと振り分けだけ…",
+    "ko": "비서실장. 글은 전부 당신 로컬 Ollama 모델에 쓰고, 이미지는 로컬 ComfyUI로 만들며, Grok은 도구와 라우팅에만…",
+    "es": "Un jefe de gabinete que escribe todo en tu propio modelo local de Ollama y hace imágenes con tu ComfyUI local, usando Grok solo para herramientas y enrutado...",
+    "fr": "Un chef de cabinet qui écrit tout sur votre propre modèle Ollama local et fait les images avec votre ComfyUI local, Grok servant seulement aux outils et au routage...",
+    "de": "Ein Stabschef, der alles auf deinem eigenen lokalen Ollama-Modell schreibt und Bilder mit deinem lokalen ComfyUI macht, Grok nur für Tools und Routing...",
+    "pt-BR": "Um chefe de gabinete que escreve tudo no seu próprio modelo Ollama local e faz imagens com o seu ComfyUI local, usando o Grok só para ferramentas e roteamento...",
+    "ru": "Начальник штаба, который пишет всё на вашей локальной модели Ollama и делает картинки локальным ComfyUI, а Grok использует только для инструментов и маршрутизации..."
+  },
+  "https://x.ai/bot/Ph4FZ_w7TsbYCVDLXu8GO": {
+    "zh-CN": "软件 QA 助手：跑验收检查，归档结构化发现，并盯着 GitHub 或邮件里新的测试交接。",
+    "zh-TW": "軟體 QA 助手：跑驗收檢查，歸檔結構化發現，並盯著 GitHub 或郵件裡新的測試交接。",
+    "ja": "ソフトウェア QA 助手。受け入れ確認を回し、構造化した所見を起票し、GitHub かメールで新しいテスト引き継ぎを見張る。",
+    "ko": "소프트웨어 QA 도우미. 인수 검사를 돌리고, 구조화된 발견을 기록하며, GitHub나 메일에서 새 테스트 인계를 지켜봅니다.",
+    "es": "Un asistente de QA de software que corre comprobaciones de aceptación, archiva hallazgos estructurados y vigila GitHub o el correo por nuevos traspasos de prueba.",
+    "fr": "Un assistant QA logiciel qui lance les contrôles d’acceptation, dépose des constats structurés et surveille GitHub ou le mail pour les nouvelles passations de test.",
+    "de": "Ein Software-QA-Assistent, der Abnahmeprüfungen fährt, strukturierte Befunde ablegt und GitHub oder Mail nach neuen Testübergaben beobachtet.",
+    "pt-BR": "Um assistente de QA de software que roda checagens de aceitação, registra achados estruturados e vigia GitHub ou e-mail por novas passagens de teste.",
+    "ru": "Помощник по QA: гоняет приёмочные проверки, заводит структурированные находки и следит за GitHub или почтой на новые передачи тестов."
+  },
+  "https://x.ai/bot/hsP8X6sbzyqEaVeX65C-z": {
+    "zh-CN": "Ken，一位带领六人股票研究台的 AI 组合经理。他帮你入职，把一份公开的 Research Playbook 抄进你的笔记，并研究…",
+    "zh-TW": "Ken，一位帶領六人股票研究台的 AI 組合經理。他幫你入職，把一份公開的 Research Playbook 抄進你的筆記，並研究…",
+    "ja": "Ken。6体の株式調査デスクを率いる AI ポートフォリオマネジャー。オンボードし、公開の Research Playbook をノートへ写し、調査する…",
+    "ko": "Ken, 여섯 봇 주식 리서치 데스크를 이끄는 AI 포트폴리오 매니저. 온보딩하고, 공개 Research Playbook을 노트에 복사하며, 조사…",
+    "es": "Ken, un gestor de cartera de IA que dirige un escritorio de investigación de acciones de seis bots. Te incorpora, copia un Research Playbook público en tus notas, investiga...",
+    "fr": "Ken, un gérant de portefeuille IA qui dirige un bureau de recherche actions à six bots. Il vous onboard, copie un Research Playbook public dans vos notes, recherche...",
+    "de": "Ken, ein KI-Portfoliomanager, der einen Aktien-Recherche-Desk aus sechs Bots leitet. Er onboardet dich, kopiert ein öffentliches Research Playbook in deine Notizen, recherchiert...",
+    "pt-BR": "Ken, um gestor de portfólio de IA que lidera uma mesa de pesquisa de ações com seis bots. Ele faz seu onboarding, copia um Research Playbook público nas suas notas, pesquisa...",
+    "ru": "Ken, ИИ-управляющий портфелем, который ведёт стол из шести ботов по акциям. Он проводит онбординг, копирует публичный Research Playbook в ваши заметки, исследует..."
+  },
+  "https://x.ai/bot/S4bu3goWvhKDw3NVtAVSA": {
+    "zh-CN": "给日常旅行者的打包教练。按行程类型、活动、天数、开车还是飞行、目的地天气和 TSA…做出清楚的清单",
+    "zh-TW": "給日常旅行者的打包教練。按行程類型、活動、天數、開車還是飛行、目的地天氣和 TSA…做出清楚的清單",
+    "ja": "ふだんの旅行者向け荷造りのコーチ。旅行の種類、行動、日数、車か飛行機か、行き先の天気、TSA…から明確なチェックリストを作る",
+    "ko": "일상 여행자를 위한 짐 싸기 코치. 여행 유형, 활동, 기간, 운전 대 비행, 목적지 날씨, TSA…로 분명한 체크리스트를 만듭니다",
+    "es": "Coach de equipaje para viajeros de todos los días. Arma listas claras a partir del tipo de viaje, actividades, duración, coche o avión, clima del destino y TSA...",
+    "fr": "Coach de bagages pour voyageurs du quotidien. Construit des listes claires à partir du type de voyage, des activités, de la durée, voiture ou avion, météo de destination et TSA...",
+    "de": "Pack-Coach für Alltagsreisende. Baut klare Checklisten aus Reiseart, Aktivitäten, Länge, Auto oder Flug, Wetter am Ziel und TSA...",
+    "pt-BR": "Técnico de mala para viajantes do dia a dia. Monta checklists claros a partir do tipo de viagem, atividades, duração, carro ou avião, clima do destino e TSA...",
+    "ru": "Тренер по сборам для обычных путешественников. Собирает ясные списки из типа поездки, занятий, длины, машина или самолёт, погоды в пункте и TSA..."
+  },
+  "https://x.ai/bot/BcK_tur9AvL1GiGDk3yVg": {
+    "zh-CN": "你唯一的每日签到板：待办 | 提议 | 即将到来 | 最近完成。工作日偏工作，周末偏私人。车道 bot 交来短的…",
+    "zh-TW": "你唯一的每日簽到板：待辦 | 提議 | 即將到來 | 最近完成。工作日偏工作，週末偏私人。車道 bot 交來短的…",
+    "ja": "一日一つのチェックインボード。To-Do | Proposed | Upcoming | Recently Completed。平日は仕事寄り、週末は私生活寄り。レーンのボットが短い…を渡す",
+    "ko": "하루 하나의 체크인 보드: To-Do | Proposed | Upcoming | Recently Completed. 평일은 일 쪽, 주말은 개인 쪽. 레인 봇이 짧은 …을 넘깁니다",
+    "es": "Tu único tablero de check-in diario: To-Do | Proposed | Upcoming | Recently Completed. Los días laborables se inclinan al trabajo; los fines de semana, a lo personal. Los bots de carril entregan notas cortas...",
+    "fr": "Votre seul tableau de check-in quotidien : To-Do | Proposed | Upcoming | Recently Completed. La semaine penche travail ; le week-end, perso. Les bots de file passent de courts...",
+    "de": "Dein einziges tägliches Check-in-Board: To-Do | Proposed | Upcoming | Recently Completed. Werktags eher Arbeit, am Wochenende eher privat. Lane-Bots reichen kurze...",
+    "pt-BR": "Seu único quadro de check-in diário: To-Do | Proposed | Upcoming | Recently Completed. Dias úteis puxam para o trabalho; fins de semana, para o pessoal. Bots de faixa entregam notas curtas...",
+    "ru": "Ваша единственная ежедневная доска сверки: To-Do | Proposed | Upcoming | Recently Completed. Будни ближе к работе, выходные к личному. Боты дорожек передают короткие..."
+  },
+  "https://x.ai/bot/ghy5ckaaK96B-yTsBuPhd": {
+    "zh-CN": "给 Model 3/Y/Cybertruck 车主的实用特斯拉助手：FSD 和软件笔记、轮胎和轮毂、充电、保养提示，以及早期…",
+    "zh-TW": "給 Model 3/Y/Cybertruck 車主的實用特斯拉助手：FSD 和軟體筆記、輪胎和輪圈、充電、保養提示，以及早期…",
+    "ja": "Model 3/Y/Cybertruck 向けの実務的なテスラ所有助手。FSD とソフトのメモ、タイヤとホイール、充電、整備のヒント、初期の…",
+    "ko": "Model 3/Y/Cybertruck 운전자를 위한 실용적인 테슬라 소유 도우미: FSD와 소프트웨어 노트, 타이어와 휠, 충전, 정비 팁, 초기…",
+    "es": "Asistente práctico de propiedad Tesla para conductores de Model 3/Y/Cybertruck: notas de FSD y software, neumáticos y llantas, carga, consejos de servicio y temprano...",
+    "fr": "Assistant pratique de possession Tesla pour conducteurs Model 3/Y/Cybertruck : notes FSD et logiciel, pneus et jantes, charge, conseils d’entretien, et tôt...",
+    "de": "Praktischer Tesla-Besitz-Assistent für Model-3/Y/Cybertruck-Fahrer: FSD- und Software-Notizen, Reifen und Räder, Laden, Service-Tipps und frühe...",
+    "pt-BR": "Assistente prático de posse de Tesla para quem dirige Model 3/Y/Cybertruck: notas de FSD e software, pneus e rodas, carga, dicas de serviço e cedo...",
+    "ru": "Практичный помощник владельца Tesla для водителей Model 3/Y/Cybertruck: заметки по FSD и ПО, шины и диски, зарядка, советы по сервису и ранние..."
+  },
+  "https://x.ai/bot/mP3hNDOYWnbgyfUpqyw9r": {
+    "zh-CN": "即时 UNO 规则答案——用文字说明一张牌或一步在官方 Mattel 规则下是允许还是不允许（索取时可加家规）。",
+    "zh-TW": "即時 UNO 規則答案——用文字說明一張牌或一步在官方 Mattel 規則下是允許還是不允許（索取時可加家規）。",
+    "ja": "即答の UNO ルール。公式 Mattel ルールでカードや手が Allowed か Not allowed かを文章で返す（頼めばハウスルール）。",
+    "ko": "즉답 UNO 규칙. 공식 Mattel 규칙에서 카드나 수가 Allowed인지 Not allowed인지 글로 답합니다(요청하면 하우스 룰).",
+    "es": "Respuestas instantáneas de reglas de UNO: texto de si una carta o jugada está Allowed o Not allowed bajo las reglas oficiales de Mattel (reglas de casa si las pides).",
+    "fr": "Réponses instantanées aux règles UNO : texte indiquant si une carte ou un coup est Allowed ou Not allowed selon les règles officielles Mattel (règles maison sur demande).",
+    "de": "Sofortige UNO-Regelantworten: Text, ob eine Karte oder ein Zug unter den offiziellen Mattel-Regeln Allowed oder Not allowed ist (Hausregeln auf Anfrage).",
+    "pt-BR": "Respostas instantâneas das regras de UNO: texto se uma carta ou jogada é Allowed ou Not allowed pelas regras oficiais da Mattel (regras da casa se pedir).",
+    "ru": "Мгновенные ответы по правилам UNO: текстом, Allowed или Not allowed карта или ход по официальным правилам Mattel (домашние правила по запросу)."
   }
 }
