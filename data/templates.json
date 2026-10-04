@@ -22471,6 +22471,150 @@
       "twitter": "JCOMBuilds",
       "share_url": "https://x.ai/bot/z1YNQh8tbgY9K-FghYVM_",
       "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Time Intelligence",
+      "description": "Time zones and meeting times from live lookups: convert clocks, find overlap, suggest meeting times.",
+      "category": "Life",
+      "twitter": "findtime_",
+      "share_url": "https://x.ai/bot/GAeRrX2qS5pjHwImZx46e",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Site-Validated Email Outreach",
+      "description": "Cold email to real businesses: checks company site/reviews for problems you can solve; never sends until you say.",
+      "category": "Sales",
+      "twitter": "GabeHernandezOK",
+      "share_url": "https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Only the School Emails that Matter",
+      "description": "Keeps only school emails that matter in Gmail/Outlook for parents or students.",
+      "category": "Life",
+      "twitter": "GabeHernandezOK",
+      "share_url": "https://x.ai/bot/nOaBZtL807UfF95phWyjU",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Billy Backup",
+      "description": "Sets up a backup you control: code to git, files to object storage, quiet nightly check.",
+      "category": "Engineering",
+      "twitter": "thesunofdog",
+      "share_url": "https://x.ai/bot/NbmW9HRNQicgB0W8QS824",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "GYM Food Maker",
+      "description": "High-protein meal planner for muscle building from what you actually buy.",
+      "category": "Life",
+      "twitter": "CharioBro",
+      "share_url": "https://x.ai/bot/UFKxL8MM1NFCYsaevZV16",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "The List",
+      "description": "Catalog of GrokBotGod bots in chat; paste any Grok Bot link to add it.",
+      "category": "Assistants",
+      "twitter": "GrokBotGod",
+      "share_url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Garage Guide",
+      "description": "Vehicle maintenance schedule from year/make/model/miles; what is due this month.",
+      "category": "Life",
+      "twitter": "Kirby21sk",
+      "share_url": "https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Tesla Ready",
+      "description": "Warms/cools Tesla timed to Google Calendar and live traffic.",
+      "category": "Life",
+      "twitter": "WaitWhat",
+      "share_url": "https://x.ai/bot/L5Sczwabgsf59rZ6RTChF",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Rental Desk",
+      "description": "Rental lifecycle for small landlords: listings, inquiries, showings, rent tracking.",
+      "category": "Money",
+      "twitter": "BrandenSeth",
+      "share_url": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Reelz",
+      "description": "Short-form video editor: photos/clips into polished vertical reels.",
+      "category": "Creative",
+      "twitter": "Orgonix23",
+      "share_url": "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Livermore",
+      "description": "Plans trades in any style; scans and writes tickets. Education, not advice.",
+      "category": "Money",
+      "twitter": "Screaming_Chkn",
+      "share_url": "https://x.ai/bot/CB02Bgg8ZEI1fT9H2GJtM",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Meal Snap",
+      "description": "Turn a meal photo into a shareable card with ingredients, calories, anecdotes.",
+      "category": "Life",
+      "twitter": "gogi_ai",
+      "share_url": "https://x.ai/bot/86OeiM-b3nKbX49omIKR-",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Grok Bot Polish",
+      "description": "Rewrites your Grok Bot listing for search: clear name, first line, tight description.",
+      "category": "Assistants",
+      "twitter": "GrokBotGod",
+      "share_url": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "LiftIron",
+      "description": "Adaptive strength coach for next set, estimated 1RM, and deloads.",
+      "category": "Life",
+      "twitter": "realMAG1775",
+      "share_url": "https://x.ai/bot/15IifJPKsctHV1s9sIcTH",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "CEO",
+      "description": "CEO bot: strategy, priorities, monetization, distribution, and org guidance.",
+      "category": "Assistants",
+      "twitter": "BuiltinMind",
+      "share_url": "https://x.ai/bot/GHLPyes3hiP9A6kES7UHg",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Ultimate Hermes↔Grokbot Bridge",
+      "description": "Bidirectional Hermes↔Grok Bot bridge with HTTP+SSH, skills, and survival routine.",
+      "category": "Engineering",
+      "twitter": "PixelRainbowNFT",
+      "share_url": "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Local Concert Scout",
+      "description": "Finds concerts near home and travel cities from Spotify/Apple Music taste + calendar.",
+      "category": "Creative",
+      "twitter": "chaney_tx",
+      "share_url": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Stich + Vault",
+      "description": "Media desk: concat clips into H.264+AAC mp4; list/download phone media from vault.",
+      "category": "Creative",
+      "twitter": "Sm0ken42O",
+      "share_url": "https://x.ai/bot/LySai4iBlM2ylkDRHppag",
+      "scraped_at": "2026-10-04"
     }
   ]
 }

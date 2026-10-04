@@ -30919,5 +30919,203 @@
     "de": "Baut einen persönlichen Tagespodcast aus deinen Segmenten mit Grok- oder ElevenLabs-Stimmen.",
     "pt-BR": "Monta um podcast diário pessoal com seus trechos e vozes do Grok ou ElevenLabs.",
     "ru": "Собирает личный ежедневный подкаст из ваших фрагментов голосами Grok или ElevenLabs."
+  },
+  "https://x.ai/bot/GAeRrX2qS5pjHwImZx46e": {
+    "zh-CN": "用实时查询处理时区和会议时间：换算时钟、找重叠、建议开会时间。",
+    "zh-TW": "用即時查詢處理時區和會議時間：換算時鐘、找重疊、建議開會時間。",
+    "ja": "ライブ検索でタイムゾーンと会議時間。時計の換算、重なり、会議時間の提案。",
+    "ko": "실시간 조회로 시간대와 회의 시간: 시계 변환, 겹치는 시간, 회의 시간 제안.",
+    "es": "Zonas horarias y horas de reunión con búsquedas en vivo: convierte relojes, halla solape y sugiere horarios.",
+    "fr": "Fuseaux et heures de réunion via recherches live : convertit les horloges, trouve le chevauchement, propose des créneaux.",
+    "de": "Zeitzonen und Meetingzeiten aus Live-Lookups: Uhren umrechnen, Überlappung finden, Termine vorschlagen.",
+    "pt-BR": "Fusos e horários de reunião com buscas ao vivo: converte relógios, acha sobreposição e sugere horários.",
+    "ru": "Часовые пояса и время встреч по живым запросам: перевод часов, пересечение и варианты времени."
+  },
+  "https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7": {
+    "zh-CN": "给真实商家写冷邮件：先查公司网站和评价里你能解决的问题；你点头前不发送。",
+    "zh-TW": "給真實商家寫冷郵件：先查公司網站和評價裡你能解決的問題；你點頭前不發送。",
+    "ja": "実在の事業者へのコールドメール。サイトとレビューから解決できる問題を確認。あなたが言うまで送りません。",
+    "ko": "실제 사업체에 콜드 이메일: 회사 사이트와 리뷰에서 당신이 풀 문제를 확인. 당신이 말하기 전에는 보내지 않습니다.",
+    "es": "Cold email a negocios reales: revisa sitio y reseñas por problemas que puedes resolver; no envía hasta que lo digas.",
+    "fr": "Cold email à de vraies entreprises : vérifie site et avis pour des problèmes que tu peux résoudre ; n’envoie rien tant que tu ne le dis pas.",
+    "de": "Cold-Mail an echte Firmen: prüft Website und Reviews auf Probleme, die du lösen kannst; sendet nie, bis du es sagst.",
+    "pt-BR": "Cold email para negócios reais: confere site e avaliações por problemas que você resolve; não envia até você dizer.",
+    "ru": "Холодные письма реальным компаниям: смотрит сайт и отзывы на задачи, которые вы можете решить; не отправляет, пока вы не скажете."
+  },
+  "https://x.ai/bot/nOaBZtL807UfF95phWyjU": {
+    "zh-CN": "在 Gmail/Outlook 里只留下对家长或学生真正重要的学校邮件。",
+    "zh-TW": "在 Gmail/Outlook 裡只留下對家長或學生真正重要的學校郵件。",
+    "ja": "Gmail/Outlook で、保護者や学生にとって大事な学校メールだけを残します。",
+    "ko": "Gmail/Outlook에서 부모나 학생에게 중요한 학교 이메일만 남깁니다.",
+    "es": "Deja en Gmail/Outlook solo los correos escolares que importan a padres o estudiantes.",
+    "fr": "Ne garde dans Gmail/Outlook que les e-mails d’école qui comptent pour parents ou élèves.",
+    "de": "Behält in Gmail/Outlook nur Schul-Mails, die für Eltern oder Schüler zählen.",
+    "pt-BR": "Mantém no Gmail/Outlook só os e-mails da escola que importam para pais ou estudantes.",
+    "ru": "Оставляет в Gmail/Outlook только школьные письма, которые важны родителям или ученикам."
+  },
+  "https://x.ai/bot/NbmW9HRNQicgB0W8QS824": {
+    "zh-CN": "搭一套你自己掌控的备份：代码进 git，文件进对象存储，夜里安静检查。",
+    "zh-TW": "搭一套你自己掌控的備份：程式碼進 git，檔案進物件儲存，夜裡安靜檢查。",
+    "ja": "自分で管理するバックアップ。コードは git、ファイルはオブジェクトストレージ、夜は静かに点検。",
+    "ko": "당신이 통제하는 백업: 코드는 git, 파일은 오브젝트 스토리지, 밤에는 조용히 점검.",
+    "es": "Arma un backup que controlas: código a git, archivos a object storage, chequeo nocturno en silencio.",
+    "fr": "Met en place une sauvegarde que tu contrôles : code vers git, fichiers vers le stockage objet, contrôle nocturne discret.",
+    "de": "Richtet ein Backup ein, das du steuerst: Code nach Git, Dateien in Object Storage, leiser nächtlicher Check.",
+    "pt-BR": "Monta um backup que você controla: código no git, arquivos em object storage, checagem noturna quieta.",
+    "ru": "Настраивает резервную копию под вашим контролем: код в git, файлы в object storage, тихая ночная проверка."
+  },
+  "https://x.ai/bot/UFKxL8MM1NFCYsaevZV16": {
+    "zh-CN": "高蛋白增肌餐计划，按你实际会买的食材来排。",
+    "zh-TW": "高蛋白增肌餐計畫，按你實際會買的食材來排。",
+    "ja": "実際に買う食材から組む、筋肥大向け高タンパク食事プラン。",
+    "ko": "실제로 사는 재료로 짜는 근성장용 고단백 식단.",
+    "es": "Plan de comidas alto en proteína para ganar músculo, con lo que de verdad compras.",
+    "fr": "Planning de repas riches en protéines pour prendre du muscle, à partir de ce que tu achètes vraiment.",
+    "de": "Proteinreicher Essensplan für Muskelaufbau aus dem, was du wirklich kaufst.",
+    "pt-BR": "Plano de refeições ricas em proteína para ganhar músculo, com o que você realmente compra.",
+    "ru": "План высокобелкового питания для набора мышц из того, что вы реально покупаете."
+  },
+  "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq": {
+    "zh-CN": "在聊天里列出 GrokBotGod 的机器人目录；粘贴任意 Grok Bot 链接即可加入。",
+    "zh-TW": "在聊天裡列出 GrokBotGod 的機器人目錄；貼上任意 Grok Bot 連結即可加入。",
+    "ja": "チャット内の GrokBotGod ボット一覧。Grok Bot のリンクを貼ると追加できます。",
+    "ko": "채팅 속 GrokBotGod 봇 목록. Grok Bot 링크를 붙여 넣으면 추가됩니다.",
+    "es": "Catálogo de bots de GrokBotGod en el chat; pega cualquier enlace de Grok Bot para añadirlo.",
+    "fr": "Catalogue des bots GrokBotGod dans le chat ; colle n’importe quel lien Grok Bot pour l’ajouter.",
+    "de": "Katalog der GrokBotGod-Bots im Chat; füge einen beliebigen Grok-Bot-Link ein, um ihn aufzunehmen.",
+    "pt-BR": "Catálogo dos bots do GrokBotGod no chat; cole qualquer link de Grok Bot para adicionar.",
+    "ru": "Каталог ботов GrokBotGod в чате; вставьте любую ссылку Grok Bot, чтобы добавить."
+  },
+  "https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI": {
+    "zh-CN": "按年份、品牌、型号和里程排车辆保养；告诉你这个月该做什么。",
+    "zh-TW": "按年份、品牌、型號和里程排車輛保養；告訴你這個月該做什麼。",
+    "ja": "年式・メーカー・モデル・走行距離から整備予定。今月やることを出します。",
+    "ko": "연식, 제조사, 모델, 주행거리로 정비 일정. 이번 달에 할 일을 알려 줍니다.",
+    "es": "Calendario de mantenimiento según año, marca, modelo y millas; qué toca este mes.",
+    "fr": "Planning d’entretien selon année, marque, modèle et miles ; ce qui est dû ce mois-ci.",
+    "de": "Wartungsplan aus Jahr, Marke, Modell und Meilen; was diesen Monat fällig ist.",
+    "pt-BR": "Agenda de manutenção por ano, marca, modelo e milhas; o que vence neste mês.",
+    "ru": "График обслуживания по году, марке, модели и пробегу; что нужно сделать в этом месяце."
+  },
+  "https://x.ai/bot/L5Sczwabgsf59rZ6RTChF": {
+    "zh-CN": "按 Google 日历和实时路况，提前给 Tesla 升温或降温。",
+    "zh-TW": "按 Google 行事曆和即時路況，提前給 Tesla 升溫或降溫。",
+    "ja": "Google カレンダーとリアルタイム交通に合わせて Tesla を暖めたり冷やしたりします。",
+    "ko": "Google 캘린더와 실시간 교통에 맞춰 Tesla를 데우거나 식힙니다.",
+    "es": "Calienta o enfría el Tesla según Google Calendar y el tráfico en vivo.",
+    "fr": "Chauffe ou refroidit la Tesla selon Google Calendar et le trafic en direct.",
+    "de": "Heizt oder kühlt das Tesla passend zu Google Calendar und Live-Verkehr.",
+    "pt-BR": "Aquece ou resfria o Tesla no tempo do Google Calendar e do trânsito ao vivo.",
+    "ru": "Прогревает или охлаждает Tesla по Google Calendar и живым пробкам."
+  },
+  "https://x.ai/bot/0havI1dJhzL_gG11rueQN": {
+    "zh-CN": "小型房东的出租全流程：挂牌、询盘、看房、租金跟踪。",
+    "zh-TW": "小型房東的出租全流程：掛牌、詢問、看房、租金追蹤。",
+    "ja": "小規模大家の賃貸ライフサイクル。掲載、問い合わせ、内見、家賃の追跡。",
+    "ko": "소규모 임대인의 임대 전 과정: 매물, 문의, 투어, 월세 추적.",
+    "es": "Ciclo de alquiler para pequeños caseros: anuncios, consultas, visitas y seguimiento de renta.",
+    "fr": "Cycle locatif pour petit bailleur : annonces, demandes, visites, suivi des loyers.",
+    "de": "Miet-Lebenszyklus für kleine Vermieter: Inserate, Anfragen, Besichtigungen, Miet-Tracking.",
+    "pt-BR": "Ciclo de aluguel para pequenos proprietários: anúncios, consultas, visitas e acompanhamento do aluguel.",
+    "ru": "Цикл аренды для небольшого арендодателя: объявления, запросы, показы, учёт платы."
+  },
+  "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh": {
+    "zh-CN": "短视频剪辑：把照片和片段做成打磨过的竖屏短片。",
+    "zh-TW": "短影音剪輯：把照片和片段做成打磨過的直式短片。",
+    "ja": "ショート動画エディタ。写真やクリップを磨いた縦型リールにします。",
+    "ko": "숏폼 영상 편집: 사진과 클립을 다듬은 세로 릴로 만듭니다.",
+    "es": "Editor de video corto: fotos y clips en reels verticales pulidos.",
+    "fr": "Monteur de formats courts : photos et clips en reels verticaux soignés.",
+    "de": "Kurzvideo-Editor: Fotos und Clips zu polierten vertikalen Reels.",
+    "pt-BR": "Editor de vídeo curto: fotos e clipes em reels verticais polidos.",
+    "ru": "Монтаж короткого видео: фото и клипы в отполированные вертикальные рилсы."
+  },
+  "https://x.ai/bot/CB02Bgg8ZEI1fT9H2GJtM": {
+    "zh-CN": "按任意风格规划交易；扫描并写好委托单。用于学习，不是建议。",
+    "zh-TW": "按任意風格規劃交易；掃描並寫好委託單。用於學習，不是建議。",
+    "ja": "どのスタイルでもトレードを計画。スキャンして注文票を書きます。教育であり、助言ではありません。",
+    "ko": "어떤 스타일이든 매매를 계획하고, 스캔해 주문표를 씁니다. 교육이지 조언이 아닙니다.",
+    "es": "Planifica operaciones en cualquier estilo; escanea y escribe tickets. Educación, no asesoría.",
+    "fr": "Planifie des trades dans n’importe quel style ; scanne et rédige les tickets. Éducation, pas un conseil.",
+    "de": "Plant Trades in jedem Stil; scannt und schreibt Tickets. Bildung, keine Beratung.",
+    "pt-BR": "Planeja operações em qualquer estilo; varre e escreve tickets. Educação, não recomendação.",
+    "ru": "Планирует сделки в любом стиле; сканирует и пишет заявки. Обучение, не рекомендация."
+  },
+  "https://x.ai/bot/86OeiM-b3nKbX49omIKR-": {
+    "zh-CN": "把一餐的照片做成可分享卡片：食材、热量和小故事。",
+    "zh-TW": "把一餐的照片做成可分享卡片：食材、熱量和小故事。",
+    "ja": "食事の写真を、材料・カロリー・小話つきの共有カードにします。",
+    "ko": "식사 사진을 재료, 칼로리, 짧은 이야기가 있는 공유 카드로 만듭니다.",
+    "es": "Convierte la foto de una comida en una ficha para compartir, con ingredientes, calorías y anécdotas.",
+    "fr": "Transforme la photo d’un repas en carte à partager : ingrédients, calories, anecdotes.",
+    "de": "Macht aus einem Essensfoto eine teilbare Karte mit Zutaten, Kalorien und Anekdoten.",
+    "pt-BR": "Transforma a foto de uma refeição num card compartilhável com ingredientes, calorias e anedotas.",
+    "ru": "Превращает фото еды в карточку для шаринга: ингредиенты, калории и байки."
+  },
+  "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4": {
+    "zh-CN": "为搜索改写你的 Grok Bot 条目：清楚的名字、第一行、收紧的简介。",
+    "zh-TW": "為搜尋改寫你的 Grok Bot 條目：清楚的名字、第一行、收緊的簡介。",
+    "ja": "検索向けに Grok Bot の掲載を書き直す。明確な名前、最初の一行、締まった説明。",
+    "ko": "검색에 맞게 Grok Bot 목록을 다시 씁니다. 분명한 이름, 첫 줄, 단단한 설명.",
+    "es": "Reescribe tu ficha de Grok Bot para búsqueda: nombre claro, primera línea y descripción ajustada.",
+    "fr": "Réécrit ta fiche Grok Bot pour la recherche : nom clair, première ligne, description serrée.",
+    "de": "Schreibt deinen Grok-Bot-Eintrag für die Suche um: klarer Name, erste Zeile, knappe Beschreibung.",
+    "pt-BR": "Reescreve sua ficha de Grok Bot para busca: nome claro, primeira linha, descrição enxuta.",
+    "ru": "Переписывает карточку Grok Bot для поиска: ясное имя, первая строка, плотное описание."
+  },
+  "https://x.ai/bot/15IifJPKsctHV1s9sIcTH": {
+    "zh-CN": "自适应力量教练：下一组、估算 1RM，以及减载。",
+    "zh-TW": "自適應力量教練：下一組、估算 1RM，以及減載。",
+    "ja": "次のセット、推定1RM、ディロードのための適応型ストレングスコーチ。",
+    "ko": "다음 세트, 추정 1RM, 디로드를 위한 적응형 근력 코치.",
+    "es": "Coach de fuerza adaptativo: siguiente serie, 1RM estimado y descargas.",
+    "fr": "Coach force adaptatif : prochaine série, 1RM estimé et décharges.",
+    "de": "Adaptiver Kraftcoach für den nächsten Satz, geschätztes 1RM und Deloads.",
+    "pt-BR": "Coach de força adaptativo: próxima série, 1RM estimado e deloads.",
+    "ru": "Адаптивный тренер по силе: следующий подход, оценка 1RM и разгрузки."
+  },
+  "https://x.ai/bot/GHLPyes3hiP9A6kES7UHg": {
+    "zh-CN": "CEO 机器人：战略、优先级、变现、分发和组织建议。",
+    "zh-TW": "CEO 機器人：戰略、優先級、變現、分發和組織建議。",
+    "ja": "CEO ボット。戦略、優先順位、収益化、流通、組織の指針。",
+    "ko": "CEO 봇: 전략, 우선순위, 수익화, 유통, 조직 가이드.",
+    "es": "Bot CEO: estrategia, prioridades, monetización, distribución y guía de la organización.",
+    "fr": "Bot CEO : stratégie, priorités, monétisation, distribution et guidance d’organisation.",
+    "de": "CEO-Bot: Strategie, Prioritäten, Monetarisierung, Distribution und Org-Leitung.",
+    "pt-BR": "Bot CEO: estratégia, prioridades, monetização, distribuição e orientação da organização.",
+    "ru": "Бот-CEO: стратегия, приоритеты, монетизация, дистрибуция и оргструктура."
+  },
+  "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5": {
+    "zh-CN": "双向 Hermes 与 Grok Bot 桥：HTTP+SSH、技能，以及保活例程。",
+    "zh-TW": "雙向 Hermes 與 Grok Bot 橋：HTTP+SSH、技能，以及保活例程。",
+    "ja": "Hermes と Grok Bot の双方向ブリッジ。HTTP+SSH、スキル、生存ルーチン。",
+    "ko": "Hermes와 Grok Bot 양방향 브리지. HTTP+SSH, 스킬, 생존 루틴.",
+    "es": "Puente bidireccional Hermes y Grok Bot con HTTP+SSH, skills y rutina de supervivencia.",
+    "fr": "Pont bidirectionnel Hermes et Grok Bot avec HTTP+SSH, skills et routine de survie.",
+    "de": "Bidirektionale Brücke zwischen Hermes und Grok Bot mit HTTP+SSH, Skills und Survival-Routine.",
+    "pt-BR": "Ponte bidirecional Hermes e Grok Bot com HTTP+SSH, skills e rotina de sobrevivência.",
+    "ru": "Двусторонний мост Hermes и Grok Bot: HTTP+SSH, навыки и рутина выживания."
+  },
+  "https://x.ai/bot/AM17wqUeEmweEHWn58rEL": {
+    "zh-CN": "按 Spotify/Apple Music 口味和日历，找住处和旅行城市附近的演唱会。",
+    "zh-TW": "按 Spotify/Apple Music 口味和行事曆，找住處和旅行城市附近的演唱會。",
+    "ja": "Spotify/Apple Music の好みとカレンダーから、自宅と旅行先の近くのコンサートを探します。",
+    "ko": "Spotify/Apple Music 취향과 캘린더로, 집과 여행 도시 근처 콘서트를 찾습니다.",
+    "es": "Encuentra conciertos cerca de casa y de ciudades de viaje según gusto de Spotify/Apple Music y el calendario.",
+    "fr": "Trouve des concerts près de chez toi et des villes de voyage, selon Spotify/Apple Music et le calendrier.",
+    "de": "Findet Konzerte nahe deinem Zuhause und Reiseorten aus Spotify-/Apple-Music-Geschmack plus Kalender.",
+    "pt-BR": "Acha shows perto de casa e das cidades de viagem pelo gosto no Spotify/Apple Music e pelo calendário.",
+    "ru": "Ищет концерты рядом с домом и городами поездок по вкусу Spotify/Apple Music и календарю."
+  },
+  "https://x.ai/bot/LySai4iBlM2ylkDRHppag": {
+    "zh-CN": "媒体台：把片段拼成 H.264+AAC 的 mp4；从保险库列出并下载手机媒体。",
+    "zh-TW": "媒體台：把片段拼成 H.264+AAC 的 mp4；從保險庫列出並下載手機媒體。",
+    "ja": "メディアデスク。クリップを H.264+AAC の mp4 に結合。vault からスマホのメディアを一覧・ダウンロード。",
+    "ko": "미디어 데스크: 클립을 H.264+AAC mp4로 이어 붙이고, vault에서 휴대폰 미디어를 목록하고 다운로드합니다.",
+    "es": "Mesa de medios: une clips en mp4 H.264+AAC; lista y descarga medios del teléfono desde el vault.",
+    "fr": "Bureau média : concatène des clips en mp4 H.264+AAC ; liste et télécharge les médias du téléphone depuis le vault.",
+    "de": "Media-Desk: hängt Clips zu H.264+AAC-mp4 zusammen; listet und lädt Handy-Medien aus dem Vault.",
+    "pt-BR": "Mesa de mídia: junta clipes em mp4 H.264+AAC; lista e baixa mídia do telefone a partir do vault.",
+    "ru": "Медиастол: склеивает клипы в mp4 H.264+AAC; показывает и скачивает медиа телефона из vault."
   }
 }
