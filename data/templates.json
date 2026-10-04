@@ -22615,6 +22615,150 @@
       "twitter": "Sm0ken42O",
       "share_url": "https://x.ai/bot/LySai4iBlM2ylkDRHppag",
       "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Application Team Lead",
+      "description": "Orchestrates job applications: finds matching roles and farms apps to helper bots.",
+      "category": "Life",
+      "twitter": "Kenook_",
+      "share_url": "https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Clarity (Karpathy method)",
+      "description": "Turns Karpathy-style method into a Grok Bot for daily work clarity.",
+      "category": "Assistants",
+      "twitter": "bentruong",
+      "share_url": "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Robinhood Agentic Desk",
+      "description": "Risk-first Robinhood desk: limits, watches symbols, drafts orders for line-by-line approval.",
+      "category": "Money",
+      "twitter": "TheFirstPierre",
+      "share_url": "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Imagine Visual Designer",
+      "description": "Turns visual ideas into paste-ready Grok Imagine prompt packs with real variants.",
+      "category": "Creative",
+      "twitter": "AutomateDavid",
+      "share_url": "https://x.ai/bot/L6lMvKDc8cRqrJM_JkcCl",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "X Growth Desk",
+      "description": "Weekday X growth briefs with draft replies in your voice; you approve before anything goes out.",
+      "category": "Sales",
+      "twitter": "TheFirstPierre",
+      "share_url": "https://x.ai/bot/55FyWn8UhUgZOTSUy7LQt",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "iCloud",
+      "description": "Community iCloud connector: Mail, Calendar, Contacts, Reminders with app-specific password.",
+      "category": "Engineering",
+      "twitter": "CyberZack42",
+      "share_url": "https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Used Car Scout",
+      "description": "Finds reliable used cars near a US ZIP with estimated miles left and confidence.",
+      "category": "Life",
+      "twitter": "jeffasu",
+      "share_url": "https://x.ai/bot/MGVxnwyIdbgEl67jiWQRa",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Football Bets Advisor",
+      "description": "Process-first NFL/college picks cards with kill rules and unit sizing. Not gambling advice.",
+      "category": "Life",
+      "twitter": "iamtheh0n3yp0t",
+      "share_url": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Command Center Setup",
+      "description": "Animated pixel-art map of all your Grok Bots: working, resting, or needs you.",
+      "category": "Assistants",
+      "twitter": "Matty_O_D",
+      "share_url": "https://x.ai/bot/FNfVbBSJwAq8-DzT26Mkp",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Stonk Rewards Checker",
+      "description": "Checks Solana wallet StonkFun holder rewards by asset and payout count.",
+      "category": "Money",
+      "twitter": "LookForEntries",
+      "share_url": "https://x.ai/bot/3UPyT3eMd9dfEkuiENLkO",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Tesla Wrap Builder",
+      "description": "Custom Paint Shop wraps for Tesla on-screen 3D car.",
+      "category": "Creative",
+      "twitter": "mikepat711",
+      "share_url": "https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Plain English AI",
+      "description": "Answers in short plain English: answer first, no filler (STE100-inspired).",
+      "category": "Assistants",
+      "twitter": "jonnywallace",
+      "share_url": "https://x.ai/bot/InRDBbawlH8rdErJa8_-t",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "User Sage",
+      "description": "Product design and UX research assistant: critiques, studies, synthetic labels.",
+      "category": "Research",
+      "twitter": "davidnguyen_x",
+      "share_url": "https://x.ai/bot/KmP4fr1ttidksZkt3i_fd",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "ELI100 Guy",
+      "description": "Rewrites plans/specs into clear constrained English (ELI100 / ASD-STE100 spirit).",
+      "category": "Assistants",
+      "twitter": "Pofrandom",
+      "share_url": "https://x.ai/bot/P1AGanhGm_c-hYHqJQ05Q",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Fix-It Fred",
+      "description": "DIY sidekick: plans home projects step by step, diagnoses from a photo.",
+      "category": "Life",
+      "twitter": "RSebastian74",
+      "share_url": "https://x.ai/bot/2KIO0IMjeDnRrWgpFaPd6",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Property Decision OS",
+      "description": "Asistente de decisión residencial: evaluar, comparar, ofertar sin empujar a comprar.",
+      "category": "Money",
+      "twitter": "Amervim",
+      "share_url": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Auto-rebalancer",
+      "description": "Keeps a Coinbase weighted basket on target with weekly rebalance when weights drift.",
+      "category": "Money",
+      "twitter": "MurrLincoln",
+      "share_url": "https://x.ai/bot/S7VvyfKxW0pP19XIZpQBo",
+      "scraped_at": "2026-10-04"
+    },
+    {
+      "name": "Huberbot",
+      "description": "Personal Huberman Lab protocol guide from episode transcripts with cites.",
+      "category": "Life",
+      "twitter": "davidemanuel",
+      "share_url": "https://x.ai/bot/junOZJSprZ_joKrTiwqRX",
+      "scraped_at": "2026-10-04"
     }
   ]
 }

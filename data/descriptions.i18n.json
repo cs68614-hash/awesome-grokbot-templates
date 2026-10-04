@@ -31117,5 +31117,203 @@
     "de": "Media-Desk: hängt Clips zu H.264+AAC-mp4 zusammen; listet und lädt Handy-Medien aus dem Vault.",
     "pt-BR": "Mesa de mídia: junta clipes em mp4 H.264+AAC; lista e baixa mídia do telefone a partir do vault.",
     "ru": "Медиастол: склеивает клипы в mp4 H.264+AAC; показывает и скачивает медиа телефона из vault."
+  },
+  "https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC": {
+    "zh-CN": "统筹求职申请：找出匹配职位，并把申请分给助手机器人。",
+    "zh-TW": "統籌求職申請：找出匹配職位，並把申請分給助手機器人。",
+    "ja": "求人応募を統括。合う職を見つけ、応募を補助ボットに振ります。",
+    "ko": "입사 지원을 조율합니다. 맞는 직무를 찾고, 지원을 도우미 봇에 넘깁니다.",
+    "es": "Orquesta candidaturas: encuentra puestos que encajan y reparte solicitudes a bots ayudantes.",
+    "fr": "Orchestre les candidatures : trouve les postes qui correspondent et confie les dossiers à des bots assistants.",
+    "de": "Orchestriert Bewerbungen: findet passende Rollen und gibt Anträge an Helfer-Bots.",
+    "pt-BR": "Orquestra candidaturas: acha vagas compatíveis e distribui inscrições para bots auxiliares.",
+    "ru": "Ведёт отклики на вакансии: находит подходящие роли и раздаёт заявки ботам-помощникам."
+  },
+  "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj": {
+    "zh-CN": "把 Karpathy 式方法做成 Grok Bot，让每天的工作更清楚。",
+    "zh-TW": "把 Karpathy 式方法做成 Grok Bot，讓每天的工作更清楚。",
+    "ja": "Karpathy 式の方法を、日々の仕事をクリアにする Grok Bot にします。",
+    "ko": "Karpathy식 방법을, 매일의 일을 분명하게 하는 Grok Bot으로 만듭니다.",
+    "es": "Convierte el método al estilo Karpathy en un Grok Bot para aclarar el trabajo diario.",
+    "fr": "Transforme la méthode façon Karpathy en Grok Bot pour clarifier le travail du jour.",
+    "de": "Macht aus der Karpathy-Methode einen Grok Bot für Klarheit in der täglichen Arbeit.",
+    "pt-BR": "Transforma o método no estilo Karpathy num Grok Bot para clareza no trabalho diário.",
+    "ru": "Превращает метод в духе Karpathy в Grok Bot для ясности ежедневной работы."
+  },
+  "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM": {
+    "zh-CN": "风险优先的 Robinhood 台：限额、盯代码、起草委托单，逐行等你批准。",
+    "zh-TW": "風險優先的 Robinhood 台：限額、盯代碼、起草委託單，逐行等你批准。",
+    "ja": "リスク優先の Robinhood デスク。上限、銘柄監視、注文下書きを一行ずつ承認。",
+    "ko": "위험 우선 Robinhood 데스크: 한도, 종목 감시, 주문 초안을 줄마다 승인.",
+    "es": "Mesa Robinhood con el riesgo primero: límites, vigila símbolos y redacta órdenes para aprobación línea por línea.",
+    "fr": "Bureau Robinhood risque d’abord : limites, surveillance de symboles, brouillons d’ordres à valider ligne par ligne.",
+    "de": "Risiko-zuerst-Robinhood-Desk: Limits, beobachtet Symbole, Order-Entwürfe zur Freigabe Zeile für Zeile.",
+    "pt-BR": "Mesa Robinhood com risco primeiro: limites, observa símbolos e rascunha ordens para aprovação linha a linha.",
+    "ru": "Стол Robinhood с риском впереди: лимиты, следит за тикерами, черновики заявок на построчное одобрение."
+  },
+  "https://x.ai/bot/L6lMvKDc8cRqrJM_JkcCl": {
+    "zh-CN": "把视觉想法变成可直接粘贴的 Grok Imagine 提示包，并带真实变体。",
+    "zh-TW": "把視覺想法變成可直接貼上的 Grok Imagine 提示包，並帶真實變體。",
+    "ja": "ビジュアルのアイデアを、実バリエーション付きですぐ貼れる Grok Imagine プロンプト集にします。",
+    "ko": "시각 아이디어를, 실제 변형이 있는 바로 붙여 넣을 Grok Imagine 프롬프트 묶음으로 만듭니다.",
+    "es": "Convierte ideas visuales en paquetes de prompts de Grok Imagine listos para pegar, con variantes reales.",
+    "fr": "Transforme des idées visuelles en packs de prompts Grok Imagine prêts à coller, avec de vraies variantes.",
+    "de": "Macht aus visuellen Ideen einfügeferige Grok-Imagine-Promptpakete mit echten Varianten.",
+    "pt-BR": "Transforma ideias visuais em pacotes de prompts do Grok Imagine prontos para colar, com variantes reais.",
+    "ru": "Превращает визуальные идеи в готовые к вставке наборы промптов Grok Imagine с настоящими вариантами."
+  },
+  "https://x.ai/bot/55FyWn8UhUgZOTSUy7LQt": {
+    "zh-CN": "工作日的 X 增长简报，用你的口气起草回复；发出前必须你批准。",
+    "zh-TW": "工作日的 X 成長簡報，用你的口氣起草回覆；發出前必須你批准。",
+    "ja": "平日の X 成長ブリーフ。あなたの口調で返信下書き。出す前に承認が必要です。",
+    "ko": "평일 X 성장 브리프. 당신 말투로 답글 초안. 나가기 전에 승인합니다.",
+    "es": "Briefs de crecimiento en X entre semana, con respuestas en tu voz; apruebas antes de que salga nada.",
+    "fr": "Briefs de croissance X en semaine, réponses brouillon dans ta voix ; tu valides avant que quoi que ce soit parte.",
+    "de": "Wochentags-X-Wachstumsbriefs mit Antwortentwürfen in deiner Stimme; du gibst frei, bevor etwas rausgeht.",
+    "pt-BR": "Briefs de crescimento no X em dias úteis, com rascunhos de resposta na sua voz; você aprova antes de sair qualquer coisa.",
+    "ru": "Будние брифы роста в X с черновиками ответов вашим голосом; ничего не уходит без вашего одобрения."
+  },
+  "https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F": {
+    "zh-CN": "社区 iCloud 连接器：用 App 专用密码接邮件、日历、通讯录和提醒事项。",
+    "zh-TW": "社群 iCloud 連接器：用 App 專用密碼接郵件、行事曆、聯絡人和提醒事項。",
+    "ja": "コミュニティの iCloud コネクタ。App 用パスワードでメール、カレンダー、連絡先、リマインダー。",
+    "ko": "커뮤니티 iCloud 커넥터: 앱 전용 비밀번호로 Mail, 캘린더, 연락처, 미리 알림.",
+    "es": "Conector comunitario de iCloud: Mail, Calendario, Contactos y Recordatorios con contraseña de app.",
+    "fr": "Connecteur iCloud communautaire : Mail, Calendrier, Contacts, Rappels avec mot de passe d’app.",
+    "de": "Community-iCloud-Connector: Mail, Kalender, Kontakte, Erinnerungen mit App-spezifischem Passwort.",
+    "pt-BR": "Conector comunitário de iCloud: Mail, Calendário, Contatos e Lembretes com senha específica do app.",
+    "ru": "Общественный коннектор iCloud: Почта, Календарь, Контакты и Напоминания через пароль приложения."
+  },
+  "https://x.ai/bot/MGVxnwyIdbgEl67jiWQRa": {
+    "zh-CN": "在美国邮编附近找靠谱二手车，并给出剩余里程估计和把握。",
+    "zh-TW": "在美國郵遞區號附近找靠譜中古車，並給出剩餘里程估計和把握。",
+    "ja": "米国の郵便番号の近くで信頼できる中古車を探し、残走行距離の見積もりと確度を出します。",
+    "ko": "미국 우편번호 근처의 믿을 만한 중고차를 찾고, 남은 주행거리 추정과 확신도를 줍니다.",
+    "es": "Encuentra coches usados fiables cerca de un ZIP de EE. UU., con millas restantes estimadas y confianza.",
+    "fr": "Trouve des voitures d’occasion fiables près d’un ZIP US, avec miles restants estimés et niveau de confiance.",
+    "de": "Findet zuverlässige Gebrauchtwagen nahe einer US-ZIP, mit geschätzten Restmeilen und Konfidenz.",
+    "pt-BR": "Acha carros usados confiáveis perto de um ZIP dos EUA, com milhas restantes estimadas e confiança.",
+    "ru": "Ищет надёжные подержанные авто рядом с ZIP в США, с оценкой оставшихся миль и уверенностью."
+  },
+  "https://x.ai/bot/cWli8870UMAVC3piITAsV": {
+    "zh-CN": "流程优先的 NFL/大学橄榄球选择卡，带止损规则和单位仓位。不是博彩建议。",
+    "zh-TW": "流程優先的 NFL/大學橄欖球選擇卡，帶止損規則和單位倉位。不是博彩建議。",
+    "ja": "プロセス優先の NFL/大学フットボールのピックカード。キルルールとユニットサイズ。ギャンブルの助言ではありません。",
+    "ko": "과정 우선 NFL/대학 풋볼 픽 카드. 중단 규칙과 유닛 크기. 도박 조언이 아닙니다.",
+    "es": "Tarjetas de picks NFL/universitario con el proceso primero, reglas de corte y tamaño de unidad. No es consejo de apuestas.",
+    "fr": "Cartes de picks NFL/universitaire, processus d’abord, règles d’arrêt et taille d’unité. Pas un conseil de pari.",
+    "de": "Prozess-zuerst-Pickkarten für NFL/College mit Kill-Regeln und Unit-Größe. Keine Wettberatung.",
+    "pt-BR": "Cartões de picks NFL/universitário com o processo primeiro, regras de corte e tamanho de unidade. Não é conselho de aposta.",
+    "ru": "Карточки выбора NFL и студенческого футбола: сначала процесс, правила остановки и размер юнита. Это не совет по ставкам."
+  },
+  "https://x.ai/bot/FNfVbBSJwAq8-DzT26Mkp": {
+    "zh-CN": "把你所有 Grok Bot 做成动画像素地图：在干活、在休息，或需要你。",
+    "zh-TW": "把你所有 Grok Bot 做成動畫像素地圖：在幹活、在休息，或需要你。",
+    "ja": "すべての Grok Bot をアニメのピクセルアート地図に。稼働中、休息中、あなたが必要。",
+    "ko": "모든 Grok Bot을 애니메이션 픽셀 아트 지도로. 일하는 중, 쉬는 중, 또는 당신이 필요함.",
+    "es": "Mapa pixel-art animado de todos tus Grok Bots: trabajando, descansando o te necesitan.",
+    "fr": "Carte pixel-art animée de tous tes Grok Bots : au travail, au repos, ou ils ont besoin de toi.",
+    "de": "Animierte Pixel-Art-Karte all deiner Grok Bots: arbeitet, ruht oder braucht dich.",
+    "pt-BR": "Mapa pixel-art animado de todos os seus Grok Bots: trabalhando, descansando ou precisa de você.",
+    "ru": "Анимированная пиксельная карта всех ваших Grok Bot: работают, отдыхают или ждут вас."
+  },
+  "https://x.ai/bot/3UPyT3eMd9dfEkuiENLkO": {
+    "zh-CN": "按资产和派息次数查看 Solana 钱包的 StonkFun 持有者奖励。",
+    "zh-TW": "按資產和派息次數查看 Solana 錢包的 StonkFun 持有者獎勵。",
+    "ja": "Solana ウォレットの StonkFun 保有者報酬を、資産と支払い回数で確認します。",
+    "ko": "Solana 지갑의 StonkFun 보유 보상을 자산과 지급 횟수로 확인합니다.",
+    "es": "Revisa recompensas de holder de StonkFun en una wallet de Solana, por activo y número de pagos.",
+    "fr": "Vérifie les récompenses holder StonkFun d’un wallet Solana, par actif et nombre de versements.",
+    "de": "Prüft StonkFun-Holder-Rewards einer Solana-Wallet nach Asset und Auszahlungszahl.",
+    "pt-BR": "Confere recompensas de holder StonkFun numa carteira Solana, por ativo e número de pagamentos.",
+    "ru": "Проверяет награды держателя StonkFun в кошельке Solana по активу и числу выплат."
+  },
+  "https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5": {
+    "zh-CN": "给 Tesla 屏幕上的 3D 车做自定义 Paint Shop 贴膜。",
+    "zh-TW": "給 Tesla 螢幕上的 3D 車做自訂 Paint Shop 貼膜。",
+    "ja": "Tesla 画面上の 3D 車向け、カスタム Paint Shop ラップ。",
+    "ko": "Tesla 화면 속 3D 차에 맞춘 Paint Shop 랩.",
+    "es": "Wraps de Paint Shop a medida para el coche 3D en pantalla del Tesla.",
+    "fr": "Wraps Paint Shop sur mesure pour la voiture 3D à l’écran du Tesla.",
+    "de": "Eigene Paint-Shop-Wraps für das 3D-Auto auf dem Tesla-Bildschirm.",
+    "pt-BR": "Wraps de Paint Shop sob medida para o carro 3D na tela do Tesla.",
+    "ru": "Свои обёртки Paint Shop для 3D-машины на экране Tesla."
+  },
+  "https://x.ai/bot/InRDBbawlH8rdErJa8_-t": {
+    "zh-CN": "用简短浅白英语回答：先给答案，没有废话（受 STE100 启发）。",
+    "zh-TW": "用簡短淺白英語回答：先給答案，沒有廢話（受 STE100 啟發）。",
+    "ja": "短く平易な英語で答える。答えを先に、水増しなし（STE100 に着想）。",
+    "ko": "짧고 쉬운 영어로 답합니다. 답을 먼저, 군더더기 없음 (STE100에서 착안).",
+    "es": "Responde en inglés sencillo y corto: la respuesta primero, sin relleno (inspirado en STE100).",
+    "fr": "Répond en anglais simple et court : la réponse d’abord, sans remplissage (inspiré de STE100).",
+    "de": "Antwortet in kurzem einfachem Englisch: Antwort zuerst, kein Fülltext (von STE100 inspiriert).",
+    "pt-BR": "Responde em inglês simples e curto: a resposta primeiro, sem enchimento (inspirado no STE100).",
+    "ru": "Отвечает коротким простым английским: сначала ответ, без воды (по духу STE100)."
+  },
+  "https://x.ai/bot/KmP4fr1ttidksZkt3i_fd": {
+    "zh-CN": "产品设计与 UX 研究助手：点评、研究、合成标签。",
+    "zh-TW": "產品設計與 UX 研究助手：點評、研究、合成標籤。",
+    "ja": "プロダクトデザインと UX リサーチの助手。批評、調査、合成ラベル。",
+    "ko": "제품 디자인과 UX 리서치 어시스턴트: 비평, 연구, 합성 라벨.",
+    "es": "Asistente de diseño de producto e investigación UX: críticas, estudios y etiquetas sintéticas.",
+    "fr": "Assistant design produit et recherche UX : critiques, études, labels synthétiques.",
+    "de": "Assistent für Produktdesign und UX-Research: Kritiken, Studien, synthetische Labels.",
+    "pt-BR": "Assistente de design de produto e pesquisa de UX: críticas, estudos e rótulos sintéticos.",
+    "ru": "Помощник по продуктовому дизайну и UX-исследованиям: разбор, исследования, синтетические метки."
+  },
+  "https://x.ai/bot/P1AGanhGm_c-hYHqJQ05Q": {
+    "zh-CN": "把计划和规格改写成清楚、受限的英语（ELI100 / ASD-STE100 精神）。",
+    "zh-TW": "把計畫和規格改寫成清楚、受限的英語（ELI100 / ASD-STE100 精神）。",
+    "ja": "計画と仕様を、制約のある明快な英語に書き直します（ELI100 / ASD-STE100 の精神）。",
+    "ko": "계획과 명세를 분명하고 제약된 영어로 다시 씁니다 (ELI100 / ASD-STE100 정신).",
+    "es": "Reescribe planes y specs en inglés claro y restringido (espíritu ELI100 / ASD-STE100).",
+    "fr": "Réécrit plans et specs en anglais clair et contraint (esprit ELI100 / ASD-STE100).",
+    "de": "Schreibt Pläne und Specs in klares, eingeschränktes Englisch um (Geist von ELI100 / ASD-STE100).",
+    "pt-BR": "Reescreve planos e specs em inglês claro e restrito (espírito ELI100 / ASD-STE100).",
+    "ru": "Переписывает планы и спецификации ясным ограниченным английским (в духе ELI100 / ASD-STE100)."
+  },
+  "https://x.ai/bot/2KIO0IMjeDnRrWgpFaPd6": {
+    "zh-CN": "DIY 搭档：一步步规划家居项目，并能从照片做诊断。",
+    "zh-TW": "DIY 搭檔：一步步規劃家居專案，並能從照片做診斷。",
+    "ja": "DIY の相棒。自宅の作業を手順どおりに計画し、写真から診断します。",
+    "ko": "DIY 파트너: 집 프로젝트를 단계별로 계획하고, 사진으로 진단합니다.",
+    "es": "Compañero de bricolaje: planifica proyectos de casa paso a paso y diagnostica desde una foto.",
+    "fr": "Accompagnateur DIY : planifie les projets maison étape par étape et diagnostique d’après une photo.",
+    "de": "DIY-Partner: plant Heimprojekte Schritt für Schritt und diagnostiziert anhand eines Fotos.",
+    "pt-BR": "Parceiro de DIY: planeja projetos de casa passo a passo e diagnostica a partir de uma foto.",
+    "ru": "Напарник для DIY: пошагово планирует домашние проекты и ставит диагноз по фото."
+  },
+  "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R": {
+    "zh-CN": "住宅决策助手：评估、比较、出价，但不催你买。",
+    "zh-TW": "住宅決策助手：評估、比較、出價，但不催你買。",
+    "ja": "住宅の意思決定アシスタント。評価、比較、オファー。購入を押し付けません。",
+    "ko": "주거 결정 어시스턴트: 평가, 비교, 제안. 사라고 밀지 않습니다.",
+    "es": "Asistente de decisión residencial: evaluar, comparar y ofertar sin empujar a comprar.",
+    "fr": "Assistant de décision résidentielle : évaluer, comparer, faire une offre sans pousser à acheter.",
+    "de": "Assistent für Wohnentscheidungen: bewerten, vergleichen, bieten, ohne zum Kauf zu drängen.",
+    "pt-BR": "Assistente de decisão residencial: avaliar, comparar e ofertar sem empurrar a compra.",
+    "ru": "Помощник по решению о жилье: оценить, сравнить, сделать офер, не подталкивая к покупке."
+  },
+  "https://x.ai/bot/S7VvyfKxW0pP19XIZpQBo": {
+    "zh-CN": "让 Coinbase 加权组合保持目标；权重偏离时每周再平衡。",
+    "zh-TW": "讓 Coinbase 加權組合保持目標；權重偏離時每週再平衡。",
+    "ja": "Coinbase の加重バスケットを目標に保ち、比率がずれたら週次でリバランス。",
+    "ko": "Coinbase 가중 바스켓을 목표에 맞추고, 비중이 벗어나면 매주 리밸런스합니다.",
+    "es": "Mantiene una cesta ponderada de Coinbase en el objetivo y rebalancea cada semana si los pesos se desvían.",
+    "fr": "Garde un panier pondéré Coinbase sur la cible, avec rééquilibrage hebdo quand les poids dérivent.",
+    "de": "Hält einen gewichteten Coinbase-Korb auf Ziel und rebalanciert wöchentlich, wenn Gewichte driften.",
+    "pt-BR": "Mantém uma cesta ponderada da Coinbase no alvo e rebalanceia toda semana quando os pesos desviam.",
+    "ru": "Держит взвешенную корзину Coinbase у цели и раз в неделю ребалансирует, если веса уехали."
+  },
+  "https://x.ai/bot/junOZJSprZ_joKrTiwqRX": {
+    "zh-CN": "个人 Huberman Lab 方案指南，依据单集文字稿并附出处。",
+    "zh-TW": "個人 Huberman Lab 方案指南，依據單集文字稿並附出處。",
+    "ja": "エピソードの文字起こしと出典つきの、個人向け Huberman Lab プロトコルガイド。",
+    "ko": "에피소드 원고와 출처가 있는 개인용 Huberman Lab 프로토콜 가이드.",
+    "es": "Guía personal de protocolos de Huberman Lab a partir de transcripciones de episodios, con citas.",
+    "fr": "Guide perso des protocoles Huberman Lab à partir des transcriptions d’épisodes, avec sources.",
+    "de": "Persönlicher Huberman-Lab-Protokollguide aus Episodentranskripten mit Quellen.",
+    "pt-BR": "Guia pessoal de protocolos do Huberman Lab a partir de transcrições de episódios, com citações.",
+    "ru": "Личный гид по протоколам Huberman Lab по расшифровкам выпусков, с указанием источников."
   }
 }
