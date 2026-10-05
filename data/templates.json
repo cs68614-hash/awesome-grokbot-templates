@@ -21951,6 +21951,270 @@
       "twitter": "MaiYangAI",
       "share_url": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
       "scraped_at": "2026-10-02"
+    },
+    {
+      "name": "Bill Tracker",
+      "description": "Tired of almost missing rent or utilities and watching the fee double? This Grok Bot reads your bill emails, lists what's due and when, and pings you before it's late.",
+      "category": "Money",
+      "twitter": "crisships",
+      "share_url": "https://x.ai/bot/bLMKUc6_qCdMrNlKybe0w",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Browse",
+      "description": "This bot will code up its own browser harness and then make it available to your other bots.",
+      "category": "Engineering",
+      "twitter": "CanadianOddity",
+      "share_url": "https://x.ai/bot/aPie95rXmGm4w5z0H31EH",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Competitor Intel",
+      "description": "Looks up competitors for a local service business and files a weekly report with the sources.",
+      "category": "Research",
+      "twitter": "TheReal_BCM",
+      "share_url": "https://x.ai/bot/PIBCWeB59T-UhxyBNLowR",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Daily Signpost",
+      "description": "Daily Signpost Grok Bot template for daily orientation and pointers.",
+      "category": "Research",
+      "twitter": "AnnDiegoUSA",
+      "share_url": "https://x.ai/bot/PgwfYCsiOpedVqBOlYICp",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Daily Social Promo Coach",
+      "description": "Daily social promo coach template for weekday promotional cadence.",
+      "category": "Sales",
+      "twitter": "weipingzhong",
+      "share_url": "https://x.ai/bot/RXAe1PAi8JCRGOXD4WmPA",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Data viz",
+      "description": "Turns a CSV or pasted table into an honest, clean chart or table, or critiques a chart you already have with ranked fixes.",
+      "category": "Creative",
+      "twitter": "HazeyDataFred",
+      "share_url": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Delegatron 9000",
+      "description": "Runs and coordinates other Grok Bots as a manager/orchestrator.",
+      "category": "Assistants",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/NJvHVpGC81PjsH4234BPJ",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Email Assist",
+      "description": "Checks your inbox on weekday mornings and only pings you when something actually matters.",
+      "category": "Assistants",
+      "twitter": "melvindvivas",
+      "share_url": "https://x.ai/bot/tVeYePJvkcwbseg_vtnEt",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Fan Edit Optimus",
+      "description": "Ask it for a fan edit of any movie or show, get recommendations, or find out who made one. Searches fan edit communities.",
+      "category": "Creative",
+      "twitter": "FanEditFanClub",
+      "share_url": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Fantasy Football GM",
+      "description": "Reads that week's news, sets your lineup and waivers, and asks before any trade. A move is not done until the fantasy site shows it.",
+      "category": "Life",
+      "twitter": "77systems_ai",
+      "share_url": "https://x.ai/bot/40yecp78USuXhCXVnuUSo",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Firefox for Bots",
+      "description": "Puts Firefox on your Grok Bot VM for password manager, browser notifications, free VPN, ad block, etc.",
+      "category": "Engineering",
+      "twitter": "garrettRandom99",
+      "share_url": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Fitness",
+      "description": "Goal-first training and nutrition coaching. Equipment + scale intake, weights with light HIIT by default, whole-food bias.",
+      "category": "Life",
+      "twitter": "DannyGrinberg",
+      "share_url": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Frock Bot",
+      "description": "Grok Bot template by Stephen (Frock Bot).",
+      "category": "Creative",
+      "twitter": "SM_Schmitt",
+      "share_url": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Google Play",
+      "description": "Runs your Play Console for you, from store listings and Data Safety to subscriptions and testing tracks.",
+      "category": "Engineering",
+      "twitter": "MeechYourGoals",
+      "share_url": "https://x.ai/bot/ZPLL-JcuEjP7_vtM-TFyV",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Gym Bot",
+      "description": "Gym / workout Grok Bot template.",
+      "category": "Engineering",
+      "twitter": "rakshitaphilip",
+      "share_url": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Kids Book Creator",
+      "description": "Tell it a story idea; your kid gets a finished, print-ready picture book.",
+      "category": "Creative",
+      "twitter": "TessiIn",
+      "share_url": "https://x.ai/bot/7X7bJpKNFugFLcLCd3F3B",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Mermaid Status Drop",
+      "description": "Import the bot; open chat so a Mermaid status skill installs account-wide; ask any bot “where are we?”; delete the carrier; the skill stays.",
+      "category": "Engineering",
+      "twitter": "weichselbauml",
+      "share_url": "https://x.ai/bot/TXG6WrWp8Dp0-GQq558In",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Money Minute",
+      "description": "Money Minute Grok Bot template.",
+      "category": "Money",
+      "twitter": "prorookiegamer",
+      "share_url": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "MyPeople Bot",
+      "description": "People / relationships bot built with dr eggbot.",
+      "category": "Assistants",
+      "twitter": "StuyBoyNY",
+      "share_url": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Onboarder",
+      "description": "Holds a first-time customer's hand from hello to a working setup, then retires.",
+      "category": "Sales",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Operator",
+      "description": "Jumpstart helper for small businesses.",
+      "category": "Sales",
+      "twitter": "markcassara",
+      "share_url": "https://x.ai/bot/VRju--X8VRlzTySAh-WTd",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Phera's Beast Box",
+      "description": "Cage / risk-assessment style bot box for superintelligence experiments.",
+      "category": "Engineering",
+      "twitter": "phera46334652",
+      "share_url": "https://x.ai/bot/MkG-J2nMNHByC033LoaDT",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Photo & Video Shoot Confirmations",
+      "description": "Shoot-confirmation bot with weather check; offers reschedule when rain chance hits 50%.",
+      "category": "Life",
+      "twitter": "TimFPhotography",
+      "share_url": "https://x.ai/bot/iduDVp02VHu06-XddxcSD",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Playlist Curator",
+      "description": "DJ / playlist curator Grok Bot.",
+      "category": "Creative",
+      "twitter": "doitian",
+      "share_url": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Precision 3D Helper",
+      "description": "Answers customer questions, works out quotes, picks PLA or PETG, and helps fix prints on Bambu Lab printers.",
+      "category": "Engineering",
+      "twitter": "srinimaram",
+      "share_url": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Quake Live Ultrawide Fixer",
+      "description": "Walks you through Quake Live ultrawide setup with the skill /quake-live-ultrawide-setup.",
+      "category": "Engineering",
+      "twitter": "cfryant",
+      "share_url": "https://x.ai/bot/35WCgs71fVrBtwyDgj3El",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Quiet Inbox",
+      "description": "Sends two Sunday emails around bills and events while keeping your inbox tidy by archiving promo and junk.",
+      "category": "Assistants",
+      "twitter": "signalnoise8020",
+      "share_url": "https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Same Language",
+      "description": "Helps you and your bot speak the same language so intent is perceived correctly before shipping PRs.",
+      "category": "Assistants",
+      "twitter": "SuddenlyJon",
+      "share_url": "https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Sift",
+      "description": "Sift Grok Bot template.",
+      "category": "Research",
+      "twitter": "ereptyle",
+      "share_url": "https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Speaker",
+      "description": "Speaker for the Dead inspired by Ender's Game: keeps an honest record of your life while you're alive — nightly recap, weekly questions, letters for people you love.",
+      "category": "Life",
+      "twitter": "BudJohnson",
+      "share_url": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "Warren",
+      "description": "Investor analysis bot with CAN-SLIM analysis; works with agentic investor accounts.",
+      "category": "Money",
+      "twitter": "Ulises__gg",
+      "share_url": "https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "プロンプト監査役",
+      "description": "他のbotの指示を、その席の芯に沿って削る。重複・曖昧・抱え込みを指摘し、直した全文と理由を短く返す。",
+      "category": "Assistants",
+      "twitter": "m8i_51",
+      "share_url": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "name": "微信文章捕手",
+      "description": "导入后初始化抓取环境；发公众号文章链接即可获取全文，可作为基础支持 Bot 被其他 Bot 调用。",
+      "category": "Research",
+      "twitter": "cgnot996",
+      "share_url": "https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g",
+      "scraped_at": "2026-10-05"
     }
   ]
 }
