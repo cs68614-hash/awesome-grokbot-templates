@@ -21951,6 +21951,630 @@
       "twitter": "MaiYangAI",
       "share_url": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
       "scraped_at": "2026-10-02"
+    },
+    {
+      "name": "Santa",
+      "description": "Lets young children chat with a gentle, cheerful Santa Claus.",
+      "category": "Life",
+      "twitter": "mikioiha",
+      "share_url": "https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Cadence",
+      "description": "Ops desk that whitelists who may message you per channel and topic, and drafts replies in your voice.",
+      "category": "Assistants",
+      "twitter": "carlosbedia",
+      "share_url": "https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Return Man",
+      "description": "Watches your Amazon orders for things that should go back and warns you before return windows close.",
+      "category": "Life",
+      "twitter": "cjblev",
+      "share_url": "https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Last Call",
+      "description": "Veteran-bartender buddy with drink ideas from your cabinet and a Buddy Mode that keeps an eye on you.",
+      "category": "Life",
+      "twitter": "Rune_King_Jake",
+      "share_url": "https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "First Customers Finder",
+      "description": "Finds 5 real leads for your product every weekday morning and drafts the first message.",
+      "category": "Sales",
+      "twitter": "fabian_thepulse",
+      "share_url": "https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Z1 CAM Shop",
+      "description": "Makera Z1 CAM assistant for toolpaths, feeds and speeds, fixturing, tooling and setup.",
+      "category": "Creative",
+      "twitter": "msmage",
+      "share_url": "https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Zephyr",
+      "description": "Friendly helper for fleets on OneStepGPS that knows the app and looks things up for you.",
+      "category": "Assistants",
+      "twitter": "ZachFergus",
+      "share_url": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Sprite Bot",
+      "description": "Turns a photo or description into a 2D game character with walk, jump and attack animations for Unity, Godot or GIF.",
+      "category": "Creative",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Daily Verse",
+      "description": "Sends one Bible verse each morning, with an optional voice memo.",
+      "category": "Life",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Gnome Stylist",
+      "description": "Generates a gnome wearing the hairstyle you describe or upload.",
+      "category": "Creative",
+      "twitter": "neatobird",
+      "share_url": "https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Spanish Tutor",
+      "description": "Daily Spanish speaking coach built for ADHD and dyslexic learners, with short audio-first rounds.",
+      "category": "Life",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/4JMShKpqdyH5fnanTMefC",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Print Desk",
+      "description": "Send it a file, image or Drive link and it prints on your home printer.",
+      "category": "Assistants",
+      "twitter": "R0b3rtBaker",
+      "share_url": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Personal Trainer",
+      "description": "Strength coach for a 3-day lifting split plus a simple sleep log, autoregulating loads as you go.",
+      "category": "Life",
+      "twitter": "Still1995co",
+      "share_url": "https://x.ai/bot/NHDcLbHnQyb1nWlfkVAjm",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Travel Steward",
+      "description": "Runs a daily travel monitor for flights, stays and day-of logistics, with food and lounge tips.",
+      "category": "Life",
+      "twitter": "stbenjam",
+      "share_url": "https://x.ai/bot/WNoawju9U2WDwe2yPxGjO",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "trimmy",
+      "description": "Reads the bots you name and shows what saved context to cut and how much memory it frees.",
+      "category": "Engineering",
+      "twitter": "TimDOES",
+      "share_url": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Admissions Wizard",
+      "description": "College and MBA admissions counselor for essays, testing and recommender briefs.",
+      "category": "Life",
+      "twitter": "UziObi",
+      "share_url": "https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Live Pages",
+      "description": "Builds private interactive web pages on its computer that you open on your phone or laptop over Tailscale.",
+      "category": "Engineering",
+      "twitter": "darkart",
+      "share_url": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Syllabot",
+      "description": "Helps you build and manage courses on Kajabi.",
+      "category": "Creative",
+      "twitter": "gambrill",
+      "share_url": "https://x.ai/bot/uLaiAPTZzDV7vfptofUov",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "FamilyBank",
+      "description": "Pretend family bank that tracks each person's deposits, withdrawals and interest in a private ledger.",
+      "category": "Money",
+      "twitter": "CarolinaDill",
+      "share_url": "https://x.ai/bot/DKZKpx6r0GTrfLUUxqkWx",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "TripConcierge",
+      "description": "Researches flights, hotels in budget, getting around and a day-by-day plan; you book.",
+      "category": "Life",
+      "twitter": "CarolinaDill",
+      "share_url": "https://x.ai/bot/bze8MHCEZCkRP_Dw7uqw5",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "KJVBible",
+      "description": "Shows what the King James Bible says on any subject, with verses cited.",
+      "category": "Research",
+      "twitter": "CarolinaDill",
+      "share_url": "https://x.ai/bot/A7LELRVRh9WorYfGaTaXT",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "WMP",
+      "description": "Keeps a busy parent current on family birthdays, appointments, school events and partner requests.",
+      "category": "Assistants",
+      "twitter": "gearcaleeeb",
+      "share_url": "https://x.ai/bot/iPOF34o7dtafNEpVhIQRt",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "TARS",
+      "description": "Adversarial second-opinion bot that argues with your plan before you commit.",
+      "category": "Research",
+      "twitter": "ibuildthings",
+      "share_url": "https://x.ai/bot/fyuSERJF73FI7wFYm7cJF",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "CASE",
+      "description": "Pressure-tests implementations and architecture before you ship.",
+      "category": "Engineering",
+      "twitter": "ibuildthings",
+      "share_url": "https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Let's read journals",
+      "description": "Summarizes a research paper in 3 minutes, answers your questions, and quizzes you on it.",
+      "category": "Research",
+      "twitter": "hyein_cbio",
+      "share_url": "https://x.ai/bot/lSzwtEdLTJucJvzWrECA0",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Dojo Remix",
+      "description": "Remixes your Suno songs with rewritten lyrics in double-time chopper flows or a reference style.",
+      "category": "Creative",
+      "twitter": "Dividend_Dojo",
+      "share_url": "https://x.ai/bot/zVd3aZG061Qi2kyusWFXA",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Deal Scout",
+      "description": "Finds the best price across your stores using your memberships and pings you on wishlist price drops.",
+      "category": "Money",
+      "twitter": "SpudStateUSA",
+      "share_url": "https://x.ai/bot/7lshPSP7YWEvGzK5ju1Tg",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Ash",
+      "description": "Systems lead for small teams that watches self-hosted backends and risky pull requests.",
+      "category": "Engineering",
+      "twitter": "willebrew",
+      "share_url": "https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Swipe Coach",
+      "description": "Tells you which card to tap, catches missed rewards weekly, and tracks what its tips earned you.",
+      "category": "Money",
+      "twitter": "BowieHole",
+      "share_url": "https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Winback Desk",
+      "description": "Finds customers who left in the last 6 months and drafts win-back and exit-feedback emails.",
+      "category": "Sales",
+      "twitter": "Screaming_Chkn",
+      "share_url": "https://x.ai/bot/jbZ6e5CtU019W0wvZrhdl",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Kevin",
+      "description": "The one agent you talk to; runs a crew of minion bots behind the scenes with a weekly reviewer.",
+      "category": "Assistants",
+      "twitter": "Jaredtherich",
+      "share_url": "https://x.ai/bot/rZs29r38Oeor_7Ndp2coe",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "DCA Bot",
+      "description": "Dollar-cost averaging that buys more when the market looks fearful and less when it looks greedy.",
+      "category": "Money",
+      "twitter": "Must_be_Ash",
+      "share_url": "https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Buzz Operator",
+      "description": "Walks you through self-hosting Buzz with Tailscale and standing up your first Grok Build agents.",
+      "category": "Engineering",
+      "twitter": "jschnett",
+      "share_url": "https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Tax Firm OS",
+      "description": "Front door for a small tax or accounting office that prepares drafts and client follow-ups.",
+      "category": "Sales",
+      "twitter": "Amervim",
+      "share_url": "https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Job-Bolt Hiring Assistant",
+      "description": "Turns a job description into an AI video interview, scores every take and ranks candidates.",
+      "category": "Sales",
+      "twitter": "stebra_x",
+      "share_url": "https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "TCG Pokemon Drop Hunter",
+      "description": "Watches Pokémon TCG drops and restocks across X, retailers and news, and ranks what is worth flipping.",
+      "category": "Money",
+      "twitter": "tech_swindler",
+      "share_url": "https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "MedCash Guide",
+      "description": "Cash-pay medical claims coach for indemnity plans that files superbills and tracks reimbursements.",
+      "category": "Money",
+      "twitter": "tech_swindler",
+      "share_url": "https://x.ai/bot/mY1kadT1EfGNPBx8k_8t-",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Fleet Review Desk",
+      "description": "Reviews the Grok Bots you choose once a month and delivers ranked fixes; report-only.",
+      "category": "Engineering",
+      "twitter": "weboperater",
+      "share_url": "https://x.ai/bot/KT8Px1yf07UDJOmHESqog",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Crew Chief",
+      "description": "Back office for small field-service crews that turns messy crew texts into a board and a morning brief.",
+      "category": "Assistants",
+      "twitter": "TherealWitty22",
+      "share_url": "https://x.ai/bot/pzOyKHLO2umBr2Flo31py",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Car Finder",
+      "description": "Finds used sedans and small SUVs near you with out-the-door budget math and VIN history checks.",
+      "category": "Life",
+      "twitter": "DrewBedard",
+      "share_url": "https://x.ai/bot/kT9NWT76KzlpOns_iLDAz",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Only the School Emails that Matter",
+      "description": "Learns when school email arrives, polls only then, and flags what parents and students actually need.",
+      "category": "Life",
+      "twitter": "GabeHernandezOK",
+      "share_url": "https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Devil's Advocate",
+      "description": "Socratic devil's advocate that makes founders defend weak assumptions before committing.",
+      "category": "Research",
+      "twitter": "melvindvivas",
+      "share_url": "https://x.ai/bot/Uj8zF0iprBX0AsSB3mU2V",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Security Warden",
+      "description": "Second opinion before risky bot actions, scanning proposed sends, deletes and shell for secrets.",
+      "category": "Engineering",
+      "twitter": "myrrazor",
+      "share_url": "https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Tesla Paint Booth",
+      "description": "Designs custom Tesla Paint Shop wraps from a prompt or image and hands back the wrap file.",
+      "category": "Creative",
+      "twitter": "Matty_O_D",
+      "share_url": "https://x.ai/bot/0I8SH6XKWmBYc2HynER9i",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Career Radar",
+      "description": "Read-only job radar that verifies live openings on company pages and scores fit for career changers.",
+      "category": "Life",
+      "twitter": "MeechYourGoals",
+      "share_url": "https://x.ai/bot/t-hVvcb13AcXmur7iv3rj",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Budget Coach",
+      "description": "Reads your bank and cards read-only and builds a weekly plan for bills and spending money.",
+      "category": "Money",
+      "twitter": "Marlene8055",
+      "share_url": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Sunday Table",
+      "description": "Suggests about 15 dinners every Sunday around your family's tastes and builds the grocery list.",
+      "category": "Life",
+      "twitter": "Arceris_btc",
+      "share_url": "https://x.ai/bot/m9mPH3iwvuuNBd3IOarpC",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Lauren Tan",
+      "description": "Poteto-mode thinking partner for engineering and agent workflows.",
+      "category": "Engineering",
+      "twitter": "saadkamal",
+      "share_url": "https://x.ai/bot/4KAElqS6FCSb73vLXZ14S",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Daily Financial Brief",
+      "description": "Morning money brief covering your linked accounts, market moves and key news.",
+      "category": "Money",
+      "twitter": "swetha_lochte",
+      "share_url": "https://x.ai/bot/s2YEW2exxqk-BhcWfGziz",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Video Upscale Desk",
+      "description": "Upscales your videos to 1080p or 4K with the audio kept intact.",
+      "category": "Creative",
+      "twitter": "navymikeoif",
+      "share_url": "https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Redact",
+      "description": "Removes your info from people-search and data-broker sites with automated opt-outs.",
+      "category": "Life",
+      "twitter": "tag111111111",
+      "share_url": "https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Nole",
+      "description": "First-principles CEO-style challenger that cuts dead work and can overrule your other bots.",
+      "category": "Assistants",
+      "twitter": "ByronWalkerfl",
+      "share_url": "https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Amazon Checkout Agent",
+      "description": "Finds and checks out Amazon products through a Chrome extension on your home network.",
+      "category": "Assistants",
+      "twitter": "RohanArun",
+      "share_url": "https://x.ai/bot/LD3Aulc-ptTo30r3eX_KR",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Follow-Up Keeper",
+      "description": "Finds quotes and lead emails that never got a reply and hands you who to nudge each morning.",
+      "category": "Sales",
+      "twitter": "crisships",
+      "share_url": "https://x.ai/bot/AukifSyNiJgvU9ybnU38t",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Haggle Bot",
+      "description": "Inventories your SaaS and recurring vendor spend, sorts keep or cut, and drafts counters.",
+      "category": "Money",
+      "twitter": "AirbossHVAC",
+      "share_url": "https://x.ai/bot/tZ7zSNa0s1OEtrfFiFlHV",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Cemil",
+      "description": "Remembers what you wore, when and where, so you don't repeat outfits.",
+      "category": "Life",
+      "twitter": "gorchbey2",
+      "share_url": "https://x.ai/bot/vJo5baCNdh3N0Swpe5539",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Bourne Bot",
+      "description": "Calm personal OPSEC advisor for accounts, devices, location, money and family.",
+      "category": "Life",
+      "twitter": "MichaelGannotti",
+      "share_url": "https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Leak Ledger",
+      "description": "Finds forgotten subscriptions and bill leaks in your email and drafts cancel or negotiate messages.",
+      "category": "Money",
+      "twitter": "aydin_ayanzadeh",
+      "share_url": "https://x.ai/bot/H2568vK9f4ZO_zlRgidOw",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Escola al Dia",
+      "description": "Summarizes TokApp and school email and alerts you in Catalan.",
+      "category": "Life",
+      "twitter": "mguellsegarra",
+      "share_url": "https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Case Skeleton",
+      "description": "Builds a Problem, Solution, Result skeleton for an automation case study (Portuguese).",
+      "category": "Creative",
+      "twitter": "paulopierrondi",
+      "share_url": "https://x.ai/bot/_7yFKwQCYR_mi_oVmKOEN",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Video Editor",
+      "description": "AI video editor that cuts footage, makes shorts, and packages titles and thumbnails.",
+      "category": "Creative",
+      "twitter": "john_a_isaacson",
+      "share_url": "https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "信息搜集-bot",
+      "description": "每天搜集 AI 热点和争议话题，写成带来源链接的中文日报。",
+      "category": "Research",
+      "twitter": "Yunn260414",
+      "share_url": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "What's for Dinner?",
+      "description": "Tell it what is in your fridge and it suggests what to cook, use up first and buy.",
+      "category": "Life",
+      "twitter": "cradrrat",
+      "share_url": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Warranty Bot",
+      "description": "Finds receipts in your email, checks if a broken item is still covered, and walks you through the claim.",
+      "category": "Life",
+      "twitter": "cradrrat",
+      "share_url": "https://x.ai/bot/mJU3WN_wuYmhZAZ3A2F3y",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Rejectionist",
+      "description": "Turns an App Store or TestFlight rejection into a fix plan with the guideline cited and a reply to Apple.",
+      "category": "Engineering",
+      "twitter": "cradrrat",
+      "share_url": "https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "X Free Credits Finder",
+      "description": "Finds X posts giving away AI tool credits and flags scams and closed offers.",
+      "category": "Money",
+      "twitter": "melvindvivas",
+      "share_url": "https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "End-of-Week Runner",
+      "description": "Works through your low-priority ideas right before weekly usage resets.",
+      "category": "Assistants",
+      "twitter": "Grok_BotTemps",
+      "share_url": "https://x.ai/bot/iSu6JrCL-H5DeY_0_lWH6",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Home & Auto Insurance",
+      "description": "Shops home, auto and renters insurance with quote estimates from every insurer.",
+      "category": "Money",
+      "twitter": "felixstocker14",
+      "share_url": "https://x.ai/bot/nIKABJnzJuN-qSsj4KZD_",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Video Creator",
+      "description": "Makes one educational explainer video at a time, from research and script to voice and visuals.",
+      "category": "Creative",
+      "twitter": "farzyness",
+      "share_url": "https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "X Researcher",
+      "description": "X assistant for research, drafts, replies and viral-post shortlists on AI topics.",
+      "category": "Research",
+      "twitter": "melvindvivas",
+      "share_url": "https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Stock Lilo Strategy",
+      "description": "Layers out of a stock on the way up and back in lower, setting prices and share counts; you place trades.",
+      "category": "Money",
+      "twitter": "SamE1311025",
+      "share_url": "https://x.ai/bot/nytlUhse6wVKY4qyTpaLE",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Hirely",
+      "description": "Job-search teammate that shortlists verified roles, helps you apply and tracks follow-ups.",
+      "category": "Life",
+      "twitter": "Parva9eh",
+      "share_url": "https://x.ai/bot/k2oD619wjcM9RMybbtExW",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Curious First-Time Reader",
+      "description": "Walks your public pages as a stranger would and reports where a newcomer gets lost.",
+      "category": "Research",
+      "twitter": "42Constellation",
+      "share_url": "https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Ballot",
+      "description": "Nonpartisan voter guide that learns your views and breaks down every race on your ballot.",
+      "category": "Research",
+      "twitter": "ahua0323",
+      "share_url": "https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Fantasy Football",
+      "description": "Season-long fantasy analyst that drafts with you, sets lineups and scouts your opponent.",
+      "category": "Life",
+      "twitter": "EvanMFritz",
+      "share_url": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Fantasy GM",
+      "description": "Fantasy football manager for ESPN and Sleeper with start/sit, waiver, FAAB and trade ideas.",
+      "category": "Life",
+      "twitter": "mekeo21",
+      "share_url": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "n8n Schedule Watcher",
+      "description": "Reviews your n8n workflows weekly for failures and broken setups and suggests fixes.",
+      "category": "Engineering",
+      "twitter": "digitaljoeyp",
+      "share_url": "https://x.ai/bot/n78nHL2pCQJVpseg8uqgU",
+      "scraped_at": "2026-10-06"
+    },
+    {
+      "name": "Meetups",
+      "description": "Finds in-person AI and business meetups within your drive time every week.",
+      "category": "Life",
+      "twitter": "nmtalkss",
+      "share_url": "https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ",
+      "scraped_at": "2026-10-06"
     }
   ]
 }
