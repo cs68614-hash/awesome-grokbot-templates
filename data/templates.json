@@ -37215,6 +37215,14 @@
       "twitter": "TeslaAIBot",
       "share_url": "https://x.ai/bot/n1-T2WUHMQ9YfkdD-raZU",
       "scraped_at": "2026-10-22"
+    },
+    {
+      "name": "pump.fun dev check",
+      "description": "Send it a pump.fun contract address, ticker or dev wallet; it checks the dev's launches and graduations, the first-10-second bundle, insider holdings, look-alikes and your skip rules. Free, read-only, no key. Not affiliated with pump.fun.",
+      "category": "Money",
+      "twitter": "pumpdatafun",
+      "share_url": "https://x.ai/bot/_YDgLvBN91gVc6aDdcD96",
+      "scraped_at": "2026-10-22"
     }
   ]
 }

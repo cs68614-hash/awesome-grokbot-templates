@@ -51192,5 +51192,16 @@
     "de": "Sucht täglich auf X nach Accounts, die deinen nachahmen, schreibt sie für deine Meldung auf und sagt Bescheid, wenn X sie sperrt.",
     "pt-BR": "Procura todo dia no X contas que se passam pela sua, redige o material para você denunciar e avisa quando o X as suspende.",
     "ru": "Каждый день ищет в X аккаунты, выдающие себя за вас, оформляет их для жалобы и сообщает, когда X их блокирует."
+  },
+  "https://x.ai/bot/_YDgLvBN91gVc6aDdcD96": {
+    "zh-CN": "发送 pump.fun 合约地址、代币代码或开发者钱包，它会检查开发者的发币与毕业记录、前 10 秒捆绑买入、内部人持仓、相似发币以及你的跳过规则。免费、只读、无需密钥。与 pump.fun 无关联。",
+    "zh-TW": "傳送 pump.fun 合約地址、代幣代號或開發者錢包，它會檢查開發者的發幣與畢業紀錄、前 10 秒綑綁買入、內部人持倉、相似發幣以及你的跳過規則。免費、唯讀、無需金鑰。與 pump.fun 無關聯。",
+    "ja": "pump.fun のコントラクトアドレス、ティッカー、または開発者ウォレットを送ると、開発者のローンチ数と卒業数、最初の10秒のバンドル、インサイダーの保有、似たローンチ、あなたのスキップルールを確認します。無料・読み取り専用・キー不要。pump.fun とは無関係です。",
+    "ko": "pump.fun 컨트랙트 주소, 티커 또는 개발자 지갑을 보내면 개발자의 런칭 및 졸업 기록, 첫 10초 번들, 내부자 보유량, 유사 런칭, 그리고 사용자의 건너뛰기 규칙을 확인합니다. 무료, 읽기 전용, 키 불필요. pump.fun과 무관합니다.",
+    "es": "Envíale una dirección de contrato de pump.fun, un ticker o la wallet de un dev y revisa los lanzamientos y graduaciones del dev, el bundle de los primeros 10 segundos, las tenencias de insiders, los lanzamientos similares y tus reglas de descarte. Gratis, solo lectura, sin clave. No afiliado a pump.fun.",
+    "fr": "Envoyez-lui une adresse de contrat pump.fun, un ticker ou le wallet d'un dev : il vérifie les lancements et graduations du dev, le bundle des 10 premières secondes, les avoirs des initiés, les lancements similaires et vos règles d'exclusion. Gratuit, en lecture seule, sans clé. Non affilié à pump.fun.",
+    "de": "Schick ihm eine pump.fun-Contract-Adresse, einen Ticker oder eine Dev-Wallet, und er prüft die Launches und Graduations des Devs, das Bundle der ersten 10 Sekunden, Insider-Bestände, ähnliche Launches und deine Skip-Regeln. Kostenlos, nur lesend, kein Schlüssel nötig. Nicht mit pump.fun verbunden.",
+    "pt-BR": "Envie um endereço de contrato da pump.fun, um ticker ou a carteira de um dev e ele verifica os lançamentos e graduações do dev, o bundle dos primeiros 10 segundos, as posições de insiders, lançamentos parecidos e suas regras de descarte. Grátis, somente leitura, sem chave. Não afiliado à pump.fun.",
+    "ru": "Отправьте адрес контракта pump.fun, тикер или кошелёк разработчика, и бот проверит запуски разработчика и сколько из них дошли до graduation, бандл первых 10 секунд, долю инсайдеров, похожие запуски и ваши правила пропуска. Бесплатно, только чтение, без ключа. Не связан с pump.fun."
   }
 }
