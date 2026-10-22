@@ -51192,5 +51192,16 @@
     "de": "Sucht täglich auf X nach Accounts, die deinen nachahmen, schreibt sie für deine Meldung auf und sagt Bescheid, wenn X sie sperrt.",
     "pt-BR": "Procura todo dia no X contas que se passam pela sua, redige o material para você denunciar e avisa quando o X as suspende.",
     "ru": "Каждый день ищет в X аккаунты, выдающие себя за вас, оформляет их для жалобы и сообщает, когда X их блокирует."
+  },
+  "https://x.ai/bot/Cog-D_HjN4wAK_3arFAWM": {
+    "zh-CN": "每天早上发送 pump.fun 昨日概况：发币数、毕业数、交易量、最活跃的币以及各市值段的概率。只读且免费，无需密钥或钱包。与 pump.fun 无关联。",
+    "zh-TW": "每天早上傳送 pump.fun 昨日概況：發幣數、畢業數、交易量、最活躍的幣以及各市值區間的機率。唯讀且免費，無需金鑰或錢包。與 pump.fun 無關聯。",
+    "ja": "毎朝、pump.fun の前日の状況を送ります。ローンチ数、卒業数、取引量、最も活発なコイン、時価総額帯ごとの確率。読み取り専用・無料で、キーもウォレットも不要。pump.fun とは無関係です。",
+    "ko": "매일 아침 pump.fun의 전날 현황을 보냅니다: 런칭 수, 졸업 수, 거래량, 가장 활발한 코인, 시가총액 구간별 확률. 읽기 전용이며 무료이고, 키나 지갑이 필요 없습니다. pump.fun과 무관합니다.",
+    "es": "Cada mañana envía el día anterior en pump.fun: lanzamientos, graduaciones, volumen, las monedas más activas y las probabilidades por capitalización de mercado. Solo lectura y gratis, sin clave ni wallet. No afiliado a pump.fun.",
+    "fr": "Chaque matin, il envoie la journée de la veille sur pump.fun : lancements, graduations, volume, les coins les plus actifs et les probabilités par capitalisation. En lecture seule et gratuit, sans clé ni wallet. Non affilié à pump.fun.",
+    "de": "Jeden Morgen schickt er den Vortag auf pump.fun: Launches, Graduations, Volumen, die aktivsten Coins und die Chancen nach Marktkapitalisierung. Nur lesend und kostenlos, ohne Schlüssel oder Wallet. Nicht mit pump.fun verbunden.",
+    "pt-BR": "Toda manhã envia o dia anterior na pump.fun: lançamentos, graduações, volume, as moedas mais movimentadas e as probabilidades por market cap. Somente leitura e grátis, sem chave nem carteira. Não afiliado à pump.fun.",
+    "ru": "Каждое утро присылает итоги вчерашнего дня на pump.fun: запуски, graduation, объём, самые активные монеты и шансы по капитализации. Только чтение и бесплатно, без ключа и кошелька. Не связан с pump.fun."
   }
 }
