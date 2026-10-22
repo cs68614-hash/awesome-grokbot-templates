@@ -37215,6 +37215,14 @@
       "twitter": "TeslaAIBot",
       "share_url": "https://x.ai/bot/n1-T2WUHMQ9YfkdD-raZU",
       "scraped_at": "2026-10-22"
+    },
+    {
+      "name": "pump.fun daily",
+      "description": "Every morning it sends yesterday on pump.fun: launches, graduations, volume, the busiest coins and the odds by market cap. Read-only and free, no key or wallet. Not affiliated with pump.fun.",
+      "category": "Money",
+      "twitter": "pumpdatafun",
+      "share_url": "https://x.ai/bot/Cog-D_HjN4wAK_3arFAWM",
+      "scraped_at": "2026-10-22"
     }
   ]
 }
