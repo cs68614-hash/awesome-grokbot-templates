@@ -48103,6 +48103,238 @@
       "twitter": "Phil_Holland",
       "share_url": "https://x.ai/bot/MCxw03O1xLB7lH7uX0W5u",
       "scraped_at": "2026-11-01"
+    },
+    {
+      "name": "AbleLatch",
+      "description": "A free daily SI helper for people with disabilities and limited input: number menus that work with eye-gaze, switch, voice, AAC, BCI and caregivers.",
+      "category": "Assistants",
+      "twitter": "CaliLumberJack",
+      "share_url": "https://x.ai/bot/M6gJAA-Hlh1u3rcwychpu",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "AI Character Studio",
+      "description": "Launch a faceless AI influencer without a film crew. It writes scripts with hook options, makes AI avatar videos with pop-up text and B-roll.",
+      "category": "Creative",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/RDa3UxaLxHIts4XVIX73W",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Audio Editor",
+      "description": "Turns raw recordings like sermons, talks, podcasts, and interviews into clean, podcast-ready audio.",
+      "category": "Assistants",
+      "twitter": "tommy_alderman",
+      "share_url": "https://x.ai/bot/SkD4eLOanzojiX7tyodeq",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Case Law Desk",
+      "description": "A research and organization assistant for anyone in a US civil lawsuit: reviews your documents, researches your state's law with cited sources.",
+      "category": "Research",
+      "twitter": "MeesesRfriends",
+      "share_url": "https://x.ai/bot/Rt-vOEJqjc0aiVcp0NUdq",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Chief of Staff",
+      "description": "I can't function without AI, so I gave it jobs. Stop babysitting your bots. Make them a team.",
+      "category": "Assistants",
+      "twitter": "jared413",
+      "share_url": "https://x.ai/bot/NS5I1t84pW45WBSg4dyWd",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Comic Book Carl",
+      "description": "Your comic collecting sidekick: tracks your collection, values it from real sold prices with links, flags key issues, watches your pull list.",
+      "category": "Assistants",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/DnBW-zVBFHvnRk1NgJrCk",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Goldie Gems",
+      "description": "Know what your jewelry is really worth. Snap photos and Goldie builds an inventory spreadsheet of your pieces, figures melt value from live gold.",
+      "category": "Assistants",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/q16DvYUAADvhc9KL7n1s5",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Grok Brain",
+      "description": "Give all your bots one source of truth about you or your company.",
+      "category": "Assistants",
+      "twitter": "PalmBeachAI",
+      "share_url": "https://x.ai/bot/Va1GmBTD_1J-MomU7o3Uz",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Grok Build Helper",
+      "description": "A read-first helper for Grok Build CLI users: audits worktrees against their origin folders, diagnoses broken git repos and sync conflicts.",
+      "category": "Engineering",
+      "twitter": "MaXFalstein",
+      "share_url": "https://x.ai/bot/_4l8W-Etvs_dVC0qVmlnw",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Idea Ike",
+      "description": "Your brainstorming partner: toss in a rough thought and get a fast burst of ideas, then the best 2 or 3 with pros, cons and a first step.",
+      "category": "Assistants",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/9zBbCo8cw3SggdO28xXbK",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Job search bot",
+      "description": "Finds 20-30 matching jobs for you every weekday, tracks them in a job tracker page, helps fill applications for your review.",
+      "category": "Assistants",
+      "twitter": "_sarant",
+      "share_url": "https://x.ai/bot/J-wW65CmuMGk1yPB6kJe5",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Lead Hunter",
+      "description": "Scans X and Reddit for people ready to buy what you sell, scores each lead HOT/WARM/SKIP, and drafts human replies you approve before anything goes out.",
+      "category": "Sales",
+      "twitter": "thekuchh",
+      "share_url": "https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Max News",
+      "description": "Stay informed in minutes, without the noise. Max sends a short, neutral brief on your own topics and area a few times a day.",
+      "category": "Research",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/WjQ0Az3myfhbARRzoAK89",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Meal planner",
+      "description": "A meal planner and food label reader for adults. It plans weekly meals around your kitchen, pantry and budget, and builds a priced.",
+      "category": "Money",
+      "twitter": "RachelVT42",
+      "share_url": "https://x.ai/bot/04sgrpvtAre-Khtz6KDyg",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Miilo Control",
+      "description": "Version 0.1.1. Reviews action records you supply against your read-only local Miilo observations of coding agents and reports unresolved or conflicting.",
+      "category": "Engineering",
+      "twitter": "drxejr",
+      "share_url": "https://x.ai/bot/eT3S9HPEU7FD_6RkMWcju",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Miilo Daily Brief",
+      "description": "Turns your read-only local Miilo observations of coding agents into a daily brief: what needs you, what changed between snapshots.",
+      "category": "Engineering",
+      "twitter": "drxejr",
+      "share_url": "https://x.ai/bot/lODwaQuvFNIM935q8hm7t",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Pastor Pete",
+      "description": "A free, warm Bible and faith companion. Tell it what you're facing and it shares real Bible stories and verses with exact references.",
+      "category": "Assistants",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/YrxlAlCd7MQujjCOlStvm",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Personal Data Removal",
+      "description": "Finds your personal info on data broker and people-search sites, then submits opt-outs once you approve them and rechecks for relistings.",
+      "category": "Assistants",
+      "twitter": "sia14u",
+      "share_url": "https://x.ai/bot/65GhYJSetWt9fUgU1Gtyz",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Redline",
+      "description": "Uses nearly all of your weekly AI usage before it resets without ever going over.",
+      "category": "Assistants",
+      "twitter": "jtr2342",
+      "share_url": "https://x.ai/bot/Pojm9y9xc_ZVnnBMIpOJI",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Rookie Card Ray",
+      "description": "Your sports card and memorabilia sidekick: it keeps your collection inventory, prices every card from real recent sales with links.",
+      "category": "Sales",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/TyUoZv-3xRqbY_zHQIRvO",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Screen Question Bot",
+      "description": "Double-tap the back of your iPhone, type a question about whatever is on your screen (a reel, video, post or page).",
+      "category": "Creative",
+      "twitter": "kroll_uri",
+      "share_url": "https://x.ai/bot/-dgs5IiFlb8m2xzHEAwe0",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Silver Dollar Duke",
+      "description": "Your friendly old-school coin dealer, ready any time. Duke keeps your coin and bullion inventory from photos.",
+      "category": "Life",
+      "twitter": "jimaggie",
+      "share_url": "https://x.ai/bot/iwweEXz16SL6637wWjw4O",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Team Front Door",
+      "description": "A front door bot that runs a whole team of helper bots for one person.",
+      "category": "Assistants",
+      "twitter": "lowbudetmisery",
+      "share_url": "https://x.ai/bot/ihywZwdvzvh6Oc67fh08k",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Travel Agent",
+      "description": "Travel Agent. Finds the best-value flights, hotels, and rental cars for your trips and recommends one, with the reason.",
+      "category": "Life",
+      "twitter": "BeBryanMichaels",
+      "share_url": "https://x.ai/bot/PIhMWfUfxYKdhphfFjtcT",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Trip Deal",
+      "description": "Plans a trip into three all-in USD options with the $ gap — live flights and stays, bags, transfers, food, and flex dates.",
+      "category": "Money",
+      "twitter": "unicodef1wn",
+      "share_url": "https://x.ai/bot/Kwb0OlBmnVchYsVwZxbRN",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Unfollow Bot",
+      "description": "Tracks who unfollows your X account. It takes a daily snapshot of your followers.",
+      "category": "Assistants",
+      "twitter": "DavidTeslaTech_",
+      "share_url": "https://x.ai/bot/CMnwGtB1QgWoOGSCydJI4",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Voice Clone",
+      "description": "Clones voices from samples and turns any text into natural speech, delivering audio files right in chat.",
+      "category": "Assistants",
+      "twitter": "sia14u",
+      "share_url": "https://x.ai/bot/5jD8K39ZSzsULOdFkRzUS",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "X Post Analyzer",
+      "description": "Shows what works and what doesn't in your X posts (v0.1.1). It compares recent posts by format, topic, length, hook and time.",
+      "category": "Assistants",
+      "twitter": "drxejr",
+      "share_url": "https://x.ai/bot/ffBuRJCFNCtj-gFzSzgVa",
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "X Voice Editor",
+      "description": "Drafts X posts, replies, and threads in your own voice from posts you paste or export, flags claims that need a source, labels paid partnerships.",
+      "category": "Assistants",
+      "twitter": "drxejr",
+      "share_url": "https://x.ai/bot/ZMEcetFhiK8nzHdsKCeq5",
+      "scraped_at": "2026-11-02"
     }
   ]
 }
