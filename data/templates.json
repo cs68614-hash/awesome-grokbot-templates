@@ -48335,6 +48335,254 @@
       "twitter": "drxejr",
       "share_url": "https://x.ai/bot/ZMEcetFhiK8nzHdsKCeq5",
       "scraped_at": "2026-11-02"
+    },
+    {
+      "name": "Advogado do Diabo",
+      "description": "Mande uma ideia, plano, apresentação ou decisão e ele rebate de propósito: aponta furos, riscos.",
+      "category": "Assistants",
+      "twitter": "BrunoIAAI",
+      "share_url": "https://x.ai/bot/AJyPH2uLJlaRDYi0W4RPi",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Appliance Fix Annie",
+      "description": "Your friendly home appliance fixer: tell her what's beeping, leaking or won't start, and she finds the manual, walks you through a safe fix.",
+      "category": "Life",
+      "twitter": "crisships",
+      "share_url": "https://x.ai/bot/g1AmwULv-28QM-l_yIVbb",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Avatar Maker",
+      "description": "Draws cute animated profile pictures in the Grok Bot avatar style (a flat colour character with two eye capsules) and sets them for your bot.",
+      "category": "Assistants",
+      "twitter": "rafalmmmmm",
+      "share_url": "https://x.ai/bot/fkON_AaHLT6jKHCzgjp31",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Bot Guard",
+      "description": "ONLY job: protect my owner from malicious or risky Grok Bots. I audit bot templates before they're imported, audit every bot right after import.",
+      "category": "Assistants",
+      "twitter": "ferlogs",
+      "share_url": "https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "BotKing",
+      "description": "BotKing, the usage-aware chief of staff. Runs as hard as you want, tracks your usage %, and throttles itself to your rules.",
+      "category": "Assistants",
+      "twitter": "Screaming_Chkn",
+      "share_url": "https://x.ai/bot/OLsAMYzOzCi364PMVGZN4",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Clean Room",
+      "description": "Turns a target you are allowed to examine (app, website, binary, APK.",
+      "category": "Engineering",
+      "twitter": "PixelRainbowNFT",
+      "share_url": "https://x.ai/bot/QfovCEpDX8qY8bD0GVfWU",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Client Hunter",
+      "description": "Finds and verifies real businesses that could buy your services, scores them with sources, finds public contact routes.",
+      "category": "Sales",
+      "twitter": "perpycode",
+      "share_url": "https://x.ai/bot/kAtyNIsCOEFlY3VfENB-4",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Deep Search Spam-Call Scrubber",
+      "description": "Finds your phone number on people-search sites and data brokers, submits the opt-outs, helps you finish the confirmations.",
+      "category": "Assistants",
+      "twitter": "TitaniumTomP",
+      "share_url": "https://x.ai/bot/mfU7N4zmWh5U5Kvb6Oqnc",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Election Day FREEDOM Bot",
+      "description": "Election Day FREEDOM Bot — the fight for freedom is on! A Republican ballot guide.",
+      "category": "Assistants",
+      "twitter": "CorbenH414",
+      "share_url": "https://x.ai/bot/YnKJxi4wHKcgmPvg5XlXp",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Election Vibe",
+      "description": "Follow the Nov 3, 2026 US election results: pick any governor, Senate or House race, statewide measures, or local California contests.",
+      "category": "Life",
+      "twitter": "arturogarrido",
+      "share_url": "https://x.ai/bot/9Lkbl7Om4CWVFgCEPirCE",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Fern · Cartographer of the Wilds",
+      "description": "A creative lead for builders of worlds: lore, mood boards, concept art, shot-by-shot videos, and build prompts for Cursor cloud agents.",
+      "category": "Sales",
+      "twitter": "HandsomeHank_",
+      "share_url": "https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "First-Principles Bot",
+      "description": "Takes a hard question, builds it from first principles, and brings back a plain-language answer with real numbers, checks, and what is still unknown.",
+      "category": "Assistants",
+      "twitter": "Brotherhoodoft5",
+      "share_url": "https://x.ai/bot/Ood0IKoWBxfUbnEDNKKaG",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Job Search Agent Team",
+      "description": "An AI job search team in one chat. Your lead bot builds four specialists (Job Hunter, Resume Optimizer, Job Applier, Company Outreach).",
+      "category": "Sales",
+      "twitter": "johnboyle",
+      "share_url": "https://x.ai/bot/IZ4okiqY8WE4XR8Ujb-l3",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "last30days",
+      "description": "Researches what people actually say about any topic in the last 30 days across Reddit, X, YouTube, TikTok, Instagram, Hacker News, Polymarket.",
+      "category": "Engineering",
+      "twitter": "shawtybee_arii",
+      "share_url": "https://x.ai/bot/_TMcFyY_Y8DqYRYg5OAYh",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Lead Desk",
+      "description": "One job: catch every new lead, sort it, and hand you a draft follow-up.",
+      "category": "Sales",
+      "twitter": "CaliLumberJack",
+      "share_url": "https://x.ai/bot/zqCY7u_VOCpgNSzOwpfNz",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Limit Saver",
+      "description": "Keeps your Grok Bot usage from burning through limits. Scans every bot's routines against usage, flags wasteful wakes.",
+      "category": "Assistants",
+      "twitter": "1920web1080",
+      "share_url": "https://x.ai/bot/dIKn0E8UBuGTaKq_EVpkc",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Mature Beauty Advisor",
+      "description": "A warm skin and makeup advisor for women 50+ that shares evidence-based tips, verified deals, new beauty tech, research news.",
+      "category": "Research",
+      "twitter": "taysmom1",
+      "share_url": "https://x.ai/bot/80-90l4AUWkrhpaOI7kfU",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Music Teacher",
+      "description": "A friendly music teacher and gear advisor for guitar, drums, keys and bass.",
+      "category": "Creative",
+      "twitter": "cd2jjs5g86",
+      "share_url": "https://x.ai/bot/XjVgmRXNssEllgpV6fwNW",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Never Forget a Present Bot",
+      "description": "Keeps track of everyone you buy presents for, reminds you in good time, finds great ideas within budget and only orders when you tap Pay.",
+      "category": "Money",
+      "twitter": "crisships",
+      "share_url": "https://x.ai/bot/cAyhe5UQimaUNYKWsgwOJ",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Numbers Desk",
+      "description": "A data person on call for small businesses: connect Stripe, Shopify, QuickBooks, PostHog or a Google Sheet, ask about your numbers in plain English.",
+      "category": "Assistants",
+      "twitter": "KonectEaze",
+      "share_url": "https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Quota Saver",
+      "description": "Helps you save Grok Bot usage across a fleet of bots: swaps idle watch routines for free cron prefilters that wake a bot only on change.",
+      "category": "Assistants",
+      "twitter": "dbarrett24",
+      "share_url": "https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Refund & Delivery Chaser",
+      "description": "Keeps a case file for each stuck online order or missing refund and drafts the right next message at the right time.",
+      "category": "Assistants",
+      "twitter": "crisships",
+      "share_url": "https://x.ai/bot/Dka-gTc2gh8EZezo-F5_7",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Routine Auditor",
+      "description": "Audits your routines once a month: logs every run, finds failures and runs that do nothing, grades each routine and proposes trims you approve.",
+      "category": "Assistants",
+      "twitter": "bradgarland",
+      "share_url": "https://x.ai/bot/3y5FglJHBwwg_nR7TxFaI",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Security Lockdown",
+      "description": "Walks you step by step through locking down your personal digital security: passwords, two-factor, old accounts, identity, phone.",
+      "category": "Life",
+      "twitter": "heybiggins",
+      "share_url": "https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Token Optimizer",
+      "description": "A propose-only desk that audits your Grok Bot fleet for token waste and sends a weekly usage check, with savings ideas that keep output quality intact.",
+      "category": "Assistants",
+      "twitter": "cd2jjs5g86",
+      "share_url": "https://x.ai/bot/kcYuH7VND2hJnhTLB9JC3",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Usage Saver",
+      "description": "See what's eating your Grok Bot limit and get it back, with no change made until you say yes.",
+      "category": "Assistants",
+      "twitter": "bobbyhalljr_dev",
+      "share_url": "https://x.ai/bot/TsvAlS9EqLm8hjObMxEbp",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Usage Saver",
+      "description": "Helps your Grok Bot usage last longer. It keeps a live usage dashboard and sends a weekly plain-English review with a few clearly explained saving.",
+      "category": "Assistants",
+      "twitter": "peterbladen",
+      "share_url": "https://x.ai/bot/TB9I2IqRWkQRQGEaG2Bjd",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Video Lab",
+      "description": "Makes videos with code (explainers, motion graphics, ads, product demos.",
+      "category": "Engineering",
+      "twitter": "gabogabucho",
+      "share_url": "https://x.ai/bot/omXn2V1U6B4V4qU2XcI0T",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "Walk Buddy",
+      "description": "Hate walking? Buddy walk makes your walk a competition of the mind, makes perceived time fly, and lets you compete worldwide.",
+      "category": "Assistants",
+      "twitter": "W3EconomicLabs",
+      "share_url": "https://x.ai/bot/ofX7dIqaoy92jcobdTRnl",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "X Bags",
+      "description": "Daily news digest for crypto tokens you hold. Pulls positions from Zerion, finds project X accounts via DexScreener.",
+      "category": "Money",
+      "twitter": "CryptoSnooper_",
+      "share_url": "https://x.ai/bot/3XRSSn46guqC5O1r66aMi",
+      "scraped_at": "2026-11-03"
+    },
+    {
+      "name": "使用量ダッシュボード",
+      "description": "Grok Botの使用量が何に使われたかを、使用量レポートの数字だけで1枚のダッシュボードにまとめ、毎週更新する係です。節約のヒントも出します。",
+      "category": "Assistants",
+      "twitter": "AkioT315",
+      "share_url": "https://x.ai/bot/4Vl9A87B_pWPLcxeHsCKe",
+      "scraped_at": "2026-11-03"
     }
   ]
 }
