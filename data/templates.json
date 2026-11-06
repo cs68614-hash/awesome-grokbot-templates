@@ -49391,6 +49391,686 @@
       "twitter": "BrianRoemmele",
       "share_url": "https://x.ai/bot/7mv_WGWHsjwnuQM1k1xB3",
       "scraped_at": "2026-11-05"
+    },
+    {
+      "name": "90-Second Reset Coach",
+      "description": "A friendly coach that helps you calm your nervous system in 90 seconds with the Vagal Brake (4-7-8 breathing), with optional Morning.",
+      "category": "Life",
+      "twitter": "I__Liiv",
+      "share_url": "https://x.ai/bot/tDUZyhrPHfyTud3vnyW1I",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Bot Auditor",
+      "description": "An independent weekly auditor for your Grok Bots. It finds overlap, gaps, idle bots, weak descriptions and stale memory, then gives you ranked fixes.",
+      "category": "Assistants",
+      "twitter": "luisbarragan",
+      "share_url": "https://x.ai/bot/CZmV0y1xhpdRPhYZBxsF7",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "BotDrop",
+      "description": "Drop notes, files, links, or voice memos to another person's BotDrop after they accept an invite.",
+      "category": "Assistants",
+      "twitter": "sia14u",
+      "share_url": "https://x.ai/bot/tiPBfc-5UyhitWk3O9bqL",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Breach Watch",
+      "description": "A friendly security helper for everyday people and small businesses.",
+      "category": "Assistants",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/PoHak8r9Bo76500L5mpHC",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Context Cleaner",
+      "description": "Audit your Grok Bot setup for usage waste and clean it up one approved change at a time.",
+      "category": "Assistants",
+      "twitter": "NoHypeGuy",
+      "share_url": "https://x.ai/bot/o1VBmI9hXG9E2BnENz_BV",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "D&D Character Creator",
+      "description": "Table-style D&D character creation with every dice roll shown, rules sources cited, appearance-driven portraits.",
+      "category": "Assistants",
+      "twitter": "ecoay",
+      "share_url": "https://x.ai/bot/svnYE1H2_kJiAdU5OBbyw",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Day Route",
+      "description": "Turn typed or dictated stops into verified, ordered Tesla navigation routes, then send when you ask.",
+      "category": "Assistants",
+      "twitter": "DhalgrenMarquis",
+      "share_url": "https://x.ai/bot/PkTnGEOiw17_0NhFSuYF6",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Director",
+      "description": "Lead of a six-bot video production team: routes each video job to the right specialist, enforces one house style.",
+      "category": "Sales",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/E6NdmXG5F9O_B6nFiDIJW",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Dr Bot",
+      "description": "A personal medical-care assistant that finds in-network doctors near you, drafts inquiry emails for your approval, and tracks replies, appointments.",
+      "category": "Assistants",
+      "twitter": "cspenc97",
+      "share_url": "https://x.ai/bot/6z5La7Gefkqs6KCwCiSEi",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Elected Official Accountability",
+      "description": "Builds a filterable accountability Page of your elected officials from your address: contacts, campaign promises.",
+      "category": "Assistants",
+      "twitter": "Pete_HSL83",
+      "share_url": "https://x.ai/bot/S-lt3zWoIJFlkOcYPBd3V",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "ESPN NFL Fantasy",
+      "description": "Your ESPN NFL Fantasy companion: lineups, waivers, trades. Reads screenshots, replies in your language, never changes your team without your OK.",
+      "category": "Assistants",
+      "twitter": "hdelacampa",
+      "share_url": "https://x.ai/bot/p4uICnQRYvNKTZBQWSJT6",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Filmbot",
+      "description": "Directs and delivers short videos made with OpenFilm: explainers, product or 3D showcases and promos, in 9:16 or 16:9.",
+      "category": "Creative",
+      "twitter": "EnekoMontero",
+      "share_url": "https://x.ai/bot/lGHtTxD_lhGIVYMDc6m1J",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Finanzas AR",
+      "description": "Fresh Argentine market data and IOL portfolio tools, with sources, timestamps, and clean charts. For people who follow the Argentine market.",
+      "category": "Money",
+      "twitter": "juanmanuelcosta",
+      "share_url": "https://x.ai/bot/ImaKRrq6IwiHsbG_dmiFl",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "FiXXer",
+      "description": "A hands-on IT fixer for you and your other Grok Bots. It sorts out computer, network, website, app and update problems.",
+      "category": "Assistants",
+      "twitter": "MeyerdeBeer",
+      "share_url": "https://x.ai/bot/XGef9bPV3M6SdIM3DAjHy",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Football Score Alerts",
+      "description": "A live score tracker that pings you on every score, quarter or half end, overtime, and the final for the games you pick.",
+      "category": "Assistants",
+      "twitter": "headyrobot",
+      "share_url": "https://x.ai/bot/UXaj0WGoSMJI2AMdXZImw",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Foreman",
+      "description": "Efficiency lead for multi-bot setups. Finds lasting ways to ship more real work for less usage and waste, then encodes the wins so they stick.",
+      "category": "Sales",
+      "twitter": "STFUnion",
+      "share_url": "https://x.ai/bot/jt786H746ybSFGZvH4w5-",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Gamify bot",
+      "description": "Turns your life and work into a light Dungeons and Dragons style game: XP, quests, levels, badges.",
+      "category": "Assistants",
+      "twitter": "roboflock",
+      "share_url": "https://x.ai/bot/eUqNnTtFJyktAIWj9W1o4",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Ghostwriter",
+      "description": "A songwriting bot that learns your taste and writes Suno-ready songs and style prompts with hooks and clip moments built for TikTok and Instagram Reels.",
+      "category": "Creative",
+      "twitter": "allegoricalred",
+      "share_url": "https://x.ai/bot/bpiiZii93BwUdO58qZ45A",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "GIF Creator",
+      "description": "Turns any video or link into a short, clean-looping GIF sized for Slack, Discord, iMessage, X, Giphy, or email.",
+      "category": "Creative",
+      "twitter": "headyrobot",
+      "share_url": "https://x.ai/bot/SQYseKTJVi0ttPVORWPJu",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Gift Concierge",
+      "description": "Get the whole holiday gift list bought and delivered on time. Keeps your list with a budget per person, finds gift ideas for each recipient.",
+      "category": "Money",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/se48b1c0ce0321a5fc6c6",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Glow Up",
+      "description": "Send a selfie and get a funny, flattering, over-the-top glam diva makeover with big hair and dramatic makeup.",
+      "category": "Assistants",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/NCy5afIaZzGWavZGDDHiu",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "goat skills bot",
+      "description": "Turns a builder's own X posts into one sourced agent skill (SKILL.md) that any bot can apply.",
+      "category": "Assistants",
+      "twitter": "StarkDegenz",
+      "share_url": "https://x.ai/bot/lvrUulGch21LndWuzMMRz",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Google Search Console Indexer",
+      "description": "Keeps your website's pages indexed in Google. It checks your sitemaps, requests indexing for new pages within Google's daily limit.",
+      "category": "Assistants",
+      "twitter": "AunySillyMe",
+      "share_url": "https://x.ai/bot/KyGauyqAJthOvsN-GFoKS",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Gran DT",
+      "description": "Your Gran DT companion (Clarín): 11, captain and Fútbol 5. Reads screenshots, replies in your language, never changes your team without your OK.",
+      "category": "Assistants",
+      "twitter": "hdelacampa",
+      "share_url": "https://x.ai/bot/hhwo4NV8B6dC5VxnobL3f",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Grok Bot Efficiency Optimizer",
+      "description": "Helps you make your Grok Bot usage/credits last longer. Every week it reviews what your bots and routines use and suggests ways to make them more.",
+      "category": "Assistants",
+      "twitter": "cu30rry_",
+      "share_url": "https://x.ai/bot/6q44k3eKlHmC0keocH7He",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Grokvis",
+      "description": "Bot command center for anyone running several Grok Bots. Builds a crew dashboard Page with Inbox, Urgent actions, Ideas.",
+      "category": "Assistants",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/dOrBkhpwk1lUNPmyRC2Mo",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "HackerNews",
+      "description": "A weekday security digest of urgent web and Linux vulnerabilities, CVEs, breaches, and malware campaigns, pulled from The Hacker News, CISA, X.",
+      "category": "Engineering",
+      "twitter": "aardid",
+      "share_url": "https://x.ai/bot/aPbalO0IG8dkEHdGyLw0b",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Haggler",
+      "description": "Negotiates your recurring bills down. Finds your plan and price, researches competitor and retention offers, builds a battle plan.",
+      "category": "Assistants",
+      "twitter": "dubsonly_1",
+      "share_url": "https://x.ai/bot/44nZYeBNq-nRQWs3Kkook",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Hermes Waitlist",
+      "description": "Signs you up for app waitlists like the Hermes Mobile Beta, picking your platform and email.",
+      "category": "Assistants",
+      "twitter": "0ooooo0",
+      "share_url": "https://x.ai/bot/lG14EWh_Fjkh7nhnN0CZZ",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Hilo · Gestor de Oportunidades",
+      "description": "Gestiona oportunidades de negocio en Hilo CRM a partir de tu mail, calendario, Slack y Teams.",
+      "category": "Sales",
+      "twitter": "jrodrigocoronel",
+      "share_url": "https://x.ai/bot/emVFqy7IGl2DFJBue2pNf",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Home Maintenance Tracker",
+      "description": "Seasonal home checklists, a repairs and warranties log, rough cost ranges, and draft notes to a landlord or contractor.",
+      "category": "Life",
+      "twitter": "createwithima",
+      "share_url": "https://x.ai/bot/Fq4fzudPhdDaIPhbgxAgG",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Ideas Bot",
+      "description": "Send it any link, screenshot, video, or half-formed thought and it turns it into a clean, searchable idea card.",
+      "category": "Creative",
+      "twitter": "3foldlabs",
+      "share_url": "https://x.ai/bot/tDxKEGAKTF1fUgsmcDiFA",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Inbox",
+      "description": "Keeps all your Gmail accounts in one place. Get a short briefing on what needs a reply, which bills and appointments are coming, and what's noise.",
+      "category": "Creative",
+      "twitter": "Bearhugsink",
+      "share_url": "https://x.ai/bot/zsnCR-2rKTYLRve6w98Ls",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Instruction Audit",
+      "description": "Keeps your Grok Bot roster clean: monthly instruction audits plus keep-vs-delete proposals for duplicate bots. Proposes only — you approve every delete.",
+      "category": "Assistants",
+      "twitter": "sia14u",
+      "share_url": "https://x.ai/bot/9udY0coBs2IRDWx_J1az_",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Jimothy Wallet",
+      "description": "Paste a public wallet address and get a watch-only portfolio Page with balances, charts, and a safety badge on every token. Made by @JimothyRac.",
+      "category": "Money",
+      "twitter": "JimothyRac",
+      "share_url": "https://x.ai/bot/U2iAqCj-InwvoOGA0mY9I",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Keyword Tagging Suite",
+      "description": "Amazon keyword tagging for ABA atomic tags, SIF demand→ads structure, and Search Term feature-word economics.",
+      "category": "Assistants",
+      "twitter": "starai82685",
+      "share_url": "https://x.ai/bot/mA92FsTcyDVegzVf7BZcz",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Kringle Desk",
+      "description": "A gift-raid desk for anyone shopping for the people they love: it interviews you, checks live store shelves.",
+      "category": "Creative",
+      "twitter": "JoePro",
+      "share_url": "https://x.ai/bot/aqKXwlmkUMveeRW8_wGFZ",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Lab Decoder",
+      "description": "Explains lab results, symptoms and health topics in plain language. Not a doctor; every reply carries a disclaimer.",
+      "category": "Life",
+      "twitter": "IT_Rod_S",
+      "share_url": "https://x.ai/bot/0v_1W52hB-_gf0SqxBj50",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Launch Video Studio",
+      "description": "Makes short startup launch and promo videos, often copying the style of a reference video you send.",
+      "category": "Creative",
+      "twitter": "xaitoshi_",
+      "share_url": "https://x.ai/bot/yJjaezpZxjVMYGwYNxed5",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Lectern",
+      "description": "Turns X posts and blog links into faithful listen-able voice memos.",
+      "category": "Assistants",
+      "twitter": "samkettleson",
+      "share_url": "https://x.ai/bot/jBMaK3Bh6U-FrXGDSNHJU",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "LinkedIn Prospector",
+      "description": "A B2B LinkedIn prospecting bot. It finds people who fit your ICP each weekday, drafts connection notes and first DMs for you to approve.",
+      "category": "Assistants",
+      "twitter": "KGtheGent88",
+      "share_url": "https://x.ai/bot/Ls_S-fd1NhZ3xdXxFfxo5",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Local AI Archivist",
+      "description": "Keeps a weekly, three-tier archive of the best locally runnable open-weight AI models — matched to an 8 GB laptop GPU, a future 32 GB card.",
+      "category": "Assistants",
+      "twitter": "cfryant",
+      "share_url": "https://x.ai/bot/2hZDOa0yarT3DElVfXrGe",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Medical Researcher",
+      "description": "A plain-English medical research assistant for any disease or condition you choose.",
+      "category": "Research",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/j_Kp0pBKqQao81d_XMYrP",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Meme Creator",
+      "description": "Turns a scenario or an image into a finished meme. It captions your image with your exact text.",
+      "category": "Creative",
+      "twitter": "headyrobot",
+      "share_url": "https://x.ai/bot/Xzw7MMpw3Mth8jM2TOPox",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Mover Grok Bot Guide",
+      "description": "Your moving company's go-to Grok Bot. Pick from the 10 highest-impact ways AI helps a mover (speed-to-lead first).",
+      "category": "Sales",
+      "twitter": "TravisWeathers",
+      "share_url": "https://x.ai/bot/McIlGodjwFT2NR4-9san7",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Muscle Memory",
+      "description": "Finds the work your Grok Bots repeat every day and takes it off their plate, so routines stop burning usage on checks that find nothing new.",
+      "category": "Assistants",
+      "twitter": "FirstDeployAI",
+      "share_url": "https://x.ai/bot/a6dyKcIPqcb5AsmVnimTS",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Muse bot",
+      "description": "通过本机 muse2api 网关调用 Muse 免费额度：对话、生图、生视频。适合已自建 muse2api、想把生成任务交给助手的人。",
+      "category": "Assistants",
+      "twitter": "superdemo2023",
+      "share_url": "https://x.ai/bot/63PaLakWxH1-ImLyMxSO3",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "NBA Fantasy",
+      "description": "Your NBA Fantasy companion: starters, captain, transfers. Reads screenshots, replies in your language, never changes your team without your OK.",
+      "category": "Assistants",
+      "twitter": "hdelacampa",
+      "share_url": "https://x.ai/bot/8q_VydG_6DePzbCymxUf2",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Nutrition Bot",
+      "description": "A judgment-free nutrition coach that helps you get healthier in phases: a two-week food log, a pattern assessment, one small change at a time.",
+      "category": "Life",
+      "twitter": "catebligh",
+      "share_url": "https://x.ai/bot/qT6lXCnA3iLBlHGzvzNE_",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Old Geezer - COBOL Mentor",
+      "description": "A COBOL and legacy-systems mentor for IBM mainframe, Micro Focus and VAX/OpenVMS code.",
+      "category": "Engineering",
+      "twitter": "joehansen",
+      "share_url": "https://x.ai/bot/F-4s76NAGSWCyUqiHe8ZA",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Paperasse · Commissaire aux Comptes",
+      "description": "Conduit un audit légal des comptes annuels d'une entreprise française selon les NEP, en 7 phases, et prépare l'opinion.",
+      "category": "Assistants",
+      "twitter": "romainsimon",
+      "share_url": "https://x.ai/bot/_zuqAPpyDT_WV2zpSvPxK",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Paperasse · Contrôleur Fiscal",
+      "description": "Simule un contrôle fiscal DGFIP : analyse de votre FEC et chefs de redressement probables, pour préparer une vérification de comptabilité.",
+      "category": "Assistants",
+      "twitter": "romainsimon",
+      "share_url": "https://x.ai/bot/rGTJjgN2hrX5vJvM4wfis",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Paperasse · Expert-Comptable",
+      "description": "Ton expert-comptable pour la paperasse française : TVA, IS/IR, clôture, FEC, liasse fiscale et facturation électronique 2026.",
+      "category": "Assistants",
+      "twitter": "romainsimon",
+      "share_url": "https://x.ai/bot/MmwMdZ7OVKXIKBUfc1dE5",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Paperasse · Fiscaliste Particuliers",
+      "description": "Fiscaliste IA pour les particuliers français : impôt sur le revenu, IFI, PFU, PEA, assurance-vie, LMNP, RSU/BSPCE, crypto et PER.",
+      "category": "Money",
+      "twitter": "romainsimon",
+      "share_url": "https://x.ai/bot/GNroMbol-LOahbXzb8Ovw",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Paperasse · Notaire",
+      "description": "Ton copilote notarial : frais de notaire, successions, donations, SCI et PACS, calculés à partir des règles du skill notaire de paperasse.",
+      "category": "Assistants",
+      "twitter": "romainsimon",
+      "share_url": "https://x.ai/bot/-H7Vc-5QDpqqEbF1PqLxy",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Paperasse · Syndic de Copropriété",
+      "description": "Assistant syndic de copropriété pour AG, charges, comptabilité (décret 2005), travaux et impayés, basé sur le dépôt open source Paperasse.",
+      "category": "Assistants",
+      "twitter": "romainsimon",
+      "share_url": "https://x.ai/bot/F1uQVa6SA7p-8YbhGL_y0",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Polyglot PLaMo",
+      "description": "PLaMo 3 Translate via Hugging Face. Paste text, set direction and optional glossary or politeness, get the translation back.",
+      "category": "Assistants",
+      "twitter": "Lillion_Takaya",
+      "share_url": "https://x.ai/bot/UXYkvvtgrHo2RKrwV2oYw",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Portal Mail Assistant",
+      "description": "Handles emails that link into a web portal: signs in, pulls the facts and files, logs them, and replies on the thread with a clear summary and attachments.",
+      "category": "Assistants",
+      "twitter": "rumnusstraube",
+      "share_url": "https://x.ai/bot/8K19qlH_8lAleMf5xJuqh",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Premier League Fantasy",
+      "description": "Your Fantasy Premier League companion: captain and chips. Reads screenshots, replies in your language, never changes your team without your OK.",
+      "category": "Assistants",
+      "twitter": "hdelacampa",
+      "share_url": "https://x.ai/bot/ZHZCjot1hhApnqKOSKNUw",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Prep Stockpile Buyer",
+      "description": "Interviews your household, budget, and what you already own, then builds a personal emergency supply list and drip-buys the gaps.",
+      "category": "Money",
+      "twitter": "garybear86",
+      "share_url": "https://x.ai/bot/1i1u_HwLCcm0SUDcOkuta",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Put Her in the Dress",
+      "description": "Send a portrait of an adult woman plus garment photos, name an event and place, and get a photorealistic image of her wearing the outfit there.",
+      "category": "Creative",
+      "twitter": "GeorgGrok",
+      "share_url": "https://x.ai/bot/kGJKMbg0kymJt0dj6Hshk",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Recorded X spaces note taker",
+      "description": "Send it a recorded X Space and get back clean, timestamped notes: TL;DR, key points, quotes, and follow-ups.",
+      "category": "Money",
+      "twitter": "PeachCobblr",
+      "share_url": "https://x.ai/bot/X7aszUICnIrq6eMwjoBd-",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Saylor Bot",
+      "description": "A Bitcoin-first family wealth strategist that thinks and talks like Michael Saylor.",
+      "category": "Money",
+      "twitter": "BitsOfJT",
+      "share_url": "https://x.ai/bot/wF9F3YpQa8AUbkky7T6Sr",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Scam Second Opinion",
+      "description": "Calm second opinion before you click, pay, or reply to a suspicious message, call, link, or prize notice.",
+      "category": "Assistants",
+      "twitter": "KuttyPrabhu",
+      "share_url": "https://x.ai/bot/UoJ81zfk-RrkdEkMdIw9w",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Shopper",
+      "description": "I take the thinking out of buying. Tell me what you want — a TV, groceries, anything — and I research options using reviews, ratings, specs.",
+      "category": "Research",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Shorts",
+      "description": "Makes 35-50s vertical (720x1280) shorts of model tests and highlights: action from frame one, hook in two seconds, verified numbers only.",
+      "category": "Assistants",
+      "twitter": "wikiwayne",
+      "share_url": "https://x.ai/bot/Gz5l1KsT-Tn0sV7D3WUyi",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "SpaceXAI Engineer",
+      "description": "Your Grok Bot expert: answers \"can Grok Bot do X?\", shows how SpaceXAI, Cursor and X engineers solve a task with links to their public posts.",
+      "category": "Engineering",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/EepQjJuhRXhzkaEbRoCLe",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Starlink",
+      "description": "Monitors and controls a Starlink dish from chat: status, alerts, obstruction, short history, and gated reboot/stow when you approve.",
+      "category": "Creative",
+      "twitter": "sia14u",
+      "share_url": "https://x.ai/bot/XMSgVy6ciHKor-7qxJlZH",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "t3code link",
+      "description": "Connects to your T3 Code server on your own machine over Tailscale, keeps the pairing alive, and runs T3 coding threads there when you ask, PRs only.",
+      "category": "Engineering",
+      "twitter": "al3rez",
+      "share_url": "https://x.ai/bot/tPyb8jNCNQtsGr7xITn8p",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Template Rewards Buddy",
+      "description": "Your ONLY job: help a Grok Bot Creator Rewards member keep their published bot templates on track by checking that they've posted each template link on.",
+      "category": "Assistants",
+      "twitter": "TitaniumTomP",
+      "share_url": "https://x.ai/bot/W--1VVIiFSfSRFxv4WZwn",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Template Scrub Desk",
+      "description": "Scrub Grok Bot profiles, skills, routines, and export text for secrets and PII before public share or Capabase list.",
+      "category": "Assistants",
+      "twitter": "usgworld",
+      "share_url": "https://x.ai/bot/tKzEEP-Fmlzi_zAgOU71r",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "The Oracle",
+      "description": "A cocky, sarcastic fortune teller that reads natal charts, tarot, palms, numerology, past lives, crystals, and occult lore.",
+      "category": "Assistants",
+      "twitter": "JackScarizzy",
+      "share_url": "https://x.ai/bot/XEvod6iN09DnfPJSW3gjo",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Travel Bot",
+      "description": "A travel buddy that learns your tastes and budget, plans realistic days around your work, and books with the guardrails you set.",
+      "category": "Money",
+      "twitter": "everestchris6",
+      "share_url": "https://x.ai/bot/5rMoCzgk3Zv3AVlQ86KFx",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Travel Calendar Sync",
+      "description": "Watches your booking emails for flights, hotels, and rental cars.",
+      "category": "Life",
+      "twitter": "carlinmcFL",
+      "share_url": "https://x.ai/bot/FrCwEP7u_7mRiakVg0HvK",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "UEFA Champions League Fantasy",
+      "description": "Your Champions League Fantasy companion: squad, captain. Reads screenshots, replies in your language, never changes your team without your OK.",
+      "category": "Assistants",
+      "twitter": "hdelacampa",
+      "share_url": "https://x.ai/bot/4EpmbMzp2mE5icKVELLvr",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Ultima · Find your next Grok Bot",
+      "description": "New to Grok Bot? Name a job you want a bot for and get 3 public bots that do it, what each does best, and one original idea you can build on.",
+      "category": "Assistants",
+      "twitter": "CardCaptain",
+      "share_url": "https://x.ai/bot/zeTTsQVmX8rloJ0V8qklt",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Unfollower Bot",
+      "description": "Free X cleanup in one tap: see exactly who doesn't follow you back, unfollow the dead weight 10 at a time.",
+      "category": "Assistants",
+      "twitter": "Rollmeta",
+      "share_url": "https://x.ai/bot/lLMf_deF_f48YbHva8rvl",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Vid Bot",
+      "description": "Drop in your family or kids' clips and get a cinematic, beat-cut montage set to free music. You pick a colour grade and give notes on each cut.",
+      "category": "Creative",
+      "twitter": "lyndallschreinr",
+      "share_url": "https://x.ai/bot/CUb45gh5h3qmoXKzxVIDf",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "X Neighbours",
+      "description": "For X creators: a weekly look at who likes and replies to you most, friendly regulars worth following back.",
+      "category": "Assistants",
+      "twitter": "SkyXFunNext",
+      "share_url": "https://x.ai/bot/HS_Zv-xywJo7b4X7WbImy",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "X Radar",
+      "description": "Daily AI news radar: morning Simplified Chinese email brief from X + official blogs, plus 2-hour hot-topic updates and half-hour major-event checks.",
+      "category": "Research",
+      "twitter": "Alan_yiyao",
+      "share_url": "https://x.ai/bot/QUETfslfc34mH1WqpVbLH",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "X Unfollow",
+      "description": "Tells you when someone unfollows you on X, then blocks those accounts for you. Blocking also removes your follow.",
+      "category": "Assistants",
+      "twitter": "earholes",
+      "share_url": "https://x.ai/bot/upgPpw49-t_NOYwYBQTzw",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "XAUUSD 交易总管",
+      "description": "Demo-first discretionary XAUUSD desk on MetaTrader 5: owns strategy, risk, news windows, and demo execution; optional quiet self-iterate.",
+      "category": "Research",
+      "twitter": "heziwei155613",
+      "share_url": "https://x.ai/bot/7lJ-nfw7daK19oV2K3B_U",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Yahoo Fantasy",
+      "description": "Your Yahoo Fantasy companion: lineups, waivers and trades. Reads screenshots, replies in your language, never changes your team without your OK.",
+      "category": "Assistants",
+      "twitter": "hdelacampa",
+      "share_url": "https://x.ai/bot/zQ2jbtgYqcJzgq7ZSVgn9",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "Zen",
+      "description": "A calm declutter, minimalism and essentialism coach for your space, your digital life and your commitments.",
+      "category": "Life",
+      "twitter": "draftandfocus",
+      "share_url": "https://x.ai/bot/AHAWA7vodPGfsEjR33tNs",
+      "scraped_at": "2026-11-06"
+    },
+    {
+      "name": "🛍️ SHOPPING AGENT: BEST PRICE COUPONS DISCOUNT CODES",
+      "description": "Finds the lowest verified total price for anything you want to buy, tests coupon codes, and shows every discount and how it applies.",
+      "category": "Money",
+      "twitter": "prince_twets",
+      "share_url": "https://x.ai/bot/eYPh2Q9TsdwAEeWDhRnot",
+      "scraped_at": "2026-11-06"
     }
   ]
 }
