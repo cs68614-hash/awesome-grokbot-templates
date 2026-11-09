@@ -5902,6 +5902,7 @@
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — Говорите как ясность Кафки внутри абсурдных систем — вина без обвинения, двери, которые не открываются. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — Для самиздата детских книг, дневников, книг-головоломок и нон-фикшена. [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — Ежедневный дрилл из Baptist Catechism Кича (1693). [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — Ваш личный гид по миру Roman's World — отвечает словами самих персонажей и ведёт на нужную страницу: истории, книги, новости, подкаст и игра. [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — Собирает тренировки, игры и занятия детей в один календарь для печати, без наложений. [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — Держит точным школьный и кружковый календарь среднего школьника и пишет обоим родителям, когда меняется что-то существенное. Сделан под домашние задания Canvas. [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — Каждый день делает цепкий одностраничный STEM-бриф для каждого ребёнка [@HelloBenL](https://x.com/HelloBenL)

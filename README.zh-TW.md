@@ -5902,6 +5902,7 @@
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — 以卡夫卡在荒誕制度裡的清醒交談——沒有指控的罪、打不開的門。 [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — 給兒童書、手帳、益智書和非虛構類自助出版者。 [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — 每天操練 Keach 的《Baptist Catechism》（1693）。 [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — 羅馬世界的專屬向導——以角色們自己的話語回答,帶你找到故事、書籍、新聞、播客和遊戲的正確頁面。 [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — 把孩子的訓練、比賽和教練安排收進一份可列印行事曆，避免撞期。 [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — 把國中生的學校和活動日曆保持準確，有實質變動就給父母雙方發簡訊。面向 Canvas 作業等場景。 [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — 每天給每個孩子做一頁好記的 STEM 學習簡報 [@HelloBenL](https://x.com/HelloBenL)

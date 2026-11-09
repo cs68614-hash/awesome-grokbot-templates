@@ -5902,6 +5902,7 @@ xAI와 제휴하지 않습니다. 각 항목은 이름, 한 줄 설명, 선택�
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — 부조리한 시스템 안 카프카의 명료함으로 대화합니다 — 혐의 없는 죄, 열리지 않는 문. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — 어린이 책, 저널, 퍼즐 책, 논픽션을 스스로 출판하는 사람용. [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — Keach의 Baptist Catechism(1693)으로 하는 매일 드릴. [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — 로마 월드의 개인 가이드 — 캐릭터들의 고유한 말투로 답하고 이야기, 책, 뉴스, 팟캐스트, 게임의 올바른 페이지로 안내합니다. [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — 아이 연습, 경기, 코칭이 겹치지 않게 인쇄 가능한 달력 하나로 모읍니다. [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — 중학생의 학교·활동 캘린더를 정확하게 유지하고, 실질적 변경이 있으면 부모 양쪽에게 문자합니다. Canvas 숙제용. [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — 아이마다 매일 잘 붙는 한 장짜리 STEM 학습 브리프를 만듭니다 [@HelloBenL](https://x.com/HelloBenL)

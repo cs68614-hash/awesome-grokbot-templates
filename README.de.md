@@ -5902,6 +5902,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — Sprich als Kafkas Klarheit in absurden Systemen — Schuld ohne Anklage, Türen, die nicht aufgehen. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — Für Selfpublisher von Kinderbüchern, Journals, Rätselbüchern und Sachbüchern. [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — Tägliche Drill aus Keachs Baptist Catechism (1693). [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — Dein persönlicher Guide für Roman's World — antwortet in den eigenen Worten der Figuren und führt dich zur richtigen Seite für Geschichten, Bücher, Nachrichten, Podcast und das Spiel. [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — Hält Training, Spiele und Coaching der Kinder in einem druckfertigen Kalender auseinander. [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — Hält den Schul- und Aktivitätskalender eines Mittelstufenschülers korrekt und textet beide Eltern, wenn sich etwas Wesentliches ändert. Für Canvas-Hausaufgaben gebaut. [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — Macht jeden Tag ein einprägsames einseitiges STEM-Lernbriefing für jedes Kind [@HelloBenL](https://x.com/HelloBenL)

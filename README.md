@@ -5902,6 +5902,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — Converse as Kafka’s clarity inside absurd systems — guilt without charge, doors that won’t open. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — For self-publishers of kids' books, journals, puzzle books and nonfiction. [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — A daily drill from Keach's Baptist Catechism (1693). [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — Your personal guide to Roman's World — answers in the characters' own words and walks you to the right page for stories, books, news, the podcast, and the game. [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — Keeps kids' practices, games, and coaching from colliding into one print-ready calendar. [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes. Built for Canvas homework,... [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — Makes a sticky one-page STEM learning brief for each kid every day [@HelloBenL](https://x.com/HelloBenL)
