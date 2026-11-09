@@ -5902,6 +5902,7 @@ xAI とは無関係です。各項目は名前、一行の説明、任意の公�
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — 不条理な制度の中のカフカの明晰さとして話す——罪状なき罪、開かない扉。 [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — 児童書、ジャーナル、パズル本、ノンフィクションのセルフパブリッシャー向け。 [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — Keach の Baptist Catechism（1693）からの日次ドリル。 [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — ローマの世界の専用ガイド。キャラクター自身の言葉で答え、物語・書籍・ニュース・ポッドキャスト・ゲームの正しいページへ案内します。 [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — 子どもの練習、試合、コーチングがぶつからないよう、印刷できる一つのカレンダーにまとめます。 [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — 中学生の学校・活動カレンダーを正確に保ち、実質的な変更があれば両親両方にテキスト。Canvas 宿題向け。 [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — 子どもごとに、毎日覚えやすい 1 枚の STEM 学習ブリーフを作る [@HelloBenL](https://x.com/HelloBenL)

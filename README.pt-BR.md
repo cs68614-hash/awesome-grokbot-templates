@@ -5902,6 +5902,7 @@ Docs: [Get started](https://docs.x.ai/grok-bot/get-started) · [Bots](https://do
 - [Kafka](https://x.ai/bot/ewFkIRV929jhuW5mHqL_a) — Converse como a clareza de Kafka dentro de sistemas absurdos — culpa sem acusação, portas que não abrem. [@SuddenlyJon](https://x.com/SuddenlyJon)
 - [KDP Publisher](https://x.ai/bot/Lklw1o5yrl3BKZHmDyJa0) — Para quem autopublica livros infantis, diários, livros de quebra-cabeça e não ficção. [@teslamamallama](https://x.com/teslamamallama)
 - [Keach](https://x.ai/bot/sAxCT93K8i7gwctmtAroD) — Treino diário do Baptist Catechism de Keach (1693). [@zachmllr](https://x.com/zachmllr)
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — Seu guia pessoal do Roman's World — responde com as próprias palavras dos personagens e leva você à página certa de histórias, livros, notícias, podcast e o jogo. [@romansgameworld](https://x.com/romansgameworld)
 - [Kids Activity Scheduler](https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v) — Junta treinos, jogos e coaching das crianças num calendário pronto para imprimir, sem colisões. [@emilykuro2](https://x.com/emilykuro2)
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — Mantém preciso o calendário escolar e de atividades de um aluno do ensino fundamental II e manda SMS aos dois pais quando algo material muda. Feito para lição do Canvas. [@michindorado](https://x.com/michindorado)
 - [Kids Daily Spark](https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf) — Faz todo dia um brief de STEM de uma página que gruda, para cada criança [@HelloBenL](https://x.com/HelloBenL)
